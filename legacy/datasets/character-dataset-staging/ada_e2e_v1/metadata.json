@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "status": "finalized",
+  "character": "2B",
+  "version": "NieR:Automata",
+  "count": 4,
+  "dataset_id": "ada_e2e_v1",
+  "dataset": "prompts/ada_e2e_v1.jsonl",
+  "preset_plan": "config/klein_presets_ada_e2e_v1.json",
+  "refs_cache_used": false,
+  "refs_manifest": null,
+  "character_profile_used": true,
+  "character_profile": {
+    "requested_character": "2B",
+    "requested_version": "NieR:Automata",
+    "matched_tag": "2b_(nier:automata)",
+    "character_profile_used": true,
+    "gender": "1girl",
+    "copyright": [
+      "nier_(series)",
+      "nier:automata"
+    ],
+    "characteristics": [
+      "short_hair",
+      "blindfold",
+      "white_hair"
+    ],
+    "clothing": [
+      "hairband",
+      "clothing_cutout",
+      "thighhighs",
+      "gloves",
+      "puffy_sleeves",
+      "long_sleeves",
+      "dress",
+      "black_dress",
+      "leotard",
+      "juliet_sleeves",
+      "black_gloves",
+      "boots",
+      "feather-trimmed_sleeves",
+      "thigh_boots"
+    ],
+    "relationships": {
+      "parents": [],
+      "children": [],
+      "siblings": []
+    },
+    "version_match": true,
+    "candidates": [],
+    "source": "booru-characters"
+  },
+  "categories_plan": [
+    "closeup",
+    "fullbody",
+    "dynamic",
+    "cinematic"
+  ],
+  "categories_explicit": true,
+  "distribution": {
+    "closeup": 1,
+    "medium": 0,
+    "fullbody": 1,
+    "dynamic": 1,
+    "cinematic": 1
+  },
+  "created_at": "2026-08-21T21:11:05.231042+00:00",
+  "finalized_at": "2026-08-21T21:11:05.266985+00:00",
+  "total_staged": 4,
+  "final_dataset": "prompts/ada_e2e_v1.jsonl",
+  "final_preset_plan": "config/klein_presets_ada_e2e_v1.json"
+}

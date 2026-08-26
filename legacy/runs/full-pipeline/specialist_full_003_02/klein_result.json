@@ -1,0 +1,13 @@
+{
+  "id": "2b_specialist_full_003_02",
+  "klein_prompt": "2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, feather-trimmed_sleeves, dimly_lit_command_center, sharp_crack_of_static_electricity_arcing_from_console, flinching, raising_gloved_hand_to_shield_face, freezing_mid-step, blue_glow_on_blindfold, sleeves_rippling_with_shockwave, visible_tension_in_posture, slowly_lowering_arm, opaque_black_blindfold_centered_on_face, distinct_blue_electric_sparks_not_fire_or_magic, dress_cutouts_covered_by_shadow_and_angle, refine_materials_skin_hair_lighting",
+  "preserve": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "feather-trimmed_sleeves"
+  ],
+  "correct": [
+    "The static electricity effect is visually distinct from fire or magic, but the glowing circular element behind her may imply a magical or technological source, potentially introducing ambiguity. The narrative of a sudden static shock is preserved, but the visual composition emphasizes her stance and the glowing effect more than the 'flinch' or 'shielding' action described in the premise."
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e028_b04_closeup",
+    "category": "closeup",
+    "premise": "Close-up on 2B's face and neck as a high-pressure jet of icy coolant sprays from a ruptured pipe directly into her blindfold, causing her to wince and tighten her jaw in composed restraint; the mist instantly fogs the black fabric while droplets cling to the fine white hairs of her bangs, contrasting with the sharp tension in her expression."
+  },
+  {
+    "id": "e028_b04_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B waist-up, bracing herself against a vibrating metal railing as a heavy cargo crate slides past on the track below; her black gloves grip the bar tightly to absorb the shockwave, while the puffy feather-trimmed sleeves billow slightly from the displacement of air created by the moving weight."
+  },
+  {
+    "id": "e028_b04_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B balancing on a narrow, rusted iron catwalk suspended over a chasm; her thigh-high boots grip the wet metal surface as she leans into the wind to keep her center of gravity, her dress hem and stockings whipping violently in the updraft while she stares intently at the next anchor point ahead."
+  },
+  {
+    "id": "e028_b04_dynamic",
+    "category": "dynamic",
+    "premise": "Dynamic action shot of 2B executing a rapid sidestep to avoid a snapping cable that whips past her ear; motion blur trails behind her white hair and black gloves as she twists her torso, the black fabric of her dress flaring out to reveal the length of her thigh-high stockings in the instant of evasion."
+  },
+  {
+    "id": "e028_b04_cinematic",
+    "category": "cinematic",
+    "premise": "Cinematic low-angle wide shot with 2B standing in the foreground, silhouetted against a massive, rotating turbine fan in the background; she holds her ground as debris is sucked toward the blades behind her, one hand raised to shield her face from the intense suction force while her blindfold remains steady against the chaos."
+  }
+]

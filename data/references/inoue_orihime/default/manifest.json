@@ -1,0 +1,538 @@
+{
+  "schema_version": 2,
+  "character": "Orihime Inoue",
+  "version": null,
+  "created_at": "2026-08-25T18:54:01.199946+00:00",
+  "status": "incomplete",
+  "usable": false,
+  "provider": "searxng",
+  "source_query": "\"Inoue Orihime\" \"bleach\"",
+  "searches": [
+    "\"Inoue Orihime\" \"bleach\"",
+    "\"Inoue Orihime\" \"bleach\" character",
+    "\"Inoue Orihime\" \"bleach\" official artwork",
+    "\"inoue_orihime\"",
+    "\"Orihime Inoue\" \"bleach\" character",
+    "\"inoue orihime\" \"bleach\" character"
+  ],
+  "refs": [],
+  "character_id": "inoue_orihime",
+  "canonical_name": "Inoue Orihime",
+  "franchise": [
+    "bleach"
+  ],
+  "identity_resolution": {
+    "canonical_tag": "inoue_orihime",
+    "source": "danbooru_taxonomy",
+    "aliases": [
+      "Orihime Inoue",
+      "Inoue Orihime",
+      "inoue orihime"
+    ]
+  },
+  "canonical_references": [],
+  "generated_identity_references": [],
+  "reference_status": "BLOCKED",
+  "reference_count": 0,
+  "reference_confidence": 0.0,
+  "discovery": {
+    "queries_used": [
+      "\"Inoue Orihime\" \"bleach\"",
+      "\"Inoue Orihime\" \"bleach\" character",
+      "\"Inoue Orihime\" \"bleach\" official artwork",
+      "\"inoue_orihime\"",
+      "\"Orihime Inoue\" \"bleach\" character",
+      "\"inoue orihime\" \"bleach\" character"
+    ],
+    "raw_candidate_count": 120,
+    "page_fetch_errors": 7,
+    "rejected": [
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.4005997.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.3308308.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.2913657.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/3084/2559690459_936b8e58e8_b.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1562176952-3b39db7af417?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/16131005/pexels-photo-16131005.jpeg?cs=srgb&dl=pexels-teddy-16131005.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bleach_%288409512662%29.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/122/256239810_07381d137f_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.3979625.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.3979619.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/3563/3599519362_9658ab5853_b.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1759046792049-f77051dd162e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/37469541/pexels-photo-37469541.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-37469541.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2400/2048347447_1754340900_z.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.4005995.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/5094/5513367529_7621a9f853_m.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1620302044804-783ba17aa88c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/12527344/pexels-photo-12527344.jpeg?cs=srgb&dl=pexels-zarina-khalilova-207741792-12527344.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.3308308.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/c1/02/f0/c102f065a604da689fa958e0ff79da13.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/5094/5513367529_7621a9f853_m.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1738740634915-772e81092628?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.wikia.nocookie.net/bleach/images/b/b1/Ep343_Orihime.png/revision/latest?cb=20111031001646&path-prefix=pl",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/37480566/pexels-photo-37480566.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-37480566.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1346/1450550007_5849a210c4_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1713766056256-9cb07ceda9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/3b/b7/b9/3bb7b96de39c51135ed50a576bb36839.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.4005997.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/14222020/pexels-photo-14222020.jpeg?cs=srgb&dl=pexels-lucasandrade-14222020.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3092/2436804226_c4601b2e01_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/736x/9c/49/ab/9c49ab78ac513cefab5c4dec2a777bc8.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/736x/25/b9/51/25b951b2b2579598a1d2602fe1dbc2c6.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1722271866867-6bb141ef1aeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/37469541/pexels-photo-37469541.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-37469541.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/5094/5513367529_7621a9f853_n.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.3308308.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.4005997.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.242535.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/mail-badge.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1742919062099-d02fad09182e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/34553308/pexels-photo-34553308.jpeg?cs=srgb&dl=pexels-brandon-retratos-768594541-34553308.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://s1.zerochan.net/Inoue.Orihime.600.3915511.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.252365.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.47487.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.3976395.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1742919037270-78cc9f5220df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://preview.redd.it/orihime-inoue-official-arts-i-changed-background-to-black-v0-3c41wruyz7ka1.jpg?width=640&crop=smart&auto=webp&s=851d962212caf2384c192cfcf975505cdd245fa6",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/16131005/pexels-photo-16131005.jpeg?cs=srgb&dl=pexels-teddy-16131005.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.1643271.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.4006000.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.82938.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.1024.4221085.webp",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://s1.zerochan.net/Inoue.Orihime.600.3979627.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1742919004125-23ac3c747646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/12527344/pexels-photo-12527344.jpeg?cs=srgb&dl=pexels-zarina-khalilova-207741792-12527344.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.3308308.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/c1/02/f0/c102f065a604da689fa958e0ff79da13.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.4005997.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1763758818777-e067ba03f9a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/10488088/pexels-photo-10488088.jpeg?cs=srgb&dl=pexels-mavluda-tashbaeva-133603941-10488088.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/26/53497163_85857b9243.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.myanimelist.net/images/characters/9/505076.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://wallpapers.com/images/hd/orihime-inoue-1080-x-1920-wallpaper-3nti6tkqfim1ehp6.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1597489275963-80dbdb54a145?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/1e/f8/e7/1ef8e790f3ce91cb7ee612d2f072ee8f.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/27500642/pexels-photo-27500642.jpeg?cs=srgb&dl=pexels-thefabricamike-27500642.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2042/2395428219_fc482370c6_n.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images3.alphacoders.com/120/120127.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://wallpapercave.com/wp/wp15431777.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1773506615285-685c9ed653c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/28125185/pexels-photo-28125185.jpeg?cs=srgb&dl=pexels-julia-yarmol-341170456-28125185.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3203/2475956059_8fdd282412_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.212527.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07483e42-e81b-4d18-91ca-6235775e2063/dfs8l2u-d0212bfd-713d-4f0c-8441-5b640cd84e60.jpg/v1/fill/w_1280,h_1740,q_75,strp/orihime_inoue_by_afrolein_dfs8l2u-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc0MCIsInBhdGgiOiJcL2ZcLzA3NDgzZTQyLWU4MWItNGQxOC05MWNhLTYyMzU3NzVlMjA2M1wvZGZzOGwydS1kMDIxMmJmZC03MTNkLTRmMGMtODQ0MS01YjY0MGNkODRlNjAuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.uqfPSKUlWEjz3600f78O6EmWzD39NtppYNJcnUQCEbc",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.4005997.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.wikia.nocookie.net/bleach/images/b/b1/Ep343_Orihime.png/revision/latest?cb=20111031001646&path-prefix=pl",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/c1/02/f0/c102f065a604da689fa958e0ff79da13.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/2e/fc/bf/2efcbf5a06f9f5703bcc903764f8a139.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1713766056256-9cb07ceda9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3095/2281531627_bb58a382ac_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/14222020/pexels-photo-14222020.jpeg?cs=srgb&dl=pexels-lucasandrade-14222020.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/93/OrihimeAnimeEp139.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1742919037270-78cc9f5220df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3092/2436804226_c4601b2e01_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/33442901/pexels-photo-33442901.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-33442901.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/736x/58/13/91/58139171b4d55f2f709bb07a3a167e1b.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1742919062099-d02fad09182e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2450/3816551929_ca86f16c55_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/16131005/pexels-photo-16131005.jpeg?cs=srgb&dl=pexels-teddy-16131005.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/3b/b7/b9/3bb7b96de39c51135ed50a576bb36839.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.wallpapersafari.com/48/60/DFR6Eu.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.3308308.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/c1/02/f0/c102f065a604da689fa958e0ff79da13.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/5094/5513367529_7621a9f853_m.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1738740634915-772e81092628?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.wikia.nocookie.net/bleach/images/b/b1/Ep343_Orihime.png/revision/latest?cb=20111031001646&path-prefix=pl",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1346/1450550007_5849a210c4_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/37480566/pexels-photo-37480566.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-37480566.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1713766056256-9cb07ceda9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/3b/b7/b9/3bb7b96de39c51135ed50a576bb36839.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Inoue.Orihime.full.4005997.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3092/2436804226_c4601b2e01_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/14222020/pexels-photo-14222020.jpeg?cs=srgb&dl=pexels-lucasandrade-14222020.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/736x/9c/49/ab/9c49ab78ac513cefab5c4dec2a777bc8.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/736x/25/b9/51/25b951b2b2579598a1d2602fe1dbc2c6.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1722271866867-6bb141ef1aeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/5094/5513367529_7621a9f853_n.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/37469541/pexels-photo-37469541.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-37469541.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bleach_-_Orihime.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Bleach_-_Orihime.jpg",
+      "error": "<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>"
+    },
+    {
+      "source_url": "https://static.wikia.nocookie.net/bleach/images/b/b1/Ep343_Orihime.png/revision/latest?cb=20111031001646&path-prefix=pl",
+      "page_url": "https://bleach.fandom.com/pl/wiki/Galeria:Orihime_Inoue",
+      "error": "<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>"
+    },
+    {
+      "source_url": "https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/279af241-ab01-454d-0b9d-c89a2a9dd500/banner",
+      "page_url": "https://beta.dopple.ai/profile/ba094362-b252-44dd-bbd5-7034aec71110",
+      "error": "<urlopen error [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión>"
+    }
+  ],
+  "duplicate_hashes": []
+}

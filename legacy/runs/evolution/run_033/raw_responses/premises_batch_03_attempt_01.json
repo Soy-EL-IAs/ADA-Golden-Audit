@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e033_b03_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme close-up of 2B's face as a heavy clump of wet mud splatters directly onto her black blindfold, obscuring her vision; she tilts her head slightly to the side in calculated frustration, tightening the muscles around her jaw as she blinks rapidly through the hairband to clear the moisture from her lashes.\"\n  },\n  {\n    \"id\": \"e033_b03_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot of 2B crouching low over a cracked floor panel, using her gloved hands to pry up a loose metal grate that is vibrating from an unseen impact below; the sudden release of pressure sends a puff of dust into her face, causing her to pinch her nose and hold her breath while her puffy sleeves gather around her arms.\"\n  },\n  {\n    \"id\": \"e033_b03_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B stepping off a crumbling ledge onto a narrow beam, her weight shifting sharply to the left as one thigh-high boot slips on loose gravel; she extends an arm to catch herself against the adjacent wall, her dress hem flaring from the sudden deceleration.\"\n  },\n  {\n    \"id\": \"e033_b03_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B executes a rapid low-dive beneath a swinging chain of debris, flattening her torso against the rough concrete ground; friction sends sparks and dust flying from her thigh-high boots as she slides across the surface to escape the descending weight.\"\n  },\n  {\n    \"id\": \"e033_b03_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"High-angle cinematic shot looking down into a deep industrial shaft where 2B hangs from a single frayed cable, swinging wide to avoid a falling crate; the massive scale of the surrounding machinery emphasizes her precarious position as she grips the rope with one hand, her body rotating in mid-air.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4136,
+    "total_output_tokens": 493,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.477872157972817,
+    "time_to_first_token_seconds": 4.956752000000001
+  }
+}

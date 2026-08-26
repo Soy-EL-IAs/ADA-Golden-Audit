@@ -1,0 +1,334 @@
+{
+  "1": {
+    "class_type": "CheckpointLoaderSimple",
+    "inputs": {
+      "ckpt_name": "waiIllustriousSDXL_v160.safetensors"
+    }
+  },
+  "3": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "1",
+        1
+      ],
+      "text": "worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad hands, extra fingers, missing fingers, extra limbs, duplicate, multiple girls, two people, collage, split screen, comic panels, text, watermark, logo, camera, handheld camera, photography equipment, filming equipment, visible lens, cropped head, young-looking, gigantic hips, extreme low angle, fisheye, explicit nudity, identity drift, gore, multiple women"
+    }
+  },
+  "6": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "5",
+        0
+      ],
+      "vae": [
+        "1",
+        2
+      ]
+    }
+  },
+  "13": {
+    "class_type": "ImageScale",
+    "inputs": {
+      "image": [
+        "8",
+        0
+      ],
+      "upscale_method": "lanczos",
+      "width": 768,
+      "height": 1152,
+      "crop": "center"
+    }
+  },
+  "37": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "flux2-vae.safetensors"
+    }
+  },
+  "38": {
+    "class_type": "RandomNoise",
+    "inputs": {
+      "noise_seed": 268647536570821
+    }
+  },
+  "40": {
+    "class_type": "VAEEncode",
+    "inputs": {
+      "pixels": [
+        "7",
+        0
+      ],
+      "vae": [
+        "37",
+        0
+      ]
+    }
+  },
+  "41": {
+    "class_type": "KSamplerSelect",
+    "inputs": {
+      "sampler_name": "euler"
+    }
+  },
+  "47": {
+    "class_type": "FluxGuidance",
+    "inputs": {
+      "conditioning": [
+        "39",
+        0
+      ],
+      "guidance": 4
+    }
+  },
+  "48": {
+    "class_type": "easy cleanGpuUsed",
+    "inputs": {
+      "anything": [
+        "39",
+        0
+      ]
+    }
+  },
+  "49": {
+    "class_type": "ConditioningZeroOut",
+    "inputs": {
+      "conditioning": [
+        "39",
+        0
+      ]
+    }
+  },
+  "51": {
+    "class_type": "ReferenceLatent",
+    "inputs": {
+      "conditioning": [
+        "47",
+        0
+      ],
+      "latent": [
+        "40",
+        0
+      ]
+    }
+  },
+  "52": {
+    "class_type": "ModelPatchTorchSettings",
+    "inputs": {
+      "model": [
+        "50",
+        0
+      ],
+      "enable_fp16_accumulation": true
+    }
+  },
+  "53": {
+    "class_type": "CFGGuider",
+    "inputs": {
+      "model": [
+        "52",
+        0
+      ],
+      "positive": [
+        "51",
+        0
+      ],
+      "negative": [
+        "49",
+        0
+      ],
+      "cfg": 1
+    }
+  },
+  "54": {
+    "class_type": "SamplerCustomAdvanced",
+    "inputs": {
+      "noise": [
+        "38",
+        0
+      ],
+      "guider": [
+        "53",
+        0
+      ],
+      "sampler": [
+        "41",
+        0
+      ],
+      "sigmas": [
+        "43",
+        0
+      ],
+      "latent_image": [
+        "40",
+        0
+      ]
+    }
+  },
+  "50": {
+    "class_type": "PathchSageAttentionKJ",
+    "inputs": {
+      "model": [
+        "42",
+        0
+      ],
+      "sage_attention": "auto",
+      "allow_compile": false
+    }
+  },
+  "46": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen_3_8b_fp8mixed.safetensors",
+      "type": "flux2",
+      "device": "default"
+    }
+  },
+  "45": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "flux-2-klein-9b-fp8.safetensors",
+      "weight_dtype": "default"
+    }
+  },
+  "7": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "6",
+        0
+      ],
+      "filename_prefix": "AdaFullPipeline/ada_Faye_Valentine_20260822_180015_03/faye_valentine_ada_Faye_Valentine_20260822_180015_03/illustrious"
+    }
+  },
+  "55": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "54",
+        0
+      ],
+      "vae": [
+        "37",
+        0
+      ]
+    }
+  },
+  "21": {
+    "class_type": "easy imageConcat",
+    "inputs": {
+      "image1": [
+        "13",
+        0
+      ],
+      "image2": [
+        "55",
+        0
+      ],
+      "direction": "right",
+      "match_image_size": true
+    }
+  },
+  "4": {
+    "class_type": "EmptyLatentImage",
+    "inputs": {
+      "width": 768,
+      "height": 1376,
+      "batch_size": 1
+    }
+  },
+  "20": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "55",
+        0
+      ],
+      "filename_prefix": "LunaChained/chel_001/krea"
+    }
+  },
+  "5": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "1",
+        0
+      ],
+      "positive": [
+        "2",
+        0
+      ],
+      "negative": [
+        "3",
+        0
+      ],
+      "latent_image": [
+        "4",
+        0
+      ],
+      "seed": 2767247960131556699,
+      "steps": 14,
+      "cfg": 4.5,
+      "sampler_name": "euler_ancestral",
+      "scheduler": "normal",
+      "denoise": 1
+    }
+  },
+  "2": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "1",
+        1
+      ],
+      "text": "faye_valentine, cowboy_bebop, 1girl, standing in a dimly lit office interior, purple short hair held back by a hairband, green eyes wide with restrained surprise, mouth slightly parted but not screaming, visible red lipstick on lips, staring at an off-frame door to the left, one hand clutching the hem of her shirt to partially cover midsection, wearing a dark crop top that leaves shoulders bare, paired with shorts and thighhighs, boots, single sheet of paper fluttering in the air near her face without motion blur, clear visual cause for interrupted posture, static pose, coherent composition"
+    }
+  },
+  "22": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "21",
+        0
+      ],
+      "filename_prefix": "LunaChained/chel_001/compare"
+    }
+  },
+  "42": {
+    "class_type": "Power Lora Loader (rgthree)",
+    "inputs": {
+      "model": [
+        "45",
+        0
+      ]
+    }
+  },
+  "43": {
+    "class_type": "Flux2Scheduler",
+    "inputs": {
+      "steps": 6,
+      "width": 1024,
+      "height": 1024
+    }
+  },
+  "39": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "46",
+        0
+      ],
+      "text": "she is now posing beneath a temple waterfall, wet skin, wet clothes, playful seductive smile, accentuating her curves, premium stylized 3D render, cinematic temple scene, ultrarealistic"
+    }
+  },
+  "8": {
+    "class_type": "FL_UnloadAllModels",
+    "inputs": {
+      "value": [
+        "6",
+        0
+      ]
+    }
+  }
+}

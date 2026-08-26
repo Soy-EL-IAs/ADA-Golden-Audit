@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e036_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Tight closeup on 2B's jawline and the edge of her black blindfold as a sudden, sharp crack of static electricity arcs from a nearby conduit to her hair; her skin flinches minutely, pulling the fabric taut against her cheekbone, while a single strand of white hair stands on end, highlighting the micro-expression of suppressed shock rather than full panic.\"\n  },\n  {\n    \"id\": \"e036_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B leaning forward over a slick, wet stone ledge, her black-gloved hands gripping the edge to hoist herself up from a sudden drop in elevation; the effort causes her puffy sleeves to compress tightly at the elbows and the cutout of her dress to stretch visibly across her lower back, emphasizing the strain in her core as she resists sliding backward.\"\n  },\n  {\n    \"id\": \"e036_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B crouching low on a narrow, suspended walkway made of broken glass shards; she is carefully shifting her weight onto one thigh-high boot to avoid shattering the fragile surface beneath her other foot, while holding a small, glowing artifact in one gloved hand, her body compressed and tense against the risk of falling.\"\n  },\n  {\n    \"id\": \"e036_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B executing a rapid backflip away from a bursting steam vent on the floor; her legs are tucked tightly to minimize air resistance, and her dress hem flares upward due to the explosive force pushing up from below, capturing the peak of her rotation as debris spins around her in a chaotic vortex.\"\n  },\n  {\n    \"id\": \"e036_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"High-angle cinematic shot looking down at 2B as she is pinned against the interior wall of a massive, rotating cylindrical silo by centrifugal force; her boots dig into the curved metal surface to prevent sliding toward the bottom opening, while sparks fly from her gloves as they scrape against the rough texture of the machinery.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4938,
+    "total_output_tokens": 544,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.533304775477704,
+    "time_to_first_token_seconds": 5.714328
+  }
+}

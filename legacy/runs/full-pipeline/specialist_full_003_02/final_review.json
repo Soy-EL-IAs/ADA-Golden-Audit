@@ -1,0 +1,16 @@
+{
+  "id": "2b_specialist_full_003_02",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "feather-trimmed_sleeves"
+  ],
+  "defects": [],
+  "drift": [
+    "The static electricity arcs are visually distinct from fire or magic, maintaining elemental clarity as specified."
+  ],
+  "summary": "All preserved elements are visibly correct. No visible defects. Narrative drift is minimal and within acceptable bounds for compositional emphasis."
+}

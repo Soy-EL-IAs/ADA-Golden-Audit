@@ -1,0 +1,34 @@
+{
+  "id": "ciri_witcher_018",
+  "character": "Ciri",
+  "franchise": "The Witcher",
+  "identity": [
+    "ash-blonde hair tied back",
+    "white fitted blouse with leather corset and trousers",
+    "sword on back"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On a snowy mountain inn porch, she leans to tighten a boot strap and a gust blows loose snow from the roof directly onto her shoulders like an instant cape, with confident sensual body language throughout.",
+  "must_include": [
+    "roof snow puff",
+    "boot strap"
+  ],
+  "environment": [
+    "mountain inn porch",
+    "cold morning light",
+    "snow-covered beams and frosty air"
+  ],
+  "animation_hook": "She shakes off the snow, stamps one boot, and breaks into a quick sprint down the porch steps.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000017,
+  "krea_seed_base": 2000017
+}

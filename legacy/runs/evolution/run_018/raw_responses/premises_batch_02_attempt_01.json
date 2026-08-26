@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e018_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A tight close-up on 2B's face as a sudden, sharp vibration from a nearby mechanical impact forces her to clench her jaw and slightly tilt her head; the black blindfold shifts minutely against her skin, and a single droplet of condensation falls onto her gloved hand which is raised defensively near her cheek, capturing her momentary loss of composure.\"\n  },\n  {\n    \"id\": \"e018_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"A medium shot of 2B ducking low to avoid a horizontal blast of steam erupting from a broken pipe directly above her waist; her puffy feather-trimmed sleeves are pushed back by the pressure wave, and her black dress hem lifts slightly as she twists her torso to protect her core, her eyes narrowed in focused determination beneath the blindfold.\"\n  },\n  {\n    \"id\": \"e018_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"A full-body view of 2B sliding on her knees across a polished marble floor, using one gloved hand to scrape against the surface for friction while her thigh-high boots kick up small debris; she is in the middle of a controlled slide to gain distance from a collapsing wall section behind her, her body low and streamlined.\"\n  },\n  {\n    \"id\": \"e018_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"A high-energy dynamic shot of 2B mid-leap over a jagged spike of broken concrete protruding from the ground; her legs are extended forward in a tuck, and her black dress flows upward with the jump's momentum, while her arms are tucked tight to maintain balance against the invisible wind resistance of her rapid ascent.\"\n  },\n  {\n    \"id\": \"e018_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"A wide cinematic angle showing 2B standing on a fractured balcony edge, leaning forward to catch the falling hem of her own dress which is snagged on a protruding rebar; she is small in frame against a vast, dark industrial sky, with a single spotlight beam highlighting her struggle and the tension in her arms as she pulls the fabric free.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3591,
+    "total_output_tokens": 543,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.796741784101425,
+    "time_to_first_token_seconds": 4.3379970000000005
+  }
+}

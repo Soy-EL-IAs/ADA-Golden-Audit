@@ -1,0 +1,220 @@
+# Viral Premise Guide v1.3 (Candidate)
+
+## Role & Objective
+
+This guide defines how Ada should create original character premises for image generation datasets. It synthesizes the structural rigor of **v1.2** with the visual decisiveness of the **Extreme Diagnostic Test**, corrected by iteration evidence to prevent both "contemplative drift" and "sensual monotony."
+
+The goal is not merely beauty, but **visual memory**. A successful premise creates a frame from a larger moment where:
+1.  The character is instantly recognizable and attractive.
+2.  A specific event or reaction is occurring (causality).
+3.  The viewer feels compelled to ask "What happened just before?" or "What happens next?"
+
+**Primary Metrics for Success:**
+*   **Immediate Attraction:** The silhouette and face stop the scroll.
+*   **Narrative Causality:** The pose is caused by an action, not chosen for static beauty.
+*   **Batch Diversity:** No two premises in a set share the same hook family or environment type.
+
+---
+
+## 1. Core Premise Formula (The "Causal Hook")
+
+A valid premise must satisfy this equation:
+
+> **[Recognizable Character Identity] + [Distinct Visual Appeal] + [Visible Cause/Action] = [Premise]**
+
+If any element is missing, the premise fails.
+*   *Identity:* Face, hair, iconic gear, silhouette.
+*   *Appeal:* Deliberate emphasis on feminine form, posture, and aesthetic design.
+*   *Cause/Action:* A verb in progress or a reaction to an immediate stimulus.
+
+**Weak (Static/Wallpaper):**
+"2B standing in a ruined church looking sad."
+*(Lacks cause; relies on atmosphere; generic location.)*
+
+**Strong (Causal/Micro-Story):**
+"2B leaning sharply against a crumbling pillar to catch her balance as a floorboard snaps, her dress riding up slightly due to the sudden twist, eyes locked on the gap below with controlled alarm."
+*(Has cause [floorboard snap], action [lean/balance], appeal [dress movement/silhouette], identity [2B's specific reaction style].)*
+
+---
+
+## 2. Character Identity Safeguards (Hard Rules)
+
+Identity is a **hard constraint**, not a suggestion. Do not replace the character with a "generic attractive person" who happens to wear similar clothes.
+
+*   **Silhouette Priority:** The outline of the character must be distinct from any other model in the dataset.
+*   **Iconic Accessories:** If the character has signature items (e.g., blindfold, specific weapon shape, unique hair ornament), they must be present unless explicitly stated otherwise.
+*   **Personality Flavor:** The reaction must match the canon personality. A shy character should not act aggressively without a narrative reason; a confident character should not look terrified unless justified by scale or threat.
+*   **Factual Boundary:** Do not invent lore. If the local profile says "2B from NieR:Automata," do not add "holding a sword from another game" or "wearing modern jeans" unless specified as an alternate universe premise.
+
+**Check:** Can you identify the character by their silhouette alone? If no, revise.
+
+---
+
+## 3. Visual Appeal & Body Language Philosophy
+
+Visual appeal is **mandatory**, but it must be **integrated into the action**. Do not let body features exist in a vacuum.
+
+### The "Active Sensuality" Rule
+Body emphasis (bust, hips, thighs, waist) is desirable when it interacts with the environment or motion.
+*   **Good:** Clothing tension caused by stretching; hair flowing due to wind *during* a jump; weight shift causing fabric to drape differently.
+*   **Bad:** Standing still with hands on hips solely to show off proportions without context.
+
+### Pose Dynamics
+Poses must communicate emotion through physics:
+*   **Confidence:** Weight centered, spine straight, chin up.
+*   **Vulnerability/Shyness:** Shoulders slightly inward, gaze averted or downward, weight shifted back.
+*   **Playfulness/Teasing:** Tilted head, one eye closed, asymmetrical hip angle.
+*   **Effort/Tension:** Muscles engaged, jaw tight, body leaning into resistance.
+
+**Avoid "The Mannequin":** If the pose could be held for 10 minutes without breathing or shifting weight, it is too static. Add micro-tensions (a finger gripping fabric, a foot bracing against a surface).
+
+---
+
+## 4. Causal Premise Requirements (Micro-Story)
+
+Every premise must answer: **"Why is she doing this right now?"**
+
+This prevents "atmospheric drift" where the image becomes just a pretty background with a person in it.
+
+### The 3-Second Rule
+The viewer should understand the immediate cause within 3 seconds of looking.
+*   **Cause:** A gust of wind, a falling object, a sudden noise, a step on a slippery surface, a reflection catching her eye.
+*   **Action/Reaction:** She adjusts her grip, she flinches, she turns her head, she braces herself.
+
+**Examples of Valid Causality:**
+1.  **Environmental Interaction:** "2B stepping over a puddle, one leg raised high, skirt lifting slightly due to the motion."
+2.  **Prop Interaction:** "2B struggling to lift a heavy crate, arms trembling, expression showing strain rather than anger."
+3.  **Social/Implied Presence:** "2B turning her head sharply toward an off-screen sound, hair swinging with the turn."
+
+**Invalid Causality (Atmospheric Drift):**
+*   "Standing in rain." (Why? Is she waiting? Running?) -> *Fix: "Running through heavy rain, coat flapping behind her, face set in determination to reach a destination."*
+
+---
+
+## 5. Batch-Level Diversity Enforcement
+
+To prevent the model from falling into repetitive patterns (e.g., all wind-blown hair, or all mirror shots), enforce these limits **per batch of 10-20 premises**:
+
+### The "No-Repetition" Limits
+| Element | Max Occurrences per Batch | Notes |
+| :--- | :---: | :--- |
+| **Location Type** | 3 max | e.g., No more than 3 "Indoor/Room", 3 "Outdoor/Nature", etc. |
+| **Primary Hook Family** | 2 max | See definitions below. |
+| **Camera Angle** | 4 max | Vary between Eye-Level, Low-Angle, High-Angle, Close-Up, Wide. |
+| **Emotional Tone** | 3 max | e.g., No more than 3 "Serious", 3 "Playful". Ensure at least 4 distinct tones exist in the batch. |
+
+### Hook Family Definitions (Do not repeat >2 times)
+1.  **Wind/Motion:** Hair/clothes moving due to air or speed.
+2.  **Mirror/Reflection:** Interaction with reflective surfaces.
+3.  **Prop Struggle:** Lifting, holding, breaking, or interacting heavily with an object.
+4.  **Balance/Precision:** Stepping on narrow objects, maintaining equilibrium.
+5.  **Direct Address:** Looking directly at the viewer/camera with specific intent.
+6.  **Transition/Entry:** Entering a frame, exiting a vehicle, stepping out of water/shade.
+
+**Enforcement Check:** Before finalizing a batch, list the Hook Family for each premise. If any family exceeds 2 instances, rewrite one to fit a different family.
+
+---
+
+## 6. Category Rules & Composition Guidelines
+
+Assign each premise a primary category. This ensures variety in framing and storytelling focus.
+
+### 1. Close-Up (Face/Upper Body)
+*   **Focus:** Expression, eye contact, subtle mouth movement, hair details.
+*   **Requirement:** Must show a micro-reaction (blink, squint, smirk, tear).
+*   **Avoid:** Empty background. Use depth of field to blur context but keep it relevant.
+
+### 2. Medium Shot (Waist Up)
+*   **Focus:** Body language, hand gestures, interaction with mid-level props.
+*   **Requirement:** Hands must be visible and doing something (gripping, adjusting, pointing).
+*   **Avoid:** Arms hanging dead at sides unless justified by exhaustion or stiffness.
+
+### 3. Full Body (Silhouette Focus)
+*   **Focus:** Proportions, clothing drape, stance, relationship to environment scale.
+*   **Requirement:** Weight distribution must be clear (one leg planted vs. both).
+*   **Avoid:** "T-Pose" or rigid military standing. Use contrapposto or dynamic lean.
+
+### 4. Dynamic Action
+*   **Focus:** Motion blur (subtle), impact, speed lines, mid-air poses.
+*   **Requirement:** Must imply velocity. Hair and clothing should lag or lead the body movement.
+*   **Avoid:** Static combat poses that look like video game key arts unless motion is implied.
+
+### 5. Cinematic/Environmental
+*   **Focus:** Character in context, scale, lighting mood.
+*   **Requirement:** The environment must *interact* with the character (rain hitting shoulders, light casting specific shadows on face).
+*   **Avoid:** "Postcard" shots where the character is small and passive.
+
+---
+
+## 7. Hard Anti-Pattern Rules (The "Veto List")
+
+If a premise contains any of the following without strong narrative justification, it is rejected:
+
+1.  **The Contemplative Stare:** Character standing still, looking into the distance/mid-air with no clear object of focus.
+    *   *Fix:* Give them something to look at (a distant enemy, a falling leaf, a reflection).
+2.  **Generic Ruins/Cathedrals as Default Background:** Using "broken church" or "ancient ruins" solely for mood without interaction.
+    *   *Fix:* She is climbing the rubble, hiding behind the altar, or using the architecture to support her weight.
+3.  **Wind-Blown Hair Without Source:** Hair blowing wildly in a still environment.
+    *   *Fix:* Add a fan, an open window, or motion from running/jumping.
+4.  **The "Perfect" Static Pose:** Symmetrical, centered, no tension, looking directly at camera with a neutral smile.
+    *   *Fix:* Offset the composition, add asymmetry to the pose, change the expression to something specific (amused, wary, curious).
+5.  **Rain as Emotional Crutch:** Heavy rain used solely to make the character look sad or dramatic without plot reason.
+    *   *Fix:* She is running from it, sheltering under an awning, or playing in puddles.
+
+---
+
+## 8. Animation Potential Check
+
+A strong premise should feel like a **freeze-frame** of a video clip. Ask: *"Can this be animated for 5-10 seconds without inventing new actions?"*
+
+*   **Yes:** Hair continues to settle, rain continues to fall, she takes the next step, her hand tightens on the grip.
+*   **No:** She is in an impossible yoga pose that would require complex rigging or sudden jumps to move naturally.
+
+**Tip:** Focus on *loopable* micro-movements (breathing, blinking, subtle sway) rather than large-scale actions if the goal is a short loop.
+
+---
+
+## 9. Acceptance Checklist
+
+Before accepting a premise for the dataset, verify all boxes:
+
+### Identity & Aesthetics
+- [ ] **Recognizable:** Can I identify the character by silhouette and key features?
+- [ ] **Attractive:** Is there deliberate visual appeal (composition, lighting, body language)?
+- [ ] **Authentic:** Does the personality match the canon profile?
+
+### Narrative & Causality
+- [ ] **Cause Visible:** What triggered this moment? (Wind, prop, sound, motion?)
+- [ ] **Action/Reaction:** Is she *doing* something or *reacting* to something? (Not just standing.)
+- [ ] **Micro-Story:** Does the image tell a small story in one frame?
+
+### Diversity & Batch Control
+- [ ] **Hook Family:** Is this hook family used ≤2 times in the current batch?
+- [ ] **Location Type:** Is this location type used ≤3 times in the current batch?
+- [ ] **Emotion/Tone:** Does this add a new emotional tone to the batch, or is it repetitive?
+
+### Technical & Anti-Patterns
+- [ ] **No Veto Items:** Does it avoid "Contemplative Stare," "Generic Ruins," or "Static Mannequin"?
+- [ ] **Animation Ready:** Can it loop or play as a short clip naturally?
+- [ ] **Factual Safe:** Are there no invented lore elements?
+
+### Final Score
+If the premise passes all checks, it is **Accepted**. If it fails any Hard Anti-Pattern or Identity check, it must be **Rewritten**.
+
+---
+
+## 10. Example Transformation (v1.2 → v1.3)
+
+**Input Prompt Idea:** "2B in a rainy cathedral."
+
+**v1.2 Interpretation (Weak):**
+"2B standing in the center of an empty, rain-soaked cathedral, looking sad, rain falling through broken windows."
+*(Critique: Contemplative, static, generic background, no cause for sadness shown.)*
+
+**Extreme Test Interpretation (Over-corrected):**
+"2B winking at the camera, wet hair clinging to her face, dress soaked and tight, steam rising from her skin in the cold cathedral."
+*(Critique: Too sexualized without narrative context, "wink" is generic hook, lacks causal link to rain.)*
+
+**v1.3 Target (Causal & Diverse):**
+"2B crouching behind a shattered pew, using it as cover from the rain leaking through the roof above; she tilts her head up to check for leaks, water dripping from her chin onto her collar, expression focused and slightly annoyed rather than sad."
+*(Critique: Has cause [rain leak], action [crouch/check], specific emotion [annoyance/focus], uses environment interactively.)*

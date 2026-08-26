@@ -1,0 +1,44 @@
+{
+  "id": "2b_001",
+  "character": "2B",
+  "franchise": "NieR:Automata",
+  "identity": [
+    "short white bob haircut",
+    "black blindfold",
+    "beauty mark below mouth",
+    "black bodysuit",
+    "YoRHa sword",
+    "Pod 042"
+  ],
+  "sexual_direction": [
+    "curvy feminine silhouette",
+    "cropped pastel-pink hoodie partially unzipped",
+    "visible cleavage",
+    "glossy fitted black leggings",
+    "sensual crouching pose"
+  ],
+  "premise": "2B plays hide-and-seek inside a wardrobe that is much too small; half her body, her enormous sword and Pod 042 remain obviously visible while she signals for silence.",
+  "must_include": [
+    "open wardrobe",
+    "large sword sticking out",
+    "Pod 042 searching",
+    "finger to lips",
+    "body partially outside"
+  ],
+  "environment": [
+    "cozy modern bedroom",
+    "open wardrobe",
+    "warm indoor lighting"
+  ],
+  "animation_hook": "Pod approaches, 2B tries to squeeze deeper inside, the wardrobe creaks and collapses.",
+  "avoid": [
+    "missing sword",
+    "missing Pod",
+    "generic white-haired woman",
+    "closed wardrobe",
+    "extreme low angle"
+  ],
+  "krea_direction": "polished modern 3D science-fiction game cinematic with realistic fabrics and soft indoor light",
+  "seed_base": 314159,
+  "krea_seed_base": 271828
+}

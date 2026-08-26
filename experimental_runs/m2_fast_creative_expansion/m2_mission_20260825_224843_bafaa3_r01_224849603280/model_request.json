@@ -1,0 +1,13 @@
+{
+  "model": "qwen3.5-9b-uncensored-hauhaucs-aggressive",
+  "input": [
+    {
+      "type": "text",
+      "content": "Generate compact static-image sketches. User-locked values are immutable. Output JSON only; never copy or summarize the instructions.\n\nCharacter: Shihouin Yoruichi (bleach). Identity cues: dark-skinned_female, ponytail, purple_hair, yellow_eyes, long_hair, large_breasts. Outfit cues: thighhighs, bare_shoulders, leotard, gloves. Locked setting: a moonlit rooftop with a clean city skyline. Locked action: standing confidently while adjusting her gloves, Golden ada_alpha_golden_20260825_224631 Gate 1. Return exactly one object with only key concepts, containing exactly 12 objects. Use IDs m1_shihouin_yoruichi_01 through m1_shihouin_yoruichi_12 in order. Each object has exactly: concept_id, action, setting, micro_location, hook, camera, expression. If setting is locked, repeat it exactly in every setting field. setting is a real place; focus/body zones belong in camera. Limits: action 8 words, micro_location 5, hook 8, camera 6, expression 3. One frozen moment; no prose outside JSON."
+    }
+  ],
+  "temperature": 0.8,
+  "max_output_tokens": 1800,
+  "store": false,
+  "reasoning": "off"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-h5qpm44614e89awummdgv8",
+  "object": "chat.completion",
+  "created": 1787418006,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"2b_specialist_full_003_03\",\n  \"stage\": \"klein\",\n  \"verdict\": \"PASS\",\n  \"preserved_ok\": [\n    \"blindfold\",\n    \"white_hair\",\n    \"black_dress\",\n    \"thigh_boots\"\n  ],\n  \"defects\": [],\n  \"drift\": [\n    \"The gate’s final bar does not align precisely with 2B’s waistline as specified; it is slightly above, altering the visual cage composition.\"\n  ],\n  \"summary\": \"All preserved elements are visibly correct. No visible defects. Minor narrative drift in gate alignment.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1471,
+    "completion_tokens": 143,
+    "total_tokens": 1614,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

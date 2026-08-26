@@ -1,0 +1,65 @@
+{
+  "results": [],
+  "model_events": [
+    {
+      "event": "load",
+      "agent": "premise",
+      "seconds": 8.767,
+      "role": "premise_agent"
+    },
+    {
+      "event": "load",
+      "agent": "illustrious",
+      "seconds": 0.0,
+      "role": "illustrious_agent"
+    }
+  ],
+  "comfy_events": [
+    {
+      "stage": "illustrious_render",
+      "seconds": 24.103,
+      "path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\AdaMiniE2E\\specialist_mini_e2e_007\\2b_mini_01\\illustrious_00001_.png"
+    }
+  ],
+  "failed_image": 1,
+  "error": {
+    "type": "FileNotFoundError",
+    "message": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\AdaMiniE2E\\specialist_mini_e2e_007\\2b_mini_01\\illustrious_00001_.png"
+  },
+  "last_state": {
+    "schema_version": 1,
+    "run_id": "mini_01",
+    "pipeline": "specialist_image_v1",
+    "character": "2B",
+    "version": "NieR:Automata",
+    "review_policy": "strict",
+    "stage": "ILLUSTRIOUS_PROMPTS_READY",
+    "created_at": "2026-08-22T16:36:12.957472+00:00",
+    "updated_at": "2026-08-22T16:37:01.651138+00:00",
+    "seeds": {
+      "2b_mini_01": {
+        "illustrious": 1767312435444976547,
+        "klein": 6912857575656894956
+      }
+    },
+    "artifacts": {
+      "premise_spec": "premise_spec.json",
+      "illustrious_result": "illustrious_result.json"
+    },
+    "history": [
+      {
+        "stage": "CREATED",
+        "at": "2026-08-22T16:36:12.957472+00:00"
+      },
+      {
+        "stage": "PREMISES_READY",
+        "at": "2026-08-22T16:36:45.038135+00:00"
+      },
+      {
+        "stage": "ILLUSTRIOUS_PROMPTS_READY",
+        "at": "2026-08-22T16:37:01.651138+00:00"
+      }
+    ],
+    "error": null
+  }
+}

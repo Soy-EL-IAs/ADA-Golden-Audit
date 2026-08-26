@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e011_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Tight crop on 2B's face as a sudden burst of superheated steam from a ruptured valve engulfs the frame, her blindfold fogging up rapidly while she holds her breath to keep her composure intact.\"\n  },\n  {\n    \"id\": \"e011_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B gripping the edge of a swaying industrial gantry, her torso twisting to counterbalance the violent oscillation as she steadies herself against the shifting metal.\"\n  },\n  {\n    \"id\": \"e011_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full body view of 2B stepping over a jagged, sparking rebar protruding from a broken floor panel, her thigh-high boots carefully navigating the hazard while maintaining forward momentum.\"\n  },\n  {\n    \"id\": \"e011_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B lunging sideways in a blur of motion, her black dress stretching taut across her hips as she sweeps past a swinging hydraulic press to avoid being crushed.\"\n  },\n  {\n    \"id\": \"e011_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Dramatic low-angle shot looking up at 2B standing on a tilting platform, her silhouette framed against the massive, grinding gears of an overhead mechanism that is slowly descending toward her.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3756,
+    "total_output_tokens": 387,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.323787040387403,
+    "time_to_first_token_seconds": 4.480634
+  }
+}

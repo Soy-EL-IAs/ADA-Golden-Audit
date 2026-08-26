@@ -1,0 +1,208 @@
+{
+  "per_premise": [
+    {
+      "id": "e017_b01_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Strong micro-reaction (jaw tightening) with clear cause (rubble). Identity is well-preserved. Animation potential is moderate as the action is very brief."
+    },
+    {
+      "id": "e017_b01_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Excellent use of specific clothing details (feather sleeves) reacting to motion. Clear cause and active torso movement."
+    },
+    {
+      "id": "e017_b01_fullbody",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Good balance against a force (explosion). However, 'holding sword low' is slightly generic without specifying the sword's role in the immediate threat."
+    },
+    {
+      "id": "e017_b01_dynamic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "High energy. The 'shockwave' lifting hair is a valid physical consequence of the laser shot. Good directional energy."
+    },
+    {
+      "id": "e017_b01_cinematic",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 9,
+      "animation_potential": 9,
+      "notes": "Strong narrative hook (catching gear to swing it back). Clear cause and consequence. Good use of motion blur."
+    },
+    {
+      "id": "e017_b02_closeup",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Oil spray is a good specific cause. However, 'holding breath' and 'tilting head back' are somewhat static reactions compared to other closeups."
+    },
+    {
+      "id": "e017_b02_medium",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Water geyser is a strong environmental interaction. Torso arching provides good visual tension."
+    },
+    {
+      "id": "e017_b02_fullbody",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 7,
+      "animation_potential": 7,
+      "notes": "Similar to e017_b01_fullbody (balancing on tilted surface). The 'arms extended outward' is a standard balance pose that risks feeling static if not animated well."
+    },
+    {
+      "id": "e017_b02_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Deflecting a pipe is a strong physical interaction. The spinning motion adds dynamic energy."
+    },
+    {
+      "id": "e017_b02_cinematic",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Landing from a leap is good. 'Eyes fixed ahead' is slightly vague but acceptable for a cinematic shot."
+    },
+    {
+      "id": "e017_b03_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 9,
+      "animation_potential": 7,
+      "notes": "Excellent personality expression (suppressing urge to adjust blindfold). The 'faint flush on neck' is a nice detail for an android."
+    },
+    {
+      "id": "e017_b03_medium",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Electrical arcing is a good specific cause. The fabric rippling due to static charge is a nice touch."
+    },
+    {
+      "id": "e017_b03_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 9,
+      "animation_potential": 8,
+      "notes": "Hauling a crate up a ladder is a strong physical action. It breaks the pattern of just balancing."
+    },
+    {
+      "id": "e017_b03_dynamic",
+      "identity": 9,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Low slide under a beam is dynamic and clear. The hair fanning out is a good visual cue for speed."
+    },
+    {
+      "id": "e017_b03_cinematic",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Catching a whipping cable is a good specific interaction. The high-angle shot adds variety."
+    },
+    {
+      "id": "e017_b04_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Tearing glove is a good detail. However, it's very similar to e017_b01_closeup in terms of 'gripping something heavy/dangerous'."
+    },
+    {
+      "id": "e017_b04_medium",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Updraft from ventilation shaft is a good specific cause. The dress hem lifting reveals stockings, which adds visual appeal."
+    },
+    {
+      "id": "e017_b04_fullbody",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Stepping over a sparking beam is good. The sparks flying near boots adds danger."
+    },
+    {
+      "id": "e017_b04_dynamic",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Sidestep from a slamming door is dynamic. The shockwave causing hair to whip is a good visual effect."
+    },
+    {
+      "id": "e017_b04_cinematic",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Balancing on a rotating gear is good. However, it's similar to e017_b02_fullbody and e017_b01_fullbody in terms of 'balancing on an unstable surface'."
+    }
+  ],
+  "set_scores": {
+    "identity": 8.5,
+    "visual_appeal": 8.2,
+    "diversity": 7.5,
+    "repetition_control": 6.5,
+    "micro_story": 8.0,
+    "animation_potential": 8.3
+  },
+  "strengths": [
+    "Strong use of specific environmental causes (lasers, gears, water, electricity) rather than generic atmosphere.",
+    "Good integration of character-specific details like the blindfold and feather-trimmed sleeves into the action.",
+    "Most premises have clear directional energy suitable for animation."
+  ],
+  "failures": [
+    "Repetition of 'balancing on an unstable surface' in fullbody/cinematic shots (e017_b01_fullbody, e017_b02_fullbody, e017_b04_cinematic).",
+    "Several closeups focus on 'gripping something dangerous' which feels repetitive (e017_b01_closeup, e017_b04_closeup).",
+    "Some premises rely heavily on hair movement as a visual hook without varying the cause significantly."
+  ],
+  "desired_patterns": [
+    "Specific physical interactions with environmental objects.",
+    "Clear personality expression through micro-reactions (e.g., jaw tightening, suppressed annoyance).",
+    "Use of character-specific clothing details to enhance motion and visual appeal."
+  ],
+  "undesired_patterns": [
+    "Generic balancing poses without a specific force or threat.",
+    "Repetitive closeup hooks involving gripping heavy/dangerous objects.",
+    "Hair movement as the primary visual hook without a distinct cause."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Balancing on unstable/tilted surfaces",
+      "proposal_ids": ["e017_b01_fullbody", "e017_b02_fullbody", "e017_b04_cinematic"]
+    },
+    {
+      "pattern": "Gripping dangerous/heavy objects in closeup",
+      "proposal_ids": ["e017_b01_closeup", "e017_b04_closeup"]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Vary the fullbody/cinematic shots to include more active movement (running, jumping, climbing) rather than just balancing.",
+    "Diversify closeup hooks by focusing on different body parts or interactions (e.g., adjusting gear, wiping oil, reacting to sound).",
+    "Ensure hair movement is caused by distinct sources (explosion, water splash, rapid turn) to avoid repetition."
+  ],
+  "verdict": "The set is strong overall with good identity preservation and clear micro-stories. However, there is noticeable repetition in the fullbody/cinematic balancing poses and closeup gripping actions. Diversifying these categories will improve batch-level variety."
+}

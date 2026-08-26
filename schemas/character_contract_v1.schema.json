@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Character Contract v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "contract_id", "character_id", "display_name", "profile_version", "franchise", "identity", "outfit", "evidence", "source_profile"],
+  "properties": {
+    "schema_version": {"type": "string", "enum": ["character_contract_v1"]},
+    "contract_id": {"type": "string", "minLength": 1},
+    "character_id": {"type": "string", "minLength": 1},
+    "display_name": {"type": "string", "minLength": 1},
+    "profile_version": {"type": "string", "minLength": 1},
+    "franchise": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "identity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["canonical_tag", "must_preserve", "valid_variants", "conditional", "uncertain"],
+      "properties": {
+        "canonical_tag": {"type": "string"},
+        "must_preserve": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "valid_variants": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "conditional": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "uncertain": {"type": "array", "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "outfit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["canonical_default", "valid_variants", "conditional", "uncertain"],
+      "properties": {
+        "canonical_default": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "valid_variants": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "conditional": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "uncertain": {"type": "array", "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source", "reference", "supports"],
+        "properties": {
+          "source": {"type": "string", "minLength": 1},
+          "reference": {"type": "string"},
+          "supports": {"type": "array", "items": {"type": "string", "minLength": 1}}
+        }
+      }
+    },
+    "source_profile": {"type": "object"}
+  }
+}

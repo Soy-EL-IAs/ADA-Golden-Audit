@@ -1,0 +1,86 @@
+{
+  "1": {
+    "class_type": "CheckpointLoaderSimple",
+    "inputs": {
+      "ckpt_name": "waiIllustriousSDXL_v160.safetensors"
+    }
+  },
+  "2": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "text": "masterpiece, best quality, newest, very aesthetic,\n1girl, solo, Aerith Gainsborough, Final Fantasy VII, mature woman,\nlong chestnut braid with pink ribbon, pink fitted dress with cropped red jacket, flower basket,\nIn a sunlit flower shop, she steps backward while arranging a bouquet and bumps a watering can that rolls in a circle around her boots without spilling until the very end, with confident sensual body language throughout.,\nrolling watering can, flower basket,\nflower shop, soft golden daylight, hanging plants and colorful blooms,\ncinematic scene, funny visual storytelling, three-quarter view, full body, strong depth, dynamic composition,\n(adult voluptuous athletic figure:0.95), (fuller bust:0.9), (defined waist:0.9), (wider hips:0.9), (thick toned thighs:0.9), anatomically coherent proportions, visible neckline and cleavage only where the garment design permits, confident sensual pose,\n(voluptuous athletic figure:0.9), (fitted clothing:0.9), (sensual:0.9)",
+      "clip": [
+        "1",
+        1
+      ]
+    }
+  },
+  "3": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "text": "worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad hands, extra fingers, missing fingers, extra limbs, duplicate, multiple girls, two people, collage, split screen, comic panels, text, watermark, logo, cropped head, young-looking, gigantic hips, extreme low angle, fisheye, explicit nudity, identity drift or missing signature outfit, gore, multiple women",
+      "clip": [
+        "1",
+        1
+      ]
+    }
+  },
+  "4": {
+    "class_type": "EmptyLatentImage",
+    "inputs": {
+      "width": 896,
+      "height": 1344,
+      "batch_size": 1
+    }
+  },
+  "5": {
+    "class_type": "KSampler",
+    "inputs": {
+      "seed": 1000008,
+      "steps": 28,
+      "cfg": 5.5,
+      "sampler_name": "euler_ancestral",
+      "scheduler": "normal",
+      "denoise": 1.0,
+      "model": [
+        "1",
+        0
+      ],
+      "positive": [
+        "2",
+        0
+      ],
+      "negative": [
+        "3",
+        0
+      ],
+      "latent_image": [
+        "4",
+        0
+      ]
+    }
+  },
+  "6": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "5",
+        0
+      ],
+      "vae": [
+        "1",
+        2
+      ]
+    }
+  },
+  "7": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "6",
+        0
+      ],
+      "filename_prefix": "LunaRenderOnly/20260820_154720_render_only_fast/009_aerith_gainsborough_009/illustrious/candidate_01"
+    }
+  }
+}

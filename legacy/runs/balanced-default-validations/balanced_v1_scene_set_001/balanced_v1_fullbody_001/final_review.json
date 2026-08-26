@@ -1,0 +1,16 @@
+{
+  "id": "2b_balanced_v1_fullbody_001",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "defects": [],
+  "drift": [
+    "The character is facing away from the camera, but her posture is not rigidly alert; her shoulders are slightly slumped, and her hand on the sword hilt appears relaxed rather than tense."
+  ],
+  "summary": "All preserved elements are visibly correct. No visible defects. Minor narrative drift in posture and hand tension."
+}

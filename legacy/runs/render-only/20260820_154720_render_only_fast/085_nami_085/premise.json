@@ -1,0 +1,34 @@
+{
+  "id": "nami_085",
+  "character": "Nami",
+  "franchise": "One Piece",
+  "identity": [
+    "long orange hair",
+    "fitted blue-and-white navigator outfit",
+    "Clima-Tact staff"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On a sunny ship deck, she tests a tiny weather bubble and it produces a localized gust that flips open every folded deck chair around her at once, with confident sensual body language throughout.",
+  "must_include": [
+    "weather bubble",
+    "opening deck chairs"
+  ],
+  "environment": [
+    "ship deck",
+    "bright tropical sunlight",
+    "blue ocean and coiled ropes"
+  ],
+  "animation_hook": "She taps the bubble with her staff, the chairs fold shut in sequence, and a small breeze lifts her hair.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000084,
+  "krea_seed_base": 2000084
+}

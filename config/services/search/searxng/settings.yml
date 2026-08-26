@@ -1,0 +1,18 @@
+use_default_settings: true
+
+general:
+  instance_name: "Illustrious Klein Local Search"
+
+search:
+  safe_search: 1
+  formats:
+    - html
+    - json
+
+server:
+  # This instance is bound to 127.0.0.1 by Docker Compose. Change this local
+  # secret before exposing the service to any other machine.
+  secret_key: "replace-this-before-any-non-local-deployment"
+  limiter: false
+  public_instance: false
+  image_proxy: false

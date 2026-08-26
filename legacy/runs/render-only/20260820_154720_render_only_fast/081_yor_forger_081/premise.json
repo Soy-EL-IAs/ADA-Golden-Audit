@@ -1,0 +1,34 @@
+{
+  "id": "yor_forger_081",
+  "character": "Yor Forger",
+  "franchise": "Spy x Family",
+  "identity": [
+    "long black hair with gold headband",
+    "black fitted sleeveless evening dress with red lining",
+    "golden stiletto weapons"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In an elegant hotel ballroom after hours, she practices a graceful spin and one heel taps a floor-polishing robot, sending it circling around her like an overenthusiastic dance partner, with confident sensual body language throughout.",
+  "must_include": [
+    "floor-polishing robot",
+    "graceful spin"
+  ],
+  "environment": [
+    "hotel ballroom",
+    "warm chandelier light",
+    "polished parquet and tall windows"
+  ],
+  "animation_hook": "She steps over the circling robot, turns with it once more, and nudges it back toward the wall with her toe.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000080,
+  "krea_seed_base": 2000080
+}

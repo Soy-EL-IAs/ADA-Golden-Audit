@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"faye_valentine, cowboy_bebop, 1girl, standing in a dimly lit office interior, purple short hair held back by a hairband, green eyes wide with restrained surprise, mouth slightly parted but not screaming, visible red lipstick on lips, staring at an off-frame door to the left, one hand clutching the hem of her shirt to partially cover midsection, wearing a dark crop top that leaves shoulders bare, paired with shorts and thighhighs, boots, single sheet of paper fluttering in the air near her face without motion blur, clear visual cause for interrupted posture, static pose, coherent composition\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 1208,
+    "total_output_tokens": 137,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.518168098629898,
+    "time_to_first_token_seconds": 1.931116
+  }
+}

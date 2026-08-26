@@ -1,0 +1,208 @@
+{
+  "per_premise": [
+    {
+      "id": "e016_b01_1",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Strong tactile interaction. The 'pulling free' action provides clear cause and effect. Identity is preserved through the specific sleeve detail."
+    },
+    {
+      "id": "e016_b01_2",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Classic wind interaction. The 'broken vent' provides a visible cause for the gust, avoiding pure atmosphere. Good tension between composure and physical disruption."
+    },
+    {
+      "id": "e016_b01_3",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Balancing is a static state rather than an active event. 'Looking down' is passive. Lacks the immediate threat or consequence that would drive a short animation loop effectively."
+    },
+    {
+      "id": "e016_b01_4",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Excellent dynamic energy. The hairband flying loose is a specific consequence of the dodge, adding narrative weight to the motion."
+    },
+    {
+      "id": "e016_b01_5",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 4,
+      "notes": "Shielding from light is a valid reaction, but 'pressing back against wall' feels static. The cinematic framing risks becoming a wallpaper shot if the light interaction isn't intense enough."
+    },
+    {
+      "id": "e016_b02_1",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "The hanging oil drop creates high tension. The 'holding breath' micro-expression fits the personality guardrails perfectly."
+    },
+    {
+      "id": "e016_b02_2",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Adjusting a slipped strap is a specific causal action. The fabric tension on the waist adds visual appeal without replacing the story."
+    },
+    {
+      "id": "e016_b02_3",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 7,
+      "notes": "The 'sudden slip' provides the cause. The crouch and hand placement show active recovery rather than just posing on a slick floor."
+    },
+    {
+      "id": "e016_b02_4",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Kicking a gear is a strong physical interaction. The off-balance momentum suggests immediate follow-through motion."
+    },
+    {
+      "id": "e016_b02_5",
+      "identity": 7,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "'Arms at sides' and 'waits without flinching' border on the Passive Stare/Gameplay Idle anti-pattern. The turbine is a threat, but her reaction is too static."
+    },
+    {
+      "id": "e016_b03_1",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Pinching a frayed thread is a subtle but clear micro-story. The 'annoyance' crack in composure fits the character profile well."
+    },
+    {
+      "id": "e016_b03_2",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Prying open a hatch is a strong physical exertion. The sleeve compression adds visual detail and consequence to the action."
+    },
+    {
+      "id": "e016_b03_3",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Bracing against tremors is a reaction, but 'arms crossed' and 'wide stance' are very static poses. It lacks the dynamic energy of other fullbody entries."
+    },
+    {
+      "id": "e016_b03_4",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Tracking a projectile is high-energy. The hair whipping provides visual motion cues that support the animation potential."
+    },
+    {
+      "id": "e016_b03_5",
+      "identity": 7,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 4,
+      "notes": "Similar to e016_b02_5. 'Arms at sides' and 'stands perfectly still' are weak reactions to a closing press. It feels like waiting rather than acting."
+    },
+    {
+      "id": "e016_b04_1",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Pressing against cracking glass is a strong tactile and visual hook. The hair falling forward adds to the sense of urgency."
+    },
+    {
+      "id": "e016_b04_2",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Leaning back from a chain is a clear dodge. The fabric tension and sleeve flare are good visual consequences of the motion."
+    },
+    {
+      "id": "e016_b04_3",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 5,
+      "animation_potential": 4,
+      "notes": "'Testing stability' is a vague action. Balancing on a pillar edge is similar to e016_b01_3 in its static nature. Lacks a specific immediate threat or consequence."
+    },
+    {
+      "id": "e016_b04_4",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Mid-air twist is highly dynamic. The laser beam provides a clear cause for the contortion. Excellent motion potential."
+    },
+    {
+      "id": "e016_b04_5",
+      "identity": 7,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "'Back to viewer' and 'arms crossed' are passive. Watching a piston lower is less engaging than interacting with it. Feels like a setup shot rather than a peak moment."
+    }
+  ],
+  "set_scores": {
+    "identity": 8.5,
+    "visual_appeal": 8.2,
+    "diversity": 7.0,
+    "repetition_control": 6.5,
+    "micro_story": 7.5,
+    "animation_potential": 7.2
+  },
+  "strengths": [
+    "Strong adherence to character identity facts (blindfold, hair, outfit details) across all premises.",
+    "Dynamic and Closeup categories are particularly strong with clear cause-and-effect interactions.",
+    "Good use of fabric tension and hair movement as visual consequences of action."
+  ],
+  "failures": [
+    "Several Fullbody and Cinematic premises rely on static 'waiting' or 'balancing' poses that lack active narrative consequence (e016_b01_3, e016_b02_5, e016_b03_3, e016_b03_5, e016_b04_3, e016_b04_5).",
+    "Repetition of 'arms at sides' or 'arms crossed' as a substitute for active engagement in multiple premises.",
+    "Some Cinematic shots risk becoming atmospheric mood pieces if the interaction with the environment is too passive."
+  ],
+  "desired_patterns": [
+    "Active physical reactions to immediate threats (dodging, catching, prying).",
+    "Specific micro-expressions that reflect personality cracks (holding breath, squinting, annoyance).",
+    "Clear causal triggers visible in the frame (falling debris, swinging chains, cracking glass)."
+  ],
+  "undesired_patterns": [
+    "Static balancing or waiting poses without immediate motion potential.",
+    "'Arms at sides' or 'arms crossed' used as a default stance rather than an active brace.",
+    "Environmental framing that dominates over the character's specific interaction."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Static Balancing/Waiting",
+      "proposal_ids": ["e016_b01_3", "e016_b02_5", "e016_b03_3", "e016_b03_5", "e016_b04_3", "e016_b04_5"]
+    },
+    {
+      "pattern": "Wind/Hair Disruption",
+      "proposal_ids": ["e016_b01_2", "e016_b01_4", "e016_b03_4", "e016_b04_4"]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Replace static 'balancing' or 'waiting' fullbody/cinematic premises with active interactions (e.g., stepping over a gap, pushing against a closing door).",
+    "Reduce reliance on 'arms at sides' or 'arms crossed'; use hands for gripping, shielding, or reaching.",
+    "Ensure every Cinematic premise has a specific physical interaction with the environment, not just framing."
+  ],
+  "verdict": "Solid batch with strong identity and dynamic action in most categories. However, the Fullbody and Cinematic sections suffer from static 'waiting' poses that lack narrative consequence and animation potential. Needs more active engagement in these shot types to avoid repetition of passive stances."
+}

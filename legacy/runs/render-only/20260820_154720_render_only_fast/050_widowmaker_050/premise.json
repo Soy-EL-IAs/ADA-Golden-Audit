@@ -1,0 +1,34 @@
+{
+  "id": "widowmaker_050",
+  "character": "Widowmaker",
+  "franchise": "Overwatch",
+  "identity": [
+    "blue-purple skin and long dark ponytail",
+    "purple fitted sniper bodysuit",
+    "visor and sniper rifle"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On a high-rise balcony, she shifts into a sniper pose while an automated window washer passes behind the glass and sprays a perfect mist halo around her silhouette, with confident sensual body language throughout.",
+  "must_include": [
+    "window washer mist",
+    "sniper pose"
+  ],
+  "environment": [
+    "skyscraper balcony",
+    "cool night city light",
+    "glass facade and distant traffic"
+  ],
+  "animation_hook": "She lowers the rifle, steps through the fading mist, and turns as the washer slides upward out of frame.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000049,
+  "krea_seed_base": 2000049
+}

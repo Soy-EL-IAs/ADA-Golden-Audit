@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e017_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Close-up on 2B's hands as she catches a falling, heavy iron gear that clips her black glove, causing the fabric to tear slightly; her fingers grip the spinning metal with white-knuckled intensity to stop its rotation before it drops, her knuckles visible and tense.\"\n  },\n  {\n    \"id\": \"e017_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot of 2B leaning forward aggressively into a strong updraft from a ruptured ventilation shaft, her puffy feather-trimmed sleeves ballooning outward as she anchors her upper body against the force; her black dress hem lifts slightly, revealing the top of her thigh-high stockings, while her jaw is set in focused determination to maintain stability.\"\n  },\n  {\n    \"id\": \"e017_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B mid-lunge, stepping over a broken metal beam that is sparking and shifting under her weight; she drives her front thigh-high boot into the gap for leverage while extending her rear leg for balance, one hand reaching down to steady herself on the unstable debris as sparks fly near her boots.\"\n  },\n  {\n    \"id\": \"e017_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B executes a rapid sidestep to avoid a slamming blast door that cracks against the floor inches from her feet; the shockwave sends dust and small shards of concrete flying toward her face, forcing her to tilt her head sharply away while her short white hair whips around her blindfold in the sudden gust.\"\n  },\n  {\n    \"id\": \"e017_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Cinematic wide shot as 2B stands on a precarious, rotating gear mechanism that is tilting sideways; she shifts her weight entirely onto one thigh-high boot to counterbalance the slope while extending her free arm to grip a passing chain for stability, her body twisting in a dynamic arc against the industrial backdrop.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4739,
+    "total_output_tokens": 509,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.466424341082,
+    "time_to_first_token_seconds": 5.569984000000001
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[{\"id\":\"b02_01\",\"category\":\"closeup\",\"premise\":\"A tight crop on 2B's upper torso and neck as she tilts her head down, the black blindfold pulled slightly askew by a gust of wind to reveal one wide, unseeing eye. Her white hair is in disarray against the collar of her dress, emphasizing the tension between her stoic composure and the sudden vulnerability of exposure.\"},{\"id\":\"b02_02\",\"category\":\"medium\",\"premise\":\"Medium shot from a low angle showing 2B kneeling on one knee to adjust the strap of her thigh-high boot. The pose twists her torso, accentuating her waist-to-hip curve and the cutouts in her black dress, while she maintains a focused expression, unaware that the movement has shifted her clothing in a suggestive way.\"},{\"id\":\"b02_03\",\"category\":\"fullbody\",\"premise\":\"Full-body rear view of 2B standing on a cracked rooftop edge. She is looking out over a ruined cityscape with her back to the viewer, emphasizing the long line of her legs and the silhouette of her dress against the bright sky. The wind lifts the hem of her skirt slightly, teasingly revealing more than intended as she remains perfectly still.\"},{\"id\":\"b02_04\",\"category\":\"dynamic\",\"premise\":\"Action shot capturing 2B mid-leap in a graceful arc through the air after dodging debris. Her body is fully extended, showcasing athletic tension and flexibility, with her white hair trailing behind her. The composition focuses on the fluidity of her movement and the contrast between her delicate features and the chaotic destruction around her.\"},{\"id\":\"b02_05\",\"category\":\"cinematic\",\"premise\":\"Wide cinematic framing of 2B standing alone in a vast, fog-filled cathedral ruin. Shafts of light pierce through broken windows to illuminate dust motes around her. She stands with hands clasped behind her back, exuding an elegant, melancholic presence, while the sheer scale of the environment dwarfs her figure, creating a dramatic and atmospheric mood.\"}]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 5319,
+    "total_output_tokens": 439,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 8.153672847936955,
+    "time_to_first_token_seconds": 6.572078
+  }
+}

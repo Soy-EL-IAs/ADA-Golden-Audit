@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e032_b02_closeup",
+    "category": "closeup",
+    "premise": "Extreme close-up of 2B's jaw tightening and eyes narrowing in controlled annoyance as a heavy, viscous drop of black oil from a ruptured pipe above lands directly on her hairband, causing the fabric to twitch with the sudden weight."
+  },
+  {
+    "id": "e032_b02_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B twisting sharply to the left to avoid a swinging chain, her puffy feather-trimmed sleeves flaring outward against the wind of its passage while she grips a nearby pipe for stability with her black-gloved hand."
+  },
+  {
+    "id": "e032_b02_fullbody",
+    "category": "fullbody",
+    "premise": "Full body view of 2B balancing on a narrow, vibrating metal beam that is shaking violently from a distant explosion, her legs spread wide for stability and her boots gripping the rusted surface as her dress hem flutters in the updraft."
+  },
+  {
+    "id": "e032_b02_dynamic",
+    "category": "dynamic",
+    "premise": "Dynamic shot of 2B diving low under a falling steel I-beam, her body parallel to the ground and motion-blurred as she slides across the concrete floor, leaving a trail of dust behind her boots."
+  },
+  {
+    "id": "e032_b02_cinematic",
+    "category": "cinematic",
+    "premise": "Cinematic wide shot of 2B clinging to the underside of a massive, rotating ceiling fan blade, her body suspended upside down against the vast industrial dark as sparks shower down from the friction of the metal above."
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "run_id": "ada_Faye_Valentine_20260822_184029_02",
+  "pipeline": "specialist_image_v1",
+  "character": "Faye Valentine",
+  "version": null,
+  "review_policy": "strict",
+  "stage": "KLEIN_RENDERED",
+  "created_at": "2026-08-22T21:40:29.676145+00:00",
+  "updated_at": "2026-08-22T21:49:45.791687+00:00",
+  "seeds": {
+    "faye_valentine_ada_Faye_Valentine_20260822_184029_02": {
+      "illustrious": 6550444041944584261,
+      "klein": 2667350625760357765
+    }
+  },
+  "artifacts": {
+    "premise_spec": "premise_spec.json",
+    "illustrious_result": "illustrious_result.json",
+    "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\ada_Faye_Valentine_20260822_184029_02\\faye_valentine_ada_Faye_Valentine_20260822_184029_02\\illustrious_00004_.png",
+    "illustrious_review": "illustrious_review.json",
+    "klein_result": "klein_result.json",
+    "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\ada_Faye_Valentine_20260822_184029_02\\faye_valentine_ada_Faye_Valentine_20260822_184029_02\\klein_00001_.png"
+  },
+  "history": [
+    {
+      "stage": "CREATED",
+      "at": "2026-08-22T21:40:29.676145+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "at": "2026-08-22T21:41:54.168167+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T21:42:48.990232+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T21:43:37.035113+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T21:44:13.811868+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "event": "retry",
+      "reason": "Illustrious review requested a structural retry",
+      "attempt": 1,
+      "at": "2026-08-22T21:44:13.823863+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T21:44:50.347443+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T21:45:25.166720+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T21:45:51.965097+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "event": "retry",
+      "reason": "Illustrious review requested a structural retry",
+      "attempt": 2,
+      "at": "2026-08-22T21:45:51.972678+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T21:46:30.447838+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T21:47:06.047920+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T21:47:32.829691+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "event": "retry",
+      "reason": "Illustrious review requested a structural retry",
+      "attempt": 3,
+      "at": "2026-08-22T21:47:32.835193+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T21:48:09.123187+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T21:48:44.610855+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T21:49:10.521659+00:00"
+    },
+    {
+      "stage": "KLEIN_PROMPTS_READY",
+      "at": "2026-08-22T21:49:21.175746+00:00"
+    },
+    {
+      "stage": "KLEIN_RENDERED",
+      "at": "2026-08-22T21:49:45.791687+00:00"
+    }
+  ],
+  "error": null,
+  "retries_PREMISES_READY": 3
+}

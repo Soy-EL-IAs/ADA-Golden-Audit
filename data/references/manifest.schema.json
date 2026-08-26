@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Character reference cache manifest",
+  "type": "object",
+  "required": ["schema_version", "character", "version", "created_at", "status", "provider", "searches", "refs"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "character": {"type": "string", "minLength": 1},
+    "version": {"type": ["string", "null"]},
+    "created_at": {"type": ["string", "null"], "format": "date-time"},
+    "status": {"enum": ["planned", "downloaded", "incomplete", "verified"]},
+    "provider": {"const": "searxng"},
+    "source_query": {"type": ["string", "null"]},
+    "searches": {"type": "array", "maxItems": 2, "items": {"type": "string"}},
+    "refs": {
+      "type": "array",
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["file", "source_url", "page_url", "domain", "final_score", "recommendation", "sha256", "downloaded_at"],
+        "properties": {
+          "file": {"type": "string", "pattern": "^refs/[^/]+$"},
+          "source_url": {"type": "string", "format": "uri"},
+          "page_url": {"type": "string", "format": "uri"},
+          "domain": {"type": "string"},
+          "final_score": {"type": "integer", "minimum": 0, "maximum": 100},
+          "recommendation": {"enum": ["auto", "review", "reject"]},
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "downloaded_at": {"type": "string", "format": "date-time"}
+        },
+        "additionalProperties": false
+      }
+    },
+    "errors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_url", "page_url", "error"],
+        "properties": {
+          "source_url": {"type": "string", "format": "uri"},
+          "page_url": {"type": "string", "format": "uri"},
+          "error": {"type": "string"}
+        },
+        "additionalProperties": false
+      }
+    },
+    "duplicate_hashes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_url", "sha256"],
+        "properties": {
+          "source_url": {"type": "string", "format": "uri"},
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

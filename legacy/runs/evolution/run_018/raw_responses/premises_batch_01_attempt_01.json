@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e018_b01_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A tight close-up on 2B's gloved hand as she firmly presses her thumb against the hairband of her blindfold, correcting its position after a sudden jolt from a nearby machine malfunction; her knuckles are slightly white, and a single strand of short white hair has slipped loose onto her cheek, highlighting her controlled tension.\"\n  },\n  {\n    \"id\": \"e018_b01_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"A medium shot capturing 2B leaning sharply forward against a crumbling concrete pillar to shield her face from a burst of sparks and debris; her puffy feather-trimmed sleeves flare outward with the motion, and her black dress pulls tight across her torso as she braces for impact, revealing a glimpse of the cutout detail.\"\n  },\n  {\n    \"id\": \"e018_b01_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"A full-body view of 2B crouching low beneath a heavy, falling steel beam in a ruined corridor; her thigh-high boots are planted wide for stability while she extends one gloved hand to catch the edge of the beam before it hits the ground, emphasizing the definition of her legs and the strain in her posture.\"\n  },\n  {\n    \"id\": \"e018_b01_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"A high-energy dynamic shot of 2B mid-sidestep to avoid a sliding patch of oil on a metal floor; her body is twisted with momentum, motion blur trailing behind her, and her black dress hem flares dramatically as she pivots, capturing the precise moment before her foot regains traction.\"\n  },\n  {\n    \"id\": \"e018_b01_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"A wide cinematic angle framing 2B silhouetted against a massive, fractured skylight where sunlight streams down in sharp beams; she is actively reaching up with one arm to steady a swinging chandelier that has detached from the ceiling, her form centered and small against the scale of the collapsing architecture.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3079,
+    "total_output_tokens": 514,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.17835104732757,
+    "time_to_first_token_seconds": 3.7793539999999997
+  }
+}

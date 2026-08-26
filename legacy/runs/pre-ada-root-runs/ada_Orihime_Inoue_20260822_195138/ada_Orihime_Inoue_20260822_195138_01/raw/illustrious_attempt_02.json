@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"Orihime Inoue standing frozen in a dimly lit corridor with long dark brown hair and large expressive eyes, slender build, clutching a torn white sheet across her midsection with both hands, the frayed edge of the fabric slipping down her left side revealing a sliver of skin and an undergarment strap, right hand reaching out instinctively toward the source of disturbance, startled expression with wide eyes, wind effect creating motion blur on the fabric edges, dimly lit corridor background\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 1309,
+    "total_output_tokens": 109,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.289501253714366,
+    "time_to_first_token_seconds": 1.9876790000000002
+  }
+}

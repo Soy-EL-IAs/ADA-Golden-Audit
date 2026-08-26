@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-tyrfwgc4ara0hiz756h9n",
+  "object": "chat.completion",
+  "created": 1787431729,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_172552_02\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"preserved_ok\": [],\n  \"defects\": [\n    \"The character is wearing a yellow top with black trim and red fabric draped over her shoulder, not matching the premise's purple hairband and crop top.\"\n  ],\n  \"drift\": [\n    \"The premise specifies Faye is in a dimly lit office with bare shoulders exposed by an off-shoulder crop top. The rendered image shows her in a brightly lit doorway, wearing a yellow top with red fabric, not matching the premise's clothing or setting.\",\n    \"The premise requires her to be frozen mid-motion, glancing toward the entrance due to a knock. The rendered image shows her looking directly at the viewer, not reacting to an external interruption.\",\n    \"The premise specifies 'strategic censorship' by focusing on tension, not explicit exposure. The rendered image shows her in a revealing outfit with no censorship, contradicting the premise's intent.\"\n  ],\n  \"summary\": \"Major structural failure: clothing, pose, gaze, and setting do not match the premise. The character is not reacting to an interruption, and the outfit and lighting are inconsistent with the approved premise.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1500,
+    "completion_tokens": 296,
+    "total_tokens": 1796,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

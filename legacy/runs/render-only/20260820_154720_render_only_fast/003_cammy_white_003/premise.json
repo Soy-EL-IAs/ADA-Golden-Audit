@@ -1,0 +1,34 @@
+{
+  "id": "cammy_white_003",
+  "character": "Cammy White",
+  "franchise": "Street Fighter",
+  "identity": [
+    "long blonde twin braids",
+    "green sleeveless leotard with red beret and gauntlets",
+    "athletic muscular build"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "Inside an empty underground training gym, she slides under a hanging heavy bag and her braid loops around its strap, causing the bag to swing back and gently bump her as she rises, with confident sensual body language throughout.",
+  "must_include": [
+    "swinging heavy bag",
+    "braid caught on strap"
+  ],
+  "environment": [
+    "combat gym",
+    "cool overhead strip lights",
+    "rubber mats and suspended bags"
+  ],
+  "animation_hook": "She ducks the returning bag, unwinds her braid in one motion, and uses the momentum to launch into a clean spin.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000002,
+  "krea_seed_base": 2000002
+}

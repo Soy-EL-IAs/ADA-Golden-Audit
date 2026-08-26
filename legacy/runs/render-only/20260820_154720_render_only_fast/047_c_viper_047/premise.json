@@ -1,0 +1,34 @@
+{
+  "id": "c_viper_047",
+  "character": "Crimson Viper",
+  "franchise": "Street Fighter",
+  "identity": [
+    "long red braided ponytail",
+    "fitted black business suit with white shirt",
+    "tech gloves and sunglasses"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a glass-walled corporate lab, she bends to inspect a floor sensor and a static charge from her glove makes a cluster of sticky notes leap off a desk and attach to her sleeve, with confident sensual body language throughout.",
+  "must_include": [
+    "static-charged glove",
+    "flying sticky notes"
+  ],
+  "environment": [
+    "corporate laboratory",
+    "bright white lighting",
+    "glass partitions and sleek desks"
+  ],
+  "animation_hook": "She straightens, flicks the notes into a waste bin with one controlled shake, and deactivates the glove.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000046,
+  "krea_seed_base": 2000046
+}

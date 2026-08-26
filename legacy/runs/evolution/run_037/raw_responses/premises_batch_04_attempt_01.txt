@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e037_b04_closeup",
+    "category": "closeup",
+    "premise": "A tight close-up captures 2B's face as a cluster of bioluminescent spores drifts toward her, causing her to hold her breath with visible tension in her jaw and a slight furrow in her brow behind the blindfold; a single spore adheres to the edge of her hairband, glowing faintly against her white hair while she maintains rigid composure to avoid inhaling the organic dust."
+  },
+  {
+    "id": "e037_b04_medium",
+    "category": "medium",
+    "premise": "From a waist-up perspective, 2B leans heavily against a cracked, transparent pane of reinforced glass that is slowly fracturing under the weight of her outstretched palm; the impact causes hairline cracks to spiderweb outward from her glove, and her torso twists slightly as she braces for shatter, stretching the fabric of her black dress's cutout taut across her midsection while her puffy sleeves bunch against her arms in resistance."
+  },
+  {
+    "id": "e037_b04_fullbody",
+    "category": "fullbody",
+    "premise": "In a full-body shot on the narrow, sloping roof of a crumbling rooftop structure, 2B is crouched low with her weight shifted onto one thigh-high boot to counterbalance a sudden shift in gravity caused by a distant explosion; her other leg is extended for stability while her hands grip the edge of the eave, highlighting the precarious balance as debris rains down around her and her dress hem flutters from the shockwave."
+  },
+  {
+    "id": "e037_b04_dynamic",
+    "category": "dynamic",
+    "premise": "Mid-air, 2B executes a sharp downward dive away from a sudden burst of steam venting from a broken pipe in the upper frame, her body twisted into a tight spiral with one leg extended forward and arms crossed defensively; capturing the peak moment of evasion as her hair and clothing trail behind her in a blur of motion, contrasting with the rising white cloud that obscures the source of the threat."
+  },
+  {
+    "id": "e037_b04_cinematic",
+    "category": "cinematic",
+    "premise": "Set against the vast, shadowed interior of a collapsed cathedral, 2B is seen from a low angle as she climbs vertically up a jagged pillar of exposed rebar and concrete, her small silhouette contrasting with the immense scale of the ruin while she pulls herself upward, driven by the need to reach a distant light source at the apex."
+  }
+]

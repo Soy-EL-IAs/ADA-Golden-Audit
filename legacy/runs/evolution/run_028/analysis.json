@@ -1,0 +1,228 @@
+{
+  "per_premise": [
+    {
+      "id": "e028_b01_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.0,
+      "notes": "Strong causal trigger (spark) with clear physical reaction. Good identity preservation."
+    },
+    {
+      "id": "e028_b01_medium",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Decent action, but 'bracing against pillar' is a static pose. The wind detail feels tacked on rather than causal to the main event."
+    },
+    {
+      "id": "e028_b01_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 6.0,
+      "micro_story": 5.0,
+      "animation_potential": 7.0,
+      "notes": "Classic 'walking/balancing' filler. Lacks a specific narrative consequence beyond staying on the roof. Generic movement."
+    },
+    {
+      "id": "e028_b01_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 6.0,
+      "animation_potential": 9.0,
+      "notes": "High kinetic energy. However, 'vaulting over barrier' is a generic combat/movement trope without specific enemy context."
+    },
+    {
+      "id": "e028_b01_cinematic",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Wind pushing metal sheet is a good specific cause. However, 'shielding face' is a passive reaction to an environmental force."
+    },
+    {
+      "id": "e028_b02_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.0,
+      "notes": "Steam burst is a strong visual and physical trigger. Good detail on hair/skin reaction."
+    },
+    {
+      "id": "e028_b02_medium",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Holding a door open is a static pose. The 'swarm of moths' is visually interesting but the character's action (holding breath) is internal/passive."
+    },
+    {
+      "id": "e028_b02_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "'Suspended mid-air' is a static pose. Lacks the dynamic tension of active climbing or falling."
+    },
+    {
+      "id": "e028_b02_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 6.0,
+      "animation_potential": 9.0,
+      "notes": "Dodge is a good action. 'Pendulum blade' is a specific threat, but the 'perfect balance on one leg' feels like a pose rather than a moment of evasion."
+    },
+    {
+      "id": "e028_b02_cinematic",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "'Standing small in center' is a contemplative statue anti-pattern. The glass falling is atmospheric rather than interactive."
+    },
+    {
+      "id": "e028_b03_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.0,
+      "notes": "Glass fragment is a sharp, specific cause. The blood detail adds stakes and personality (restraint)."
+    },
+    {
+      "id": "e028_b03_medium",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.0,
+      "notes": "Sliding under rotating rebar is a specific mechanical interaction. Good use of gloves and sleeves."
+    },
+    {
+      "id": "e028_b03_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "'Suspended in light' is a static pose. The electrical charge on the puddle is a good cause, but the character is just hovering/preparing."
+    },
+    {
+      "id": "e028_b03_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 8.0,
+      "notes": "Leaping over sludge is generic. The 'toxic green sludge' is a visual cliché in sci-fi/fantasy."
+    },
+    {
+      "id": "e028_b03_cinematic",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 5.0,
+      "animation_potential": 4.0,
+      "notes": "'Standing on cracked bridge' is a static pose. Shielding from dust is passive. The scale contrast is good but lacks active interaction."
+    },
+    {
+      "id": "e028_b04_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.0,
+      "notes": "Coolant jet is a strong specific cause. Good detail on fogging blindfold and hair."
+    },
+    {
+      "id": "e028_b04_medium",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "'Bracing against railing' is a static pose. The cargo crate sliding past is a good cause, but the reaction is just gripping."
+    },
+    {
+      "id": "e028_b04_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 6.0,
+      "micro_story": 5.0,
+      "animation_potential": 7.0,
+      "notes": "Another 'balancing on narrow path' premise. Very similar to e028_b01_fullbody. Repetitive concept."
+    },
+    {
+      "id": "e028_b04_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 8.0,
+      "notes": "Sidestep is a good action. 'Snapping cable' is specific. However, the focus on revealing stockings feels like visual appeal overriding story."
+    },
+    {
+      "id": "e028_b04_cinematic",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 5.0,
+      "animation_potential": 4.0,
+      "notes": "'Standing in foreground' is a static pose. Shielding from suction is passive. Similar to e028_b01_cinematic."
+    }
+  ],
+  "set_scores": {
+    "identity": 9.5,
+    "visual_appeal": 7.2,
+    "diversity": 6.5,
+    "repetition_control": 5.8,
+    "micro_story": 6.8,
+    "animation_potential": 6.5
+  },
+  "strengths": [
+    "Consistent and accurate character identity across all premises.",
+    "Strong use of specific physical causes (sparks, steam, glass) in close-ups.",
+    "Good integration of clothing details (gloves, sleeves, blindfold) into actions."
+  ],
+  "failures": [
+    "Heavy reliance on static poses ('bracing', 'standing', 'suspended') especially in medium and cinematic categories.",
+    "Repetitive full-body concepts: balancing/walking on narrow edges appears multiple times (b01, b04).",
+    "Cinematic shots often feature passive reactions to environmental forces rather than active interaction.",
+    "Generic dynamic actions (vaulting, dodging) lack specific narrative context or unique enemy/threat design."
+  ],
+  "desired_patterns": [
+    "Active physical interactions with objects or environment (pushing, pulling, catching, breaking).",
+    "Specific mechanical failures or hazards that require a unique solution.",
+    "Dynamic poses that imply immediate consequence or continuation of motion."
+  ],
+  "undesired_patterns": [
+    "Static bracing/standing poses as the primary action.",
+    "Passive shielding from wind/dust/debris without secondary physical interaction.",
+    "Generic locomotion (walking, balancing) without narrative stakes.",
+    "Repetitive 'narrow path' or 'ledge' full-body concepts."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Static Bracing/Standing",
+      "proposal_ids": [
+        "e028_b01_medium",
+        "e028_b02_fullbody",
+        "e028_b03_cinematic",
+        "e028_b04_medium",
+        "e028_b04_cinematic"
+      ]
+    },
+    {
+      "pattern": "Balancing/Walking on Narrow Edge",
+      "proposal_ids": [
+        "e028_b01_fullbody",
+        "e028_b04_fullbody"
+      ]
+    },
+    {
+      "pattern": "Passive Shielding from Environmental Force",
+      "proposal_ids": [
+        "e028_b01_cinematic",
+        "e028_b03_cinematic",
+        "e028_b04_cinematic"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Replace static 'bracing' poses with active weight-shifting or object manipulation.",
+    "Diversify full-body concepts: avoid multiple 'narrow path' scenarios; use varied terrain (climbing, descending, swimming, crawling).",
+    "Make cinematic shots more interactive: character should be actively moving through the environment, not just standing in it.",
+    "Add specific narrative stakes to dynamic actions: who is she fighting? What is she escaping?"
+  ],
+  "verdict": "Solid identity and close-up work, but suffers from static poses and repetitive full-body/cinematic concepts. Needs more active interaction and varied movement mechanics."
+}

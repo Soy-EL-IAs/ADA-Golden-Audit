@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "run": 12,
+  "character": "2B",
+  "version": "NieR:Automata",
+  "count": 20,
+  "distribution": {
+    "closeup": 4,
+    "medium": 4,
+    "fullbody": 4,
+    "dynamic": 4,
+    "cinematic": 4
+  },
+  "candidate_guide": "candidate_guide.md",
+  "lm_studio_only": true,
+  "rendering_executed": false,
+  "proposals": [
+    {
+      "id": "e012_b01_closeup",
+      "category": "closeup",
+      "premise": "A tight close-up on 2B's face as a sudden, sharp gust of wind from an off-screen ventilation shaft pushes loose strands of her short white hair across her black blindfold; she squints slightly behind the fabric and tenses her jaw in controlled annoyance rather than surprise, with one gloved hand rising to brush the hair away."
+    },
+    {
+      "id": "e012_b01_medium",
+      "category": "medium",
+      "premise": "Waist-up shot of 2B standing in a narrow corridor where a heavy metal gate is slowly closing behind her; she uses one gloved hand to push the sliding panel back open while simultaneously adjusting the puffy feather-trimmed sleeve on her other arm, which has snagged slightly on the gate's edge, maintaining a composed expression despite the effort."
+    },
+    {
+      "id": "e012_b01_fullbody",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B stepping carefully across a narrow, unstable beam in a rusted industrial structure; her weight is shifted to one leg as she extends the other foot to test its stability before fully committing, her black dress and thigh-high boots highlighting her balanced posture against the chaotic background."
+    },
+    {
+      "id": "e012_b01_dynamic",
+      "category": "dynamic",
+      "premise": "Mid-air dynamic shot of 2B leaping over a sudden burst of steam jets erupting from the floor; her body is arched low, hair trailing behind her with motion blur, and her gloved hands are held tight against her sides to minimize air resistance as she clears the hazard."
+    },
+    {
+      "id": "e012_b01_cinematic",
+      "category": "cinematic",
+      "premise": "Wide cinematic angle showing 2B climbing out of a deep, dark shaft in a massive cathedral-like ruin; she grips the stone edge with both hands to pull herself up, her silhouette backlit by a single beam of light from above, emphasizing the scale of the environment against her determined effort."
+    },
+    {
+      "id": "e012_b02_closeup",
+      "category": "closeup",
+      "premise": "Extreme close-up on 2B's eyes and the lower half of her black blindfold as a sudden, localized burst of heat from an off-screen flare causes her to blink rapidly; sweat beads form on her temple while her jaw tightens in controlled irritation, with the white hair strands framing her face appearing slightly damp from the humidity."
+    },
+    {
+      "id": "e012_b02_medium",
+      "category": "medium",
+      "premise": "Waist-up shot of 2B leaning forward to inspect a cracked, glowing control panel on a wall; her gloved right hand hovers just inches from the surface while she tilts her head sharply to the side, her expression shifting from neutral curiosity to sharp focus as sparks pop and sizzle near her puffy feather-trimmed sleeve."
+    },
+    {
+      "id": "e012_b02_fullbody",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B twisting her torso to untangle her left thigh-high stocking from a jagged piece of protruding rebar; she balances on one leg with her weight shifted back, her black dress cutout revealing the tension in her posture as she pulls the fabric free with a sharp yank."
+    },
+    {
+      "id": "e012_b02_dynamic",
+      "category": "dynamic",
+      "premise": "High-speed dynamic shot of 2B sliding horizontally across a polished metal floor to evade a falling ceiling panel; her body is low and parallel to the ground, her black boots trailing sparks against the surface, while her hair fans out behind her in a stark white contrast against the dark industrial backdrop."
+    },
+    {
+      "id": "e012_b02_cinematic",
+      "category": "cinematic",
+      "premise": "Wide cinematic angle from below showing 2B swinging across a vast, open chasm on a frayed cable; her body is extended in a straight line, defying gravity as she arcs through the air, with the massive scale of the surrounding ruins emphasizing the precariousness and momentum of her movement."
+    },
+    {
+      "id": "e012_b03_closeup",
+      "category": "closeup",
+      "premise": "A tight close-up on 2B's face as a sudden, localized jet of cold mist from an off-screen pipe hits the right side of her black blindfold; she tilts her head sharply to the left to shield her ear, her short white hair whipping across her cheek in response to the force, while her jaw sets with focused determination rather than surprise."
+    },
+    {
+      "id": "e012_b03_medium",
+      "category": "medium",
+      "premise": "Waist-up shot of 2B crouching slightly as a low-hanging, rusted pipe swings into her path; she ducks under it with precise timing, one gloved hand bracing against the metal to steady herself while her puffy feather-trimmed sleeve brushes the surface, maintaining a composed expression despite the tight clearance."
+    },
+    {
+      "id": "e012_b03_fullbody",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B stepping over a shallow puddle that reflects her distorted silhouette; her left boot lifts high to avoid the water, while her right leg remains grounded on the uneven stone surface, her black dress hem lifting slightly with the motion to reveal the thigh-high stockings as she navigates the wet patch."
+    },
+    {
+      "id": "e012_b03_dynamic",
+      "category": "dynamic",
+      "premise": "Mid-action dynamic shot of 2B twisting her torso sideways to dodge a falling chunk of debris; her body is angled sharply, hair trailing behind with motion blur, and her gloved hands are extended forward for balance as she clears the obstacle, capturing the peak moment of evasion."
+    },
+    {
+      "id": "e012_b03_cinematic",
+      "category": "cinematic",
+      "premise": "Wide cinematic angle showing 2B climbing up a steep, moss-covered wall in a dense forest ruin; she grips the rough stone with both hands to pull herself upward, her silhouette backlit by dappled sunlight filtering through the canopy above, emphasizing the verticality of her ascent against the lush, overgrown environment."
+    },
+    {
+      "id": "e012_b04_closeup",
+      "category": "closeup",
+      "premise": "A tight close-up on 2B's face as a single, heavy drop of condensation from a high ceiling pipe falls directly onto the center of her black blindfold; she holds her breath with her eyes wide open behind the fabric, her short white hair falling still in the sudden silence, capturing a moment of hyper-focused anticipation before she blinks."
+    },
+    {
+      "id": "e012_b04_medium",
+      "category": "medium",
+      "premise": "Waist-up shot of 2B turning her head sharply to the left as a heavy, rusted chain slams against the wall behind her; she uses one gloved hand to steady herself on a nearby ledge while her puffy feather-trimmed sleeve flares out from the sudden gust of air displaced by the impact, her expression shifting from neutral observation to sharp alertness."
+    },
+    {
+      "id": "e012_b04_fullbody",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B mid-stride as she steps over a jagged shard of broken glass on the floor; her left leg is extended high to clear the obstacle, while her right foot pushes off firmly against the stone ground, her black dress hem swinging with the momentum and her thigh-high stockings catching the light as she navigates the debris field."
+    },
+    {
+      "id": "e012_b04_dynamic",
+      "category": "dynamic",
+      "premise": "High-speed dynamic shot of 2B executing a rapid side-step to avoid a swinging, spiked mace; her body is twisted tightly to the right, hair whipping across her face with motion blur, and her gloved hands are tucked close to her ribs for compactness as she clears the arc of the weapon."
+    },
+    {
+      "id": "e012_b04_cinematic",
+      "category": "cinematic",
+      "premise": "Wide cinematic angle showing 2B leaping across a widening gap between two crumbling stone platforms; her body is extended in mid-air, arms out for balance, with the dark chasm below fading into mist and the distant ruins providing scale to her decisive, airborne maneuver."
+    }
+  ]
+}

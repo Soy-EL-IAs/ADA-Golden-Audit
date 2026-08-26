@@ -1,0 +1,70 @@
+{
+  "premise_id": "tifa_001",
+  "stage": "illustrious",
+  "candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_120023_tifa_001\\illustrious\\candidate_00001_.png",
+      "hard_fail": true,
+      "hard_fail_reasons": ["a must_include element central to the premise is missing: beer tap", "a must_include element central to the premise is missing: expanding foam cloud"],
+      "scores": {
+        "identity": 8.5,
+        "premise_readability": 3.5,
+        "sex_appeal": 9.0,
+        "anatomy_composition": 8.5,
+        "animation_potential": 4.5
+      },
+      "weighted_total": 6.8,
+      "summary": "Tifa es reconocible por el cabello negro largo, ojos rojos, top blanco, falda negra, guantes rojos y medias altas; la barra, botellas y ambiente de Seventh Heaven están presentes. Se ve una copa con espuma, pero no beer tap ni nube expansiva cubriendo la barra, y Tifa no está alcanzando un tap. La anatomía y composición son limpias, pero el gancho de expansión y lucha con el grifo no está representado."
+    },
+    {
+      "candidate_id": "candidate_02",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_120023_tifa_001\\illustrious\\candidate_00002_.png",
+      "hard_fail": true,
+      "hard_fail_reasons": ["a must_include element central to the premise is missing: beer tap", "a must_include element central to the premise is missing: expanding foam cloud"],
+      "scores": {
+        "identity": 8.5,
+        "premise_readability": 2.5,
+        "sex_appeal": 9.0,
+        "anatomy_composition": 8.5,
+        "animation_potential": 3.5
+      },
+      "weighted_total": 6.4,
+      "summary": "La identidad de Tifa y el bar con botellas y barra son claros. No aparece beer tap, espuma expansiva ni una acción de alcanzar el grifo; la pose es una presentación estática frente a la barra. La calidad anatómica es buena, pero la premisa y su mecanismo animable no se leen."
+    },
+    {
+      "candidate_id": "candidate_03",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_120023_tifa_001\\illustrious\\candidate_00003_.png",
+      "hard_fail": true,
+      "hard_fail_reasons": ["a must_include element central to the premise is missing: beer tap", "a must_include element central to the premise is missing: expanding foam cloud"],
+      "scores": {
+        "identity": 8.5,
+        "premise_readability": 2.5,
+        "sex_appeal": 9.0,
+        "anatomy_composition": 8.5,
+        "animation_potential": 3.5
+      },
+      "weighted_total": 6.4,
+      "summary": "Tifa, su vestuario, barra de madera, botellas y ambiente de bar son reconocibles. La imagen no muestra beer tap, nube de espuma ni a Tifa alcanzando el grifo; solo presenta una pose apoyada en la barra. Anatomía y luz son sólidas, pero no hay un evento visual claro para animar."
+    },
+    {
+      "candidate_id": "candidate_04",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_120023_tifa_001\\illustrious\\candidate_00004_.png",
+      "hard_fail": true,
+      "hard_fail_reasons": ["a must_include element central to the premise is missing: beer tap", "a must_include element central to the premise is missing: expanding foam cloud"],
+      "scores": {
+        "identity": 8.5,
+        "premise_readability": 3.5,
+        "sex_appeal": 9.0,
+        "anatomy_composition": 8.5,
+        "animation_potential": 3.5
+      },
+      "weighted_total": 6.6,
+      "summary": "Tifa es reconocible y la barra de Seventh Heaven, botellas y varios vasos de cerveza con espuma están visibles. Sin embargo, no hay beer tap ni una nube expansiva que cubra la barra, y no está alcanzando el grifo; los vasos no sustituyen el elemento central requerido. Anatomía y composición son buenas, pero el movimiento de expansión no se puede leer."
+    }
+  ],
+  "winner": null,
+  "runner_up": null,
+  "selection_reason": "Las cuatro candidatas son hard fail por ausencia del beer tap y de la nube expansiva de espuma. candidate_01 tiene la mejor puntuación numérica, pero no se selecciona ganador hard-fail.",
+  "reviewed_at": "2026-08-20T12:08:00-03:00"
+}

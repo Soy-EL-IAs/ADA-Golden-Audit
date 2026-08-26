@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-1j6a8h10zulvj4cki45c0k",
+  "object": "chat.completion",
+  "created": 1787425482,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"ghislaine_dedoldia_specialist_full_ghislaine_001_03\",\n  \"stage\": \"klein\",\n  \"verdict\": \"PASS\",\n  \"preserved_ok\": [\n    \"eyepatch\",\n    \"grey_hair\",\n    \"cat_ears\",\n    \"red_eyes\"\n  ],\n  \"defects\": [],\n  \"drift\": [\n    \"The character is not frozen mid-motion; her hand is actively engaged with the book, contradicting the premise's 'suspended tension' narrative.\"\n  ],\n  \"summary\": \"All preserved elements are visibly correct. No visible defects. Narrative drift occurs due to the character's active posture rather than the frozen moment described.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1378,
+    "completion_tokens": 159,
+    "total_tokens": 1537,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

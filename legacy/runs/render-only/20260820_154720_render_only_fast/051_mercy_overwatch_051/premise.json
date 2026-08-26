@@ -1,0 +1,34 @@
+{
+  "id": "mercy_overwatch_051",
+  "character": "Mercy",
+  "franchise": "Overwatch",
+  "identity": [
+    "blonde hair in a bun",
+    "white-and-gold fitted Valkyrie suit",
+    "mechanical wing rig"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a spotless medbay, she unfolds her mechanical wings and one wingtip taps a stack of lightweight pillows, sending them tumbling down around her in slow motion, with confident sensual body language throughout.",
+  "must_include": [
+    "mechanical wings",
+    "falling pillows"
+  ],
+  "environment": [
+    "medical bay",
+    "soft clinical lighting",
+    "white beds and glowing monitors"
+  ],
+  "animation_hook": "She folds one wing to catch the last pillow against her hip, then sets it neatly back in place.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000050,
+  "krea_seed_base": 2000050
+}

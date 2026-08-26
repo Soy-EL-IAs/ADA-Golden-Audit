@@ -1,0 +1,26 @@
+{
+  "id": "faye_valentine_ada_Faye_Valentine_20260822_180015_02",
+  "stage": "illustrious",
+  "verdict": "RETRY_ILLUSTRIOUS",
+  "preserved_ok": [
+    "purple_hair",
+    "short_hair",
+    "green_eyes",
+    "hairband",
+    "lipstick",
+    "thighhighs",
+    "boots"
+  ],
+  "defects": [
+    "The newspaper does not cover the chest area as required; it is held open and reveals the large breasts, violating the strategic censorship premise.",
+    "The shirt is not a crop top; it appears as a red jacket with puffed sleeves tied at the waist, which is inconsistent with the approved premise.",
+    "The shorts are yellow and appear to be a bikini-style bottom with suspenders, not matching the described shorts.",
+    "The bare shoulders are not preserved because the red jacket covers them, contradicting the requirement to maintain bare shoulders despite the obstruction.",
+    "The visible cause (off-frame threat) is absent; there is no silhouette or light source implying an interruption, making the defensive posture unjustified."
+  ],
+  "drift": [
+    "The composition lacks the implied off-frame threat, removing the narrative tension and consequence that define the premise.",
+    "The clothing has been altered to a red jacket and yellow shorts, which deviates from the approved outfit and misrepresents the character’s signature style."
+  ],
+  "summary": "The image fails to meet the strategic censorship premise by not obscuring the chest with the newspaper and by altering the clothing to a jacket and bikini-style shorts, which contradicts the approved outfit. The absence of an off-frame threat removes the narrative justification for her defensive posture."
+}

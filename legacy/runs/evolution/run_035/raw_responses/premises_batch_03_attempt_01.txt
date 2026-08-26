@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e035_b03_closeup",
+    "category": "closeup",
+    "premise": "A single, thick drop of condensation falls from a leaking pipe directly onto the center of 2B's black blindfold, causing her to hold her breath and slightly tilt her chin down as she waits for the fabric to absorb the moisture before it drips into her eye, her jaw tightening with suppressed annoyance."
+  },
+  {
+    "id": "e035_b03_medium",
+    "category": "medium",
+    "premise": "2B twists her upper body sharply to the right, extending her left arm fully to grip a vibrating control lever, causing the puffy feather-trimmed sleeve on that side to compress and bunch up while her torso arcs in an exaggerated counter-balance to stabilize her stance against the machine's hum."
+  },
+  {
+    "id": "e035_b03_fullbody",
+    "category": "fullbody",
+    "premise": "2B freezes mid-step on a polished, wet metal floor where a layer of grease has caused her right thigh-high boot to skid sideways, forcing her left leg to lunge forward and her arms to swing wildly for balance as she fights to keep her hips from rotating out of alignment."
+  },
+  {
+    "id": "e035_b03_dynamic",
+    "category": "dynamic",
+    "premise": "2B performs a rapid, low crouch-spin to dodge a horizontal laser tripwire, her black dress hem whipping in a circular blur around her legs and her short white hair fanning out from the centrifugal force of the turn as she completes the rotation."
+  },
+  {
+    "id": "e035_b03_cinematic",
+    "category": "cinematic",
+    "premise": "2B is silhouetted against a towering, glowing coolant tower, pressing her back flat against its cold surface to avoid the heat shimmer rising from below, her arms pinned tight to her sides as she watches a heavy maintenance drone drift slowly past at eye level."
+  }
+]

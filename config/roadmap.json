@@ -1,0 +1,78 @@
+{
+  "milestones": [
+    {"name": "ADA 0.8 — Autonomous Quality Loop", "status": "Complete"},
+    {"name": "ADA 0.9 — Reliability & Recovery", "status": "Complete"},
+    {"name": "ADA 1.0 — Production + Library-First Experience", "status": "In Progress"}
+  ],
+  "categories": [
+    {
+      "category": "Product",
+      "items": [
+        {"name": "ADA App v0.1", "status": "Complete"},
+        {"name": "Unified Run Index", "status": "Complete"},
+        {"name": "Asset Library", "status": "Complete"},
+        {"name": "Production Mission System", "status": "In Progress"},
+        {"name": "Library-First Experience", "status": "In Progress"},
+        {"name": "Explicit Character Onboarding", "status": "Complete"},
+        {"name": "Characters Identity Catalog", "status": "Complete"},
+        {"name": "Image-level Library Lineage", "status": "Complete"},
+        {"name": "Persistent Library Actions", "status": "Complete"},
+        {"name": "Multi-select Gallery Removal", "status": "Complete"},
+        {"name": "Recent Assets by Image", "status": "Complete"},
+        {"name": "Collection Filter", "status": "Complete"},
+        {"name": "Natural Language Command Bar", "status": "In Progress"},
+        {"name": "Franchise Collections", "status": "In Progress"}
+      ]
+    },
+    {
+      "category": "Foundation",
+      "items": [
+        {"name": "Specialist architecture", "status": "Complete"},
+        {"name": "Persistent run state", "status": "Complete"},
+        {"name": "Native LM Studio transport", "status": "Complete"},
+        {"name": "Structured output", "status": "Complete"},
+        {"name": "Semantic guard", "status": "Complete"},
+        {"name": "Configurable Creative Expansion model", "status": "Complete"},
+        {"name": "Run reconciliation & recovery", "status": "Complete"},
+        {"name": "VRAM lifecycle management", "status": "Complete"},
+        {"name": "Immutable provenance", "status": "Complete"},
+        {"name": "Change Log + Decision Records", "status": "Complete"}
+      ]
+    },
+    {
+      "category": "Creative Engine",
+      "items": [
+        {"name": "M1 — Concept contract & baseline", "status": "Complete"},
+        {"name": "M2 — Fast Creative Expansion", "status": "Complete"},
+        {"name": "M3 — Diversity & Quality Filter", "status": "Complete"},
+        {"name": "M4 — Auto Selection", "status": "Complete"}
+      ]
+    },
+    {
+      "category": "Image Pipeline",
+      "items": [
+        {"name": "Premise / Concept compilation", "status": "Complete"},
+        {"name": "Illustrious prompt + render", "status": "Complete"},
+        {"name": "Visual Review (Qwen-VL)", "status": "Complete"},
+        {"name": "Klein prompt + render", "status": "Complete"},
+        {"name": "Final Review + Quality Router", "status": "Complete"},
+        {"name": "Quality Loop (retries)", "status": "Complete"},
+        {"name": "Exclusive Renderer Selection", "status": "Complete"},
+        {"name": "Character-aware Renderer Capabilities", "status": "In Progress", "description": "Ghislaine has evidence-backed Miaomiao/Lustify states; expand only through controlled evidence for each character."},
+        {"name": "Lustify Latent Img2Img Identity Fallback", "status": "Complete", "description": "Verified Recipe B: validated Miaomiao same-concept source to Lustify latent Img2Img for characters whose direct capability is unreliable."},
+        {"name": "Reusable Trusted Character Reference Registry", "status": "Planned", "description": "Store explicitly approved reusable references; never infer them from latest historical files."},
+        {
+          "name": "Semantic Reinterpretation Agent",
+          "status": "Short Term",
+          "description": "Replace the current tag-heavy reinterpretation prompt with an agent that understands the source scene, preserves its intended visual relationships, and rewrites the concept coherently for the target character before stage prompt compilation."
+        }
+      ]
+    },
+    {
+      "category": "Video",
+      "items": [
+        {"name": "MiniMax (planned)", "status": "Planned"}
+      ]
+    }
+  ]
+}

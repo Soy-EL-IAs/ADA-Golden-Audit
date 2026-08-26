@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Models Registry v1",
+  "type": "object",
+  "required": ["schema_version", "registry_version", "discovered_at", "scan_roots", "expected_files", "missing_files", "models", "capability_profiles"],
+  "properties": {
+    "schema_version": {"const": "models_registry_v1"},
+    "registry_version": {"const": 1},
+    "discovered_at": {"type": "string"},
+    "scan_roots": {"type": "array"},
+    "expected_files": {"type": "array"},
+    "missing_files": {"type": "array"},
+    "filename_discrepancies": {"type": "array"},
+    "models": {"type": "array"},
+    "capability_profiles": {"type": "object"}
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"2b_(nier:automata), full body, standing in center of dimly lit industrial corridor, facing away from viewer, looking toward heavy steel door slightly ajar revealing sliver of warm light, rigid alert posture, one hand resting on hilt of sword at hip, single drop of oil falling from ceiling onto shoulder, blindfold clearly visible over eyes, short white hair, black dress with puffy sleeves and cutouts, thigh boots, cool-toned industrial lighting contrasting with warm door light\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 736,
+    "total_output_tokens": 110,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.503047268200373,
+    "time_to_first_token_seconds": 1.5548989999999998
+  }
+}

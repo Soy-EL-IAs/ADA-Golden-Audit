@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e012_b01_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A tight close-up on 2B's face as a sudden, sharp gust of wind from an off-screen ventilation shaft pushes loose strands of her short white hair across her black blindfold; she squints slightly behind the fabric and tenses her jaw in controlled annoyance rather than surprise, with one gloved hand rising to brush the hair away.\"\n  },\n  {\n    \"id\": \"e012_b01_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B standing in a narrow corridor where a heavy metal gate is slowly closing behind her; she uses one gloved hand to push the sliding panel back open while simultaneously adjusting the puffy feather-trimmed sleeve on her other arm, which has snagged slightly on the gate's edge, maintaining a composed expression despite the effort.\"\n  },\n  {\n    \"id\": \"e012_b01_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B stepping carefully across a narrow, unstable beam in a rusted industrial structure; her weight is shifted to one leg as she extends the other foot to test its stability before fully committing, her black dress and thigh-high boots highlighting her balanced posture against the chaotic background.\"\n  },\n  {\n    \"id\": \"e012_b01_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Mid-air dynamic shot of 2B leaping over a sudden burst of steam jets erupting from the floor; her body is arched low, hair trailing behind her with motion blur, and her gloved hands are held tight against her sides to minimize air resistance as she clears the hazard.\"\n  },\n  {\n    \"id\": \"e012_b01_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Wide cinematic angle showing 2B climbing out of a deep, dark shaft in a massive cathedral-like ruin; she grips the stone edge with both hands to pull herself up, her silhouette backlit by a single beam of light from above, emphasizing the scale of the environment against her determined effort.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 2761,
+    "total_output_tokens": 509,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.293013375518106,
+    "time_to_first_token_seconds": 3.390034
+  }
+}

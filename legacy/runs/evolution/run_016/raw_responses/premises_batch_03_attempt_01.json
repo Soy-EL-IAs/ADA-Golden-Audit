@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e016_b03_1\",\n    \"category\": \"closeup\",\n    \"premise\": \"2B's gloved fingers are shown tightly pinching a frayed thread hanging from her black blindfold, pulling it taut with a subtle micro-expression of annoyance as she tries to maintain her composed expression.\"\n  },\n  {\n    \"id\": \"e016_b03_2\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up view of 2B leaning forward slightly, using both hands to pry open a jammed rusted hatch cover, her puffy feather-trimmed sleeves compressing against the metal frame as she exerts force.\"\n  },\n  {\n    \"id\": \"e016_b03_3\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B stands with legs apart in a wide, stable stance on a cracked stone slab, her arms crossed over her chest to brace herself against the tremors of the shaking ground beneath her boots.\"\n  },\n  {\n    \"id\": \"e016_b03_4\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B snaps her head sharply to the left, tracking a high-speed projectile whizzing past her ear, causing her short white hair to whip violently while her body remains anchored in a defensive crouch.\"\n  },\n  {\n    \"id\": \"e016_b03_5\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Framed by the massive, slowly closing jaws of an industrial press machine, 2B stands perfectly still in the center, her posture rigid and arms at her sides as she waits for the precise moment to step aside.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4130,
+    "total_output_tokens": 405,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.783721062199028,
+    "time_to_first_token_seconds": 5.981980999999999
+  }
+}

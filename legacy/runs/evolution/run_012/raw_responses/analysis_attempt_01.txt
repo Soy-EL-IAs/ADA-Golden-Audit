@@ -1,0 +1,227 @@
+{
+  "per_premise": [
+    {
+      "id": "e012_b01_closeup",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.5,
+      "animation_potential": 6.0,
+      "notes": "Strong identity with blindfold/hair interaction. 'Controlled annoyance' fits personality well. Cause (ventilation shaft) is specific enough for a closeup."
+    },
+    {
+      "id": "e012_b01_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.5,
+      "animation_potential": 7.0,
+      "notes": "Excellent dual-action (pushing gate + adjusting snagged sleeve). The snag provides a clear causal link to the outfit adjustment. Good use of specific clothing details."
+    },
+    {
+      "id": "e012_b01_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.5,
+      "micro_story": 6.5,
+      "animation_potential": 7.5,
+      "notes": "'Testing stability' is a good micro-story element that avoids pure static posing. However, 'unstable beam' is a somewhat generic industrial hazard."
+    },
+    {
+      "id": "e012_b01_dynamic",
+      "identity": 8.5,
+      "visual_appeal": 9.0,
+      "micro_story": 7.0,
+      "animation_potential": 9.0,
+      "notes": "High energy. 'Steam jets' are a bit generic but the specific action of leaping over them with minimized air resistance is distinct. Good motion blur potential."
+    },
+    {
+      "id": "e012_b01_cinematic",
+      "identity": 9.0,
+      "visual_appeal": 8.5,
+      "micro_story": 7.5,
+      "animation_potential": 6.5,
+      "notes": "'Climbing out' is active, avoiding the 'standing on ledge' trap. Cathedral ruin is a valid location but borders on atmospheric if not careful; here the action saves it."
+    },
+    {
+      "id": "e012_b02_closeup",
+      "identity": 9.5,
+      "visual_appeal": 7.5,
+      "micro_story": 6.0,
+      "animation_potential": 4.5,
+      "notes": "Heat/flare cause is specific. However, 'sweat beads' and 'damp hair' are subtle changes that may be hard to animate distinctly in a short clip without looking like a static portrait with slight movement."
+    },
+    {
+      "id": "e012_b02_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.5,
+      "animation_potential": 6.5,
+      "notes": "Inspecting a panel is good interaction. 'Sparks popping near sleeve' adds consequence to the proximity. Slightly passive compared to b01_medium but acceptable."
+    },
+    {
+      "id": "e012_b02_fullbody",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.5,
+      "animation_potential": 7.5,
+      "notes": "Untangling stocking from rebar is a strong micro-story with clear cause and physical consequence (tension in posture). Excellent use of specific clothing item."
+    },
+    {
+      "id": "e012_b02_dynamic",
+      "identity": 8.5,
+      "visual_appeal": 9.0,
+      "micro_story": 7.5,
+      "animation_potential": 9.0,
+      "notes": "Sliding to evade falling panel is distinct from leaping (b01). Sparks trailing boots add visual flair and consequence of the slide."
+    },
+    {
+      "id": "e012_b02_cinematic",
+      "identity": 8.5,
+      "visual_appeal": 9.0,
+      "micro_story": 7.0,
+      "animation_potential": 8.5,
+      "notes": "Swinging on a cable is high motion potential. 'Frayed cable' adds tension/risk. Distinct from climbing (b01) and leaping (b04)."
+    },
+    {
+      "id": "e012_b03_closeup",
+      "identity": 9.5,
+      "visual_appeal": 7.5,
+      "micro_story": 6.5,
+      "animation_potential": 5.0,
+      "notes": "Cold mist jet is a specific cause. Tilting head to shield ear is a good reactive motion. Similar emotional register (controlled reaction) to b01 and b02 closeups."
+    },
+    {
+      "id": "e012_b03_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.5,
+      "animation_potential": 6.5,
+      "notes": "Ducking under a swinging pipe is good active navigation. 'Bracing against metal' provides physical contact and consequence."
+    },
+    {
+      "id": "e012_b03_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.5,
+      "micro_story": 6.0,
+      "animation_potential": 7.0,
+      "notes": "Stepping over a puddle is low-stakes. While it shows locomotion, the 'distorted silhouette' reflection is more atmospheric than causal. Less tension than other fullbody shots."
+    },
+    {
+      "id": "e012_b03_dynamic",
+      "identity": 8.5,
+      "visual_appeal": 8.5,
+      "micro_story": 7.0,
+      "animation_potential": 9.0,
+      "notes": "Dodging falling debris is a standard dynamic action. 'Twisting torso' and 'hands extended for balance' are good technical details."
+    },
+    {
+      "id": "e012_b03_cinematic",
+      "identity": 9.0,
+      "visual_appeal": 8.5,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Climbing a moss-covered wall in a forest ruin. Distinct location from industrial/cathedral. Active climbing avoids passive scenic pose."
+    },
+    {
+      "id": "e012_b04_closeup",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 5.5,
+      "notes": "Condensation drop is a very specific, quiet cause. 'Holding breath' and 'eyes wide' are good micro-expressions. High anticipation."
+    },
+    {
+      "id": "e012_b04_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.5,
+      "animation_potential": 6.5,
+      "notes": "Chain slamming behind her is a strong off-screen cause with immediate physical consequence (gust of air flaring sleeve). Good reactive action."
+    },
+    {
+      "id": "e012_b04_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.5,
+      "micro_story": 6.5,
+      "animation_potential": 7.5,
+      "notes": "Stepping over broken glass is similar in function to stepping over a puddle (b03) or beam (b01). It's locomotion but lacks the 'testing' or 'untangling' narrative depth of other fullbody shots."
+    },
+    {
+      "id": "e012_b04_dynamic",
+      "identity": 8.5,
+      "visual_appeal": 9.0,
+      "micro_story": 7.5,
+      "animation_potential": 9.0,
+      "notes": "Side-stepping a swinging mace is distinct from leaping/sliding/dodging debris. 'Tucked hands' shows tactical awareness."
+    },
+    {
+      "id": "e012_b04_cinematic",
+      "identity": 8.5,
+      "visual_appeal": 9.0,
+      "micro_story": 7.0,
+      "animation_potential": 8.5,
+      "notes": "Leaping across a gap is high stakes. 'Widening gap' adds urgency. Distinct from climbing and swinging."
+    }
+  ],
+  "set_scores": {
+    "identity": 9.2,
+    "visual_appeal": 8.4,
+    "diversity": 7.5,
+    "repetition_control": 6.5,
+    "micro_story": 7.2,
+    "animation_potential": 7.3
+  },
+  "strengths": [
+    "Consistent adherence to the local identity profile (blindfold, hair, dress details) across all premises.",
+    "Strong use of specific causal triggers (snagged sleeve, swinging pipe, falling chain) that justify character reactions.",
+    "Good variety in shot types and emotional registers, avoiding a monotonous 'tension' loop.",
+    "Dynamic shots effectively utilize motion blur and directional vectors."
+  ],
+  "failures": [
+    "Repetition of the 'industrial hazard reaction' family (steam, sparks, debris, chains) across multiple batches, leading to conceptual fatigue despite different specific objects.",
+    "Fullbody shots in b03 and b04 (stepping over puddle/glass) are lower stakes and less narratively rich than the untangling/climbing shots, feeling like filler locomotion.",
+    "Closeup shots rely heavily on 'controlled annoyance/irritation' as the primary emotional beat, which is consistent but slightly repetitive in register."
+  ],
+  "desired_patterns": [
+    "Integration of specific clothing items (sleeves, stockings) into the causal chain of events.",
+    "Clear distinction between active navigation (climbing, swinging) and passive observation.",
+    "Use of off-screen causes that have immediate, visible physical consequences on the character's body or outfit."
+  ],
+  "undesired_patterns": [
+    "Generic 'dodging debris' without a specific source or unique interaction.",
+    "Locomotion shots (stepping over small obstacles) that lack narrative tension or consequence.",
+    "Atmospheric elements (mist, rain, ruins) serving as the primary hook rather than the character's reaction to them."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Industrial Hazard Reaction",
+      "proposal_ids": [
+        "e012_b01_dynamic",
+        "e012_b02_medium",
+        "e012_b03_medium",
+        "e012_b04_medium"
+      ]
+    },
+    {
+      "pattern": "Locomotion/Obstacle Navigation (Low Stakes)",
+      "proposal_ids": [
+        "e012_b01_fullbody",
+        "e012_b03_fullbody",
+        "e012_b04_fullbody"
+      ]
+    },
+    {
+      "pattern": "Closeup Environmental Irritation",
+      "proposal_ids": [
+        "e012_b01_closeup",
+        "e012_b02_closeup",
+        "e012_b03_closeup"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Introduce at least one premise per batch that involves interaction with a non-industrial element (e.g., organic growth, water mechanics, light refraction) to break the 'rust and steam' monotony.",
+    "Elevate the stakes of fullbody locomotion shots; instead of stepping over small debris, involve balance on a crumbling edge or navigating a shifting floor.",
+    "Vary the emotional register in closeups more aggressively; include moments of surprise, focus, or even brief vulnerability rather than just 'controlled annoyance.'",
+    "Ensure dynamic shots have unique vectors (e.g., vertical drop vs. horizontal slide) to avoid visual similarity."
+  ],
+  "verdict": "Strong set with high identity fidelity and good causal logic, but suffers from conceptual repetition in the 'industrial hazard' family and lower-stakes fullbody navigation shots that dilute the overall narrative tension."
+}

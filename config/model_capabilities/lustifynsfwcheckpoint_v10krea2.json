@@ -1,0 +1,165 @@
+{
+  "schema_version": "model_capability_profile_v1",
+  "model_id": "lustifynsfwcheckpoint_v10krea2",
+  "physical_type": "checkpoint",
+  "family": "Krea2",
+  "architecture": "krea2_transformer",
+  "loader": {
+    "name": "UNETLoader",
+    "status": "candidate"
+  },
+  "capabilities": {
+    "image_generation": {
+      "state": "confirmed",
+      "evidence": "checkpoint structure"
+    },
+    "image_to_image": {
+      "state": "confirmed",
+      "evidence": "Model Lab Recipe B: lustify_identity_reference_ghislaine_001/recipes/B_latent_img2img/model_test_receipt.json"
+    },
+    "identity_preservation": {
+      "state": "unknown",
+      "evidence": "requires controlled test"
+    },
+    "realism_conversion": {
+      "state": "supported_direct",
+      "evidence": "manual_controlled_benchmark_20260824"
+    },
+    "anime_generation": {
+      "state": "supported_direct",
+      "evidence": "manual_controlled_benchmark_20260824"
+    }
+  },
+  "test_status": "production_primary",
+  "renderer_role": "primary",
+  "conditioning_capabilities": {"direct_t2i": "supported", "latent_img2img": "confirmed_via_lustify_krea2_img2img_v1", "reference_edit": "ecosystem_supported_adapter_required", "style_reference": "adapter_required", "structure_control": {"silhouette": "experimental", "depth": "experimental", "pose": "experimental"}},
+  "test_recipe": {
+    "status": "ready",
+    "runner": "direct_generator_benchmark_v1",
+    "recipe_id": "lustify_krea2_direct_v1"
+  },
+  "role_evaluations": {
+    "identity_constructor": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "anime_to_real_converter": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "photorealistic_generator": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "style_preserver": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "direct_anime_generator": {
+      "state": "tested",
+      "score": 9.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    }
+  },
+  "benchmark_dimensions": {
+    "composition_preservation": {
+      "state": "tested",
+      "score": 8.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "environment_quality": {
+      "state": "tested",
+      "score": 9.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "eye_color_preservation": {
+      "state": "tested",
+      "score": 10.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "face_similarity": {
+      "state": "tested",
+      "score": 5.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "hairstyle_preservation": {
+      "state": "tested",
+      "score": 9.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "identity_preservation": {
+      "state": "tested",
+      "score": 8.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "outfit_preservation": {
+      "state": "tested",
+      "score": 9.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "overall": {
+      "state": "tested",
+      "score": 9.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "pose_anatomy": {
+      "state": "tested",
+      "score": 9.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "prompt_adherence": {
+      "state": "tested",
+      "score": 9.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    },
+    "visual_appeal": {
+      "state": "tested",
+      "score": 9.0,
+      "sample_count": 1,
+      "evidence_receipts": [
+        "D:\\IA\\Ada\\experimental\\model_lab\\benchmarks\\direct_generator_benchmark_001\\evaluations\\yoruichi_rooftop_neon_rain_001\\evaluation_20260824T193334283146Z_adb9b5.json"
+      ]
+    }
+  }
+}

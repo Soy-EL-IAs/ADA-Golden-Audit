@@ -1,0 +1,70 @@
+{
+  "schema_version": "model_capability_profile_v1",
+  "model_id": "anima_3_8b_expanded_adapter",
+  "physical_type": "adapter",
+  "family": "Anima",
+  "architecture": "anima_progressive_qwen35_cross_adapter_v1",
+  "loader": {
+    "name": "custom Anima adapter loader",
+    "status": "unknown"
+  },
+  "capabilities": {
+    "image_generation": {
+      "state": "unknown",
+      "evidence": "not independently runnable"
+    },
+    "image_to_image": {
+      "state": "unknown",
+      "evidence": "requires controlled test"
+    },
+    "identity_preservation": {
+      "state": "unknown",
+      "evidence": "requires controlled test"
+    },
+    "realism_conversion": {
+      "state": "unknown",
+      "evidence": "requires controlled test"
+    },
+    "anime_generation": {
+      "state": "unknown",
+      "evidence": "requires controlled test"
+    }
+  },
+  "test_status": "not_tested",
+  "test_recipe": {
+    "status": "blocked",
+    "reason": "loader/dependency recipe has not been confirmed in Model Lab"
+  },
+  "role_evaluations": {
+    "identity_constructor": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "anime_to_real_converter": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "photorealistic_generator": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "style_preserver": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "direct_anime_generator": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"character\": \"2B\",\n  \"version\": \"NieR:Automata\",\n  \"premise_spec\": {\n    \"situation\": \"2B is seated on a cold stone floor in a dimly lit, abandoned cathedral, her posture rigid and restrained as she attempts to maintain composure while adjusting the strap of her black dress.\",\n    \"cause_and_consequence\": \"A sudden, sharp crack of thunder from outside startles her, causing her to flinch violently; this abrupt movement causes her blindfold to slip slightly down her nose, revealing one eye for a fleeting second before she quickly readjusts it with trembling hands.\",\n    \"composition_moment\": \"Low-angle close-up focusing on 2B's upper body and face, capturing the exact moment of the flinch and the partial exposure of the eye beneath the blindfold, with shallow depth of field blurring the cathedral background.\",\n    \"visible_elements_to_preserve\": [\n      \"blindfold\",\n      \"white_hair\"\n    ],\n    \"risk_notes\": \"Ensure the blindfold remains the primary facial feature to maintain mystery; avoid showing both eyes simultaneously. The 'restrained' nature should be conveyed through tight clothing and stiff posture rather than explicit exposure. The thunder must be implied by her reaction, not shown as a visual lightning bolt in the frame.\"\n  }\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 518,
+    "total_output_tokens": 289,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.997238133243744,
+    "time_to_first_token_seconds": 1.055942
+  }
+}

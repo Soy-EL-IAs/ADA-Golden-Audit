@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e021_b01_1\",\n    \"category\": \"closeup\",\n    \"premise\": \"A tight close-up on 2B's face as a sudden, sharp hiss from an off-screen hydraulic leak startles her; the vibration causes a fine layer of dust to fall from her short white hair onto her black blindfold, while her fingers twitch slightly at her sides in a micro-expression of suppressed shock.\"\n  },\n  {\n    \"id\": \"e021_b01_2\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B twisting her torso sharply to the left as a burst of steam erupts from a broken pipe behind her right shoulder; the force pushes her puffy feather-trimmed sleeve outward, creating a dramatic flare that contrasts with her rigid, composed posture.\"\n  },\n  {\n    \"id\": \"e021_b01_3\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B balancing on a narrow, tilting metal beam as the structure groans and dips under her weight; she extends one gloved hand to steady herself against a rusted wall while her black dress hem flutters in the sudden updraft, highlighting the silhouette of her thigh-high stockings.\"\n  },\n  {\n    \"id\": \"e021_b01_4\",\n    \"category\": \"dynamic\",\n    \"premise\": \"High-energy action shot of 2B sliding across a concrete floor to evade a falling rebar, her body low and angled; motion blur trails behind her as her hair whips forward from the momentum, and one boot scrapes sparks against the ground in an effort to stop.\"\n  },\n  {\n    \"id\": \"e021_b01_5\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Wide establishing shot of a collapsing industrial catwalk where 2B is crouched low, shielding her head as large chunks of debris rain down around her; the environment is actively breaking apart, with dust clouds rising rapidly to obscure the background, emphasizing her small but determined figure against the chaos.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3097,
+    "total_output_tokens": 490,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.07993242413303,
+    "time_to_first_token_seconds": 4.475505
+  }
+}

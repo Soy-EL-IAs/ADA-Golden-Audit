@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e032_b04_closeup",
+    "category": "closeup",
+    "premise": "Extreme close-up of 2B's lips parting to release a sharp, controlled exhale as a jagged shard of crystallized ice snaps off her black blindfold and skitters across the concrete floor in front of her."
+  },
+  {
+    "id": "e032_b04_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B extending one arm to steady a wobbling, rusted fire extinguisher mounted on a tilted wall bracket, her other hand gripping the metal casing as she pulls it free with visible effort, causing her puffy feather-trimmed sleeve to strain and bulge at the shoulder."
+  },
+  {
+    "id": "e032_b04_fullbody",
+    "category": "fullbody",
+    "premise": "Full body view of 2B mid-step over a deep, jagged crack in the floor that is emitting wisps of steam, her left leg planted firmly on the stable side while her right boot hovers cautiously above the gap, her dress hem and thigh-high stockings billowing slightly from the heat vent below."
+  },
+  {
+    "id": "e032_b04_dynamic",
+    "category": "dynamic",
+    "premise": "Dynamic shot of 2B twisting her torso sharply to swing a heavy, detached pipe wrench through the air, her body rotating with the momentum and her white hair whipping around her face as she aims for a sparking electrical box."
+  },
+  {
+    "id": "e032_b04_cinematic",
+    "category": "cinematic",
+    "premise": "Cinematic low-angle shot of 2B reaching up to grab the handle of a descending, rusted service lift platform as it jolts downward, her arms fully extended and her body suspended in mid-air against the towering concrete pillar behind her."
+  }
+]

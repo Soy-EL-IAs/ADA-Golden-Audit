@@ -1,0 +1,34 @@
+{
+  "id": "aerith_gainsborough_009",
+  "character": "Aerith Gainsborough",
+  "franchise": "Final Fantasy VII",
+  "identity": [
+    "long chestnut braid with pink ribbon",
+    "pink fitted dress with cropped red jacket",
+    "flower basket"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a sunlit flower shop, she steps backward while arranging a bouquet and bumps a watering can that rolls in a circle around her boots without spilling until the very end, with confident sensual body language throughout.",
+  "must_include": [
+    "rolling watering can",
+    "flower basket"
+  ],
+  "environment": [
+    "flower shop",
+    "soft golden daylight",
+    "hanging plants and colorful blooms"
+  ],
+  "animation_hook": "She traps the can gently between her boots, lifts it with one foot, and catches the handle with a playful flourish.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000008,
+  "krea_seed_base": 2000008
+}

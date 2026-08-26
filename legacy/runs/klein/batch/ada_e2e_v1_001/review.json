@@ -1,0 +1,73 @@
+{
+  "batch_id": "ada_e2e_v1_001",
+  "model": "qwen/qwen3-vl-8b",
+  "reviewed_at": "2026-08-21T18:13:02.945430-03:00",
+  "count": 4,
+  "pass": 3,
+  "review": 0,
+  "reject": 1,
+  "reviews": [
+    {
+      "id": "ada_e2e_2b_closeup_01",
+      "compare": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_closeup_01\\compare_00001_.png",
+      "verdict": "PASS",
+      "identity": 10,
+      "anatomy": 10,
+      "visual_appeal": 9,
+      "viral_hook": 9,
+      "animation_potential": 9,
+      "single_subject": true,
+      "identity_issues": [],
+      "visual_issues": [],
+      "reason": "Accurate depiction of 2B from NieR:Automata, with consistent outfit, blindfold, and hairstyle. No anatomical errors or occlusion contradictions. Both halves show the same subject with minor stylistic differences appropriate for source vs. final render. Visuals are strong and suitable for reference.",
+      "elapsed_seconds": 2.481
+    },
+    {
+      "id": "ada_e2e_2b_fullbody_01",
+      "compare": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_fullbody_01\\compare_00001_.png",
+      "verdict": "PASS",
+      "identity": 10,
+      "anatomy": 10,
+      "visual_appeal": 9,
+      "viral_hook": 9,
+      "animation_potential": 9,
+      "single_subject": true,
+      "identity_issues": [],
+      "visual_issues": [],
+      "reason": "Subject is correctly identified as 2B from Nier: Automata. Anatomy is consistent and well-proportioned. Outfit, blindfold, and sword are accurate. No occlusion contradictions. Visuals are clean and impactful for a reference frame.",
+      "elapsed_seconds": 2.207
+    },
+    {
+      "id": "ada_e2e_2b_dynamic_01",
+      "compare": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_dynamic_01\\compare_00001_.png",
+      "verdict": "PASS",
+      "identity": 10,
+      "anatomy": 10,
+      "visual_appeal": 9,
+      "viral_hook": 9,
+      "animation_potential": 9,
+      "single_subject": true,
+      "identity_issues": [],
+      "visual_issues": [],
+      "reason": "Subject is correctly identified as 2B from NieR: Automata. Anatomy is consistent and well-proportioned. Outfit, blindfold, and pose are accurate. No occlusion contradictions. Visuals are clean and impactful. Slight difference in background and lighting between halves is expected and not a defect.",
+      "elapsed_seconds": 2.283
+    },
+    {
+      "id": "ada_e2e_2b_cinematic_01",
+      "compare": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_cinematic_01\\compare_00001_.png",
+      "verdict": "REJECT",
+      "identity": 10,
+      "anatomy": 7,
+      "visual_appeal": 9,
+      "viral_hook": 8,
+      "animation_potential": 8,
+      "single_subject": true,
+      "identity_issues": [],
+      "visual_issues": [
+        "Broken anatomy: hands are malformed and inconsistently rendered (left: fingers blurred/merged, right: fingers too long and stiff), right hand appears to have extra fingers or misaligned knuckles. Left arm has unnatural feather-like extensions. Right leg has a visible seam/edge artifact near the thigh."
+      ],
+      "reason": "Critical anatomical inconsistencies in hands and limbs, including malformed fingers and unnatural feather-like arm extensions, violate visual QA standards for character integrity. These are not minor artifacts but structural errors that break immersion and suitability for animation or reference use.",
+      "elapsed_seconds": 2.654
+    }
+  ]
+}

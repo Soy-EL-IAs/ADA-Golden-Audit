@@ -1,0 +1,217 @@
+{
+  "per_premise": [
+    {
+      "id": "e032_b01_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Strong causal link (shattering glass). The 'crack in blindfold' is a minor factual risk but acceptable as damage. Good micro-expression."
+    },
+    {
+      "id": "e032_b01_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 7,
+      "notes": "Active interaction (catching gear). Good use of fabric physics. Slightly generic 'industrial' setting but the action is specific."
+    },
+    {
+      "id": "e032_b01_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Balance challenge is clear. Wind cause is visible/inferable. Good silhouette."
+    },
+    {
+      "id": "e032_b01_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 9,
+      "notes": "High kinetic energy. Vaulting is a distinct verb. Dust trail adds consequence."
+    },
+    {
+      "id": "e032_b01_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Strong scale contrast. Active grip on rotating fan blade avoids static silhouette trap."
+    },
+    {
+      "id": "e032_b02_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 5,
+      "notes": "Excellent micro-story (oil drop on hairband). Very specific cause and reaction. Low animation potential as it's a moment of impact."
+    },
+    {
+      "id": "e032_b02_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Dodge action is clear. 'Twisting' verb repeats from b01_medium but context differs (avoid vs catch). Acceptable."
+    },
+    {
+      "id": "e032_b02_fullbody",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 8,
+      "notes": "Vibrating beam is a good cause. Similar to b01_fullbody (balance on narrow surface) but distinct enough due to vibration vs wind."
+    },
+    {
+      "id": "e032_b02_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Diving low is distinct from vaulting. Clear cause (falling beam). Good motion blur description."
+    },
+    {
+      "id": "e032_b02_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "REPEATED CONCEPT: Clinging to rotating fan blade. Nearly identical to e032_b01_cinematic (upside down vs side). Major repetition failure."
+    },
+    {
+      "id": "e032_b03_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Electrical surge causing vibration is a bit abstract for a close-up. 'Squeezing eyes shut' is a good reaction but less visually distinct than the oil drop."
+    },
+    {
+      "id": "e032_b03_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 7,
+      "notes": "REPEATED CONCEPT: Catching a falling heavy object. Very similar to e032_b01_medium (catching gear). 'Leaning back' vs 'twisting' is not enough differentiation for the core mechanic."
+    },
+    {
+      "id": "e032_b03_fullbody",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 6,
+      "notes": "Stepping over glass is a form of locomotion. The guide warns against 'generic locomotion' without stake. Reaching for exit provides some stake, but it's weaker than the balance challenges in b01/b02."
+    },
+    {
+      "id": "e032_b03_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Somersault is a distinct verb. Laser grid is a clear threat. Good variety in dynamic actions."
+    },
+    {
+      "id": "e032_b03_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Descending elevator shaft is a strong scale element. Active grip on rivets. Distinct from fan blades."
+    },
+    {
+      "id": "e032_b04_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Ice shard snapping off blindfold is a nice detail. 'Exhale' is subtle. Good micro-story."
+    },
+    {
+      "id": "e032_b04_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Pulling a fire extinguisher is a specific interaction. 'Steadying' and 'pulling' are active verbs. Good variety from catching/dodging."
+    },
+    {
+      "id": "e032_b04_fullbody",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Stepping over a crack with steam. Similar to b03_fullbody (navigating obstacle). 'Hovering cautiously' is passive compared to the balance struggles in b01/b02."
+    },
+    {
+      "id": "e032_b04_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Swinging a wrench is a distinct action. 'Twisting' verb repeats (3rd time), but the object and context are unique."
+    },
+    {
+      "id": "e032_b04_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Grabbing a descending lift. Good scale and tension. Distinct from fan/elevator shaft."
+    }
+  ],
+  "set_scores": {
+    "identity": 9,
+    "visual_appeal": 8,
+    "diversity": 6,
+    "repetition_control": 5,
+    "micro_story": 7,
+    "animation_potential": 8
+  },
+  "strengths": [
+    "Consistent character identity with accurate outfit details (blindfold, puffy sleeves, stockings).",
+    "Strong causal links in most premises; actions are triggered by visible environmental hazards.",
+    "High animation potential due to clear motion verbs and implied physics (dust, sparks, fabric movement).",
+    "Good use of scale in cinematic shots to frame the character actively."
+  ],
+  "failures": [
+    "Major repetition in Cinematic category: e032_b01_cinematic and e032_b02_cinematic both feature clinging to a rotating fan blade.",
+    "Repetition in Medium category: e032_b01_medium (catching gear) and e032_b03_medium (catching bolt) share the same core mechanic of catching a falling heavy object.",
+    "Fullbody premises lean heavily on 'balancing/stepping' which feels repetitive across b01, b02, b03, and b04.",
+    "Some close-ups rely on subtle reactions that may be hard to distinguish in static images without strong lighting cues."
+  ],
+  "desired_patterns": [
+    "Active interaction with specific objects (wrench, extinguisher) rather than just environmental forces.",
+    "Clear cause-and-effect chains where the character's action directly responds to a visible threat.",
+    "Use of distinct motion verbs for dynamic shots (vault, dive, somersault, swing).",
+    "Integration of fabric physics (sleeves puffing, hem flaring) to enhance visual appeal without replacing the story."
+  ],
+  "undesired_patterns": [
+    "Reusing the same environmental hazard (rotating fan blade) for multiple cinematic shots.",
+    "Defaulting to 'catching falling object' as a medium shot mechanic.",
+    "Passive balancing/stepping in fullbody shots without a strong secondary action or consequence.",
+    "Abstract causes like 'electrical surge' that are harder to visualize than physical impacts."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Clinging to rotating fan blade",
+      "proposal_ids": ["e032_b01_cinematic", "e032_b02_cinematic"]
+    },
+    {
+      "pattern": "Catching a falling heavy object",
+      "proposal_ids": ["e032_b01_medium", "e032_b03_medium"]
+    },
+    {
+      "pattern": "Balancing/Stepping on narrow/unstable surface",
+      "proposal_ids": ["e032_b01_fullbody", "e032_b02_fullbody", "e032_b03_fullbody", "e032_b04_fullbody"]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Differentiate cinematic shots by varying the scale element (e.g., giant gear, collapsing bridge, massive light source) instead of reusing fan blades.",
+    "Vary medium shot mechanics: include pushing, pulling, twisting to avoid, or interacting with machinery controls, not just catching/dodging.",
+    "For fullbody shots, introduce more active consequences: slipping and recovering, jumping a gap, or being pulled by a force, rather than just maintaining balance.",
+    "Ensure close-ups have distinct visual triggers (e.g., water droplet, dust cloud, light flare) that are clearly visible in the frame."
+  ],
+  "verdict": "Solid batch with strong identity and animation potential, but penalized for significant repetition in cinematic and medium categories. The 'rotating fan' duplication is a clear failure of diversity enforcement."
+}

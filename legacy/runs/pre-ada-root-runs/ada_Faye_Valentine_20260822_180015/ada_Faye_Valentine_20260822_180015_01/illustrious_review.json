@@ -1,0 +1,26 @@
+{
+  "id": "faye_valentine_ada_Faye_Valentine_20260822_180015_01",
+  "stage": "illustrious",
+  "verdict": "MINOR_DEFECT",
+  "preserved_ok": [
+    "purple_hair",
+    "short_hair",
+    "green_eyes",
+    "large_breasts",
+    "hairband",
+    "shorts",
+    "lipstick",
+    "thighhighs",
+    "shirt",
+    "bare_shoulders",
+    "crop_top",
+    "boots"
+  ],
+  "defects": [
+    "The single sheet of paper is not visibly fluttering or falling; it appears as a static object on the floor, failing to create the intended interruption effect."
+  ],
+  "drift": [
+    "The paper is not positioned to obscure her chest as specified; it is on the floor, which breaks the narrative of an unseen source above."
+  ],
+  "summary": "The character’s core visual identity and pose are preserved. The only issue is the absence of the falling paper as a dynamic interruption element, which is a minor visual drift rather than a structural failure."
+}

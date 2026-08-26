@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "experiment": "M2 — Fast Creative Expansion",
+  "creative_expansion_model": "qwen3.5-9b-uncensored-hauhaucs-aggressive",
+  "strong_evaluation_model": "qwen3.8-27b-uncensored",
+  "character": "2B",
+  "version": "NieR:Automata",
+  "requested_count": 12,
+  "context_length": 16384,
+  "native_transport": {
+    "endpoint": "/api/v1/chat",
+    "reasoning": "off",
+    "temperature": 0.8,
+    "max_output_tokens": 8000,
+    "output_tokens_per_concept": 256,
+    "minimum_output_tokens": 1024,
+    "store": false
+  },
+  "execution": {
+    "creative_calls": 1,
+    "creative_retries": 0,
+    "creative_fallbacks": 0,
+    "comfyui_calls": 0,
+    "selection_enabled": false,
+    "rendering_enabled": false
+  },
+  "generation_context": {
+    "mode": "reinterpretation",
+    "source_asset_id": "m2_ada_alpha_golden_1_0_6853abe7_gate3_r01_110525038723_m1_2b_09::miaomiao",
+    "source_generation_id": "",
+    "alternative_mode": "",
+    "alternative_instruction": "",
+    "source_context": {}
+  },
+  "where": "a sunlit stone courtyard beside an adventurers guild",
+  "creative_intent": {
+    "schema_version": "creative_intent_envelope_v1",
+    "character": {
+      "value": "2B",
+      "locked": true,
+      "must_be_visible": false
+    },
+    "setting": {
+      "value": null,
+      "locked": false,
+      "must_be_visible": false
+    },
+    "action": {
+      "value": "Standing in a futuristic city",
+      "locked": true,
+      "must_be_visible": false
+    },
+    "render_intent": {
+      "value": "semi_realistic",
+      "locked": true,
+      "must_be_visible": false
+    }
+  },
+  "what_happens": "Standing in a futuristic city"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-n5wla9n5venl20145ts0p8",
+  "object": "chat.completion",
+  "created": 1787438490,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"lara_croft_ada_Lara_Croft_20260822_193942_01\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"PASS\",\n  \"defects\": [],\n  \"drift\": [\n    \"The stone slab debris blocking the path is not clearly visible as a single large slab; instead, it appears as scattered rubble, which may slightly weaken the narrative impact of the collapse.\"\n  ],\n  \"summary\": \"The image successfully captures Lara Croft in a defensive stance, looking back over her shoulder, with a shadowy figure emerging from the dust and a temple corridor setting. Identity elements (brown hair, braid, brown eyes) and canonical outfit (gloves, shorts, tank top, boots, backpack) are correctly rendered. Scene requirements like dim temple lighting and dust clouds are present. The shadowy figure remains ambiguous as required. Minor drift in debris representation does not constitute a structural failure.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1781,
+    "completion_tokens": 215,
+    "total_tokens": 1996,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

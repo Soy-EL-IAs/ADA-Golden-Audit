@@ -1,0 +1,610 @@
+{
+  "2B": {
+    "name": "2B",
+    "franchise": "NieR",
+    "universe": "NieR:Automata",
+    "tags": [
+      "yorha_no._2_type_b",
+      "white_hair",
+      "short_hair",
+      "hair_over_one_eye",
+      "blindfold",
+      "black_dress",
+      "thighhighs",
+      "gloves"
+    ],
+    "canonical_tag": "yorha_no._2_type_b",
+    "characteristics": [
+      "white_hair",
+      "short_hair",
+      "hair_over_one_eye",
+      "blindfold"
+    ],
+    "clothing": [
+      "black_dress",
+      "thighhighs",
+      "black_gloves",
+      "high_heels"
+    ]
+  },
+  "Tifa Lockhart": {
+    "name": "Tifa Lockhart",
+    "franchise": "Final Fantasy",
+    "universe": "Final Fantasy VII",
+    "tags": [
+      "tifa_lockhart",
+      "long_black_hair",
+      "brown_eyes",
+      "red_hair_tie",
+      "white_tank_top",
+      "black_skirt",
+      "suspenders",
+      "fingerless_gloves"
+    ],
+    "canonical_tag": "tifa_lockhart",
+    "characteristics": [
+      "long_black_hair",
+      "brown_eyes",
+      "red_hair_tie"
+    ],
+    "clothing": [
+      "white_tank_top",
+      "black_skirt",
+      "suspenders",
+      "black_thighhighs",
+      "fingerless_gloves",
+      "red_boots"
+    ]
+  },
+  "Jill Valentine": {
+    "name": "Jill Valentine",
+    "franchise": "Resident Evil",
+    "universe": "Resident Evil",
+    "tags": [
+      "jill_valentine",
+      "short_brown_hair",
+      "blue_eyes",
+      "blue_beret",
+      "blue_tube_top",
+      "miniskirt",
+      "shoulder_holster",
+      "fingerless_gloves"
+    ],
+    "canonical_tag": "jill_valentine",
+    "characteristics": [
+      "short_brown_hair",
+      "blue_eyes",
+      "blue_beret"
+    ],
+    "clothing": [
+      "blue_tube_top",
+      "miniskirt",
+      "shoulder_holster",
+      "fingerless_gloves",
+      "boots"
+    ]
+  },
+  "Elsa": {
+    "name": "Elsa",
+    "franchise": "Disney",
+    "universe": "Frozen",
+    "tags": [
+      "elsa_(frozen)",
+      "blonde_hair",
+      "blue_eyes",
+      "single_braid",
+      "freckles",
+      "blue_dress",
+      "translucent_cape",
+      "long_sleeves"
+    ],
+    "canonical_tag": "elsa_(frozen)",
+    "characteristics": [
+      "blonde_hair",
+      "blue_eyes",
+      "single_braid",
+      "freckles"
+    ],
+    "clothing": [
+      "blue_dress",
+      "translucent_cape",
+      "long_sleeves"
+    ]
+  },
+  "Ghislaine Dedoldia": {
+    "name": "Ghislaine Dedoldia",
+    "franchise": "mushoku_tensei",
+    "universe": "mushoku_tensei",
+    "tags": [
+      "eyepatch",
+      "dark-skinned_female",
+      "abs",
+      "long_hair",
+      "large_breasts",
+      "red_eyes",
+      "tail",
+      "grey_hair",
+      "cat_ears",
+      "cat_tail",
+      "hair_between_eyes",
+      "panties",
+      "choker",
+      "fur_trim",
+      "bandeau",
+      "jacket",
+      "highleg_panties",
+      "red_choker",
+      "pants",
+      "bare_shoulders",
+      "black_panties",
+      "off_shoulder",
+      "bridal_gauntlets",
+      "open_clothes"
+    ],
+    "canonical_tag": "ghislaine_dedoldia",
+    "copyright": [
+      "mushoku_tensei"
+    ],
+    "characteristics": [
+      "eyepatch",
+      "dark-skinned_female",
+      "abs",
+      "long_hair",
+      "large_breasts",
+      "red_eyes",
+      "tail",
+      "grey_hair",
+      "cat_ears",
+      "cat_tail",
+      "hair_between_eyes"
+    ],
+    "clothing": [
+      "panties",
+      "choker",
+      "fur_trim",
+      "bandeau",
+      "jacket",
+      "highleg_panties",
+      "red_choker",
+      "pants",
+      "bare_shoulders",
+      "black_panties",
+      "off_shoulder",
+      "bridal_gauntlets",
+      "open_clothes"
+    ],
+    "version": null,
+    "refs_manifest": "data/references/ghislaine_dedoldia/default/manifest.json",
+    "renderer_capabilities": {
+      "lustify": {
+        "identity_recognition": "unreliable",
+        "img2img": "confirmed",
+        "fallback_policy": "miaomiao_same_concept_then_lustify_img2img",
+        "fallback_recipe": "lustify_krea2_img2img_v1",
+        "note": "Direct generation is blocked; ADA creates a same-concept Miaomiao identity reference and converts it through true latent Img2Img with Lustify."
+      },
+      "miaomiao": {
+        "identity_recognition": "confirmed",
+        "note": "Recognized the canonical character identity in controlled direct-generation checks."
+      }
+    }
+  },
+  "Shihouin Yoruichi": {
+    "name": "Shihouin Yoruichi",
+    "franchise": "bleach",
+    "universe": "bleach",
+    "tags": [
+      "dark-skinned_female",
+      "ponytail",
+      "purple_hair",
+      "yellow_eyes",
+      "long_hair",
+      "large_breasts",
+      "parted_bangs",
+      "thighhighs",
+      "bare_shoulders",
+      "leotard",
+      "gloves"
+    ],
+    "canonical_tag": "shihouin_yoruichi",
+    "copyright": [
+      "bleach"
+    ],
+    "characteristics": [
+      "dark-skinned_female",
+      "ponytail",
+      "purple_hair",
+      "yellow_eyes",
+      "long_hair",
+      "large_breasts",
+      "parted_bangs"
+    ],
+    "clothing": [
+      "thighhighs",
+      "bare_shoulders",
+      "leotard",
+      "gloves"
+    ],
+    "version": null,
+    "refs_manifest": "data/references/shihouin_yoruichi/default/manifest.json",
+    "renderer_capabilities": {
+      "lustify": {
+        "identity_recognition": "confirmed",
+        "note": "Human Model Lab evaluation confirmed recognizable identity for Lustify direct (identity preservation 8/10).",
+        "evidence": "experimental/model_lab/benchmarks/direct_generator_benchmark_001/evaluations/yoruichi_rooftop_neon_rain_001/evaluation_20260824T193334283146Z_adb9b5.json"
+      },
+      "miaomiao": {
+        "identity_recognition": "confirmed",
+        "note": "Model Lab includes a controlled direct-generation evaluation for this character.",
+        "evidence": "experimental/model_lab/benchmarks/direct_generator_benchmark_001/evaluations/yoruichi_rooftop_neon_rain_001/evaluation_20260824T193459845989Z_259683.json"
+      }
+    }
+  },
+  "android_18": {
+    "name": "Android 18",
+    "franchise": "dragon_ball",
+    "universe": "dragon_ball",
+    "tags": [
+      "blonde_hair",
+      "blue_eyes",
+      "short_hair",
+      "earrings",
+      "large_breasts",
+      "jewelry",
+      "shirt",
+      "pantyhose",
+      "skirt",
+      "jacket",
+      "long_sleeves",
+      "pants",
+      "torn_clothes"
+    ],
+    "canonical_tag": "android_18",
+    "aliases": [
+      "android_18",
+      "Android 18",
+      "android 18"
+    ],
+    "copyright": [
+      "dragon_ball",
+      "dragon_ball_z"
+    ],
+    "characteristics": [
+      "blonde_hair",
+      "blue_eyes",
+      "short_hair",
+      "earrings",
+      "large_breasts"
+    ],
+    "clothing": [
+      "jewelry",
+      "shirt",
+      "pantyhose",
+      "skirt",
+      "jacket",
+      "long_sleeves",
+      "pants",
+      "torn_clothes"
+    ],
+    "version": null,
+    "refs_manifest": "data/references/android_18/default/manifest.json",
+    "reference_status": "READY",
+    "reference_count": 3,
+    "reference_confidence": 0.99,
+    "character_contract": "data/references/android_18/default/character_contract_v1.json"
+  },
+  "hyuuga_hinata": {
+    "name": "Hyuuga Hinata",
+    "franchise": "naruto_(series)",
+    "universe": "naruto_(series)",
+    "tags": [
+      "black_hair",
+      "long_hair",
+      "blunt_bangs",
+      "large_breasts",
+      "purple_eyes",
+      "byakugan",
+      "sidelocks",
+      "jacket",
+      "fishnets",
+      "forehead_protector"
+    ],
+    "canonical_tag": "hyuuga_hinata",
+    "aliases": [
+      "hyuuga_hinata",
+      "Hyuuga Hinata",
+      "hyuuga hinata"
+    ],
+    "copyright": [
+      "naruto_(series)",
+      "naruto_shippuuden"
+    ],
+    "characteristics": [
+      "black_hair",
+      "long_hair",
+      "blunt_bangs",
+      "large_breasts",
+      "purple_eyes",
+      "byakugan",
+      "sidelocks"
+    ],
+    "clothing": [
+      "jacket",
+      "fishnets",
+      "forehead_protector"
+    ],
+    "version": null,
+    "refs_manifest": "data/references/hyuuga_hinata/default/manifest.json",
+    "reference_status": "READY_WITH_LIMITED_REFERENCES",
+    "reference_count": 1,
+    "reference_confidence": 0.99,
+    "character_contract": "data/references/hyuuga_hinata/default/character_contract_v1.json"
+  },
+  "chun-li": {
+    "name": "Chun-Li",
+    "franchise": "street_fighter",
+    "universe": "street_fighter",
+    "tags": [
+      "hair_bun",
+      "double_bun",
+      "brown_hair",
+      "brown_eyes",
+      "earrings",
+      "bun_cover",
+      "large_breasts",
+      "jewelry",
+      "bracelet",
+      "chinese_clothes",
+      "dress",
+      "china_dress",
+      "spikes",
+      "pantyhose",
+      "pelvic_curtain",
+      "short_sleeves",
+      "blue_dress",
+      "ribbon",
+      "puffy_sleeves",
+      "puffy_short_sleeves",
+      "swimsuit",
+      "hair_ribbon",
+      "boots"
+    ],
+    "canonical_tag": "chun-li",
+    "aliases": [
+      "chun-li",
+      "Chun-Li"
+    ],
+    "copyright": [
+      "street_fighter"
+    ],
+    "characteristics": [
+      "hair_bun",
+      "double_bun",
+      "brown_hair",
+      "brown_eyes",
+      "earrings",
+      "bun_cover",
+      "large_breasts"
+    ],
+    "clothing": [
+      "jewelry",
+      "bracelet",
+      "chinese_clothes",
+      "dress",
+      "china_dress",
+      "spikes",
+      "pantyhose",
+      "pelvic_curtain",
+      "short_sleeves",
+      "blue_dress",
+      "ribbon",
+      "puffy_sleeves",
+      "puffy_short_sleeves",
+      "swimsuit",
+      "hair_ribbon",
+      "boots"
+    ],
+    "version": null,
+    "refs_manifest": "data/references/chun_li/default/manifest.json",
+    "reference_status": "READY",
+    "reference_count": 2,
+    "reference_confidence": 1.0,
+    "character_contract": "data/references/chun_li/default/character_contract_v1.json"
+  },
+  "kamado_nezuko": {
+    "name": "Kamado Nezuko",
+    "franchise": "kimetsu_no_yaiba",
+    "universe": "kimetsu_no_yaiba",
+    "tags": [
+      "long_hair",
+      "pink_eyes",
+      "black_hair",
+      "multicolored_hair",
+      "very_long_hair",
+      "japanese_clothes",
+      "ribbon",
+      "kimono",
+      "gag",
+      "hair_ribbon",
+      "sash",
+      "haori",
+      "obi",
+      "long_sleeves"
+    ],
+    "canonical_tag": "kamado_nezuko",
+    "aliases": [
+      "kamado_nezuko",
+      "Kamado Nezuko",
+      "kamado nezuko"
+    ],
+    "copyright": [
+      "kimetsu_no_yaiba"
+    ],
+    "characteristics": [
+      "long_hair",
+      "pink_eyes",
+      "black_hair",
+      "multicolored_hair",
+      "very_long_hair"
+    ],
+    "clothing": [
+      "japanese_clothes",
+      "ribbon",
+      "kimono",
+      "gag",
+      "hair_ribbon",
+      "sash",
+      "haori",
+      "obi",
+      "long_sleeves"
+    ],
+    "version": null,
+    "refs_manifest": "data/references/kamado_nezuko/default/manifest.json",
+    "reference_status": "READY",
+    "reference_count": 2,
+    "reference_confidence": 0.8,
+    "character_contract": "data/references/kamado_nezuko/default/character_contract_v1.json"
+  },
+  "nanally de NTE": {
+    "name": "Nanally Nte",
+    "franchise": "neverness_to_everness",
+    "universe": "neverness_to_everness",
+    "tags": [
+      "red_hair",
+      "long_hair",
+      "red_eyes",
+      "tail",
+      "cat_ears",
+      "ahoge",
+      "hair_ornament",
+      "glasses",
+      "x_hair_ornament",
+      "tiger_ears",
+      "cat_tail",
+      "skirt",
+      "jacket",
+      "shirt",
+      "black-framed_eyewear",
+      "black_necktie",
+      "necktie",
+      "gloves",
+      "fingerless_gloves",
+      "choker",
+      "round_eyewear",
+      "black_choker",
+      "black_gloves",
+      "collared_shirt",
+      "socks"
+    ],
+    "canonical_tag": "nanally_(nte)",
+    "aliases": [
+      "nanally de NTE",
+      "Nanally Nte",
+      "nanally (nte)"
+    ],
+    "copyright": [
+      "neverness_to_everness"
+    ],
+    "characteristics": [
+      "red_hair",
+      "long_hair",
+      "red_eyes",
+      "tail",
+      "cat_ears",
+      "ahoge",
+      "hair_ornament",
+      "glasses",
+      "x_hair_ornament",
+      "tiger_ears",
+      "cat_tail"
+    ],
+    "clothing": [
+      "skirt",
+      "jacket",
+      "shirt",
+      "black-framed_eyewear",
+      "black_necktie",
+      "necktie",
+      "gloves",
+      "fingerless_gloves",
+      "choker",
+      "round_eyewear",
+      "black_choker",
+      "black_gloves",
+      "collared_shirt",
+      "socks"
+    ],
+    "version": null,
+    "refs_manifest": "data/references/nanally_nte/default/manifest.json",
+    "reference_status": "READY_WITH_LIMITED_REFERENCES",
+    "reference_count": 1,
+    "reference_confidence": 1.0,
+    "character_contract": "data/references/nanally_nte/default/character_contract_v1.json"
+  },
+  "Mai Shiranui": {
+    "name": "Shiranui Mai",
+    "franchise": "fatal_fury",
+    "universe": "fatal_fury",
+    "tags": [
+      "ponytail",
+      "brown_hair",
+      "long_hair",
+      "large_breasts",
+      "brown_eyes",
+      "high_ponytail",
+      "parted_bangs",
+      "hand_fan",
+      "pelvic_curtain",
+      "folding_fan",
+      "japanese_clothes",
+      "revealing_clothes",
+      "bare_shoulders",
+      "sash",
+      "bare_legs",
+      "obi",
+      "shorts",
+      "casual",
+      "tank_top"
+    ],
+    "canonical_tag": "shiranui_mai",
+    "aliases": [
+      "Mai Shiranui",
+      "Shiranui Mai",
+      "shiranui mai"
+    ],
+    "copyright": [
+      "fatal_fury",
+      "the_king_of_fighters",
+      "street_fighter"
+    ],
+    "characteristics": [
+      "ponytail",
+      "brown_hair",
+      "long_hair",
+      "large_breasts",
+      "brown_eyes",
+      "high_ponytail",
+      "parted_bangs"
+    ],
+    "clothing": [
+      "hand_fan",
+      "pelvic_curtain",
+      "folding_fan",
+      "japanese_clothes",
+      "revealing_clothes",
+      "bare_shoulders",
+      "sash",
+      "bare_legs",
+      "obi",
+      "shorts",
+      "casual",
+      "tank_top"
+    ],
+    "version": null,
+    "refs_manifest": "data/references/shiranui_mai/default/manifest.json",
+    "reference_status": "READY",
+    "reference_count": 5,
+    "reference_confidence": 0.99,
+    "character_contract": "data/references/shiranui_mai/default/character_contract_v1.json"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "chatcmpl-z9yddgg3nrai4vozvobqwd",
+  "object": "chat.completion",
+  "created": 1787415715,
+  "model": "qwen3.8-27b-uncensored",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "",
+        "reasoning_content": "We need answer user's request: produce only JSON matching supplied contract. Need infer contract? They say Return PremiseSpec JSON only. We need create one structured premise for 2B NieR Automata. User task: \"Create a restrained strategic-censorship scene with a sudden interruption and a clear visual consequence.\" Runtime instruction: Create one visual narrative premise for stated adult fictional character. Preserve identity facts from profile. Include concrete situation, cause and consequence, composition/moment, 2+ visible elements to preserve, risk notes that prevent ambiguity. Keep sensual tension non-graphic; do not create prompts, seeds, rendering settings, review, or video instructions.\n\nNeed output JSON only. Need likely fields? \"PremiseSpec\" maybe expected keys: premise, situation, cause, consequence, composition, moment, visible_elements_to_preserve, risk_notes? We need guess contract. They say matching supplied contract but not explicit except PremiseSpec JSON. Could be from ADA pipeline. Need create structured premise only. Avoid Illustrious, Klein, MiniMax, seeds, workflow settings, render instructions. Character profile factual identity source: 2B, NieR:Automata, 1girl, short hair, blindfold, white hair; clothing list includes black dress, leotard, thighhighs/thigh_boots, gloves, puffy sleeves, long sleeves, juliet sleeves, feather-trimmed sleeves, boots. Need preserve identity facts. Adult fictional character but keep non-graphic.\n\nTask: restrained strategic-censorship scene with sudden interruption and clear visual consequence. Strategic censorship maybe a deliberate veil/cover? \"restrained\" means not explicit. Sudden interruption: e.g., door opens, alarm, another automaton enters. Clear visual consequence: blindfold slips/falls, dress torn at shoulder, hair disheveled, glove removed, etc. Need 2+ visible elements to preserve: white short hair, black blindfold, black dress/leotard, thigh boots/gloves maybe.\n\nNeed JSON only. Could be:\n{\n \"premise\": \"...\",\n \"situation\": \"...\",\n \"cause\": \"...\",\n \"consequence\": \"...\",\n \"composition\": \"...\",\n \"moment\": \"...\",\n \"visible_elements_to_preserve\": [\"white short hair\", \"black blindfold\", \"black dress with leotard cutout\", \"thigh-high black boots\"],\n \"risk_notes\": [...]\n}\n\nNeed ensure no prompts/seeds. Maybe include \"adult fictional character\" but not necessary. Need maybe fields: \"premise_spec\"? They say Return PremiseSpec JSON only. Could be top-level object with keys. Need likely exact contract? Let's think of ADA Premise Agent. It might expect:\n{\n  \"premise\": {\n    \"title\": \"...\",\n    \"situation\": \"...\",\n    \"cause\": \"...\",\n    \"consequence\": \"...\",\n    \"composition\": \"...\",\n    \"moment\": \"...\",\n    \"visible_elements_to_preserve\": [],\n    \"risk_notes\": []\n  }\n}\nOr flat. They say \"Create only one structured premise.\" \"Return the PremiseSpec JSON only.\" Could be a single object named PremiseSpec? Maybe:\n{\n  \"premise_spec\": { ... }\n}\n\nNeed decide. The prompt says \"matching the supplied contract\" but no explicit schema in user message except runtime instruction. It might have hidden expected keys from previous tasks. We need infer likely fields from runtime: concrete situation, cause and consequence, composition/moment, 2+ visible elements to preserve, risk notes. So include those exact terms.\n\nMaybe output:\n{\n  \"premise\": {\n    \"situation\": \"...\",\n    \"cause\": \"...\",\n    \"consequence\": \"...\",\n    \"composition\": \"...\",\n    \"moment\": \"...\",\n    \"visible_elements_to_preserve\": [\"...\"],\n    \"risk_notes\": [\"...\"]\n  }\n}\n\nBut \"PremiseSpec\" maybe top-level:\n{\n  \"premise_spec\": { ... }\n}\n\nNeed only JSON. Let's craft concise but detailed. Ensure identity facts: 2B, NieR:Automata, short white hair, blindfold, black dress/leotard, thigh boots/gloves. Scene: in a dimly lit maintenance alcove, she is adjusting her glove or lifting blindfold? Strategic censorship: maybe \"strategic-censorship\" means using clothing/accessory to conceal a sensual detail (e.g., hand at collar, blindfold over eyes) but not graphic. Sudden interruption: a distant alarm/footsteps cause her to freeze; consequence: the black blindfold slips down one eye or hair falls loose, dress cutout reveals shoulder? Need",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "length"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 544,
+    "completion_tokens": 1000,
+    "total_tokens": 1544,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1000
+    }
+  },
+  "stats": {
+    "total_draft_tokens_count": 410,
+    "accepted_draft_tokens_count": 378,
+    "rejected_draft_tokens_count": 32
+  },
+  "system_fingerprint": "qwen3.8-27b-uncensored"
+}

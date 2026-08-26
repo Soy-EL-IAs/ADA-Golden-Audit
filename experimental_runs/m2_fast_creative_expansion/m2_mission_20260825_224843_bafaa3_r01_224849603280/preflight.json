@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "checked_at": "2026-08-26T01:48:50.022593+00:00",
+  "native_endpoint": "/api/v1/chat",
+  "creative_expansion_model": "qwen3.5-9b-uncensored-hauhaucs-aggressive",
+  "strong_evaluation_model": "qwen3.8-27b-uncensored",
+  "strong_model_loaded": false,
+  "loaded_context_length": 16384,
+  "reasoning_parameter_supported": true,
+  "character_profile_resolved": true,
+  "guide_source_count": 4,
+  "creative_calls_planned": 1,
+  "comfyui_calls_planned": 0,
+  "selection_enabled": false
+}

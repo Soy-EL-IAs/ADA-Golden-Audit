@@ -1,0 +1,12 @@
+{
+  "model": "qwen3.8-27b-uncensored",
+  "agent": "klein",
+  "prompt_tokens": 816,
+  "completion_tokens": 172,
+  "reasoning_tokens": 0,
+  "context_length": 8192,
+  "latency_seconds": 22.642,
+  "finish_reason": null,
+  "transport": "native",
+  "time_to_first_token_seconds": 1.741636
+}

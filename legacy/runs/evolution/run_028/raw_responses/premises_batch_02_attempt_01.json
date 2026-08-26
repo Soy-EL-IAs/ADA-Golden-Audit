@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e028_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme close-up on 2B's face as a sudden burst of steam from a ruptured valve hits her directly, forcing her to clench her jaw and keep her blindfold steady despite the heat; condensation beads form instantly on her skin and the fine white hairs of her bangs curl slightly away from the impact zone.\"\n  },\n  {\n    \"id\": \"e028_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot of 2B waist-up, leaning back against a heavy steel door to keep it open as a swarm of mechanical moths rushes through the gap; she holds her breath and keeps her eyes forward behind the blindfold while the chaotic fluttering obscures her puffy sleeves in a blur of wings.\"\n  },\n  {\n    \"id\": \"e028_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B suspended mid-air, her boots hooked over the edge of a crumbling concrete ledge as she lowers herself down; her body is taut with controlled tension, her dress hem swinging freely in the void below while one hand grips a jagged piece of rebar for support.\"\n  },\n  {\n    \"id\": \"e028_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Dynamic shot of 2B spinning rapidly to dodge a swinging pendulum blade; her body is twisted in motion, with the black fabric of her dress and the trim of her sleeves creating a circular blur around her core as she maintains perfect balance on one leg.\"\n  },\n  {\n    \"id\": \"e028_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Cinematic high-angle shot looking down from a shattered atrium ceiling, with 2B standing small in the center of the frame; massive shards of glass are falling around her like rain, but she has positioned herself perfectly to let them pass by leaning slightly, her silhouette sharp against the bright light flooding from above.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3300,
+    "total_output_tokens": 495,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.897221454048992,
+    "time_to_first_token_seconds": 3.9542170000000003
+  }
+}

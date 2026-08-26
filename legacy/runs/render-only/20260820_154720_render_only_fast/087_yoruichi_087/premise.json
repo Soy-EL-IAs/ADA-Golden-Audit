@@ -1,0 +1,34 @@
+{
+  "id": "yoruichi_087",
+  "character": "Yoruichi Shihouin",
+  "franchise": "Bleach",
+  "identity": [
+    "long purple hair",
+    "black fitted sleeveless combat top and arm guards",
+    "golden eyes"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On a temple rooftop at dusk, she drops into a crouch and a loose roof tile slides under her palm, skittering down the slope faster than expected, with confident sensual body language throughout.",
+  "must_include": [
+    "sliding roof tile",
+    "low crouch"
+  ],
+  "environment": [
+    "temple rooftop",
+    "violet dusk light",
+    "curved tiles and distant city lights"
+  ],
+  "animation_hook": "She flashes down the roof, catches the tile before the edge, and returns it to place in one fluid motion.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000086,
+  "krea_seed_base": 2000086
+}

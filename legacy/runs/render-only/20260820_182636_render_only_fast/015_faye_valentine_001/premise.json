@@ -1,0 +1,33 @@
+{
+  "id": "faye_valentine_001",
+  "character": "Faye Valentine",
+  "franchise": "Cowboy Bebop",
+  "identity": [
+    "violet hair",
+    "yellow cropped outfit",
+    "space bounty hunter"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Faye Valentine lounges in the cockpit of a small spacecraft in her recognizable yellow outfit, trying to cross one leg over the other while flying one-handed; a sudden turbulence jolt launches chips and poker cards into the air, and she grabs the control stick with an irritated glare.",
+  "must_include": [
+    "recognizable yellow outfit",
+    "chips",
+    "poker cards",
+    "control stick"
+  ],
+  "environment": [
+    "cockpit of a small spacecraft"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000014,
+  "krea_seed_base": 2000014
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e019_b01_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Eye-level close-up of 2B's face and upper chest as she tilts her head sharply to the side, reacting to a high-pitched mechanical screech off-screen; a jagged fragment of white metal debris is frozen in mid-air just inches from her black blindfold, forcing her to flinch with visible tension in her jaw while her short white hair whips forward.\"\n  },\n  {\n    \"id\": \"e019_b01_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot from the waist up showing 2B twisting her torso violently to dodge a swinging hydraulic piston; her puffy feather-trimmed sleeves flare outward with kinetic force, and her black gloves grip a rusted railing tightly as her dress cutout stretches slightly across her chest due to the rapid rotational movement.\"\n  },\n  {\n    \"id\": \"e019_b01_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body low-angle view of 2B stepping over a large, shattered slab of concrete; her weight is shifted entirely onto her back leg in thigh-high boots, while her front foot hovers just above the debris, and her dress hem flares upward due to the momentum of the step, revealing the line of her thigh-high stockings.\"\n  },\n  {\n    \"id\": \"e019_b01_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"High-energy dynamic shot capturing 2B mid-dodge as a bolt flies past her ear; motion blur trails behind her arm which is extended to brace against a crumbling wall, and small dust particles from the impact site float in the foreground while her hairband remains firmly in place despite the sudden turn.\"\n  },\n  {\n    \"id\": \"e019_b01_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Wide cinematic shot positioning 2B on a narrow metal catwalk overlooking a deep industrial shaft; she is looking down at a dangling cable that has just snapped, her body leaning forward with one hand reaching out to catch it before it falls into the abyss, creating a clear line of sight between her focused expression and the falling hazard.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3252,
+    "total_output_tokens": 525,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.130633652610385,
+    "time_to_first_token_seconds": 3.9231860000000003
+  }
+}

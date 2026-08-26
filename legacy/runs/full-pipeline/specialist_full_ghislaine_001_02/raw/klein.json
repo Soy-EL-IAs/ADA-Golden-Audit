@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"Ghislaine Dedoldia in dimly lit command tent, mid-motion pulling off one bridal gauntlet with left hand while right hand holds fabric near chest to maintain modesty, revealing bare shoulders and abs, red choker visible around neck, grey hair and cat ears against shadows, wide red eyes behind eyepatch on correct eye, tail bristling in reaction to shock, sudden flash of lightning from outside illuminating scene as background element without obscuring face or choker, suspended tension between vulnerability and readiness\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 924,
+    "total_output_tokens": 115,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 11.105177620073524,
+    "time_to_first_token_seconds": 4.644717
+  }
+}

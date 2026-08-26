@@ -1,0 +1,14 @@
+{
+  "id": "lara_croft_ada_Lara_Croft_20260822_193942_01",
+  "klein_prompt": "Convert this image into a polished semi-realistic rendering. Preserve the exact pose, composition, framing, expression, clothing state and environment from the source image. Preserve the character's . Correct only obvious rendering or anatomy defects without changing the existing structure. Preserve the exact source clothing coverage and chest anatomy. Do not invent exposed nipples, areolae, or additional skin details that are not visible in the source image.",
+  "preserve": [
+    "brown_hair",
+    "brown_eyes",
+    "long_hair",
+    "braid",
+    "large_breasts"
+  ],
+  "correct": [
+    "The stone slab debris blocking the path is not clearly visible as a single large slab; instead, it appears as scattered rubble, which may slightly weaken the narrative impact of the collapse."
+  ]
+}

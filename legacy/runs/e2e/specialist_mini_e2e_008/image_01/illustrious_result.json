@@ -1,0 +1,9 @@
+{
+  "id": "2b_mini_01",
+  "illustrious_prompt": "2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, clothing_cutout, dimly_lit_command_center, rigid_posture, holding_glowing_data_tablet_at_chest_height, shielding_face_from_overhead_light, maintenance_drone_descending_behind, red_scanning_beam_locking_onto_midriff, tension_in_shoulders, slight_head_tilt_away, contrast_between_white_hair_and_dark_tactical_gear, mechanical_object_drone, shadow_implied_cutout",
+  "resolved_risks": [
+    "Ensure the blindfold is clearly visible to maintain identity despite the head tilt.",
+    "The clothing cutout should be implied by shadow and silhouette rather than explicit skin exposure to keep tension non-graphic.",
+    "Avoid depicting the drone as a monster; it must remain a mechanical object to preserve the sci-fi setting."
+  ]
+}

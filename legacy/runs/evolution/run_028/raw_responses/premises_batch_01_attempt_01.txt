@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e028_b01_closeup",
+    "category": "closeup",
+    "premise": "Close-up on 2B's face and upper chest as a sudden electrical spark from a damaged nearby console jumps onto her black glove, causing her to flinch and tighten her jaw in composed restraint while the static charge makes the loose strands of her short white hair stand up against her blindfold."
+  },
+  {
+    "id": "e028_b01_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B waist-up, bracing herself against a crumbling stone pillar as a heavy chain-link fence collapses behind her; she tilts her head slightly to avoid the falling debris, her puffy feather-trimmed sleeves catching the wind and revealing the tension in her black dress fabric."
+  },
+  {
+    "id": "e028_b01_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B mid-stride on a slippery, moss-covered rooftop edge; she is leaning forward to maintain balance as her thigh-high boots grip the surface, her dress hem flapping violently in the updraft while she stares intently at the narrow path ahead."
+  },
+  {
+    "id": "e028_b01_dynamic",
+    "category": "dynamic",
+    "premise": "Dynamic action shot of 2B vaulting over a low concrete barrier, her body stretched horizontally with one hand reaching out and the other holding her sword; motion blur trails behind her white hair and black gloves as dust kicks up from her boots landing on the other side."
+  },
+  {
+    "id": "e028_b01_cinematic",
+    "category": "cinematic",
+    "premise": "Cinematic low-angle wide shot with 2B standing in the foreground, silhouetted against a massive, broken clock tower in the background; a sudden gust of wind pushes a large sheet of torn metal across her path, forcing her to turn and shield her face with one gloved hand while her blindfold remains steady."
+  }
+]

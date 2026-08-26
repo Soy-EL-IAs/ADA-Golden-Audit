@@ -1,0 +1,34 @@
+{
+  "id": "ivy_soulcalibur_042",
+  "character": "Ivy Valentine",
+  "franchise": "Soulcalibur",
+  "identity": [
+    "short silver hair",
+    "purple fitted armored bodysuit",
+    "segmented whip sword"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a grand manor conservatory, she extends her segmented sword to hook a high window latch, but the weapon loops around a curtain tie and pulls the drape open with theatrical timing, with confident sensual body language throughout.",
+  "must_include": [
+    "segmented sword",
+    "opening curtain"
+  ],
+  "environment": [
+    "manor conservatory",
+    "bright morning light",
+    "glass ceiling and exotic plants"
+  ],
+  "animation_hook": "She retracts the blade in a smooth wave as sunlight pours across the floor behind her.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000041,
+  "krea_seed_base": 2000041
+}

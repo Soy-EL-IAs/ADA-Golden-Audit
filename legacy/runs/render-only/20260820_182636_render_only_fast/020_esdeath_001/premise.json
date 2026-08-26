@@ -1,0 +1,33 @@
+{
+  "id": "esdeath_001",
+  "character": "Esdeath",
+  "franchise": "Akame ga Kill!",
+  "identity": [
+    "long blue hair",
+    "white military uniform",
+    "ice powers"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Esdeath stands in a frozen training arena in her signature white uniform, forming an ice spear with one hand; when she tests its weight with a casual twirl, the icy floor fractures and she slides forward in complete control, smirking as shards glitter around her boots.",
+  "must_include": [
+    "signature white uniform",
+    "ice spear",
+    "glittering shards"
+  ],
+  "environment": [
+    "frozen training arena",
+    "icy floor"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000019,
+  "krea_seed_base": 2000019
+}

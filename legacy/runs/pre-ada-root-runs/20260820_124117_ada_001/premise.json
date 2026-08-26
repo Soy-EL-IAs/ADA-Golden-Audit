@@ -1,0 +1,44 @@
+{
+  "id": "ada_001",
+  "character": "Ada Wong",
+  "franchise": "Resident Evil",
+  "identity": [
+    "short black bob haircut",
+    "red fitted dress",
+    "black stockings",
+    "black high heels",
+    "elegant spy appearance"
+  ],
+  "sexual_direction": [
+    "curvy elegant silhouette",
+    "high slit dress",
+    "visible thigh",
+    "deep neckline",
+    "confident pose"
+  ],
+  "premise": "Ada enters an elegant hotel elevator and discovers it completely packed with live chickens; one chicken stands on her suitcase while she stares at the viewer in disbelief.",
+  "must_include": [
+    "crowded elevator",
+    "many chickens",
+    "suitcase",
+    "chicken standing on suitcase",
+    "Ada's incredulous expression"
+  ],
+  "environment": [
+    "luxury hotel elevator",
+    "brass walls",
+    "warm ceiling light",
+    "open elevator doors"
+  ],
+  "animation_hook": "The chickens flap everywhere, the doors begin closing and Ada tries to keep her composure.",
+  "avoid": [
+    "empty elevator",
+    "missing chickens",
+    "generic red-dress woman",
+    "gore",
+    "weapons firing"
+  ],
+  "krea_direction": "realistic high-end survival-horror game cinematic with luxury elevator lighting",
+  "seed_base": 410041,
+  "krea_seed_base": 410141
+}

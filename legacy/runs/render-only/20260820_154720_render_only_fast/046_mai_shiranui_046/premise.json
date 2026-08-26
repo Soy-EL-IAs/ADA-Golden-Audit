@@ -1,0 +1,34 @@
+{
+  "id": "mai_shiranui_046",
+  "character": "Mai Shiranui",
+  "franchise": "Fatal Fury",
+  "identity": [
+    "long brown ponytail",
+    "red-and-white fitted kunoichi outfit",
+    "folding fan"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a summer festival courtyard after closing, she snaps open her fan and a burst of confetti from a nearby decoration swirls up, clinging to her ponytail and sleeves, with confident sensual body language throughout.",
+  "must_include": [
+    "folding fan",
+    "confetti burst"
+  ],
+  "environment": [
+    "festival courtyard",
+    "warm lantern light",
+    "paper decorations and empty stalls"
+  ],
+  "animation_hook": "She spins once, using the fan to peel the confetti into a bright vortex that trails behind her.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000045,
+  "krea_seed_base": 2000045
+}

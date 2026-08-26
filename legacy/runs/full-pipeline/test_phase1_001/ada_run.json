@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "run_id": "test_phase1_001",
+  "pipeline": "specialist_image_v1",
+  "character": "Ghislaine Dedoldia",
+  "version": null,
+  "review_policy": "strict",
+  "stage": "KLEIN_PROMPTS_READY",
+  "created_at": "2026-08-22T20:12:44.470722+00:00",
+  "updated_at": "2026-08-22T20:12:44.512723+00:00",
+  "seeds": {},
+  "artifacts": {
+    "premise_spec": "mock_premise.json",
+    "illustrious_result": "mock_ill.json",
+    "illustrious_image": "mock.png",
+    "illustrious_review": "mock_rev.json",
+    "klein_result": "klein_result.json"
+  },
+  "history": [
+    {
+      "stage": "CREATED",
+      "at": "2026-08-22T20:12:44.470722+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "at": "2026-08-22T20:12:44.475722+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T20:12:44.481722+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T20:12:44.488722+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T20:12:44.494723+00:00"
+    },
+    {
+      "stage": "KLEIN_PROMPTS_READY",
+      "at": "2026-08-22T20:12:44.512723+00:00"
+    }
+  ],
+  "error": null
+}

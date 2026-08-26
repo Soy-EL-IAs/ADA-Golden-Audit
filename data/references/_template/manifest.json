@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "character": "REPLACE_WITH_CHARACTER",
+  "version": null,
+  "created_at": null,
+  "status": "planned",
+  "provider": "searxng",
+  "source_query": null,
+  "searches": [],
+  "refs": [],
+  "errors": [],
+  "duplicate_hashes": []
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e016_b01_1\",\n    \"category\": \"closeup\",\n    \"premise\": \"2B's gloved hand firmly grips a jagged shard of glass protruding from her puffy sleeve, her expression remaining stoic despite the visible strain on the fabric as she pulls free.\"\n  },\n  {\n    \"id\": \"e016_b01_2\",\n    \"category\": \"medium\",\n    \"premise\": \"A sudden gust of wind from a broken vent whips up her black dress hem, revealing thigh-high stockings, while she tilts her head to keep her blindfold secure against the force.\"\n  },\n  {\n    \"id\": \"e016_b01_3\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B balances on one leg atop a narrow rusted beam, arms out for stability as she looks down at a crumbling floor far below, her dress skirt flaring slightly with the tension.\"\n  },\n  {\n    \"id\": \"e016_b01_4\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Mid-dodge from a falling debris chunk, 2B twists her torso sharply to avoid impact, her hairband flying loose and short white hair scattering across her blindfold.\"\n  },\n  {\n    \"id\": \"e016_b01_5\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Framed by the dark arch of a collapsed structure, 2B presses her back against the concrete wall to shield her blindfold from intense light streaming through a nearby shattered window.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3327,
+    "total_output_tokens": 379,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.046337472486222,
+    "time_to_first_token_seconds": 3.9729609999999997
+  }
+}

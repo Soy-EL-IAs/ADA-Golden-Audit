@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"faye_valentine, cowboy_bebop, 1girl, purple_hair, short_hair, green_eyes, large_breasts, hairband, crop_top, bare_shoulders, dimly lit office, leaning forward over desk, signing document with pen in hand, frozen mid-motion, wide eyes showing alarm, composed expression, holding loose sheet of paper up strategically to cover chest area, paper clearly positioned below chin and above waist without obscuring face or hair, visible crop top fabric and bare shoulders above the paper edge, suspended tension, interruption moment\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 705,
+    "total_output_tokens": 125,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.626440953066941,
+    "time_to_first_token_seconds": 1.376368
+  }
+}

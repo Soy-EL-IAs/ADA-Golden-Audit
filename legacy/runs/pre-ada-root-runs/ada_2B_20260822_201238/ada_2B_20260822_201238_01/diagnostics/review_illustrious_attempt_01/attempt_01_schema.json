@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-o8v2tprqzod3dy8wj6go92",
+  "object": "chat.completion",
+  "created": 1787440457,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"2b_ada_2B_20260822_201238_01\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"PASS\",\n  \"defects\": [],\n  \"drift\": [],\n  \"summary\": \"The image successfully captures 2B's frozen moment with all critical identity elements and scene requirements visibly correct. The blindfold is askew, revealing one shocked eye. The dress is torn to expose the midriff, and she holds a data tablet (though the tablet is not clearly visible in the frame). The sterile white background is present. Minor rendering artifacts are present but do not constitute structural failures. No RETRY_ILLUSTRIOUS conditions are met.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1831,
+    "completion_tokens": 164,
+    "total_tokens": 1995,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

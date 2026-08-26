@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"Orihime Inoue stands frozen in a dimly lit corridor, her expression shifting from serene to startled as she clutches a torn white sheet across her midsection. The visible cause is the frayed edge of the fabric slipping down her left side due to a sudden gust of wind or movement, revealing a sliver of skin and the strap of an undergarment beneath. Her right hand reaches out instinctively toward the source of the disturbance, creating a strong visual hook for animation as the tension between her attempt to maintain composure and the physical unraveling of the barrier peaks.\",\n  \"identity_elements\": [\n    \"long dark brown hair\",\n    \"large expressive eyes\",\n    \"slender build\"\n  ],\n  \"canonical_outfit\": [\n    \"white dress with red accents\",\n    \"red ribbon in hair\"\n  ],\n  \"scene_requirements\": [\n    \"torn white sheet held across midsection\",\n    \"sheet slipping down left side\",\n    \"visible undergarment strap\",\n    \"dimly lit corridor background\",\n    \"startled expression with wide eyes\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the 'strategic censorship' is clear: the sheet acts as a barrier that is failing, not just clothing.\",\n    \"Keep the reveal non-graphic; focus on the tension of the slip rather than explicit detail.\",\n    \"The interruption must be visually evident in the frozen frame (e.g., wind effect or motion blur on the fabric).\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 552,
+    "total_output_tokens": 344,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 8.660591010311567,
+    "time_to_first_token_seconds": 1.335551
+  }
+}

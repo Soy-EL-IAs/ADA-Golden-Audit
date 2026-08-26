@@ -1,0 +1,276 @@
+{
+  "schema_version": "character_contract_v1",
+  "contract_id": "character:kamado_nezuko:default",
+  "character_id": "kamado_nezuko",
+  "display_name": "kamado_nezuko",
+  "profile_version": "default",
+  "franchise": [
+    "kimetsu_no_yaiba"
+  ],
+  "identity": {
+    "canonical_tag": "kamado_nezuko",
+    "must_preserve": [
+      "kamado_nezuko",
+      "long_hair",
+      "pink_eyes",
+      "black_hair",
+      "multicolored_hair",
+      "very_long_hair",
+      "hair_ribbon",
+      "ribbon"
+    ],
+    "valid_variants": [],
+    "conditional": [],
+    "uncertain": []
+  },
+  "outfit": {
+    "canonical_default": [
+      "japanese_clothes",
+      "kimono",
+      "gag",
+      "sash",
+      "haori",
+      "obi",
+      "long_sleeves"
+    ],
+    "valid_variants": [],
+    "conditional": [],
+    "uncertain": []
+  },
+  "evidence": [
+    {
+      "source": "danbooru_taxonomy",
+      "reference": "kamado_nezuko",
+      "supports": [
+        "identity",
+        "outfit"
+      ]
+    },
+    {
+      "source": "character_refs_manifest",
+      "reference": "data/references/kamado_nezuko/default/manifest.json",
+      "supports": [
+        "visual_reference"
+      ]
+    },
+    {
+      "source": "danbooru_taxonomy",
+      "reference": "kamado_nezuko",
+      "supports": [
+        "identity_taxonomy"
+      ]
+    }
+  ],
+  "source_profile": {
+    "requested_character": "kamado_nezuko",
+    "requested_version": null,
+    "matched_tag": "kamado_nezuko",
+    "canonical_name": "Kamado Nezuko",
+    "character_id": "kamado_nezuko",
+    "aliases": [
+      "kamado_nezuko",
+      "Kamado Nezuko",
+      "kamado nezuko"
+    ],
+    "character_profile_used": true,
+    "gender": null,
+    "copyright": [
+      "kimetsu_no_yaiba"
+    ],
+    "characteristics": [
+      "long_hair",
+      "pink_eyes",
+      "black_hair",
+      "multicolored_hair",
+      "very_long_hair"
+    ],
+    "clothing": [
+      "japanese_clothes",
+      "ribbon",
+      "kimono",
+      "gag",
+      "hair_ribbon",
+      "sash",
+      "haori",
+      "obi",
+      "long_sleeves"
+    ],
+    "relationships": {},
+    "version_match": null,
+    "candidates": [],
+    "source": "danbooru_taxonomy",
+    "identity_resolution": {
+      "requested_name": "kamado_nezuko",
+      "canonical_name": "Kamado Nezuko",
+      "canonical_tag": "kamado_nezuko",
+      "character_id": "kamado_nezuko",
+      "franchise": [
+        "kimetsu_no_yaiba"
+      ],
+      "aliases": [
+        "kamado_nezuko",
+        "Kamado Nezuko",
+        "kamado nezuko"
+      ],
+      "characteristics": [
+        "long_hair",
+        "pink_eyes",
+        "black_hair",
+        "multicolored_hair",
+        "very_long_hair"
+      ],
+      "clothing": [
+        "japanese_clothes",
+        "ribbon",
+        "kimono",
+        "gag",
+        "hair_ribbon",
+        "sash",
+        "haori",
+        "obi",
+        "long_sleeves"
+      ],
+      "source": "danbooru_taxonomy"
+    },
+    "taxonomy_classification": {
+      "IDENTITY": [
+        "long_hair",
+        "pink_eyes",
+        "black_hair",
+        "multicolored_hair",
+        "very_long_hair",
+        "hair_ribbon"
+      ],
+      "CANONICAL_APPEARANCE": [],
+      "CANONICAL_OUTFIT": [
+        "japanese_clothes",
+        "kimono",
+        "gag",
+        "sash",
+        "haori",
+        "obi",
+        "long_sleeves"
+      ],
+      "ACCESSORY": [
+        "ribbon"
+      ],
+      "CONTEXTUAL": [],
+      "POSE_ACTION": [],
+      "IGNORE": []
+    },
+    "taxonomy_evidence": [
+      {
+        "trait": "long_hair",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "pink_eyes",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "black_hair",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "multicolored_hair",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "very_long_hair",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "hair_ribbon",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "ribbon",
+        "classification": "ACCESSORY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "japanese_clothes",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "kimono",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "gag",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "sash",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "haori",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "obi",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "long_sleeves",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      }
+    ]
+  }
+}

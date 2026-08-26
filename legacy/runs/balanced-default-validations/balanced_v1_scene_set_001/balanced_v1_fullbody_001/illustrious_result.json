@@ -1,0 +1,9 @@
+{
+  "id": "2b_balanced_v1_fullbody_001",
+  "illustrious_prompt": "2b_(nier:automata), full body, standing in center of dimly lit industrial corridor, facing away from viewer, looking toward heavy steel door slightly ajar revealing sliver of warm light, rigid alert posture, one hand resting on hilt of sword at hip, single drop of oil falling from ceiling onto shoulder, blindfold clearly visible over eyes, short white hair, black dress with puffy sleeves and cutouts, thigh boots, cool-toned industrial lighting contrasting with warm door light",
+  "resolved_risks": [
+    "Ensure the blindfold is clearly visible to distinguish from other white-haired characters.",
+    "Maintain the specific silhouette of the dress with puffy sleeves and cutouts to avoid generic sci-fi armor.",
+    "Keep the lighting industrial and cool-toned to contrast with the warm light from the door, avoiding romantic or fantasy settings."
+  ]
+}

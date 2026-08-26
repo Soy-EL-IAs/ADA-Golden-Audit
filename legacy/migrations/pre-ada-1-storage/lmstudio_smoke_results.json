@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-08-21T20:34:59.530221+00:00",
+  "comfyui_executed": false,
+  "review_attempts": 1,
+  "inventories": {
+    "initial": [
+      "qwen3.8-27b-uncensored"
+    ],
+    "worker_loaded": [
+      "qwen/qwen3-vl-8b"
+    ],
+    "final": [
+      "qwen3.8-27b-uncensored"
+    ]
+  },
+  "worker_review": {
+    "case_id": "tifa_camera_and_back_drift",
+    "model": "qwen/qwen3-vl-8b",
+    "review": {
+      "verdict": "PASS",
+      "identity": 10,
+      "anatomy": 10,
+      "visual_appeal": 9,
+      "viral_hook": 9,
+      "animation_potential": 9,
+      "single_subject": true,
+      "identity_issues": [],
+      "visual_issues": [],
+      "reason": "Subject is correctly identified as Tifa Lockhart with canonical Remake outfit. Anatomy is accurate and consistent across both halves. Hair, clothing, and accessories match prompt. No occlusion contradictions. Visuals are clean, cinematic, and suitable for reference. Minor drift in composition is noted but not critical.",
+      "elapsed_seconds": 2.31
+    }
+  },
+  "tests": {
+    "D_visual_reviewer": "pass",
+    "E_vram_orchestration": "pass"
+  },
+  "master_restored": true
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e017_b01_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"2B's gloved fingers grip the edge of a crumbling stone ledge as a chunk of rubble falls past her face, causing her to squint slightly beneath her blindfold; her expression remains composed but her jaw tightens in suppressed annoyance at the debris's proximity.\"\n  },\n  {\n    \"id\": \"e017_b01_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B twists her torso sharply to avoid a swinging chain from an overhead mechanism, her puffy feather-trimmed sleeves flaring outward with the motion; she holds her breath for stability, her black dress fabric pulling taut across her waist as she braces against the impact zone.\"\n  },\n  {\n    \"id\": \"e017_b01_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B stabilizes herself on a tilted metal platform after an explosion rocks the floor, her thigh-high boots gripping the slanted surface while she leans into the tilt; one arm is extended for balance and the other holds her sword low, ready to pivot.\"\n  },\n  {\n    \"id\": \"e017_b01_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B dodges a horizontal laser beam that slices through the air just below her chin, forcing her into a deep crouch; her short white hair lifts slightly from the shockwave of the shot, and her blindfold shifts a fraction as she watches the beam pass.\"\n  },\n  {\n    \"id\": \"e017_b01_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"2B catches a falling gear with one hand while stepping onto a rotating platform, her body leaning forward to absorb the weight; the background blurs into motion as she prepares to swing the gear back, her posture tense and precise.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3243,
+    "total_output_tokens": 451,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.180472693116739,
+    "time_to_first_token_seconds": 3.928323
+  }
+}

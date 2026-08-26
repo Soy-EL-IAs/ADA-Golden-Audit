@@ -1,0 +1,38 @@
+{
+  "run_id": "013_lara_croft_001",
+  "batch_id": "20260820_182636_render_only_fast",
+  "sequence": 13,
+  "premise_id": "lara_croft_001",
+  "mode": "render-only-fast",
+  "review_status": "unreviewed_render_only",
+  "status": "unreviewed_render_only",
+  "created_at": "2026-08-20T18:36:51.308345-03:00",
+  "illustrious_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 1000012,
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\013_lara_croft_001\\illustrious\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_182636_render_only_fast\\013_lara_croft_001\\illustrious",
+        "type": "output"
+      }
+    }
+  ],
+  "krea_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 2000012,
+      "source_image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\013_lara_croft_001\\illustrious\\candidate_01.png",
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\013_lara_croft_001\\krea\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_182636_render_only_fast\\013_lara_croft_001\\krea",
+        "type": "output"
+      }
+    }
+  ],
+  "illustrious_prompt_id": "61da02c0-0829-4f4b-b38c-9ff13be941a0",
+  "krea_prompt_id": "0e52b775-7ceb-44f5-ba38-20e48ae2334d",
+  "completed_at": "2026-08-20T18:37:37.760484-03:00"
+}

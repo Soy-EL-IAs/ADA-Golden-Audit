@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e020_b02_01\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme close-up of 2B's face as a sudden burst of high-pressure water from a ruptured pipe hits her directly, forcing her to squint tightly behind the black blindfold and clench her jaw in controlled discomfort while droplets splash off her short white hair.\"\n  },\n  {\n    \"id\": \"e020_b02_02\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot of 2B forcefully pulling a loose, sparking electrical cable away from her chest to prevent it from tangling in the puffy feather-trimmed sleeves of her dress, her black gloves gripping the metal conduit with visible strain as sparks fly near her shoulder.\"\n  },\n  {\n    \"id\": \"e020_b02_03\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B performing a low crouch-dodge to slip beneath a swinging wrecking ball in an industrial yard, her thigh-high boots gripping the uneven gravel for traction while her dress hem lifts sharply due to the rapid downward movement.\"\n  },\n  {\n    \"id\": \"e020_b02_04\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Dynamic mid-action shot of 2B spinning rapidly to deliver a slash, causing her short white hair and the hem of her black dress to blur into a circular motion as she deflects a thrown shard of glass that shatters against her sword blade.\"\n  },\n  {\n    \"id\": \"e020_b02_05\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Wide high-angle shot of 2B dangling from the edge of a crumbling concrete ledge, her arms taut as she hangs over a chasm filled with swirling mist, illuminated by a single flickering emergency light above that highlights her silhouette against the dark void.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3590,
+    "total_output_tokens": 458,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.05230005404538,
+    "time_to_first_token_seconds": 4.306511
+  }
+}

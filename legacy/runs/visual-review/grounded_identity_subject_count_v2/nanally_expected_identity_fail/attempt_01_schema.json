@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-hc47pcw932gv3qc23csr4",
+  "object": "chat.completion",
+  "created": 1787668689,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"m1_nanally_de_nte_01\",\n  \"stage\": \"lustify\",\n  \"identity\": {\n    \"result\": \"PASS\",\n    \"score\": 10,\n    \"confidence\": 1.0\n  },\n  \"subject_count\": {\n    \"expected\": 1,\n    \"actual\": 1,\n    \"result\": \"PASS\"\n  },\n  \"scores\": {\n    \"anatomy\": 10,\n    \"prompt_adherence\": 10,\n    \"composition\": 10,\n    \"visual_quality\": 10\n  },\n  \"defects\": [],\n  \"hard_constraint_failures\": [],\n  \"summary\": \"The rendered image fully satisfies the semantic specification. The character is visually consistent with the canonical reference, displaying red hair, red eyes, cat ears, and a tiger-striped tail. The outfit (jacket, shirt, black necktie) and setting (softly lit study with desk, bookshelves, and open window) are accurately depicted. The composition is a close-up on the face and letter edges as required. All locked requirements are met.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3210,
+    "completion_tokens": 244,
+    "total_tokens": 3454,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

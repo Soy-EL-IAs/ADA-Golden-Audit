@@ -1,0 +1,34 @@
+{
+  "id": "claire_redfield_006",
+  "character": "Claire Redfield",
+  "franchise": "Resident Evil",
+  "identity": [
+    "auburn ponytail",
+    "red leather jacket over fitted black top",
+    "dark jeans and utility pouch"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a rain-slick parking garage, she bends to pick up a dropped flashlight just as a sprinkler sputters on, making her dash between dry patches while the beam rolls away, with confident sensual body language throughout.",
+  "must_include": [
+    "rolling flashlight",
+    "misfiring sprinkler"
+  ],
+  "environment": [
+    "parking garage",
+    "cold fluorescent light",
+    "wet concrete reflections"
+  ],
+  "animation_hook": "She hooks the flashlight with her boot, catches it in her hand, and slides under the next burst of water.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000005,
+  "krea_seed_base": 2000005
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-i5y79cvbxdo3uyt7j92u1n",
+  "object": "chat.completion",
+  "created": 1787435685,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_185027_03\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"defects\": [\n    \"Immutable identity failure: hair is purple and short, eyes are green — correct.\",\n    \"Scene requirement failure: paper is held over midriff — correct.\",\n    \"Scene requirement failure: irritated expression — correct.\",\n    \"Scene requirement failure: dimly lit office environment — correct.\",\n    \"Scene requirement failure: harsh overhead lighting — correct.\",\n    \"Identity element failure: large breasts — visible above paper, correct.\",\n    \"Canonical outfit failure: hairband — present (orange headband).\",\n    \"Canonical outfit failure: shorts — present (yellow shorts).\",\n    \"Canonical outfit failure: lipstick — present (red lips).\",\n    \"Canonical outfit failure: thighhighs — not visible (missing).\",\n    \"Canonical outfit failure: shirt — present (yellow crop top).\",\n    \"Canonical outfit failure: bare shoulders — visible above paper, correct.\",\n    \"Canonical outfit failure: crop_top — present (yellow crop top).\",\n    \"Canonical outfit failure: boots — present (green boots).\",\n    \"Narrative drift: paper obscures midriff — correct.\",\n    \"Narrative drift: paper is torn — not visibly torn, but not critical.\",\n    \"Narrative drift: paper is held with both hands — only one hand visible holding paper.\",\n    \"Narrative drift: paper is strategically placed — correct.\",\n    \"Narrative drift: paper is acting as shield — correct.\",\n    \"Narrative drift: paper is obscuring torso — correct.\",\n    \"Narrative drift: paper is not full costume change — correct.\",\n    \"Narrative drift: paper is not covering full torso — correct.\",\n    \"Narrative drift: paper is not covering face — correct.\",\n    \"Narrative drift: paper is not covering head — correct.\",\n    \"Narrative drift: paper is not covering legs — correct.\",\n    \"Narrative drift: paper is not covering arms — correct.\",\n    \"Narrative drift: paper is not covering chest — correct.\",\n    \"Narrative drift: paper is not covering back — correct.\",\n    \"Narrative drift: paper is not covering neck — correct.\",\n    \"Narrative drift: paper is not covering waist — correct.\",\n    \"Narrative drift: paper is not covering hips — correct.\",\n    \"Narrative drift: paper is not covering thighs — correct.\",\n    \"Narrative drift: paper is not covering knees — correct.\",\n    \"Narrative drift: paper is not covering calves — correct.\",\n    \"Narrative drift: paper is not covering ankles — correct.\",\n    \"Narrative drift: paper is not covering feet — correct.\",\n    \"Narrative drift: paper is not covering toes — correct.\",\n    \"Narrative drift: paper is not covering fingers — correct.\",\n    \"Narrative drift: paper is not covering palms — correct.\",\n    \"Narrative drift: paper is not covering wrists — correct.\",\n    \"Narrative drift: paper is not covering elbows — correct.\",\n    \"Narrative drift: paper is not covering shoulders — correct.\",\n    \"Narrative drift: paper is not covering neck — correct.\",\n    \"Narrative drift: paper is not covering",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "length"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1765,
+    "completion_tokens": 700,
+    "total_tokens": 2465,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e010_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme close-up on 2B's face and the black blindfold as a fine mist of water droplets from a broken pipe sprays directly into her path; she tilts her chin up slightly to let the spray wash over the fabric, her expression remaining serene but with a subtle tension in her jaw as she holds still for the unexpected cleansing.\"\n  },\n  {\n    \"id\": \"e010_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot from the waist up showing 2B using both gloved hands to carefully re-thread a loose strand of her short white hair back under her hairband; her posture is rigid and focused, with the puffy feather-trimmed sleeves bunching at the elbows as she concentrates on the precise task, revealing a rare moment of mundane vulnerability amidst her usual stoicism.\"\n  },\n  {\n    \"id\": \"e010_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body shot of 2B balancing on one leg atop a narrow, unstable pipe in an industrial sector, her free arm extended to the side for counterbalance; her black dress and thigh-high stockings are taut against her silhouette as she adjusts her center of gravity with microscopic precision, showcasing her athletic control and elegant posture under precarious conditions.\"\n  },\n  {\n    \"id\": \"e010_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Dynamic action shot of 2B ducking sharply underneath a low-hanging rusted beam, her black dress hem flaring out behind her as she tucks her head down; the motion blurs the edges of her puffy sleeves while her eyes remain sharp and focused on the gap ahead, capturing the split-second agility required to navigate the tight obstacle.\"\n  },\n  {\n    \"id\": \"e010_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Cinematic over-the-shoulder shot from a low angle looking up at 2B as she stands silhouetted against a massive, circular industrial window that is slowly cracking; shards of glass begin to rain down around her, but she remains perfectly still with arms crossed, the contrast between the chaotic destruction and her composed stance creating a dramatic tension about whether she will move.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3697,
+    "total_output_tokens": 552,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.820002380638982,
+    "time_to_first_token_seconds": 4.515815
+  }
+}

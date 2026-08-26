@@ -1,0 +1,16 @@
+{
+  "id": "2b_specialist_full_003_02",
+  "stage": "illustrious",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "feather-trimmed_sleeves"
+  ],
+  "defects": [],
+  "drift": [
+    "The static electricity effect is visually distinct from fire or magic, but the glowing circular element behind her may imply a magical or technological source, potentially introducing ambiguity. The narrative of a sudden static shock is preserved, but the visual composition emphasizes her stance and the glowing effect more than the 'flinch' or 'shielding' action described in the premise."
+  ],
+  "summary": "All preserved elements are visibly correct. No visible defects. Minor narrative drift in emphasis of visual composition versus premise action."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2b_ada_2B_20260822_201238_01",
+  "category": "strategic_censorship",
+  "premise": "2B stands frozen in a sterile white command center, her body rigid as she clutches the torn edge of her black dress where it has been ripped open by an unseen force. Her blindfold is slightly askew, revealing one wide, shocked eye staring directly at the viewer, while her other hand grips a fallen data tablet that displays a red 'ERROR' symbol. The visible cause is the sudden, violent tearing of fabric caused by a mechanical malfunction or enemy strike, and the consequence is her exposed midriff and the loss of composure in an otherwise rigid setting. The strong animation hook is the momentary suspension of time just before she reacts to the breach, capturing the tension between her stoic duty and the intimate vulnerability of the interruption.",
+  "identity_elements": [
+    "short_hair",
+    "white_hair"
+  ],
+  "canonical_outfit": [
+    "hairband",
+    "clothing_cutout",
+    "thighhighs",
+    "gloves",
+    "puffy_sleeves",
+    "long_sleeves",
+    "dress",
+    "black_dress",
+    "leotard",
+    "juliet_sleeves",
+    "black_gloves",
+    "boots",
+    "feather-trimmed_sleeves",
+    "thigh_boots"
+  ],
+  "scene_requirements": [
+    "blindfold",
+    "torn_dress",
+    "exposed_midriff",
+    "shocked_expression",
+    "holding_data_tablet",
+    "sterile_white_background"
+  ],
+  "risk_notes": [
+    "Ensure the blindfold is clearly visible despite being askew to maintain character identity.",
+    "Keep the torn dress revealing enough to show vulnerability but not overly graphic, focusing on the midriff and upper thigh area.",
+    "The 'shocked expression' must be subtle due to the blindfold, relying heavily on body language (rigid posture) and the one visible eye."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "model": "qwen/qwen3-vl-8b",
+  "agent": "visual_review",
+  "prompt_tokens": 1723,
+  "completion_tokens": 700,
+  "reasoning_tokens": 0,
+  "context_length": 8192,
+  "latency_seconds": 6.391,
+  "finish_reason": "length",
+  "transport": "openai",
+  "time_to_first_token_seconds": null
+}

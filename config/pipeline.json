@@ -1,0 +1,208 @@
+{
+  "comfy_root": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI",
+  "server_url": "http://127.0.0.1:8188",
+  "renderers": {
+    "primary": "lustify_krea2_primary_v1",
+    "secondary": {
+      "id": "miaomiao_anima16_secondary_v1",
+      "enabled_by_default": false
+    },
+    "presets": {
+      "lustify_krea2_primary_v1": {
+        "renderer": "lustify",
+        "role": "primary",
+        "status": "production",
+        "capability_profile": "lustify_krea2_general_renderer_v1",
+        "workflow": "workflows/production/lustify_krea2_primary_v1_api.json",
+        "workflow_version": "lustify_krea2_primary_v1",
+        "checkpoint": "lustifyNSFWCheckpoint_v10Krea2.safetensors",
+        "text_encoder": "qwen3vl_4b_fp8_scaled.safetensors",
+        "text_encoder_type": "krea2",
+        "vae": "qwen_image_vae.safetensors",
+        "model_sampling": {
+          "node": "ModelSamplingAuraFlow",
+          "shift": 4.0
+        },
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "steps": 8,
+        "cfg": 1.0,
+        "sampler": "euler",
+        "scheduler": "simple",
+        "denoise": 1.0,
+        "prompt_strategy": "descriptive_render_spec_v1",
+        "supported_render_intents": [
+          "anime",
+          "semi_realistic",
+          "photorealistic"
+        ],
+        "supported_modes": {
+          "DIRECT_T2I": "supported",
+          "LATENT_IMG2IMG": "supported_via_lustify_krea2_img2img_v1",
+          "REFERENCE_EDIT": "adapter_required",
+          "STYLE_REFERENCE": "adapter_required",
+          "STRUCTURE_CONTROL": "experimental"
+        },
+        "negative_handling": "conditioning_zero_out",
+        "output_node": "14",
+        "benchmark_evidence": "experimental/model_lab/manual_controlled_benchmark_20260824"
+      },
+      "lustify_krea2_img2img_v1": {
+        "renderer": "lustify",
+        "role": "identity_fallback",
+        "status": "production_conditional",
+        "capability_profile": "lustify_krea2_true_latent_img2img_v1",
+        "workflow": "workflows/production/lustify_krea2_img2img_v1_api.json",
+        "workflow_version": "lustify_krea2_img2img_v1",
+        "checkpoint": "lustifyNSFWCheckpoint_v10Krea2.safetensors",
+        "text_encoder": "qwen3vl_4b_fp8_scaled.safetensors",
+        "text_encoder_type": "krea2",
+        "vae": "qwen_image_vae.safetensors",
+        "model_sampling": {
+          "node": "ModelSamplingAuraFlow",
+          "shift": 4.0
+        },
+        "width": 1024,
+        "height": 1536,
+        "batch_size": 1,
+        "steps": 8,
+        "cfg": 1.0,
+        "sampler": "euler",
+        "scheduler": "simple",
+        "denoise": 0.4,
+        "prompt_strategy": "source_preserving_render_spec_v1",
+        "supported_render_intents": [
+          "semi_realistic",
+          "photorealistic"
+        ],
+        "supported_modes": {
+          "DIRECT_T2I": "unsupported",
+          "LATENT_IMG2IMG": "supported",
+          "REFERENCE_EDIT": "unsupported"
+        },
+        "negative_handling": "conditioning_zero_out",
+        "output_node": "14",
+        "benchmark_evidence": "experimental/model_lab/lustify_identity_reference_ghislaine_001/recipes/B_latent_img2img/model_test_receipt.json"
+      },
+      "miaomiao_anima16_secondary_v1": {
+        "renderer": "miaomiao",
+        "role": "secondary_optional",
+        "status": "secondary",
+        "capability_profile": "miaomiao_anima16_fast_anime_renderer_v1",
+        "workflow": "workflows/production/miaomiao_anima16_secondary_v1_api.json",
+        "workflow_version": "miaomiao_anima16_secondary_v1",
+        "checkpoint": "miaomiaoHarem_anima16.safetensors",
+        "text_encoder": "qwen_3_06b_base.safetensors",
+        "text_encoder_type": "qwen_image",
+        "vae": "qwen_image_vae.safetensors",
+        "width": 832,
+        "height": 1216,
+        "batch_size": 1,
+        "steps": 25,
+        "cfg": 4.0,
+        "sampler": "euler",
+        "scheduler": "normal",
+        "denoise": 1.0,
+        "prompt_strategy": "booru_tags_with_scene_clause_v1",
+        "supported_render_intents": [
+          "anime"
+        ],
+        "supported_modes": {
+          "DIRECT_T2I": "supported",
+          "LATENT_IMG2IMG": "unsupported",
+          "REFERENCE_EDIT": "unsupported",
+          "STYLE_REFERENCE": "unsupported",
+          "STRUCTURE_CONTROL": "unsupported"
+        },
+        "negative_prompt": "worst quality, low quality, score_1, score_2, score_3, artist name, backlit subject",
+        "output_node": "8",
+        "benchmark_evidence": "experimental/model_lab/manual_controlled_benchmark_20260824"
+      }
+    },
+    "historical": {
+      "illustrious": {
+        "status": "deprecated_for_primary_pipeline",
+        "superseded_by": "lustify_krea2_primary_v1",
+        "decision_date": "2026-08-24",
+        "evidence": "manual_controlled_benchmark_20260824"
+      },
+      "klein": {
+        "status": "deprecated_for_primary_pipeline",
+        "superseded_by": "lustify_krea2_primary_v1",
+        "decision_date": "2026-08-24",
+        "evidence": "manual_controlled_benchmark_20260824",
+        "specialized_use": "source-preserving anime-to-semi-real conversion"
+      },
+      "anima_3_8b": {
+        "status": "discarded",
+        "superseded_by": "lustify_krea2_primary_v1",
+        "decision_date": "2026-08-24",
+        "evidence": "manual_controlled_benchmark_20260824"
+      }
+    }
+  },
+  "illustrious": {
+    "checkpoint": "waiIllustriousSDXL_v160.safetensors",
+    "width": 768,
+    "height": 1376,
+    "batch_size": 1,
+    "steps": 14,
+    "cfg": 4.5,
+    "sampler": "euler_ancestral",
+    "scheduler": "normal"
+  },
+  "klein": {
+    "model": "flux-2-klein-9b-fp8.safetensors",
+    "text_encoder": "qwen_3_8b_fp8mixed.safetensors",
+    "vae": "flux2-vae.safetensors",
+    "width": 1024,
+    "height": 1024,
+    "reference_megapixels": 1.5,
+    "reference_resolution_steps": 1,
+    "steps": 6,
+    "guidance": 4.0,
+    "cfg": 1.0,
+    "sampler": "euler",
+    "scheduler": "flux2",
+    "loras": [
+      {
+        "lora": "flux/anime2real-semi.safetensors",
+        "strength": 0.5
+      },
+      {
+        "lora": "flux/klein_snofs_v1_3.safetensors",
+        "strength": 0.3
+      }
+    ],
+    "timeout_seconds": 1200,
+    "score_weights": {
+      "identity": 0.3,
+      "premise_readability": 0.35,
+      "anatomy_composition": 0.2,
+      "animation_potential": 0.15
+    }
+  },
+  "krea": {
+    "model": "Krea2_Anything2RealCharacters-V2.5_fp8.safetensors",
+    "text_encoder": "qwen3vl_4b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "width": 1024,
+    "height": 1536,
+    "steps": 8,
+    "cfg": 1.0,
+    "sampler": "euler",
+    "scheduler": "beta57",
+    "vl_size": 384,
+    "kv_cache": true
+  },
+  "timeouts": {
+    "illustrious_seconds": 600,
+    "krea_seconds": 900,
+    "poll_seconds": 2
+  },
+  "bridge_final_formula": {
+    "klein_total": 0.3,
+    "krea_total": 0.7
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "per_premise": [
+    {
+      "id": "e017_b01_closeup",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 8.5,
+      "animation_potential": 8.0,
+      "notes": "Strong causal link (rubble falling) to reaction (squint/jaw tighten). Identity is clear with blindfold and gloves. Good micro-expression."
+    },
+    {
+      "id": "e017_b01_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.0,
+      "animation_potential": 9.0,
+      "notes": "Excellent use of sleeve physics (feather trim) as a visual hook tied to the action of dodging. Clear cause and effect."
+    },
+    {
+      "id": "e017_b01_fullbody",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.5,
+      "animation_potential": 8.5,
+      "notes": "Active stabilization against a specific force (tilted platform from explosion). Avoids static balancing by including the sword and lean."
+    },
+    {
+      "id": "e017_b01_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.5,
+      "micro_story": 8.0,
+      "animation_potential": 9.0,
+      "notes": "Specific environmental interaction (laser). The hair lift is caused by the shockwave, which is a valid physical consequence, not just wind."
+    },
+    {
+      "id": "e017_b01_cinematic",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 8.5,
+      "animation_potential": 9.0,
+      "notes": "Strong kinetic energy. Catching a gear while stepping on a rotating platform creates immediate tension and clear next-frame potential."
+    },
+    {
+      "id": "e017_b02_closeup",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.0,
+      "animation_potential": 7.5,
+      "notes": "Oil mist is a specific cause. The reaction (tilting head back) is active. Slight risk of 'atmosphere' if the oil isn't visually distinct enough, but the physical interaction with the blindfold saves it."
+    },
+    {
+      "id": "e017_b02_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.5,
+      "notes": "Water geyser is a strong visual hook. The torso arch and fabric tension are well-described. Distinct from previous wind/air-based hooks."
+    },
+    {
+      "id": "e017_b02_fullbody",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.0,
+      "animation_potential": 8.0,
+      "notes": "Fractured walkway provides a clear cause for the balance shift. The 'freezing' mid-step adds narrative weight compared to just standing."
+    },
+    {
+      "id": "e017_b02_dynamic",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.5,
+      "animation_potential": 9.0,
+      "notes": "Deflecting a pipe is high-energy and specific. The spin creates dynamic motion lines. Good use of momentum."
+    },
+    {
+      "id": "e017_b02_cinematic",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.5,
+      "animation_potential": 8.0,
+      "notes": "Landing from a leap is a classic dynamic pose. The dust billow adds impact. Slightly generic 'hero landing' but executed with specific context (chasm)."
+    },
+    {
+      "id": "e017_b03_closeup",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.5,
+      "animation_potential": 7.0,
+      "notes": "Glass shard clipping the blindfold is a very specific, high-stakes micro-event. The 'flush on neck' adds personality nuance (suppressed annoyance)."
+    },
+    {
+      "id": "e017_b03_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.5,
+      "notes": "Electrical arcing is a distinct cause from wind/water. The static charge affecting the sleeves is a nice detail that ties physics to identity."
+    },
+    {
+      "id": "e017_b03_fullbody",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.5,
+      "animation_potential": 8.0,
+      "notes": "Hauling a crate up a bending ladder is excellent physical storytelling. It shows strength and struggle without being generic."
+    },
+    {
+      "id": "e017_b03_dynamic",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.5,
+      "animation_potential": 9.0,
+      "notes": "Low slide under a beam is high kinetic energy. The hair fanning out is caused by the rapid movement, which is acceptable."
+    },
+    {
+      "id": "e017_b03_cinematic",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.5,
+      "notes": "Catching a whipping cable while balancing on a crumbling edge is complex and engaging. High tension."
+    },
+    {
+      "id": "e017_b04_closeup",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 8.0,
+      "animation_potential": 7.5,
+      "notes": "Tearing glove fabric is a great detail that shows force. The focus on hands fits the closeup category well."
+    },
+    {
+      "id": "e017_b04_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.0,
+      "animation_potential": 8.5,
+      "notes": "Updraft from a vent is a specific source for the hair/sleeve movement. The dress hem lifting reveals stockings, adding visual appeal without being gratuitous."
+    },
+    {
+      "id": "e017_b04_fullbody",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.5,
+      "notes": "Stepping over a sparking beam is active navigation. The sparks provide visual interest and danger."
+    },
+    {
+      "id": "e017_b04_dynamic",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.5,
+      "animation_potential": 9.0,
+      "notes": "Sidestep from a slamming door is very cinematic. The dust/shards flying are direct consequences of the impact."
+    },
+    {
+      "id": "e017_b04_cinematic",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.5,
+      "animation_potential": 8.0,
+      "notes": "Rotating gear mechanism is a good industrial setting. The grip on the chain adds stability to the pose."
+    }
+  ],
+  "set_scores": {
+    "identity": 9.5,
+    "visual_appeal": 8.2,
+    "diversity": 7.5,
+    "repetition_control": 6.5,
+    "micro_story": 8.4,
+    "animation_potential": 8.3
+  },
+  "strengths": [
+    "Consistent adherence to the 'Causal Premise' rule; almost every premise has a clear visible cause (rubble, chain, laser, oil, water, etc.).",
+    "Strong integration of character-specific details like feather-trimmed sleeves and blindfold into the physics of the action.",
+    "Excellent variety in environmental hazards (mechanical, elemental, structural), avoiding over-reliance on a single type of threat."
+  ],
+  "failures": [
+    "Repetition of 'hair/sleeve disruption' as a primary visual hook. While caused by different forces, the visual result (flaring sleeves/hair) is similar across multiple premises.",
+    "Several fullbody and dynamic premises rely heavily on 'balance/tilt' scenarios (tilted platform, fractured walkway, rotating gear), creating a conceptual cluster of 'fighting gravity'.",
+    "Some closeups focus heavily on the blindfold being affected (oil, glass clip), which risks making the accessory feel like the main subject rather than part of the character's reaction."
+  ],
+  "desired_patterns": [
+    "Clear cause-and-effect chains that are physically plausible.",
+    "Use of clothing physics to enhance motion and visual appeal.",
+    "Specific micro-expressions (jaw clench, squint) that convey personality under stress."
+  ],
+  "undesired_patterns": [
+    "Overuse of 'wind/gust' as the primary driver for hair/sleeve movement, even when sourced from vents or shockwaves.",
+    "Repetitive 'balancing on unstable surface' poses in fullbody shots.",
+    "Passive reactions where the character is mostly bracing rather than actively engaging with the threat."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Hair/Sleeve Disruption via Force",
+      "proposal_ids": [
+        "e017_b01_medium",
+        "e017_b01_dynamic",
+        "e017_b02_dynamic",
+        "e017_b03_medium",
+        "e017_b03_dynamic",
+        "e017_b04_medium",
+        "e017_b04_dynamic"
+      ]
+    },
+    {
+      "pattern": "Balancing on Tilted/Unstable Surface",
+      "proposal_ids": [
+        "e017_b01_fullbody",
+        "e017_b02_fullbody",
+        "e017_b03_cinematic",
+        "e017_b04_cinematic"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Limit 'hair/sleeve flaring' to max 2 premises per

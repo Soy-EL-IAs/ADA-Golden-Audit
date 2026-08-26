@@ -1,0 +1,366 @@
+{
+  "schema_version": "character_contract_v1",
+  "contract_id": "character:chun_li:default",
+  "character_id": "chun_li",
+  "display_name": "chun-li",
+  "profile_version": "default",
+  "franchise": [
+    "street_fighter"
+  ],
+  "identity": {
+    "canonical_tag": "chun-li",
+    "must_preserve": [
+      "chun-li",
+      "hair_bun",
+      "brown_hair",
+      "brown_eyes",
+      "hair_ribbon",
+      "double_bun",
+      "bun_cover",
+      "large_breasts",
+      "earrings",
+      "jewelry",
+      "bracelet",
+      "ribbon"
+    ],
+    "valid_variants": [],
+    "conditional": [],
+    "uncertain": []
+  },
+  "outfit": {
+    "canonical_default": [
+      "chinese_clothes",
+      "china_dress",
+      "spikes",
+      "pantyhose",
+      "pelvic_curtain",
+      "short_sleeves",
+      "blue_dress",
+      "puffy_sleeves",
+      "puffy_short_sleeves",
+      "boots"
+    ],
+    "valid_variants": [],
+    "conditional": [],
+    "uncertain": []
+  },
+  "evidence": [
+    {
+      "source": "danbooru_taxonomy",
+      "reference": "chun-li",
+      "supports": [
+        "identity",
+        "outfit"
+      ]
+    },
+    {
+      "source": "character_refs_manifest",
+      "reference": "data/references/chun_li/default/manifest.json",
+      "supports": [
+        "visual_reference"
+      ]
+    },
+    {
+      "source": "danbooru_taxonomy",
+      "reference": "chun-li",
+      "supports": [
+        "identity_taxonomy"
+      ]
+    }
+  ],
+  "source_profile": {
+    "requested_character": "chun-li",
+    "requested_version": null,
+    "matched_tag": "chun-li",
+    "canonical_name": "Chun-Li",
+    "character_id": "chun_li",
+    "aliases": [
+      "chun-li",
+      "Chun-Li"
+    ],
+    "character_profile_used": true,
+    "gender": null,
+    "copyright": [
+      "street_fighter"
+    ],
+    "characteristics": [
+      "hair_bun",
+      "double_bun",
+      "brown_hair",
+      "brown_eyes",
+      "earrings",
+      "bun_cover",
+      "large_breasts"
+    ],
+    "clothing": [
+      "jewelry",
+      "bracelet",
+      "chinese_clothes",
+      "dress",
+      "china_dress",
+      "spikes",
+      "pantyhose",
+      "pelvic_curtain",
+      "short_sleeves",
+      "blue_dress",
+      "ribbon",
+      "puffy_sleeves",
+      "puffy_short_sleeves",
+      "swimsuit",
+      "hair_ribbon",
+      "boots"
+    ],
+    "relationships": {},
+    "version_match": null,
+    "candidates": [],
+    "source": "danbooru_taxonomy",
+    "identity_resolution": {
+      "requested_name": "chun-li",
+      "canonical_name": "Chun-Li",
+      "canonical_tag": "chun-li",
+      "character_id": "chun_li",
+      "franchise": [
+        "street_fighter"
+      ],
+      "aliases": [
+        "chun-li",
+        "Chun-Li"
+      ],
+      "characteristics": [
+        "hair_bun",
+        "double_bun",
+        "brown_hair",
+        "brown_eyes",
+        "earrings",
+        "bun_cover",
+        "large_breasts"
+      ],
+      "clothing": [
+        "jewelry",
+        "bracelet",
+        "chinese_clothes",
+        "dress",
+        "china_dress",
+        "spikes",
+        "pantyhose",
+        "pelvic_curtain",
+        "short_sleeves",
+        "blue_dress",
+        "ribbon",
+        "puffy_sleeves",
+        "puffy_short_sleeves",
+        "swimsuit",
+        "hair_ribbon",
+        "boots"
+      ],
+      "source": "danbooru_taxonomy"
+    },
+    "taxonomy_classification": {
+      "IDENTITY": [
+        "hair_bun",
+        "brown_hair",
+        "brown_eyes",
+        "hair_ribbon"
+      ],
+      "CANONICAL_APPEARANCE": [
+        "double_bun",
+        "bun_cover",
+        "large_breasts"
+      ],
+      "CANONICAL_OUTFIT": [
+        "chinese_clothes",
+        "china_dress",
+        "spikes",
+        "pantyhose",
+        "pelvic_curtain",
+        "short_sleeves",
+        "blue_dress",
+        "puffy_sleeves",
+        "puffy_short_sleeves",
+        "boots"
+      ],
+      "ACCESSORY": [
+        "earrings",
+        "jewelry",
+        "bracelet",
+        "ribbon"
+      ],
+      "CONTEXTUAL": [
+        "dress",
+        "swimsuit"
+      ],
+      "POSE_ACTION": [],
+      "IGNORE": []
+    },
+    "taxonomy_evidence": [
+      {
+        "trait": "hair_bun",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "brown_hair",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "brown_eyes",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "hair_ribbon",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "double_bun",
+        "classification": "CANONICAL_APPEARANCE",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "bun_cover",
+        "classification": "CANONICAL_APPEARANCE",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "large_breasts",
+        "classification": "CANONICAL_APPEARANCE",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "earrings",
+        "classification": "ACCESSORY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "jewelry",
+        "classification": "ACCESSORY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "bracelet",
+        "classification": "ACCESSORY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "ribbon",
+        "classification": "ACCESSORY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "chinese_clothes",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "china_dress",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "spikes",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "pantyhose",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "pelvic_curtain",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "short_sleeves",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "blue_dress",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "puffy_sleeves",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "puffy_short_sleeves",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "boots",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      }
+    ]
+  }
+}

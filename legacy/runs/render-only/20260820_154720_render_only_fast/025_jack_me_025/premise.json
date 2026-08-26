@@ -1,0 +1,34 @@
+{
+  "id": "jack_me_025",
+  "character": "Jack",
+  "franchise": "Mass Effect",
+  "identity": [
+    "shaved head",
+    "black fitted combat harness and tattoos",
+    "heavy boots"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In an empty cargo bay, she leans against a crate to stretch and a biotic pulse from her palm sends a row of lightweight training cones sliding away in perfect formation, with confident sensual body language throughout.",
+  "must_include": [
+    "sliding training cones",
+    "biotic pulse"
+  ],
+  "environment": [
+    "cargo bay",
+    "hard industrial lighting",
+    "metal floor and stacked crates"
+  ],
+  "animation_hook": "She smirks, flicks her wrist again, and pulls the cones back into an even tighter line.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000024,
+  "krea_seed_base": 2000024
+}

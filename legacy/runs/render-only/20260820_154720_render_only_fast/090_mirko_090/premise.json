@@ -1,0 +1,34 @@
+{
+  "id": "mirko_090",
+  "character": "Mirko",
+  "franchise": "My Hero Academia",
+  "identity": [
+    "long white hair with rabbit ears",
+    "white-purple fitted hero bodysuit",
+    "powerful athletic legs"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In an empty indoor arena, she lands from a jump onto a spring mat and rebounds higher than planned, brushing through a hanging banner fringe without touching the banner itself, with confident sensual body language throughout.",
+  "must_include": [
+    "spring mat rebound",
+    "hanging banner fringe"
+  ],
+  "environment": [
+    "indoor arena",
+    "bright sports lighting",
+    "padded floor and empty stands"
+  ],
+  "animation_hook": "She tucks midair, lands cleanly on the next mat, and the banner fringe continues rippling above.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000089,
+  "krea_seed_base": 2000089
+}

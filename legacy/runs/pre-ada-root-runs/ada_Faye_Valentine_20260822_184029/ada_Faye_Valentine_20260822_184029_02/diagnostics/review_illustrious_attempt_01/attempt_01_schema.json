@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-d9dn0wsalfue41iqn93qe",
+  "object": "chat.completion",
+  "created": 1787435050,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_184029_02\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"defects\": [\n    \"Immutable identity failure: no hand is grabbing the crop top hem as required. The hand is missing entirely.\",\n    \"Scene requirement failure: the aggressive hand reaching from the right to pull the fabric is completely absent.\",\n    \"Identity failure: the character's expression is not 'sharp irritation' but rather a stylized, exaggerated angry face with an open mouth in the floating head, which is not part of the premise.\",\n    \"The torn paper is not being held up to block the view; it is lying on the desk, contradicting the premise.\",\n    \"The hand grabbing the crop top is not visible — the premise requires this critical action to be present.\",\n    \"The background is not dimly lit; it is flat and brightly lit, contradicting the scene requirement.\"\n  ],\n  \"drift\": [\n    \"The floating head with an open mouth is not part of the premise and creates narrative drift.\",\n    \"The torn paper is not being used to obscure the view as required.\",\n    \"The hand grabbing the crop top is missing entirely, which is a critical scene requirement.\"\n  ],\n  \"summary\": \"The image fails to meet the premise. The required hand grabbing the crop top is missing, the torn paper is not being held up, the background is not dimly lit, and the floating head with an open mouth is not part of the premise. These are major structural failures.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1762,
+    "completion_tokens": 351,
+    "total_tokens": 2113,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

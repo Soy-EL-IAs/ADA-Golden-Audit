@@ -1,0 +1,16 @@
+{
+  "id": "2b_specialist_full_val_001",
+  "category": "strategic_censorship",
+  "premise": "2B stands in a dimly lit command center, her white hair and black dress sharply defined against the shadows. A sudden burst of static from a nearby terminal causes her to flinch, breaking her stoic composure as she instinctively raises a gloved hand to shield her blindfolded eyes. The interruption reveals a momentary vulnerability in her posture, with her feather-trimmed sleeves catching the light and her thigh-high boots grounding her stance, creating a visual hook of tension between her mechanical precision and human-like reaction.",
+  "preserved_elements": [
+    "white_hair",
+    "blindfold",
+    "black_dress",
+    "feather-trimmed_sleeves"
+  ],
+  "risk_notes": [
+    "Ensure the blindfold remains clearly visible to maintain identity without implying sight.",
+    "Keep the static burst subtle to avoid distracting from the character's reaction.",
+    "Maintain the stoic expression despite the flinch to preserve her canonical demeanor."
+  ]
+}

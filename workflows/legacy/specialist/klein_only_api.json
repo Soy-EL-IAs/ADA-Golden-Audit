@@ -1,0 +1,267 @@
+{
+  "20": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "55",
+        0
+      ],
+      "filename_prefix": "ADA/KLEIN_ONLY"
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_OUTPUT"
+    }
+  },
+  "37": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "flux2-vae.safetensors"
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_VAE"
+    }
+  },
+  "38": {
+    "class_type": "RandomNoise",
+    "inputs": {
+      "noise_seed": 0
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_SEED"
+    }
+  },
+  "39": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "46",
+        0
+      ],
+      "text": ""
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_PROMPT"
+    }
+  },
+  "40": {
+    "class_type": "VAEEncode",
+    "inputs": {
+      "pixels": [
+        "900",
+        0
+      ],
+      "vae": [
+        "37",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_SOURCE"
+    }
+  },
+  "41": {
+    "class_type": "KSamplerSelect",
+    "inputs": {
+      "sampler_name": "euler"
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_SAMPLER"
+    }
+  },
+  "42": {
+    "class_type": "Power Lora Loader (rgthree)",
+    "inputs": {
+      "model": [
+        "45",
+        0
+      ],
+      "lora_1": {
+        "on": true,
+        "lora": "flux\\anime2real-semi.safetensors",
+        "strength": 0.5
+      },
+      "lora_2": {
+        "on": true,
+        "lora": "flux\\klein_snofs_v1_3.safetensors",
+        "strength": 0.3
+      }
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_LORAS"
+    }
+  },
+  "43": {
+    "class_type": "Flux2Scheduler",
+    "inputs": {
+      "steps": 6,
+      "width": 1024,
+      "height": 1024
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_SCHEDULER"
+    }
+  },
+  "45": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "flux-2-klein-9b-fp8.safetensors",
+      "weight_dtype": "default"
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_MODEL"
+    }
+  },
+  "46": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen_3_8b_fp8mixed.safetensors",
+      "type": "flux2",
+      "device": "default"
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_TEXT_ENCODER"
+    }
+  },
+  "47": {
+    "class_type": "FluxGuidance",
+    "inputs": {
+      "conditioning": [
+        "39",
+        0
+      ],
+      "guidance": 4
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_GUIDANCE"
+    }
+  },
+  "49": {
+    "class_type": "ConditioningZeroOut",
+    "inputs": {
+      "conditioning": [
+        "39",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_NEGATIVE"
+    }
+  },
+  "50": {
+    "class_type": "PathchSageAttentionKJ",
+    "inputs": {
+      "model": [
+        "42",
+        0
+      ],
+      "sage_attention": "auto",
+      "allow_compile": false
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_ATTENTION"
+    }
+  },
+  "51": {
+    "class_type": "ReferenceLatent",
+    "inputs": {
+      "conditioning": [
+        "47",
+        0
+      ],
+      "latent": [
+        "40",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_REFERENCE"
+    }
+  },
+  "52": {
+    "class_type": "ModelPatchTorchSettings",
+    "inputs": {
+      "model": [
+        "50",
+        0
+      ],
+      "enable_fp16_accumulation": true
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_MODEL_SETTINGS"
+    }
+  },
+  "53": {
+    "class_type": "CFGGuider",
+    "inputs": {
+      "model": [
+        "52",
+        0
+      ],
+      "positive": [
+        "51",
+        0
+      ],
+      "negative": [
+        "49",
+        0
+      ],
+      "cfg": 1
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_CFG"
+    }
+  },
+  "54": {
+    "class_type": "SamplerCustomAdvanced",
+    "inputs": {
+      "noise": [
+        "38",
+        0
+      ],
+      "guider": [
+        "53",
+        0
+      ],
+      "sampler": [
+        "41",
+        0
+      ],
+      "sigmas": [
+        "43",
+        0
+      ],
+      "latent_image": [
+        "40",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_SAMPLE"
+    }
+  },
+  "55": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "54",
+        0
+      ],
+      "vae": [
+        "37",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_DECODE"
+    }
+  },
+  "900": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "__ADA_APPROVED_ILLUSTRIOUS__"
+    },
+    "_meta": {
+      "title": "ADA_KLEIN_INPUT"
+    }
+  }
+}

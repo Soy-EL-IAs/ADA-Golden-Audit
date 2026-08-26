@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e010_b02_closeup",
+    "category": "closeup",
+    "premise": "Extreme close-up on 2B's gloved hand as it grips the edge of a crumbling stone ledge, her knuckles white with tension; the black fabric of her glove stretches taut against the rough texture, while the blurred background hints at a sudden drop she is bracing for."
+  },
+  {
+    "id": "e010_b02_medium",
+    "category": "medium",
+    "premise": "Medium shot capturing 2B from the waist up as she reaches behind her back to adjust a loose hairband, her posture rigid and formal despite the casual action; the puffy feather-trimmed sleeves flare slightly with the movement, emphasizing the contrast between her elegant attire and the mundane task."
+  },
+  {
+    "id": "e010_b02_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B standing in a narrow corridor, using one gloved hand to push aside a heavy curtain that is drifting back into the frame; her thigh-high boots are planted firmly for stability, and her gaze remains fixed forward with disciplined focus as she navigates the obstruction."
+  },
+  {
+    "id": "e010_b02_dynamic",
+    "category": "dynamic",
+    "premise": "Dynamic shot of 2B mid-step over a low debris barrier, her black dress hem lifting to reveal the top of her thigh-high stockings; her body leans forward with kinetic energy, arms swinging for balance, capturing the split second before she clears the obstacle."
+  },
+  {
+    "id": "e010_b02_cinematic",
+    "category": "cinematic",
+    "premise": "Cinematic wide-angle shot from a low perspective looking up at 2B as she looks down over her shoulder, the harsh overhead lighting casting deep shadows across her blindfold and face; the composition isolates her silhouette against a dark void, emphasizing her stoic detachment while implying an unseen threat approaching from behind."
+  }
+]

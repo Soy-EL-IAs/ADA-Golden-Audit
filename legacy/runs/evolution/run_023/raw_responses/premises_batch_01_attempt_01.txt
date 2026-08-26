@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e023_b01_closeup",
+    "category": "closeup",
+    "premise": "Close-up on 2B's face as she forcibly pushes her black blindfold back to reveal her eyes, her jaw tight with controlled strain while a sudden, sharp electrical spark from a nearby broken conduit snaps against her cheek, illuminating the tension in her expression."
+  },
+  {
+    "id": "e023_b01_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B waist-up, actively twisting her torso to lift a heavy, rusted metal grate over her head; her black gloves grip the edge firmly as her puffy sleeves flare with the motion, and her dress cutout reveals the tension in her core muscles as she holds the weight steady."
+  },
+  {
+    "id": "e023_b01_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B balancing on a narrow, crumbling stone ledge; one foot planted firmly while the other hovers over a gap, her weight shifted back to counterbalance a loose slab sliding off the edge beside her, highlighting the line of her thigh-high boots and stockings against the dark ruins."
+  },
+  {
+    "id": "e023_b01_dynamic",
+    "category": "dynamic",
+    "premise": "Dynamic low-angle shot capturing 2B mid-dodge as she leans sharply backward to avoid a swinging chain, her short white hair whipping forward and the hem of her black dress flaring upward from the rapid turn, revealing the movement of her legs in motion."
+  },
+  {
+    "id": "e023_b01_cinematic",
+    "category": "cinematic",
+    "premise": "Cinematic wide shot showing 2B standing silhouetted against a massive, cracked window where moonlight floods in; she is actively reaching up to catch a falling debris piece before it hits the ground behind her, her figure framed by the dramatic contrast of light and shadow."
+  }
+]

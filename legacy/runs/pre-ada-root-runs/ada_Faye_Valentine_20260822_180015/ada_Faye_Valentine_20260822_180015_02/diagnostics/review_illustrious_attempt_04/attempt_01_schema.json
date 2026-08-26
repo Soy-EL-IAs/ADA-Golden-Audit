@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-a4cws8s7s7fb32eb4hdcn",
+  "object": "chat.completion",
+  "created": 1787432937,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_180015_02\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"preserved_ok\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"hairband\",\n    \"lipstick\",\n    \"thighhighs\",\n    \"boots\"\n  ],\n  \"defects\": [\n    \"The newspaper does not cover the chest area as required; it is held open and reveals the large breasts, violating the strategic censorship premise.\",\n    \"The shirt is not a crop top; it appears as a red jacket with puffed sleeves tied at the waist, which is inconsistent with the approved premise.\",\n    \"The shorts are yellow and appear to be a bikini-style bottom with suspenders, not matching the described shorts.\",\n    \"The bare shoulders are not preserved because the red jacket covers them, contradicting the requirement to maintain bare shoulders despite the obstruction.\",\n    \"The visible cause (off-frame threat) is absent; there is no silhouette or light source implying an interruption, making the defensive posture unjustified.\"\n  ],\n  \"drift\": [\n    \"The composition lacks the implied off-frame threat, removing the narrative tension and consequence that define the premise.\",\n    \"The clothing has been altered to a red jacket and yellow shorts, which deviates from the approved outfit and misrepresents the character’s signature style.\"\n  ],\n  \"summary\": \"The image fails to meet the strategic censorship premise by not obscuring the chest with the newspaper and by altering the clothing to a jacket and bikini-style shorts, which contradicts the approved outfit. The absence of an off-frame threat removes the narrative justification for her defensive posture.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1686,
+    "completion_tokens": 385,
+    "total_tokens": 2071,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

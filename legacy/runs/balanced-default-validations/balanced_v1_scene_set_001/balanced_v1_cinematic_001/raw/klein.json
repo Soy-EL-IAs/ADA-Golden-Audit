@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, thigh_boots, hairband, clothing_cutout, gloves, puffy_sleeves, long_sleeves, leotard, juliet_sleeves, black_gloves, feather-trimmed_sleeves, 1girl, profile view, dimly lit industrial corridor, heavy foreground occlusion from rusted pipes, shifting amber emergency lighting, reaching for control panel, sharp defensive turn, tension in posture, opaque black fabric blindfold covering eyes completely, light catching on blindfold, visible industrial machinery and pipes in background, high-pressure steam jet erupting from ruptured valve directly behind left shoulder, distinct white scalding steam plume separate from smoke or fog\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 816,
+    "total_output_tokens": 172,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 8.234601498668747,
+    "time_to_first_token_seconds": 1.741636
+  }
+}

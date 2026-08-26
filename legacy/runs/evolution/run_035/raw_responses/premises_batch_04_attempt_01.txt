@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e035_b04_closeup",
+    "category": "closeup",
+    "premise": "2B's black glove presses firmly against her temple as a high-pitched feedback screech from a nearby broken speaker vibrates through the air, causing the fabric of her blindfold to tremble visibly and her jaw to clench in suppressed concentration."
+  },
+  {
+    "id": "e035_b04_medium",
+    "category": "medium",
+    "premise": "2B bends deeply at the waist to retrieve a small, loose component from beneath a heavy, stationary machine part, her torso compressing and the puffy feather-trimmed sleeves of her dress bunching tightly against her upper arms as she reaches with focused precision."
+  },
+  {
+    "id": "e035_b04_fullbody",
+    "category": "fullbody",
+    "premise": "2B stands rigid on a narrow, elevated metal beam while a violent gust of wind from an open vent pushes against her broad shoulders, forcing her to widen her stance and plant her thigh-high boots firmly into the grating to prevent being swept off balance."
+  },
+  {
+    "id": "e035_b04_dynamic",
+    "category": "dynamic",
+    "premise": "2B lunges forward with explosive speed to catch a swinging industrial hook before it crashes down, her body stretched horizontally in mid-air and her black dress hem streaming backward from the rapid acceleration as she extends one gloved hand to grasp the metal."
+  },
+  {
+    "id": "e035_b04_cinematic",
+    "category": "cinematic",
+    "premise": "2B is seen small against a vast, dark chasm where a thin rope bridge has snapped, gripping the fraying end of a cable with one hand while her legs dangle over the abyss as she begins to pull herself upward toward safety."
+  }
+]

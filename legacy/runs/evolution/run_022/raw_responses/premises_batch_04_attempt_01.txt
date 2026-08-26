@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e022_b04_closeup",
+    "category": "closeup",
+    "premise": "Close-up on 2B's gloved hand as she firmly grips a frayed electrical cable, her fingers digging into the rubber insulation to stop it from slipping off a corroded terminal post; the tension in her wrist pulls at the cuff of her black glove while a stray spark sizzles near her knuckles."
+  },
+  {
+    "id": "e022_b04_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B leaning forward aggressively, using both hands to pry open a jammed maintenance panel that is stuck shut by dried rust; her puffy feather-trimmed sleeves compress as she applies downward force, and her expression remains tightly controlled despite the strain visible in her shoulders."
+  },
+  {
+    "id": "e022_b04_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B crawling on all fours through a low, debris-filled trench to avoid overhead hazards; her black dress hem drags across the rough gravel, and her thigh-high boots slide backward as she pushes forward with one arm while scanning for an exit."
+  },
+  {
+    "id": "e022_b04_dynamic",
+    "category": "dynamic",
+    "premise": "Dynamic shot of 2B leaping over a sudden crack in the floor, her body stretched horizontally in mid-air as she clears the gap; her short white hair flows backward from the momentum, and her boots are pointed forward to minimize air resistance during the jump."
+  },
+  {
+    "id": "e022_b04_cinematic",
+    "category": "cinematic",
+    "premise": "Wide cinematic angle of 2B hanging by one hand from a broken overhead beam, swinging her body to reach across a chasm; her legs dangle freely with feet pointed down, and her other arm is fully extended toward a protruding metal handle on the opposite side."
+  }
+]

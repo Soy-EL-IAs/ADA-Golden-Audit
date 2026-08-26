@@ -1,0 +1,34 @@
+{
+  "id": "lady_dmc_034",
+  "character": "Lady",
+  "franchise": "Devil May Cry",
+  "identity": [
+    "short black hair with heterochromia",
+    "white fitted blouse with dark shorts and thigh straps",
+    "large rocket launcher"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a gothic cathedral nave, she shoulders her oversized launcher and the back end nudges a hanging rope, setting a row of bells chiming one after another overhead, with confident sensual body language throughout.",
+  "must_include": [
+    "oversized launcher",
+    "chiming bell rope"
+  ],
+  "environment": [
+    "gothic cathedral",
+    "cool stained-glass light",
+    "stone arches and drifting dust"
+  ],
+  "animation_hook": "She glances upward, lowers the launcher a few inches, and walks on as the last bell finishes ringing.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000033,
+  "krea_seed_base": 2000033
+}

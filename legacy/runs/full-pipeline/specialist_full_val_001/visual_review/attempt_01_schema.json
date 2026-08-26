@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-3brj33kjuu1r6yuqr3va4",
+  "object": "chat.completion",
+  "created": 1787423375,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"2b_specialist_full_val_001\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"PASS\",\n  \"preserved_ok\": [\n    \"white_hair\",\n    \"blindfold\",\n    \"black_dress\",\n    \"feather-trimmed_sleeves\"\n  ],\n  \"defects\": [],\n  \"drift\": [\n    \"The static burst is absent; the mechanical hand and glowing ring are not part of the premise and introduce an unrelated element.\"\n  ],\n  \"summary\": \"All preserved elements are visibly correct. No visible defects. Narrative drift: the static burst and mechanical hand are not in the premise and create compositional drift.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1381,
+    "completion_tokens": 153,
+    "total_tokens": 1534,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

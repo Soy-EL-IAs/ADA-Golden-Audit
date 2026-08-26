@@ -1,0 +1,92 @@
+{
+  "run_id": "calibration_lara_001",
+  "premise_id": "lara_001",
+  "status": "awaiting_krea_scores",
+  "created_at": "2026-08-20T10:12:17.920719-03:00",
+  "illustrious_prompt_id": "e1d3de71-838a-459b-ad11-1613e1b0d200",
+  "illustrious_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\illustrious\\candidate_00001_.png",
+      "comfy_descriptor": {
+        "filename": "candidate_00001_.png",
+        "subfolder": "LunaPipeline\\calibration_lara_001\\illustrious",
+        "type": "output"
+      }
+    },
+    {
+      "candidate_id": "candidate_02",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\illustrious\\candidate_00002_.png",
+      "comfy_descriptor": {
+        "filename": "candidate_00002_.png",
+        "subfolder": "LunaPipeline\\calibration_lara_001\\illustrious",
+        "type": "output"
+      }
+    },
+    {
+      "candidate_id": "candidate_03",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\illustrious\\candidate_00003_.png",
+      "comfy_descriptor": {
+        "filename": "candidate_00003_.png",
+        "subfolder": "LunaPipeline\\calibration_lara_001\\illustrious",
+        "type": "output"
+      }
+    },
+    {
+      "candidate_id": "candidate_04",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\illustrious\\candidate_00004_.png",
+      "comfy_descriptor": {
+        "filename": "candidate_00004_.png",
+        "subfolder": "LunaPipeline\\calibration_lara_001\\illustrious",
+        "type": "output"
+      }
+    }
+  ],
+  "krea_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "source_image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\illustrious\\candidate_00001_.png",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\krea\\candidate_01_00001_.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaPipeline\\calibration_lara_001\\krea",
+        "type": "output"
+      },
+      "prompt_id": "67e19004-6a6a-4038-9a50-33fe7e994519"
+    },
+    {
+      "candidate_id": "candidate_02",
+      "source_image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\illustrious\\candidate_00002_.png",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\krea\\candidate_02_00001_.png",
+      "comfy_descriptor": {
+        "filename": "candidate_02_00001_.png",
+        "subfolder": "LunaPipeline\\calibration_lara_001\\krea",
+        "type": "output"
+      },
+      "prompt_id": "66accb0b-f2e8-4f85-ae00-3e540fd07e4d"
+    },
+    {
+      "candidate_id": "candidate_03",
+      "source_image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\illustrious\\candidate_00003_.png",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\krea\\candidate_03_00001_.png",
+      "comfy_descriptor": {
+        "filename": "candidate_03_00001_.png",
+        "subfolder": "LunaPipeline\\calibration_lara_001\\krea",
+        "type": "output"
+      },
+      "prompt_id": "beab4625-b60f-478c-a7be-c10986d93ca8"
+    },
+    {
+      "candidate_id": "candidate_04",
+      "source_image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\illustrious\\candidate_00004_.png",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\calibration_lara_001\\krea\\candidate_04_00001_.png",
+      "comfy_descriptor": {
+        "filename": "candidate_04_00001_.png",
+        "subfolder": "LunaPipeline\\calibration_lara_001\\krea",
+        "type": "output"
+      },
+      "prompt_id": "e53ccb76-a759-468e-89c6-7998f3354b31"
+    }
+  ],
+  "krea_completed_at": "2026-08-20T10:26:33.449295-03:00"
+}

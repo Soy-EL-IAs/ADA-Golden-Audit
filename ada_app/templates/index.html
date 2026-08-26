@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADA</title>
+    <link rel="stylesheet" href="/static/style.css?v=ada-1.0-alpha-3">
+</head>
+<body>
+    <div class="sidebar">
+        <h2>ADA</h2>
+        <div class="nav-section">
+            <span class="nav-label">PRODUCT</span>
+            <ul>
+                <li class="active" data-tab="home">Home</li>
+                <li data-tab="library">Library</li>
+                <li data-tab="characters">Characters</li>
+                <li data-tab="create">Create</li>
+            </ul>
+        </div>
+        <div class="nav-section">
+            <span class="nav-label">TOOLS</span>
+            <ul>
+                <li data-tab="runs">Runs</li>
+                <li data-tab="model-lab">Model Lab</li>
+            </ul>
+        </div>
+        <div class="nav-section">
+            <span class="nav-label">SYSTEM</span>
+            <ul>
+                <li data-tab="settings">Settings</li>
+            </ul>
+        </div>
+        <div class="nav-section">
+            <details>
+                <summary class="nav-label" style="cursor:pointer; list-style-position: inside;">ADVANCED</summary>
+                <ul style="margin-top: 8px;">
+                    <li data-tab="creative">Creative Lab</li>
+                    <li data-tab="roadmap">Roadmap</li>
+                    <li data-tab="videos">Videos (Legacy)</li>
+                </ul>
+            </details>
+        </div>
+    </div>
+    
+    <div class="content">
+        <!-- HOME -->
+        <div id="home" class="tab-content active">
+            <div class="home-header">
+                <h1>ADA</h1>
+                <p class="subtitle">Autonomous Digital Art</p>
+            </div>
+            
+            <div class="command-bar-container">
+                <div class="command-bar">
+                    <input type="text" id="command-input" placeholder="What do you want ADA to do?" autocomplete="off">
+                    <button id="btn-command" class="btn btn-primary">Go</button>
+                </div>
+                <div id="command-feedback" class="command-feedback"></div>
+            </div>
+
+            <div id="active-missions-section" class="mt-2">
+                <details id="active-missions-details" class="collapsible-missions">
+                    <summary><span>Active Missions</span><small id="active-missions-count"></small></summary>
+                    <div id="active-missions-container"></div>
+                </details>
+            </div>
+
+            <div id="recent-assets-section" class="mt-2">
+                <h2>Recent Assets</h2>
+                <div id="recent-assets-grid" class="asset-grid"></div>
+            </div>
+
+            <div id="collections-summary" class="mt-2">
+                <h2>Collections</h2>
+                <div id="collections-grid" class="collections-grid"></div>
+            </div>
+        </div>
+
+        <!-- CHARACTERS -->
+        <div id="characters" class="tab-content">
+            <div class="characters-header">
+                <div><h1>Characters</h1><p>Registered identities, Stock covers and recommended additions.</p></div>
+                <button class="btn btn-primary" type="button" onclick="switchTab('create'); loadCharacters();">+ Add character</button>
+            </div>
+            <div id="character-catalog-summary" class="character-catalog-summary mt-1"></div>
+            <div class="character-catalog-toolbar mt-1">
+                <input id="character-catalog-search" type="search" placeholder="Search character or franchise…" aria-label="Search character catalog">
+                <div id="character-catalog-filters" class="character-catalog-filters">
+                    <button class="btn filter-btn active" type="button" data-character-filter="all">All</button>
+                    <button class="btn filter-btn" type="button" data-character-filter="registered">Added</button>
+                    <button class="btn filter-btn" type="button" data-character-filter="suggested">Suggested</button>
+                    <button class="btn filter-btn" type="button" data-character-filter="needs-cover">Needs cover</button>
+                </div>
+            </div>
+            <div class="character-capability-legend card mt-1">
+                <span><i class="character-status-dot green">✓</i> Lustify direct</span>
+                <span><i class="character-status-dot yellow">✓</i> Miaomiao → Lustify</span>
+                <span><i class="character-status-dot red">×</i> Neither model recognizes it</span>
+                <span><i class="character-status-dot unknown">?</i> Not evaluated</span>
+            </div>
+            <div id="characters-catalog-grid" class="characters-catalog-grid mt-1"></div>
+        </div>
+
+        <!-- LIBRARY -->
+        <div id="library" class="tab-content">
+            <div id="library-main-view">
+                <h1>Library</h1>
+                <div class="search-bar">
+                    <input type="text" id="library-search" placeholder="Search characters or images..." autocomplete="off">
+                </div>
+                
+                <div id="library-views-toggle" class="mt-1">
+                    <button class="btn filter-btn active" onclick="setLibraryView('characters')">Characters</button>
+                    <button class="btn filter-btn" onclick="setLibraryView('all')">All Images</button>
+                    <button class="btn filter-btn" onclick="setLibraryView('favorites')">Favorites</button>
+                    <button class="btn filter-btn" onclick="setLibraryView('rejected')">Rejected</button>
+                </div>
+
+                <div id="library-filters" class="library-controls mt-1">
+                    <select id="library-sort" class="form-select" aria-label="Sort Library"><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="agent_desc">Agent rating ↓</option><option value="human_desc">Human rating ↓</option></select>
+                    <select id="library-collection-filter" class="form-select" aria-label="Filter by collection"><option value="">All collections</option></select>
+                    <select id="library-rating-filter" class="form-select" aria-label="Filter Library"><option value="all">All</option><option value="rated">Rated</option><option value="unrated">Unrated</option><option value="approved">Approved</option><option value="rejected">Rejected</option><option value="favorites">Favorites</option></select>
+                    <select id="library-renderer-filter" class="form-select" aria-label="Filter by renderer"><option value="">All renderers</option><option value="lustify">Lustify</option><option value="lustify_img2img">Lustify Img2Img</option><option value="krea_reference">Krea Reference</option><option value="miaomiao">Miaomiao</option><option value="illustrious">Illustrious</option><option value="klein">Klein</option><option value="anima">Anima</option></select>
+                    <label>Agent ≥ <input id="library-agent-min" type="number" min="1" max="10" step="0.1" placeholder="—"></label>
+                    <label>Human ≥ <input id="library-human-min" type="number" min="1" max="10" step="1" placeholder="—"></label>
+                </div>
+                <div class="library-selection-bar mt-1" hidden>
+                    <button class="btn btn-library-select" type="button">✓ Select images</button>
+                    <div class="library-selection-actions" hidden>
+                        <strong class="library-selection-count">0 selected</strong>
+                        <button class="btn btn-danger btn-library-remove-selected" type="button" title="Remove selected images from Library" aria-label="Remove selected images from Library">🗑 Remove</button>
+                        <button class="btn btn-warning btn-library-hard-reevaluate" type="button" title="Hard Re-Evaluate selected images" aria-label="Hard Re-Evaluate selected images">⚖ Hard Re-Evaluate</button>
+                        <button class="btn btn-library-cancel-selection" type="button">Cancel</button>
+                    </div>
+                </div>
+                
+                <div id="library-hard-stats" class="card mt-1" style="display:none;"></div>
+                
+                <!-- Container for character cards -->
+                <div id="library-characters-grid" class="asset-grid mt-1"></div>
+                <!-- Container for all images grid -->
+                <div id="library-assets-grid" class="asset-grid mt-1" style="display:none;"></div>
+            </div>
+
+            <!-- CHARACTER WORKSPACE -->
+            <div id="character-workspace" style="display:none;">
+                <div class="workspace-header mt-1">
+                    <button class="btn" onclick="closeCharacterWorkspace()">← Library</button>
+                    <h1 id="workspace-character-name" style="margin: 10px 0;"></h1>
+                    <p id="workspace-character-meta" style="color:var(--text-secondary);"></p>
+                </div>
+                <div class="workspace-actions mt-1">
+                    <button class="btn btn-primary" onclick="workspaceCreateIntent()">Generate images</button>
+                </div>
+                <div id="workspace-content" class="mt-1">
+                    <div id="workspace-gallery-container">
+                        <div id="workspace-gallery-filters" style="margin-bottom: 10px;">
+                            <button class="btn filter-btn active" onclick="filterWorkspaceGallery('all')">All</button>
+                            <button class="btn filter-btn" onclick="filterWorkspaceGallery('lustify')">Lustify</button>
+                            <button class="btn filter-btn" onclick="filterWorkspaceGallery('miaomiao')">Miaomiao</button>
+                            <button class="btn filter-btn" onclick="filterWorkspaceGallery('legacy')">Legacy</button>
+                            <button class="btn filter-btn" onclick="filterWorkspaceGallery('rejected')">Rejected</button>
+                        </div>
+                        <div class="library-selection-bar" style="margin-bottom:10px;">
+                            <button class="btn btn-library-select" type="button">✓ Select images</button>
+                            <div class="library-selection-actions" hidden>
+                                <strong class="library-selection-count">0 selected</strong>
+                                <button class="btn btn-danger btn-library-remove-selected" type="button" title="Remove selected images from Library" aria-label="Remove selected images from Library">🗑 Remove</button>
+                                <button class="btn btn-warning btn-library-hard-reevaluate" type="button" title="Hard Re-Evaluate selected images" aria-label="Hard Re-Evaluate selected images">⚖ Hard Re-Evaluate</button>
+                                <button class="btn btn-library-cancel-selection" type="button">Cancel</button>
+                            </div>
+                        </div>
+                        <div id="workspace-gallery" class="asset-grid"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Asset Detail Modal -->
+            <div id="asset-detail-modal" class="modal" style="display:none;">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 id="asset-detail-title"></h2>
+                        <button id="btn-close-asset" class="btn">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="asset-detail-main">
+                            <a id="asset-detail-image-link" href="#" target="_blank" title="Open selected image full size">
+                                <img id="asset-detail-image" src="" alt="" class="asset-detail-img">
+                            </a>
+                            <div class="asset-detail-info">
+                                <div id="asset-detail-meta"></div>
+                                <div class="asset-detail-actions mt-1" style="display:flex; flex-direction:column; gap:8px;">
+                                    <button id="btn-asset-generate-alt" class="btn btn-primary">Generate alternative</button>
+                                    <button id="btn-asset-reinterpret" class="btn">Reinterpret</button>
+                                    <button id="btn-asset-compare" class="btn">Compare</button>
+                                    <button id="btn-asset-set-hero" class="btn">Set as hero</button>
+                                    <button id="btn-asset-favorite" class="btn">♥ Favorite</button>
+                                    <button id="btn-asset-remove" class="btn btn-danger">Remove from Library</button>
+                                </div>
+                            </div>
+                        </div>
+                        <section id="asset-stage-compare" class="stage-compare mt-1"><h3>Compare render outputs</h3><div id="asset-render-output-grid" class="compare-grid"></div><div id="asset-renderer-preferences" class="manual-stage-preference mt-1"></div></section>
+                        <details class="mt-1">
+                            <summary>Technical Details</summary>
+                            <div id="asset-detail-technical"></div>
+                        </details>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- CREATE -->
+        <div id="create" class="tab-content">
+            <h1>Create Images</h1>
+            <div class="create-mode-switch" role="tablist" aria-label="Creation mode">
+                <button id="create-mode-scene" class="create-mode-option active" type="button" role="tab" aria-selected="true">Scene</button>
+                <button id="create-mode-stock" class="create-mode-option" type="button" role="tab" aria-selected="false">Stock</button>
+            </div>
+            <div class="card">
+                <div class="form-group" id="create-character-group">
+                    <label>Character</label>
+                    <div style="display:flex; gap:8px; align-items:center;">
+                        <select id="create-character" class="form-select" style="flex:1;">
+                            <option value="">Loading characters...</option>
+                        </select>
+                        <span id="create-character-onboarding" style="display:contents;">
+                            <input type="text" id="add-character-name" placeholder="New character name..." maxlength="120" style="flex:1;">
+                            <button id="btn-add-character" class="btn" type="button">+ Add</button>
+                        </span>
+                    </div>
+                    <div id="add-character-status" class="mt-1"></div>
+                </div>
+                
+                <div id="create-scene-fields">
+                    <div class="form-group">
+                        <div style="display:flex; gap: 16px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid var(--border-color);">
+                            <label><input type="radio" name="scene_submode" value="directed" checked> Directed Scene</label>
+                            <label><input type="radio" name="scene_submode" value="dataset"> Dataset / Auto Concepts</label>
+                        </div>
+                    </div>
+                    <div class="form-group" id="dataset-character-group" style="display:none;">
+                        <label>Characters</label>
+                        <select id="create-dataset-characters" class="form-select" multiple size="6">
+                            <option value="ALL">-- All Characters --</option>
+                        </select>
+                        <small style="color:var(--text-secondary);">Hold Ctrl/Cmd to select multiple. Select '-- All Characters --' to run for all.</small>
+                    </div>
+                    <div id="directed-scene-fields">
+                        <div class="form-group">
+                            <label>What happens?</label>
+                            <input type="text" id="create-intent-action" placeholder="e.g. fighting, resting, looking at the camera" maxlength="200">
+                        </div>
+                        <div class="form-group">
+                            <label>Where?</label>
+                            <input type="text" id="create-intent-location" placeholder="e.g. a ruined city, a classroom" maxlength="200">
+                        </div>
+                    </div>
+                    <div class="form-group" style="display:flex; gap:20px; align-items:flex-end; flex-wrap:wrap;">
+                        <label style="flex:1; min-width:220px;">Look
+                            <select id="create-render-intent" class="form-select">
+                                <option value="photorealistic">Photorealistic</option>
+                                <option value="semi_realistic" selected>Semi-realistic</option>
+                                <option value="anime">Anime</option>
+                            </select>
+                        </label>
+                        <label style="padding-bottom:8px;"><input id="create-miaomiao-alternative" type="checkbox"> Generate with Miaomiao <span style="color:var(--text-secondary)">(anime only)</span></label>
+                    </div>
+                    <div id="create-renderer-capability" class="mt-1" style="color:var(--warning);"></div>
+                    <div id="create-source-context" class="card mt-1" style="display:none;"></div>
+                    <details class="mt-1">
+                        <summary>▸ More control</summary>
+                        <div class="form-group mt-1">
+                            <label>Concept Multiplier</label>
+                            <input type="number" id="create-multiplier" value="3" min="2" max="5">
+                        </div>
+                        <div class="form-group">
+                            <label>Production Buffer</label>
+                            <input type="number" id="create-buffer" value="2" min="1" max="5">
+                        </div>
+                        <div class="form-group">
+                            <label>Max Rounds</label>
+                            <input type="number" id="create-rounds" value="2" min="1" max="3">
+                        </div>
+                    </details>
+                </div>
+                <div id="create-stock-fields" hidden>
+                    <div class="form-group">
+                        <label class="stock-outfit-toggle"><input id="create-stock-custom-outfit" type="checkbox"> Custom outfit</label>
+                        <input type="text" id="create-stock-outfit" placeholder="e.g. fitted black cocktail dress" maxlength="240" disabled>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label id="create-count-label">Number of images</label>
+                    <input type="number" id="create-count" value="6" min="1" max="20">
+                </div>
+                <div class="mt-1">
+                    <button id="btn-create-mission" class="btn btn-primary btn-large">Generate</button>
+                </div>
+                <div id="create-status" class="mt-1"></div>
+            </div>
+        </div>
+
+        <!-- MISSION DETAIL (shown dynamically) -->
+        <div id="mission-detail" class="tab-content">
+            <div class="flex-between">
+                <h1 id="mission-detail-title">Mission</h1>
+                <div>
+                    <button id="btn-cancel-mission" class="btn btn-danger" style="display:none;">Cancel Mission</button>
+                    <button id="btn-resume-mission" class="btn btn-primary" style="display:none;">Resume Mission</button>
+                    <button id="btn-delete-mission" class="btn btn-danger" style="display:none;">Delete Mission</button>
+                </div>
+            </div>
+            <div id="mission-detail-content"></div>
+        </div>
+
+        <!-- VIDEOS (Placeholder) -->
+        <div id="videos" class="tab-content">
+            <h1>Videos</h1>
+            <div class="card placeholder-card">
+                <h2>Video Generation</h2>
+                <p class="subtitle">Coming next</p>
+                <p>Select an approved image from Library to create a video.</p>
+            </div>
+        </div>
+
+        <!-- CREATIVE LAB -->
+        <div id="creative" class="tab-content">
+            <h1>Creative Lab</h1>
+            <div class="card">
+                <h3>Configuration</h3>
+                <div class="form-group">
+                    <label>Character:</label>
+                    <input type="text" value="2B" disabled>
+                </div>
+                <div class="form-group">
+                    <label>Creative Model:</label>
+                    <input type="text" id="lab-creative-model" disabled>
+                </div>
+                <div class="form-group">
+                    <label>Proposal Count:</label>
+                    <input type="number" id="lab-concept-count" value="12">
+                </div>
+                <div class="form-group">
+                    <label>Pilot Image Count:</label>
+                    <input type="number" id="lab-pilot-count" value="3">
+                </div>
+                <div class="mt-1" style="display:flex; gap:10px;">
+                    <button id="btn-generate-concepts" class="btn btn-primary">Generate Concepts</button>
+                    <button id="btn-generate-pilot" class="btn btn-success">Generate Pilot</button>
+                </div>
+                <div id="generate-status" class="mt-1"></div>
+            </div>
+
+            <div class="card mt-1" id="pilot-status-card" style="display:none;">
+                <h3>Pilot Pipeline Progress</h3>
+                <div id="pilot-status-container"></div>
+            </div>
+
+            <div class="card" id="m3-summary-card" style="display:none;">
+                <h3>M3 Analysis & Metrics</h3>
+                <div class="grid-2">
+                    <div>
+                        <p>Generated: <span id="m3-generated">0</span></p>
+                        <p>Unique: <span id="m3-unique">0</span></p>
+                        <p>Duplicates: <span id="m3-duplicates">0</span></p>
+                        <p>Weak: <span id="m3-weak">0</span></p>
+                        <p>Recommended: <span id="m3-recommended">0</span></p>
+                    </div>
+                    <div>
+                        <p>Reviewed: <span id="m3-reviewed">0</span> / <span id="m3-total">0</span></p>
+                        <p>Kept: <span id="m3-kept">0</span></p>
+                        <p>Rejected: <span id="m3-rejected">0</span></p>
+                        <p>Keep Rate: <span id="m3-keep-rate">—</span></p>
+                        <p>Recommended Keep Rate: <span id="m3-rec-keep-rate">—</span></p>
+                    </div>
+                </div>
+                <div class="mt-1 filters">
+                    <button class="btn m3-filter active" data-filter="all">All</button>
+                    <button class="btn m3-filter" data-filter="recommended">Recommended</button>
+                    <button class="btn m3-filter" data-filter="duplicate">Duplicates</button>
+                    <button class="btn m3-filter" data-filter="weak">Weak</button>
+                    <button class="btn m3-filter" data-filter="kept">Kept</button>
+                    <button class="btn m3-filter" data-filter="rejected">Rejected</button>
+                </div>
+            </div>
+            
+            <div id="lab-concepts-container" class="concepts-grid mt-2"></div>
+        </div>
+
+        <!-- MODEL LAB -->
+        <div id="model-lab" class="tab-content">
+            <div class="flex-between">
+                <div>
+                    <h1>Model Lab</h1>
+                    <p class="subtitle">Discover and test models without changing production routing.</p>
+                </div>
+                <button id="btn-model-scan" class="btn">Scan Models</button>
+            </div>
+            <div id="model-lab-scan-status"></div>
+            <h2 class="mt-2">Installed Models</h2>
+            <div id="model-lab-models" class="model-lab-grid"></div>
+            <div class="card mt-2">
+                <h3>Controlled single-image test</h3>
+                <div class="form-group"><label>Model</label><select id="model-lab-model"></select></div>
+                <div class="form-group"><label>Character</label><input id="model-lab-character" value="Shihouin Yoruichi"></div>
+                <div class="form-group"><label>Accepted Illustrious source</label><input id="model-lab-source" type="text"></div>
+                <div class="form-group"><label>Prompt</label><textarea id="model-lab-prompt" rows="5"></textarea></div>
+                <div class="form-group"><label>Seed</label><input id="model-lab-seed" type="number" value="20260824"></div>
+                <button id="btn-model-lab-run" class="btn btn-primary">Run one image</button>
+                <div id="model-lab-run-status" class="mt-1"></div>
+            </div>
+            <h2 class="mt-2">Comparison Gallery</h2>
+            <div id="model-lab-runs" class="model-lab-grid"></div>
+            <div class="flex-between mt-2">
+                <h2>Benchmark Results</h2>
+                <button id="btn-benchmark-initialize" class="btn">Initialize official benchmark</button>
+                <button id="btn-direct-benchmark-initialize" class="btn">Initialize Direct Generator Benchmark</button>
+            </div>
+            <div id="model-benchmark-results"></div>
+        </div>
+
+        <!-- RUNS -->
+        <div id="runs" class="tab-content">
+            <h1>Run History</h1>
+            <div class="card">
+                <table id="runs-table" class="table">
+                    <thead>
+                        <tr>
+                            <th>Run ID</th>
+                            <th>Type</th>
+                            <th>Character</th>
+                            <th>Model</th>
+                            <th>Status</th>
+                            <th>Date</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            
+            <div id="run-detail" style="display:none;" class="mt-2 card">
+                <div class="flex-between">
+                    <h2 id="detail-title">Run Details</h2>
+                    <button id="btn-close-detail" class="btn">Close</button>
+                </div>
+                <div class="pipeline-indicator mt-1 mb-1">
+                    <span class="pipe-step active">IDEA</span> &rarr;
+                    <span class="pipe-step">SELECT</span> &rarr;
+                    <span class="pipe-step">ILLUSTRIOUS</span> &rarr;
+                    <span class="pipe-step">REVIEW</span> &rarr;
+                    <span class="pipe-step">KLEIN</span> &rarr;
+                    <span class="pipe-step">FINAL</span>
+                </div>
+                <div class="tabs mt-1">
+                    <button class="tab-btn active" data-target="detail-overview">Overview</button>
+                    <button class="tab-btn" data-target="detail-concepts">Concepts</button>
+                    <button class="tab-btn" data-target="detail-telemetry">Telemetry</button>
+                </div>
+                <div id="detail-overview" class="detail-pane active mt-1"></div>
+                <div id="detail-concepts" class="detail-pane mt-1 concepts-grid"></div>
+                <div id="detail-telemetry" class="detail-pane mt-1"><pre id="telemetry-pre"></pre></div>
+            </div>
+        </div>
+
+        <!-- ROADMAP -->
+        <div id="roadmap" class="tab-content">
+            <h1>Roadmap</h1>
+            <div id="roadmap-container"></div>
+        </div>
+
+        <!-- SETTINGS -->
+        <div id="settings" class="tab-content">
+            <h1>Settings</h1>
+            <div class="card">
+                <h3>Model Routing</h3>
+                <div class="settings-grid">
+                    <div class="setting-item">
+                        <label>Primary renderer</label>
+                        <span class="setting-value">Lustify Krea 2</span>
+                    </div>
+                    <div class="setting-item">
+                        <label>Optional alternative</label>
+                        <span class="setting-value">Miaomiao Anima16</span>
+                    </div>
+                    <div class="setting-item">
+                        <label>Default look</label>
+                        <span class="setting-value">Semi-realistic</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card mt-1">
+                <h3>Capabilities</h3>
+                <div class="settings-grid">
+                    <div class="setting-item">
+                        <label>DIRECT_T2I</label>
+                        <span class="setting-value">Available</span>
+                    </div>
+                    <div class="setting-item">
+                        <label>LATENT_IMG2IMG</label>
+                        <span class="setting-value">Available (conditional)</span>
+                    </div>
+                    <div class="setting-item">
+                        <label>REFERENCE_EDIT</label>
+                        <span class="setting-value">Not integrated</span>
+                    </div>
+                    <div class="setting-item">
+                        <label>STYLE_REFERENCE</label>
+                        <span class="setting-value">Not integrated</span>
+                    </div>
+                    <div class="setting-item">
+                        <label>STRUCTURE_CONTROL</label>
+                        <span class="setting-value">Not integrated</span>
+                    </div>
+                </div>
+            </div>
+
+            <details class="mt-1">
+                <summary>▸ Advanced</summary>
+                <div class="card mt-1">
+                    <h3>Legacy / Deprecated Compatibility</h3>
+                    <div class="settings-grid">
+                        <div class="setting-item">
+                            <label>Legacy Image Rendering</label>
+                            <span class="setting-value">ComfyUI (Illustrious + Klein)</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mt-1">
+                    <h3>Production Defaults</h3>
+                    <div class="form-group">
+                        <label>Default Target Images</label>
+                        <input type="number" id="setting-default-target" value="6" disabled>
+                    </div>
+                    <div class="form-group">
+                        <label>Production Buffer</label>
+                        <input type="number" id="setting-buffer" value="2" disabled>
+                    </div>
+                    <div class="form-group">
+                        <label>Max Production Rounds</label>
+                        <input type="number" id="setting-rounds" value="2" disabled>
+                    </div>
+                </div>
+            <div class="card mt-1">
+                <h3>Retry Policy</h3>
+                <div class="form-group">
+                    <label>Max Quality Retries</label>
+                    <input type="number" value="2" disabled>
+                </div>
+                <div class="form-group">
+                    <label>Max Runtime Retries</label>
+                    <input type="number" value="2" disabled>
+                </div>
+                <p><small>Configuration editing will be enabled in a future version.</small></p>
+            </div>
+            </details>
+
+            <div class="card mt-1">
+                <h3>System Status</h3>
+                <div id="sys-status" class="grid-2">
+                    <div>LM Studio: <span id="status-lm" class="badge">Checking...</span></div>
+                    <div>ComfyUI: <span id="status-comfy" class="badge">Checking...</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <script src="/static/app.js?v=ada-1.0-alpha-3"></script>
+        <script src="/static/renderer_library.js?v=ada-1.0-alpha-3"></script>
+</body>
+</html>

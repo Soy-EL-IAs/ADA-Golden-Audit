@@ -1,0 +1,34 @@
+{
+  "id": "lulu_ffx_011",
+  "character": "Lulu",
+  "franchise": "Final Fantasy X",
+  "identity": [
+    "long black braided updo",
+    "dark off-shoulder belted dress with fur trim",
+    "ornate necklaces and moogle doll"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "Inside a candlelit temple chamber, she bends to retrieve her moogle doll and the many decorative belts of her dress lightly catch on a carved pedestal, making tiny hanging charms chime in sequence, with confident sensual body language throughout.",
+  "must_include": [
+    "moogle doll",
+    "chiming belt charms"
+  ],
+  "environment": [
+    "temple chamber",
+    "candlelight",
+    "stone pillars and incense haze"
+  ],
+  "animation_hook": "She unhooks the belt with one calm tug and the released charms swing like a miniature pendulum around her hips.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000010,
+  "krea_seed_base": 2000010
+}

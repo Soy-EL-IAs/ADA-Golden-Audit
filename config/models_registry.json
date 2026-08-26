@@ -1,0 +1,504 @@
+{
+  "schema_version": "models_registry_v1",
+  "registry_version": 1,
+  "discovered_at": "2026-08-24T18:57:25.691704+00:00",
+  "scan_roots": [
+    {
+      "path": "D:\\IA\\Ada\\downloads",
+      "available": false
+    },
+    {
+      "path": "C:\\Users\\ELIAS\\Downloads",
+      "available": true
+    }
+  ],
+  "expected_files": [
+    "Anima-3.8B-expanded_adapter.safetensors",
+    "Anima-3.8B.safetensors",
+    "JustifyNSFWCheckpoint_v10Krea2.safetensors",
+    "miaomiaoHarem_anima16.safetensors",
+    "qwen35_4b.safetensors"
+  ],
+  "missing_files": [],
+  "filename_discrepancies": [
+    {
+      "requested": "JustifyNSFWCheckpoint_v10Krea2.safetensors",
+      "found": "lustifyNSFWCheckpoint_v10Krea2.safetensors"
+    }
+  ],
+  "models": [
+    {
+      "id": "illustrious_production",
+      "file": "waiIllustriousSDXL_v160.safetensors",
+      "version": "v160",
+      "path": null,
+      "size_bytes": null,
+      "size_gib": null,
+      "metadata": {},
+      "tensor_summary": {},
+      "classification": {
+        "type": "checkpoint",
+        "family": "Illustrious SDXL",
+        "architecture": "sdxl",
+        "loader": {
+          "name": "CheckpointLoaderSimple",
+          "status": "confirmed"
+        },
+        "confidence": "confirmed",
+        "evidence": [
+          "active production constructor workflow"
+        ]
+      },
+      "status": "deprecated_for_primary_pipeline",
+      "pipeline_decision": {"reason": "Historical identity-constructor baseline; no longer selected by Create Images.", "superseded_by": "lustify_krea2_primary_v1", "decision_date": "2026-08-24", "evidence": "manual_controlled_benchmark_20260824"},
+      "discovery_source": "production_configuration"
+    },
+    {
+      "id": "klein_semi_realistic_baseline",
+      "file": "flux-2-klein-9b-fp8.safetensors",
+      "version": "production_baseline_v1",
+      "path": null,
+      "size_bytes": null,
+      "size_gib": null,
+      "metadata": {},
+      "tensor_summary": {},
+      "classification": {
+        "type": "checkpoint",
+        "family": "Flux 2 Klein",
+        "architecture": "flux2_klein",
+        "loader": {
+          "name": "UNETLoader",
+          "status": "confirmed"
+        },
+        "confidence": "confirmed",
+        "evidence": [
+          "active production workflow"
+        ]
+      },
+      "status": "deprecated_for_primary_pipeline",
+      "pipeline_decision": {"reason": "Retained as specialized source-preserving converter, not default generation.", "superseded_by": "lustify_krea2_primary_v1", "decision_date": "2026-08-24", "evidence": "manual_controlled_benchmark_20260824"},
+      "discovery_source": "production_configuration"
+    },
+    {
+      "id": "anima_3_8b_expanded_adapter",
+      "file": "Anima-3.8B-expanded_adapter.safetensors",
+      "version": "Anima-3.8B-expanded_adapter",
+      "path": "C:\\Users\\ELIAS\\Downloads\\Anima-3.8B-expanded_adapter.safetensors",
+      "size_bytes": 88131712,
+      "size_gib": 0.082,
+      "modified_at": "2026-08-23T21:56:55.647326+00:00",
+      "header_bytes": 6728,
+      "header_sha256": "bed221c10264e83cbe58f5375048285cf52962694d22e6124983085ad1cf7194",
+      "file_sha256": null,
+      "metadata": {
+        "frozen_native_blocks": "6",
+        "joint_dit_tensors_removed": "240",
+        "training_views": "[\"dual\", \"dual\", \"tags\", \"nl\"]",
+        "qwen35_checkpoint": "C:\\AI\\sd-webui-forge-neo\\models\\text_encoder\\qwen35_4b.safetensors",
+        "fp32_master_training": "0",
+        "semantic_contrast_margin": "0.02",
+        "learnable_anchor": "0",
+        "train_mode": "all",
+        "timestep_gate_scope": "anchored_semantic_residual_outer",
+        "frozen_native_sha256": "b1fe0e738232736d478951a040f698f8e04e327f27548e3a7710c9f43865a6ce",
+        "gate_only_training": "0",
+        "exact_native_replay_at_zero_source": "0",
+        "layer_indices": "[7, 15, 23, 31]",
+        "anchor_max_departure": "1.0",
+        "trainable_inserted_semantic_blocks": "6",
+        "paper_faithful_direct_blocks": "1",
+        "parameter_efficient_cross_only": "1",
+        "trainable_pilot_semantic_blocks": "0",
+        "dit_learning_rate": "1e-05",
+        "step": "3220",
+        "initialization": "interleaved_deep_copy_zero_residual_outputs",
+        "timestep_gate": "0",
+        "trainable_inserted_native_blocks": "0",
+        "architecture": "anima_progressive_qwen35_cross_adapter_v1",
+        "anchor_scope": "per_block_per_channel_semantic_zero_term",
+        "dit_train_scope": "full",
+        "sample_strategy": "shuffle",
+        "timestep_gate_blocks": "0",
+        "trainable_dit_blocks": "[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47]",
+        "materialized_model": "C:\\AI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\Anima-2.9B\\Anima-2.9B-preview-v1-pro52-qwen35-256stabilized-step3220.safetensors",
+        "training_index": "training_cache_512\\index_train.json",
+        "source_method": "Anima-2.9B / LLaMA-Pro block expansion",
+        "target": "C:\\AI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\Anima-2.9B\\Anima-2.9B-preview-v1-pro52-init.safetensors",
+        "total_blocks": "12",
+        "semantic_contrast_weight": "1.0",
+        "activation_checkpointing": "1",
+        "train_expanded_dit": "1",
+        "fresh_initialization": "0"
+      },
+      "tensor_summary": {
+        "count": 49,
+        "dtypes": {
+          "BF16": 49
+        },
+        "block_count": null,
+        "principal_keys": [
+          "layer_mix_logits",
+          "query_norms.0.weight",
+          "query_norms.1.weight",
+          "query_norms.2.weight",
+          "query_norms.3.weight",
+          "query_norms.4.weight",
+          "query_norms.5.weight",
+          "semantic_attentions.0.k_norm.weight",
+          "semantic_attentions.0.k_proj.weight",
+          "semantic_attentions.0.o_proj.weight",
+          "semantic_attentions.0.q_norm.weight",
+          "semantic_attentions.0.q_proj.weight",
+          "semantic_attentions.0.v_proj.weight",
+          "semantic_attentions.1.k_norm.weight",
+          "semantic_attentions.1.k_proj.weight",
+          "semantic_attentions.1.o_proj.weight",
+          "semantic_attentions.1.q_norm.weight",
+          "semantic_attentions.1.q_proj.weight",
+          "semantic_attentions.1.v_proj.weight",
+          "semantic_attentions.2.k_norm.weight",
+          "semantic_attentions.2.k_proj.weight",
+          "semantic_attentions.2.o_proj.weight",
+          "semantic_attentions.2.q_norm.weight",
+          "semantic_attentions.2.q_proj.weight",
+          "semantic_attentions.2.v_proj.weight",
+          "semantic_attentions.3.k_norm.weight",
+          "semantic_attentions.3.k_proj.weight",
+          "semantic_attentions.3.o_proj.weight",
+          "semantic_attentions.3.q_norm.weight",
+          "semantic_attentions.3.q_proj.weight",
+          "semantic_attentions.3.v_proj.weight",
+          "semantic_attentions.4.k_norm.weight"
+        ]
+      },
+      "classification": {
+        "type": "adapter",
+        "family": "Anima",
+        "architecture": "anima_progressive_qwen35_cross_adapter_v1",
+        "loader": {
+          "name": "custom Anima adapter loader",
+          "status": "unknown"
+        },
+        "confidence": "confirmed",
+        "evidence": [
+          "adapter architecture declared in metadata",
+          "semantic attention projection tensors without base-model blocks"
+        ]
+      },
+      "status": "discarded",
+      "pipeline_decision": {"reason": "Experimental candidate not selected for the primary pipeline.", "superseded_by": "lustify_krea2_primary_v1", "decision_date": "2026-08-24", "evidence": "manual_controlled_benchmark_20260824"},
+      "discovery_source": "safetensors_header"
+    },
+    {
+      "id": "anima_3_8b",
+      "file": "Anima-3.8B.safetensors",
+      "version": "Anima-3.8B",
+      "path": "C:\\Users\\ELIAS\\Downloads\\Anima-3.8B.safetensors",
+      "size_bytes": 7504189974,
+      "size_gib": 6.989,
+      "modified_at": "2026-08-23T22:33:40.071212+00:00",
+      "header_bytes": 138168,
+      "header_sha256": "6d0f08e5efd7871d72a8a19003d05179ff31bdaabf043b7315057f5d7fee72f7",
+      "file_sha256": null,
+      "metadata": {
+        "new_block_count": "52",
+        "architecture_expansion": "LLaMA-Pro interleaved identity blocks",
+        "inserted_to_source": "{\"3\": 2, \"7\": 5, \"11\": 8, \"15\": 11, \"19\": 14, \"23\": 17, \"27\": 20, \"31\": 23, \"35\": 26, \"39\": 29, \"43\": 32, \"47\": 35}",
+        "qwen35_joint_source": "checkpoints\\anima_pro52_qwen35_256_stabilize_epochs2to6_bs56_step003220.safetensors",
+        "qwen35_joint_training_index": "training_cache_512\\index_train.json",
+        "train_only_inserted_blocks": "1",
+        "qwen35_joint_step": "3220",
+        "expansion_source": "C:\\AI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\Anima-2.9B\\Anima-2.9B-preview-v1.safetensors",
+        "qwen35_joint_dit_scale": "1.0",
+        "old_block_count": "40",
+        "format": "pt",
+        "insertion_positions": "[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47]",
+        "qwen35_joint_dit_blocks": "[3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47]"
+      },
+      "tensor_summary": {
+        "count": 1168,
+        "dtypes": {
+          "BF16": 1168
+        },
+        "block_count": 52,
+        "principal_keys": [
+          "net.blocks.0.adaln_modulation_cross_attn.1.weight",
+          "net.blocks.0.adaln_modulation_cross_attn.2.weight",
+          "net.blocks.0.adaln_modulation_mlp.1.weight",
+          "net.blocks.0.adaln_modulation_mlp.2.weight",
+          "net.blocks.0.adaln_modulation_self_attn.1.weight",
+          "net.blocks.0.adaln_modulation_self_attn.2.weight",
+          "net.blocks.0.cross_attn.k_norm.weight",
+          "net.blocks.0.cross_attn.k_proj.weight",
+          "net.blocks.0.cross_attn.output_proj.weight",
+          "net.blocks.0.cross_attn.q_norm.weight",
+          "net.blocks.0.cross_attn.q_proj.weight",
+          "net.blocks.0.cross_attn.v_proj.weight",
+          "net.blocks.0.mlp.layer1.weight",
+          "net.blocks.0.mlp.layer2.weight",
+          "net.blocks.0.self_attn.k_norm.weight",
+          "net.blocks.0.self_attn.k_proj.weight",
+          "net.blocks.0.self_attn.output_proj.weight",
+          "net.blocks.0.self_attn.q_norm.weight",
+          "net.blocks.0.self_attn.q_proj.weight",
+          "net.blocks.0.self_attn.v_proj.weight",
+          "net.blocks.1.adaln_modulation_cross_attn.1.weight",
+          "net.blocks.1.adaln_modulation_cross_attn.2.weight",
+          "net.blocks.1.adaln_modulation_mlp.1.weight",
+          "net.blocks.1.adaln_modulation_mlp.2.weight",
+          "net.blocks.1.adaln_modulation_self_attn.1.weight",
+          "net.blocks.1.adaln_modulation_self_attn.2.weight",
+          "net.blocks.1.cross_attn.k_norm.weight",
+          "net.blocks.1.cross_attn.k_proj.weight",
+          "net.blocks.1.cross_attn.output_proj.weight",
+          "net.blocks.1.cross_attn.q_norm.weight",
+          "net.blocks.1.cross_attn.q_proj.weight",
+          "net.blocks.1.cross_attn.v_proj.weight"
+        ]
+      },
+      "classification": {
+        "type": "checkpoint",
+        "family": "Anima",
+        "architecture": "anima_dit",
+        "loader": {
+          "name": "UNETLoader",
+          "status": "candidate"
+        },
+        "confidence": "confirmed",
+        "evidence": [
+          "Anima DiT net.blocks tensor topology",
+          "52 diffusion transformer blocks",
+          "metadata: LLaMA-Pro interleaved identity blocks"
+        ]
+      },
+      "status": "discarded",
+      "pipeline_decision": {"reason": "Experimental candidate not selected for the primary pipeline.", "superseded_by": "lustify_krea2_primary_v1", "decision_date": "2026-08-24", "evidence": "manual_controlled_benchmark_20260824"},
+      "discovery_source": "safetensors_header"
+    },
+    {
+      "id": "lustifynsfwcheckpoint_v10krea2",
+      "file": "lustifyNSFWCheckpoint_v10Krea2.safetensors",
+      "version": "lustifyNSFWCheckpoint_v10Krea2",
+      "path": "C:\\Users\\ELIAS\\Downloads\\lustifyNSFWCheckpoint_v10Krea2.safetensors",
+      "size_bytes": 12820119020,
+      "size_gib": 11.94,
+      "modified_at": "2026-08-23T23:21:48.710585+00:00",
+      "header_bytes": 45976,
+      "header_sha256": "fa82a6e312fe6824d71a19b437c068fae67e7bdcbd931d1964b1c008d49f7a07",
+      "file_sha256": null,
+      "metadata": {},
+      "tensor_summary": {
+        "count": 430,
+        "dtypes": {
+          "F8_E4M3": 430
+        },
+        "block_count": 28,
+        "principal_keys": [
+          "blocks.0.attn.gate.weight",
+          "blocks.0.attn.qknorm.knorm.scale",
+          "blocks.0.attn.qknorm.qnorm.scale",
+          "blocks.0.attn.wk.weight",
+          "blocks.0.attn.wo.weight",
+          "blocks.0.attn.wq.weight",
+          "blocks.0.attn.wv.weight",
+          "blocks.0.mlp.down.weight",
+          "blocks.0.mlp.gate.weight",
+          "blocks.0.mlp.up.weight",
+          "blocks.0.mod.lin",
+          "blocks.0.postnorm.scale",
+          "blocks.0.prenorm.scale",
+          "blocks.1.attn.gate.weight",
+          "blocks.1.attn.qknorm.knorm.scale",
+          "blocks.1.attn.qknorm.qnorm.scale",
+          "blocks.1.attn.wk.weight",
+          "blocks.1.attn.wo.weight",
+          "blocks.1.attn.wq.weight",
+          "blocks.1.attn.wv.weight",
+          "blocks.1.mlp.down.weight",
+          "blocks.1.mlp.gate.weight",
+          "blocks.1.mlp.up.weight",
+          "blocks.1.mod.lin",
+          "blocks.1.postnorm.scale",
+          "blocks.1.prenorm.scale",
+          "blocks.10.attn.gate.weight",
+          "blocks.10.attn.qknorm.knorm.scale",
+          "blocks.10.attn.qknorm.qnorm.scale",
+          "blocks.10.attn.wk.weight",
+          "blocks.10.attn.wo.weight",
+          "blocks.10.attn.wq.weight"
+        ]
+      },
+      "classification": {
+        "type": "checkpoint",
+        "family": "Krea2",
+        "architecture": "krea2_transformer",
+        "loader": {
+          "name": "UNETLoader",
+          "status": "candidate"
+        },
+        "confidence": "probable",
+        "evidence": [
+          "Krea2-style transformer block tensor topology",
+          "28 transformer blocks",
+          "FP8 diffusion weights"
+        ]
+      },
+      "status": "production_primary",
+      "pipeline_decision": {"reason": "Validated direct general renderer.", "preset": "lustify_krea2_primary_v1", "decision_date": "2026-08-24", "evidence": "manual_controlled_benchmark_20260824"},
+      "discovery_source": "safetensors_header"
+    },
+    {
+      "id": "miaomiaoharem_anima16",
+      "file": "miaomiaoHarem_anima16.safetensors",
+      "version": "miaomiaoHarem_anima16",
+      "path": "C:\\Users\\ELIAS\\Downloads\\miaomiaoHarem_anima16.safetensors",
+      "size_bytes": 4182218328,
+      "size_gib": 3.895,
+      "modified_at": "2026-08-23T22:56:58.769026+00:00",
+      "header_bytes": 80464,
+      "header_sha256": "549f3bdb332be3fad3bfd85b4c9f6c582719c8e679531d89b870f20b35fb526b",
+      "file_sha256": null,
+      "metadata": {},
+      "tensor_summary": {
+        "count": 685,
+        "dtypes": {
+          "BF16": 685
+        },
+        "block_count": 28,
+        "principal_keys": [
+          "net.blocks.0.adaln_modulation_cross_attn.1.weight",
+          "net.blocks.0.adaln_modulation_cross_attn.2.weight",
+          "net.blocks.0.adaln_modulation_mlp.1.weight",
+          "net.blocks.0.adaln_modulation_mlp.2.weight",
+          "net.blocks.0.adaln_modulation_self_attn.1.weight",
+          "net.blocks.0.adaln_modulation_self_attn.2.weight",
+          "net.blocks.0.cross_attn.k_norm.weight",
+          "net.blocks.0.cross_attn.k_proj.weight",
+          "net.blocks.0.cross_attn.output_proj.weight",
+          "net.blocks.0.cross_attn.q_norm.weight",
+          "net.blocks.0.cross_attn.q_proj.weight",
+          "net.blocks.0.cross_attn.v_proj.weight",
+          "net.blocks.0.mlp.layer1.weight",
+          "net.blocks.0.mlp.layer2.weight",
+          "net.blocks.0.self_attn.k_norm.weight",
+          "net.blocks.0.self_attn.k_proj.weight",
+          "net.blocks.0.self_attn.output_proj.weight",
+          "net.blocks.0.self_attn.q_norm.weight",
+          "net.blocks.0.self_attn.q_proj.weight",
+          "net.blocks.0.self_attn.v_proj.weight",
+          "net.blocks.1.adaln_modulation_cross_attn.1.weight",
+          "net.blocks.1.adaln_modulation_cross_attn.2.weight",
+          "net.blocks.1.adaln_modulation_mlp.1.weight",
+          "net.blocks.1.adaln_modulation_mlp.2.weight",
+          "net.blocks.1.adaln_modulation_self_attn.1.weight",
+          "net.blocks.1.adaln_modulation_self_attn.2.weight",
+          "net.blocks.1.cross_attn.k_norm.weight",
+          "net.blocks.1.cross_attn.k_proj.weight",
+          "net.blocks.1.cross_attn.output_proj.weight",
+          "net.blocks.1.cross_attn.q_norm.weight",
+          "net.blocks.1.cross_attn.q_proj.weight",
+          "net.blocks.1.cross_attn.v_proj.weight"
+        ]
+      },
+      "classification": {
+        "type": "checkpoint",
+        "family": "Anima",
+        "architecture": "anima_dit",
+        "loader": {
+          "name": "UNETLoader",
+          "status": "candidate"
+        },
+        "confidence": "confirmed",
+        "evidence": [
+          "Anima DiT net.blocks tensor topology",
+          "28 diffusion transformer blocks"
+        ]
+      },
+      "status": "production_secondary_optional",
+      "pipeline_decision": {"reason": "Validated fast optional anime alternative.", "preset": "miaomiao_anima16_secondary_v1", "decision_date": "2026-08-24", "evidence": "manual_controlled_benchmark_20260824"},
+      "discovery_source": "safetensors_header"
+    },
+    {
+      "id": "qwen35_4b",
+      "file": "qwen35_4b.safetensors",
+      "version": "qwen35_4b",
+      "path": "C:\\Users\\ELIAS\\Downloads\\qwen35_4b.safetensors",
+      "size_bytes": 4779016600,
+      "size_gib": 4.451,
+      "modified_at": "2026-08-23T22:26:09.466364+00:00",
+      "header_bytes": 47504,
+      "header_sha256": "c49a5c7961fd5eda4fef23e0ed25eae6a20b6295d18f5fa4b200c23694d038fa",
+      "file_sha256": null,
+      "metadata": {
+        "format": "pt"
+      },
+      "tensor_summary": {
+        "count": 426,
+        "dtypes": {
+          "BF16": 181,
+          "F8_E4M3": 245
+        },
+        "block_count": null,
+        "principal_keys": [
+          "embed_tokens.weight",
+          "layers.0.input_layernorm.weight",
+          "layers.0.linear_attn.A_log",
+          "layers.0.linear_attn.conv1d.weight",
+          "layers.0.linear_attn.dt_bias",
+          "layers.0.linear_attn.norm.weight",
+          "layers.0.post_attention_layernorm.weight",
+          "layers.1.input_layernorm.weight",
+          "layers.1.linear_attn.A_log",
+          "layers.1.linear_attn.conv1d.weight",
+          "layers.1.linear_attn.dt_bias",
+          "layers.1.linear_attn.norm.weight",
+          "layers.1.post_attention_layernorm.weight",
+          "layers.10.input_layernorm.weight",
+          "layers.10.linear_attn.A_log",
+          "layers.10.linear_attn.conv1d.weight",
+          "layers.10.linear_attn.dt_bias",
+          "layers.10.linear_attn.norm.weight",
+          "layers.10.post_attention_layernorm.weight",
+          "layers.11.input_layernorm.weight",
+          "layers.11.post_attention_layernorm.weight",
+          "layers.11.self_attn.k_norm.weight",
+          "layers.11.self_attn.q_norm.weight",
+          "layers.12.input_layernorm.weight",
+          "layers.12.linear_attn.A_log",
+          "layers.12.linear_attn.conv1d.weight",
+          "layers.12.linear_attn.dt_bias",
+          "layers.12.linear_attn.norm.weight",
+          "layers.12.post_attention_layernorm.weight",
+          "layers.13.input_layernorm.weight",
+          "layers.13.linear_attn.A_log",
+          "layers.13.linear_attn.conv1d.weight"
+        ]
+      },
+      "classification": {
+        "type": "text_encoder",
+        "family": "Qwen 3.5",
+        "architecture": "qwen3_5_4b",
+        "loader": {
+          "name": "CLIPLoader/text-encoder loader",
+          "status": "candidate"
+        },
+        "confidence": "confirmed",
+        "evidence": [
+          "token embedding matrix",
+          "transformer language layers without diffusion input/output tensors"
+        ]
+      },
+      "status": "discovered",
+      "discovery_source": "safetensors_header"
+    }
+  ],
+  "capability_profiles": {
+    "anima_3_8b_expanded_adapter": "config/model_capabilities/anima_3_8b_expanded_adapter.json",
+    "anima_3_8b": "config/model_capabilities/anima_3_8b.json",
+    "lustifynsfwcheckpoint_v10krea2": "config/model_capabilities/lustifynsfwcheckpoint_v10krea2.json",
+    "miaomiaoharem_anima16": "config/model_capabilities/miaomiaoharem_anima16.json",
+    "qwen35_4b": "config/model_capabilities/qwen35_4b.json",
+    "klein_semi_realistic_baseline": "config/model_capabilities/klein_semi_realistic_baseline.json",
+    "illustrious_production": "config/model_capabilities/illustrious_production.json"
+  }
+}

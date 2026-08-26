@@ -1,0 +1,228 @@
+{
+  "per_premise": [
+    {
+      "id": "e011_b01_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 9,
+      "animation_potential": 7,
+      "notes": "Strong tension. The 'mechanical arm' is a situational prop (valid). Sweat adds physical strain. Good cause-and-effect."
+    },
+    {
+      "id": "e011_b01_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Specific source for wind (ventilation shaft) satisfies the guide. However, 'tracking the source' is a passive reaction compared to active dodging."
+    },
+    {
+      "id": "e011_b01_fullbody",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Balancing on a beam is a classic trope. The 'groaning metal' provides cause, but the action is static balance rather than dynamic movement."
+    },
+    {
+      "id": "e011_b01_dynamic",
+      "identity": 9,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Excellent. Specific hazard (sparking cable), clear motion (dodge), and visual hook (dress flare). Strong directional energy."
+    },
+    {
+      "id": "e011_b01_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "'Standing' on a platform is passive. The crane swinging is the action; she is just observing it. Violates 'Passive Cinematic Poses' anti-pattern slightly."
+    },
+    {
+      "id": "e011_b02_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Steam jet is a strong visual and sensory hook. Holding breath implies immediate threat. Good tension."
+    },
+    {
+      "id": "e011_b02_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Gripping a railing is a common pose. The 'power surge' cause is abstract; the physical action of keeping fingers from being crushed is good but visually similar to bracing."
+    },
+    {
+      "id": "e011_b02_fullbody",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Leaning against a crate is static. The floor sliding is the cause, but her reaction (shifting weight) is subtle and hard to animate distinctly from standing."
+    },
+    {
+      "id": "e011_b02_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Controlled descent is good. 'Falling debris field' is a bit generic as a cause, but the landing precision adds story."
+    },
+    {
+      "id": "e011_b02_cinematic",
+      "identity": 7,
+      "visual_appeal": 6,
+      "micro_story": 4,
+      "animation_potential": 3,
+      "notes": "Major failure. 'Arms crossed in defiance' is explicitly listed as a passive pose anti-pattern. She is standing still while the skylight cracks."
+    },
+    {
+      "id": "e011_b03_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 4,
+      "notes": "'Pupils dilating' is a micro-reaction. Tracking light is passive. Lacks the physical strain or active defense seen in other closeups."
+    },
+    {
+      "id": "e011_b03_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Bracing against a console is similar to b02_medium. The 'explosion' cause is strong, but the action (leaning/steadying) is repetitive."
+    },
+    {
+      "id": "e011_b03_fullbody",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Stepping over glass is a navigation hazard. It's functional but lacks the high-stakes tension of the dynamic shots."
+    },
+    {
+      "id": "e011_b03_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Mid-spin dodge is good. 'Grinding industrial wheel' is a specific hazard. Slightly repetitive with b01_dynamic in terms of 'dodging sparks/electrical hazards'."
+    },
+    {
+      "id": "e011_b03_cinematic",
+      "identity": 7,
+      "visual_appeal": 6,
+      "micro_story": 4,
+      "animation_potential": 3,
+      "notes": "Another passive 'standing firm' shot. The gears rotating behind her are the action; she is just a silhouette. Weak narrative agency."
+    },
+    {
+      "id": "e011_b04_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Steam fogging the blindfold is a great visual detail. However, it repeats the 'steam' hazard from b02_closeup."
+    },
+    {
+      "id": "e011_b04_medium",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 5,
+      "animation_potential": 5,
+      "notes": "'Gripping the edge' and 'counterbalancing' is very similar to b02_medium (gripping railing) and b01_fullbody (balancing). High repetition of 'holding on/bracing' concepts."
+    },
+    {
+      "id": "e011_b04_fullbody",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Stepping over rebar is similar to b03_fullbody (stepping over glass). Both are 'careful navigation' hazards. Low distinctiveness."
+    },
+    {
+      "id": "e011_b04_dynamic",
+      "identity": 9,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Lunging past a hydraulic press is excellent. High stakes, clear motion, strong visual hook (dress stretching). Best of the set."
+    },
+    {
+      "id": "e011_b04_cinematic",
+      "identity": 7,
+      "visual_appeal": 6,
+      "micro_story": 4,
+      "animation_potential": 3,
+      "notes": "Third passive 'standing on a platform/ledge' shot. The mechanism descending is the threat, but she remains static. Fails to show her *reacting* actively."
+    }
+  ],
+  "set_scores": {
+    "identity": 8.5,
+    "visual_appeal": 7.5,
+    "diversity": 6.0,
+    "repetition_control": 5.5,
+    "micro_story": 7.0,
+    "animation_potential": 6.5
+  },
+  "strengths": [
+    "Strong adherence to character identity markers (blindfold, dress, sleeves) across all premises.",
+    "Dynamic shots (b01_dyn, b04_dyn) effectively combine motion with specific hazards and visual hooks.",
+    "Closeups generally succeed in showing physical strain or immediate threat rather than just 'pretty face'.",
+    "Most premises have a visible cause for the character's state."
+  ],
+  "failures": [
+    "Cinematic shots are heavily repetitive: three out of five involve 2B standing passively on a platform/ledge while machinery moves in the background.",
+    "Medium and Fullbody shots suffer from 'bracing/gripping/balancing' repetition, lacking distinct narrative actions.",
+    "Several premises rely on generic industrial hazards (steam, sparks, gears) without unique lore-specific context or interaction.",
+    "Passive poses (arms crossed, standing firm) are used in high-stakes cinematic moments where active reaction is expected."
+  ],
+  "desired_patterns": [
+    "Active engagement with the environment (pushing, pulling, dodging, climbing) rather than just reacting to it.",
+    "Unique interaction with specific props or machinery that implies a larger story context.",
+    "Variety in emotional registers beyond 'tension/composure' (e.g., frustration, determination, quick wit)."
+  ],
+  "undesired_patterns": [
+    "'Standing firm' as the primary action in cinematic shots.",
+    "Generic industrial hazards (steam/sparks) used without specific source or consequence.",
+    "Repetitive 'gripping/balancing' poses that look like static character sheets with a background added."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Passive Standing on Platform/Ledge",
+      "proposal_ids": [
+        "e011_b01_cinematic",
+        "e011_b02_cinematic",
+        "e011_b03_cinematic",
+        "e011_b04_cinematic"
+      ]
+    },
+    {
+      "pattern": "Bracing/Gripping/Balancing (Static Stability)",
+      "proposal_ids": [
+        "e011_b01_fullbody",
+        "e011_b02_medium",
+        "e011_b03_medium",
+        "e011_b04_medium"
+      ]
+    },
+    {
+      "pattern": "Stepping/Navigating Hazard (Glass/Rebar)",
+      "proposal_ids": [
+        "e011_b03_fullbody",
+        "e011_b04_fullbody"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "For Cinematic shots, require the character to be *in motion* or interacting with the scale (e.g., climbing a gear, pushing against a door) rather than standing still.",
+    "Differentiate Medium/Fullbody shots by focusing on specific object interactions (opening a hatch, pulling a lever) rather than just 'holding on' to static structures.",
+    "Introduce more variety in hazards: use biological, technological, or environmental elements beyond standard industrial steam/sparks/gears.",
+    "Ensure every premise has an active verb that implies forward momentum or change of state, not just maintenance of position."
+  ],
+  "verdict": "The set demonstrates strong character identity and visual appeal, particularly in the dynamic and closeup categories. However, it fails on diversity and repetition control due to a heavy reliance on passive 'standing/bracing' poses in cinematic and medium shots, and repetitive generic industrial hazards. The cinematic category is the weakest link, with 4 out of 5 premises being nearly identical in composition (low-angle, standing still)."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-rwsqixpy09w6r4hpohcd",
+  "object": "chat.completion",
+  "created": 1787431493,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_172552_01\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"preserved_ok\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"hairband\"\n  ],\n  \"defects\": [\n    \"The character is not leaning forward to sign a document; she is seated and actively writing, contradicting the premise's action.\",\n    \"There is no visible knock at the door or interruption; the scene lacks the narrative trigger.\",\n    \"The paper is not held up to cover the chest; it is on the desk, and her hand is on it, not strategically obscuring her torso.\",\n    \"The crop top and bare shoulders are visible, but the paper does not cover the chest as required by the premise.\",\n    \"Her expression is not one of alarm or composure in reaction to interruption; it is neutral and posed.\"\n  ],\n  \"drift\": [\n    \"The composition has shifted from a moment of interrupted action to a static, posed scene.\",\n    \"The narrative drift is severe: the interruption and her physical reaction are absent, breaking the core premise.\"\n  ],\n  \"summary\": \"The image fails to depict the required interruption and physical reaction. The paper is not used to cover the chest, and the character’s pose and expression do not reflect alarm or compositional tension. This constitutes a major structural failure.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1520,
+    "completion_tokens": 330,
+    "total_tokens": 1850,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

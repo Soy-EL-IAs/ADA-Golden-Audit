@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, leotard, thigh_boots, gloves, puffy_sleeves, standing in dimly lit command center, rigid posture, holding glowing data tablet at chest height obscuring lower half of dress, sudden burst of static from nearby terminal, flinching body language, dropping tablet shattering on floor, revealing full silhouette of leotard and thigh-highs, intact blindfold, no facial expression visible, dynamic moment\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 701,
+    "total_output_tokens": 119,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.814093107887663,
+    "time_to_first_token_seconds": 1.2672809999999999
+  }
+}

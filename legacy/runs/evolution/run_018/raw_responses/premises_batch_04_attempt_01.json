@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "```json\n[\n  {\n    \"id\": \"e018_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A tight close-up on 2B's face as a sudden gust of hot air from a ruptured boiler forces her to squint and tighten her jaw; the black blindfold presses firmly against her skin, while her gloved hand rises sharply to shield the fabric from the direct heat stream, highlighting the tension in her neck muscles.\"\n  },\n  {\n    \"id\": \"e018_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"A medium shot of 2B bracing herself against a tilting metal platform that is sliding on oil; she grips the railing with one hand while twisting her upper body to counterbalance, causing her puffy feather-trimmed sleeves to bunch up and her black dress cutout to stretch slightly as her core engages.\"\n  },\n  {\n    \"id\": \"e018_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"A full-body view of 2B performing a low, controlled slide under a swinging chain link fence to avoid its path; her thigh-high boots are dragging sparks on the concrete floor for friction, and her arms are tucked close to her sides to maintain an aerodynamic profile as she exits the frame.\"\n  },\n  {\n    \"id\": \"e018_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"A high-energy dynamic shot of 2B mid-impact, absorbing a punch from an off-screen mechanical arm by leaning back and letting her gloved hand take the hit; her body is arched in a defensive reflex, with motion blur emphasizing the speed of the strike and the ripple through her black dress fabric.\"\n  },\n  {\n    \"id\": \"e018_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"A wide cinematic angle showing 2B suspended by a single, fraying rope that is snapping under the weight of a collapsing crate she has just caught; her body hangs taut in mid-air against a backdrop of rising dust clouds, with every muscle visible as she strains to hold on.\"\n  }\n]\n```"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4672,
+    "total_output_tokens": 508,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.3758221723983,
+    "time_to_first_token_seconds": 5.520225
+  }
+}

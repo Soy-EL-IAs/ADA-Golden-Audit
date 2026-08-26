@@ -1,0 +1,34 @@
+{
+  "id": "judy_alvarez_028",
+  "character": "Judy Alvarez",
+  "franchise": "Cyberpunk 2077",
+  "identity": [
+    "short asymmetrical dark hair",
+    "fitted tech tank with arm tattoos",
+    "neon braindance headset"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a neon editing studio, she swivels in her chair to grab a cable and the chair rolls backward, carrying her smoothly through a curtain of hanging LED strands, with confident sensual body language throughout.",
+  "must_include": [
+    "rolling chair",
+    "hanging LED strands"
+  ],
+  "environment": [
+    "braindance studio",
+    "purple-blue neon",
+    "cables and holographic equipment"
+  ],
+  "animation_hook": "She catches the desk edge, spins the chair around, and glides back into position with the LEDs still swaying.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000027,
+  "krea_seed_base": 2000027
+}

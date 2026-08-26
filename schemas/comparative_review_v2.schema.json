@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Renderer Comparative Review v2",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "comparison_id", "concept_id", "attempt", "renderers", "preferred_renderer", "confidence", "requires_human_review"],
+  "properties": {
+    "schema_version": {"const": "comparative_review_v2"}, "comparison_id": {"type": "string", "minLength": 1}, "concept_id": {"type": "string", "minLength": 1}, "attempt": {"type": "integer", "minimum": 1},
+    "renderers": {"type": "object", "additionalProperties": {"type": "object", "required": ["receipt_id", "output_asset"], "properties": {"receipt_id": {"type": "string", "minLength": 1}, "output_asset": {"type": "string", "minLength": 1}}}},
+    "preferred_renderer": {"type": "string", "minLength": 1}, "confidence": {"type": "number", "minimum": 0, "maximum": 1}, "requires_human_review": {"type": "boolean"}
+  }
+}

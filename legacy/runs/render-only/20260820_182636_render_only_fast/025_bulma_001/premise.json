@@ -1,0 +1,34 @@
+{
+  "id": "bulma_001",
+  "character": "Bulma",
+  "franchise": "Dragon Ball",
+  "identity": [
+    "blue hair",
+    "Capsule Corporation scientist",
+    "inventor outfits"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Adult Bulma works on a capsule machine in a cluttered lab, bent over the console in her fitted jumpsuit; when she presses a test button, a tiny capsule pops open into a full-size motorbike behind her, blasting her hair forward from the sudden expansion.",
+  "must_include": [
+    "capsule machine",
+    "fitted jumpsuit",
+    "tiny capsule",
+    "full-size motorbike"
+  ],
+  "environment": [
+    "cluttered lab",
+    "console"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000024,
+  "krea_seed_base": 2000024
+}

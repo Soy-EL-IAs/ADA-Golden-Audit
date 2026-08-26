@@ -1,0 +1,215 @@
+{
+  "per_premise": [
+    {
+      "id": "e025_b01_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Strong causal link (ruptured line). Identity preserved. Good micro-reaction."
+    },
+    {
+      "id": "e025_b01_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 7,
+      "notes": "Clear action (catching core). Good tension in clothing. Slightly generic 'heavy object' cause."
+    },
+    {
+      "id": "e025_b01_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Dynamic slide. Good use of environment (oil spill). Clear consequence."
+    },
+    {
+      "id": "e025_b01_dynamic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 8,
+      "notes": "Leap over pit. Good motion blur potential. Cause is clear (gap)."
+    },
+    {
+      "id": "e025_b01_cinematic",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Wind/debris. Risk of 'atmospheric wallpaper' but character interaction (bracing) saves it."
+    },
+    {
+      "id": "e025_b02_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 9,
+      "animation_potential": 9,
+      "notes": "Excellent micro-story (insect on blindfold). Unique interaction. High curiosity."
+    },
+    {
+      "id": "e025_b02_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "REPEATED CONCEPT: Catching falling heavy object. Nearly identical to e025_b01_medium (data core vs gear). Violates diversity."
+    },
+    {
+      "id": "e025_b02_fullbody",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Sliding under cable. Good specific obstacle. Distinct from previous full-body actions."
+    },
+    {
+      "id": "e025_b02_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Mid-air rotation. Good kinetic energy. Clear cause (swinging chain)."
+    },
+    {
+      "id": "e025_b02_cinematic",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Slab sliding away. Good narrative event (escape). Distinct from wind-based cinematic."
+    },
+    {
+      "id": "e025_b03_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Wind in hair. Similar to e025_b01_cinematic cause (wind) but different scale/reaction. Acceptable but close."
+    },
+    {
+      "id": "e025_b03_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Bracing against chain. Good physical interaction. Distinct from 'catching' actions."
+    },
+    {
+      "id": "e025_b03_fullbody",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Stepping over gap. Risk of 'precarious balance' trap if not dynamic enough. Feels static compared to slide/leap."
+    },
+    {
+      "id": "e025_b03_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Spinning mid-air. Very similar to e025_b02_dynamic (rotation/avoidance). Repetition of 'mid-air dodge' family."
+    },
+    {
+      "id": "e025_b03_cinematic",
+      "identity": 8,
+      "visual_appeal": 6,
+      "micro_story": 5,
+      "animation_potential": 6,
+      "notes": "Shadow falling. Weak cause ('massive shadow'). Feels like atmosphere replacing event. 'Composed curiosity' is vague."
+    },
+    {
+      "id": "e025_b04_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Reaction to sound. Good 'off-screen' cause usage. Distinct from visual triggers."
+    },
+    {
+      "id": "e025_b04_medium",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Yanking lever. Violates 'Mechanical Jam' limit if counted with other mechanical interactions? No, only one here. But feels generic."
+    },
+    {
+      "id": "e025_b04_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Diving for chip. Excellent specific goal. High animation potential."
+    },
+    {
+      "id": "e025_b04_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Sliding under door. Good kinetic energy. Distinct from mid-air moves."
+    },
+    {
+      "id": "e025_b04_cinematic",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Chandelier crash. Clear cause and consequence. Good cinematic event."
+    }
+  ],
+  "set_scores": {
+    "identity": 9.2,
+    "visual_appeal": 7.5,
+    "diversity": 6.0,
+    "repetition_control": 5.5,
+    "micro_story": 7.8,
+    "animation_potential": 8.1
+  },
+  "strengths": [
+    "Consistent adherence to the local identity profile (blindfold, hair, dress details).",
+    "Strong animation potential across most premises due to clear kinetic energy.",
+    "Good use of specific micro-stories in closeups (insect, sound reaction)."
+  ],
+  "failures": [
+    "Repetition of 'catching falling heavy object' in medium shots (b01 vs b02).",
+    "Repetition of 'mid-air rotation/dodge' in dynamic shots (b02 vs b03).",
+    "One weak cinematic premise (b03) relying on vague 'shadow' cause.",
+    "Full-body balance scene (b03) feels static and risks the 'precarious balance' trap."
+  ],
+  "desired_patterns": [
+    "Specific, tangible causes for character reactions.",
+    "Clear causal chains leading to visible consequences (clothing shift, debris movement).",
+    "Distinct interaction types across categories."
+  ],
+  "undesired_patterns": [
+    "Generic 'heavy object' interactions without unique narrative stakes.",
+    "Atmospheric elements (shadow, wind) substituting for physical events.",
+    "Repeated conceptual families (mid-air dodges, catching items)."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Catching/Bracing against falling heavy objects",
+      "proposal_ids": [
+        "e025_b01_medium",
+        "e025_b02_medium"
+      ]
+    },
+    {
+      "pattern": "Mid-air rotation/dodge to avoid obstacle",
+      "proposal_ids": [
+        "e025_b02_dynamic",
+        "e025_b03_dynamic"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Differentiate medium-shot actions: replace one 'catching' scene with a 'pushing/pulling' or 'sliding' action.",
+    "Vary dynamic shots: ensure at least one is grounded (slide/roll) and one is aerial, avoiding two mid-air rotations.",
+    "Strengthen weak cinematic causes: replace vague shadows/wind with specific physical impacts or interactions."
+  ],
+  "verdict": "Solid batch with strong identity and animation potential, but penalized for conceptual repetition in medium and dynamic categories. Needs more variety in interaction types to meet diversity quotas strictly."
+}

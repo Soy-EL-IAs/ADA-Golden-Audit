@@ -1,0 +1,72 @@
+{
+  "schema_version": "model_capability_profile_v1",
+  "model_id": "illustrious_production",
+  "physical_type": "checkpoint",
+  "family": "Illustrious SDXL",
+  "architecture": "sdxl",
+  "loader": {
+    "name": "CheckpointLoaderSimple",
+    "status": "confirmed"
+  },
+  "capabilities": {
+    "image_generation": {
+      "state": "confirmed",
+      "evidence": "production constructor receipts"
+    },
+    "image_to_image": {
+      "state": "unknown",
+      "evidence": "not the production role"
+    },
+    "identity_preservation": {
+      "state": "tested",
+      "evidence": "production review observations"
+    },
+    "realism_conversion": {
+      "state": "unknown",
+      "evidence": "not tested"
+    },
+    "anime_generation": {
+      "state": "confirmed",
+      "evidence": "production constructor receipts"
+    }
+  },
+  "test_status": "production_baseline",
+  "test_recipe": {
+    "status": "blocked",
+    "reason": "direct constructor benchmark recipe awaits an isolated concept compiler"
+  },
+  "role_evaluations": {
+    "identity_constructor": {
+      "state": "confirmed",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": [
+        "production Illustrious render/review receipts"
+      ]
+    },
+    "anime_to_real_converter": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "photorealistic_generator": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "style_preserver": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    },
+    "direct_anime_generator": {
+      "state": "unknown",
+      "score": null,
+      "sample_count": 0,
+      "evidence_receipts": []
+    }
+  }
+}

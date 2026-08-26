@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Stage Render Plan v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "plan_id", "render_spec_id", "stage", "attempt", "capability_profile", "task", "concept_intent", "identity", "outfit_constraints", "scene_constraints", "composition_intent", "risk_notes", "source_image_mode", "correction_delta", "compiler_version"],
+  "properties": {
+    "schema_version": {"type": "string", "enum": ["stage_render_plan_v1"]},
+    "plan_id": {"type": "string", "minLength": 1},
+    "render_spec_id": {"type": "string", "minLength": 1},
+    "stage": {"type": "string", "enum": ["illustrious", "klein", "lustify", "miaomiao"]},
+    "attempt": {"type": "integer", "minimum": 1},
+    "capability_profile": {"type": "string", "minLength": 1},
+    "task": {"type": "string", "minLength": 1},
+    "concept_intent": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["snapshot", "visual_hook", "provocative_mechanism", "diversity_signature"],
+      "properties": {
+        "snapshot": {"type": "string"},
+        "visual_hook": {"type": "string"},
+        "provocative_mechanism": {"type": "string"},
+        "diversity_signature": {"type": "object"}
+      }
+    },
+    "identity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["display_name", "canonical_tag", "anchors"],
+      "properties": {
+        "display_name": {"type": "string", "minLength": 1},
+        "canonical_tag": {"type": "string"},
+        "anchors": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "outfit_constraints": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "scene_constraints": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "composition_intent": {"type": "string"},
+    "risk_notes": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "source_image_mode": {"type": "string", "enum": ["none", "preserve"]},
+    "correction_delta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_decision_id", "instructions"],
+      "properties": {
+        "source_decision_id": {"type": "string"},
+        "instructions": {"type": "array", "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "compiler_version": {"type": "string", "minLength": 1}
+  }
+}

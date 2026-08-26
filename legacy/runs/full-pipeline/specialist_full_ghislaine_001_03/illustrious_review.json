@@ -1,0 +1,18 @@
+{
+  "id": "ghislaine_dedoldia_specialist_full_ghislaine_001_03",
+  "stage": "illustrious",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "eyepatch",
+    "grey_hair",
+    "cat_ears",
+    "red_eyes"
+  ],
+  "defects": [],
+  "drift": [
+    "The character is not frozen mid-motion; she is actively holding an open book with both hands, contradicting the premise's interruption narrative.",
+    "The eyepatch is on the left eye, which is correct per risk notes, but the character’s posture and expression do not convey the 'suspended tension' described in the premise.",
+    "The image shows explicit upper body details, which violates the risk note to 'avoid showing explicit clothing details; focus on the upper body and face for clarity.'"
+  ],
+  "summary": "The image visually preserves all required elements (eyepatch, grey hair, cat ears, red eyes) and does not contain visible defects. However, there is narrative/compositional drift: the character is not frozen mid-motion, the interruption is not visually implied, and explicit body details are present, contradicting the premise and risk notes."
+}

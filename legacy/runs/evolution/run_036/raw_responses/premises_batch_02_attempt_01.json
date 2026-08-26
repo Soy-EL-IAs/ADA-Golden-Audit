@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e036_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme closeup on the side of 2B's face where her black blindfold is being forcibly pulled taut by a sudden, high-pressure jet of steam erupting from a fractured pipe; the fabric stretches thin over her cheekbone while a single drop of condensation rolls down her jawline, capturing the micro-expression of stoic endurance as she holds her breath to prevent the moisture from reaching her skin.\"\n  },\n  {\n    \"id\": \"e036_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B leaning back heavily against a heavy, rusted iron gate that is slowly sliding open on its hinges; her core muscles are visibly engaged to counteract the torque, causing the cutout in her dress to widen slightly as she twists her torso to maintain leverage, while her hairband digs into her short white hair under the strain of the sudden mechanical movement.\"\n  },\n  {\n    \"id\": \"e036_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B in a deep lunge on a slippery, oil-slicked metal platform, her front thigh-high boot bracing against the edge to prevent slipping as she reaches down with both black-gloved hands to stabilize a large, rolling industrial valve wheel that is currently spinning out of control toward her feet.\"\n  },\n  {\n    \"id\": \"e036_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B mid-spin with her hair whipping in a tight blur around her head as she catches a falling, jagged piece of metal debris with one black-gloved hand; the momentum of the catch forces her hips to flare outward and her dress hem to lift sharply, revealing the tension in her thigh-high stockings as she prepares to redirect the object.\"\n  },\n  {\n    \"id\": \"e036_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"High-angle cinematic shot looking down into a deep, circular shaft where 2B is dangling from a fraying rope attached to her wrist; below her, a massive, rotating fan blade sweeps through the air just inches from her boots, and she must twist her body sharply against the pull of gravity to avoid being clipped by the machinery.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3852,
+    "total_output_tokens": 555,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.79379819640589,
+    "time_to_first_token_seconds": 4.576669
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"Faye Valentine stands in a dimly lit office, her purple short hair held back by a hairband and green eyes wide with shock as she stares at an off-frame door. She wears a crop top that leaves her shoulders bare, paired with shorts and thighhighs, while one hand clutches the hem of her shirt to partially cover her midsection. A single sheet of paper flutters in the air near her face, suggesting it was just thrown or knocked loose, creating a clear visual cause for her interrupted posture.\",\n  \"preserved_elements\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"large_breasts\",\n    \"hairband\",\n    \"shorts\",\n    \"lipstick\",\n    \"thighhighs\",\n    \"shirt\",\n    \"bare_shoulders\",\n    \"crop_top\",\n    \"boots\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the crop top and bare shoulders are visible but not overly exposed to maintain strategic censorship balance.\",\n    \"The fluttering paper must be clearly identifiable as the cause of interruption without requiring motion blur.\",\n    \"Facial expression should convey surprise or alarm rather than fear to keep the tone restrained.\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 566,
+    "total_output_tokens": 291,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.095600129306945,
+    "time_to_first_token_seconds": 0.29544400000000004
+  }
+}

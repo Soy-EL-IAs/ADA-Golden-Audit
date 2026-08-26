@@ -1,0 +1,264 @@
+{
+  "schema_version": "character_contract_v1",
+  "contract_id": "character:android_18:default",
+  "character_id": "android_18",
+  "display_name": "android_18",
+  "profile_version": "default",
+  "franchise": [
+    "dragon_ball",
+    "dragon_ball_z"
+  ],
+  "identity": {
+    "canonical_tag": "android_18",
+    "must_preserve": [
+      "android_18",
+      "blonde_hair",
+      "blue_eyes",
+      "short_hair",
+      "earrings",
+      "jewelry"
+    ],
+    "valid_variants": [],
+    "conditional": [],
+    "uncertain": []
+  },
+  "outfit": {
+    "canonical_default": [
+      "pantyhose",
+      "skirt"
+    ],
+    "valid_variants": [],
+    "conditional": [],
+    "uncertain": []
+  },
+  "evidence": [
+    {
+      "source": "danbooru_taxonomy",
+      "reference": "android_18",
+      "supports": [
+        "identity",
+        "outfit"
+      ]
+    },
+    {
+      "source": "character_refs_manifest",
+      "reference": "data/references/android_18/default/manifest.json",
+      "supports": [
+        "visual_reference"
+      ]
+    },
+    {
+      "source": "danbooru_taxonomy",
+      "reference": "android_18",
+      "supports": [
+        "identity_taxonomy"
+      ]
+    }
+  ],
+  "source_profile": {
+    "requested_character": "android_18",
+    "requested_version": null,
+    "matched_tag": "android_18",
+    "canonical_name": "Android 18",
+    "character_id": "android_18",
+    "aliases": [
+      "android_18",
+      "Android 18",
+      "android 18"
+    ],
+    "character_profile_used": true,
+    "gender": null,
+    "copyright": [
+      "dragon_ball",
+      "dragon_ball_z"
+    ],
+    "characteristics": [
+      "blonde_hair",
+      "blue_eyes",
+      "short_hair",
+      "earrings",
+      "large_breasts"
+    ],
+    "clothing": [
+      "jewelry",
+      "shirt",
+      "pantyhose",
+      "skirt",
+      "jacket",
+      "long_sleeves",
+      "pants",
+      "torn_clothes"
+    ],
+    "relationships": {},
+    "version_match": null,
+    "candidates": [],
+    "source": "danbooru_taxonomy",
+    "identity_resolution": {
+      "requested_name": "android_18",
+      "canonical_name": "Android 18",
+      "canonical_tag": "android_18",
+      "character_id": "android_18",
+      "franchise": [
+        "dragon_ball",
+        "dragon_ball_z"
+      ],
+      "aliases": [
+        "android_18",
+        "Android 18",
+        "android 18"
+      ],
+      "characteristics": [
+        "blonde_hair",
+        "blue_eyes",
+        "short_hair",
+        "earrings",
+        "large_breasts"
+      ],
+      "clothing": [
+        "jewelry",
+        "shirt",
+        "pantyhose",
+        "skirt",
+        "jacket",
+        "long_sleeves",
+        "pants",
+        "torn_clothes"
+      ],
+      "source": "danbooru_taxonomy"
+    },
+    "taxonomy_classification": {
+      "IDENTITY": [
+        "blonde_hair",
+        "blue_eyes",
+        "short_hair"
+      ],
+      "CANONICAL_APPEARANCE": [],
+      "CANONICAL_OUTFIT": [
+        "pantyhose",
+        "skirt"
+      ],
+      "ACCESSORY": [
+        "earrings",
+        "jewelry"
+      ],
+      "BODY_MORPHOLOGY": [
+        "large_breasts"
+      ],
+      "CONTEXTUAL": [
+        "shirt",
+        "jacket",
+        "long_sleeves",
+        "pants",
+        "torn_clothes"
+      ],
+      "POSE_ACTION": [],
+      "IGNORE": []
+    },
+    "taxonomy_evidence": [
+      {
+        "trait": "blonde_hair",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "blue_eyes",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "short_hair",
+        "classification": "IDENTITY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "earrings",
+        "classification": "ACCESSORY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "jewelry",
+        "classification": "ACCESSORY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "pantyhose",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "skirt",
+        "classification": "CANONICAL_OUTFIT",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "large_breasts",
+        "classification": "BODY_MORPHOLOGY",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "shirt",
+        "classification": "CONTEXTUAL",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "jacket",
+        "classification": "CONTEXTUAL",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "long_sleeves",
+        "classification": "CONTEXTUAL",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "pants",
+        "classification": "CONTEXTUAL",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      },
+      {
+        "trait": "torn_clothes",
+        "classification": "CONTEXTUAL",
+        "confidence": 0.98,
+        "sources": [
+          "danbooru_taxonomy"
+        ]
+      }
+    ]
+  }
+}

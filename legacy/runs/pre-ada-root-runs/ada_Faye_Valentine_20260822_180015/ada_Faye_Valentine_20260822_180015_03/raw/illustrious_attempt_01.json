@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"faye_valentine, cowboy_bebop, 1girl, purple_hair, short_hair, hairband, green_eyes, wide eyes, surprised expression, alarm, lipstick, bare_shoulders, crop_top, shirt hem clutched in hand, midriff partially covered, shorts, thighhighs, boots, standing pose, dimly lit office, single sheet of paper fluttering near face, off-frame door focus\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 810,
+    "total_output_tokens": 99,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.258299845337996,
+    "time_to_first_token_seconds": 1.357251
+  }
+}

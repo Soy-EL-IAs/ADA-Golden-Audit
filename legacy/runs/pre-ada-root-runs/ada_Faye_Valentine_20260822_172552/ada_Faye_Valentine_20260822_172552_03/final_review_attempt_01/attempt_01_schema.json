@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-b4tb47i2fv5l7432upitao",
+  "object": "chat.completion",
+  "created": 1787431761,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_172552_03\",\n  \"stage\": \"klein\",\n  \"verdict\": \"MINOR_DEFECT\",\n  \"preserved_ok\": [\n    \"purple_hair\",\n    \"green_eyes\",\n    \"thighhighs\"\n  ],\n  \"defects\": [\n    \"The crop top is not visibly present; the character is wearing a yellow sleeveless top with a collar, which is not the approved crop top.\"\n  ],\n  \"drift\": [\n    \"The shirt drape is not clearly visible as a deliberate action; the red shirt is draped over her shoulder and torso, but the action of grabbing it to cover her chest is not clearly depicted. The shirt appears to be draped rather than actively grabbed and used as a barrier.\"\n  ],\n  \"summary\": \"The image preserves key visual elements like purple hair, green eyes, and thighhighs. However, the crop top is missing, and the shirt drape lacks the clear, deliberate action implied in the premise. These are minor rendering issues that do not alter the core composition or narrative intent.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1488,
+    "completion_tokens": 256,
+    "total_tokens": 1744,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

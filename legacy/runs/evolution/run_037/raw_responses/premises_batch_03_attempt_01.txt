@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e037_b03_closeup",
+    "category": "closeup",
+    "premise": "A tight close-up captures 2B's face as she recoils from a sudden, sharp crackling sound, her jaw tightening and brow furrowing behind the black blindfold while a single drop of sweat traces down her temple, highlighting the micro-expression of controlled alertness before she blinks away the static charge in the air."
+  },
+  {
+    "id": "e037_b03_medium",
+    "category": "medium",
+    "premise": "From a waist-up perspective, 2B leans forward aggressively as an unseen weight pulls at her outstretched hands, causing her torso to twist sharply to the side; this force stretches the fabric of her black dress's cutout taut across her midsection while her puffy feather-trimmed sleeves bunch up against her arms, emphasizing the mechanical strain on her posture."
+  },
+  {
+    "id": "e037_b03_fullbody",
+    "category": "fullbody",
+    "premise": "In a full-body shot on the edge of a crumbling wooden bridge, 2B is crouched low to minimize her profile as a large, translucent dragonfly with iridescent wings lands heavily on the plank just inches from her face; her weight is shifted entirely onto her left thigh-high boot for stability while her right leg hovers slightly off the ground, and she holds perfectly still with focused intensity, her white hair hanging motionless to avoid startling the creature."
+  },
+  {
+    "id": "e037_b03_dynamic",
+    "category": "dynamic",
+    "premise": "Captured at the peak of a vaulting maneuver, 2B launches herself over a low, rusted iron fence as it begins to collapse inward under her momentum; her body is arched mid-air with legs split in an agile leap, one arm extended forward for balance while the other trails back, and her black dress flares dramatically behind her due to the rapid upward acceleration, contrasting with the sharp downward angle of the falling metal."
+  },
+  {
+    "id": "e037_b03_cinematic",
+    "category": "cinematic",
+    "premise": "Set in a vast, sun-drenched atrium filled with floating dust motes and broken glass shards, 2B is seen from a wide horizontal angle as she walks carefully across a narrow beam of intense light that cuts through the darkened room; her silhouette is sharply defined by the backlighting, highlighting the outline of her hairband and blindfold, while she navigates the precarious path with deliberate steps to avoid stepping on the scattered debris below."
+  }
+]

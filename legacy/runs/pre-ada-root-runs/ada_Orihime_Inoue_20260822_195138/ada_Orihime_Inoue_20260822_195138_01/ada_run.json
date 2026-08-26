@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "run_id": "ada_Orihime_Inoue_20260822_195138_01",
+  "pipeline": "specialist_image_v1",
+  "character": "Orihime Inoue",
+  "version": null,
+  "review_policy": "strict",
+  "stage": "FAILED",
+  "created_at": "2026-08-22T22:51:38.246857+00:00",
+  "updated_at": "2026-08-22T22:57:03.334421+00:00",
+  "seeds": {
+    "orihime_inoue_ada_Orihime_Inoue_20260822_195138_01": {
+      "illustrious": 6457218651471001492,
+      "klein": 2916517100935205062
+    }
+  },
+  "artifacts": {
+    "premise_spec": "premise_spec.json",
+    "illustrious_result": "illustrious_result.json",
+    "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\ada_Orihime_Inoue_20260822_195138_01\\orihime_inoue_ada_Orihime_Inoue_20260822_195138_01\\illustrious_00004_.png",
+    "illustrious_review": "illustrious_review.json"
+  },
+  "history": [
+    {
+      "stage": "CREATED",
+      "at": "2026-08-22T22:51:38.246857+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "at": "2026-08-22T22:52:36.925061+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T22:52:54.709652+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T22:53:24.812804+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T22:53:39.225646+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "event": "retry",
+      "reason": "Illustrious review requested a structural retry",
+      "attempt": 1,
+      "at": "2026-08-22T22:53:39.231642+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T22:54:07.168036+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T22:54:31.456699+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T22:54:44.239922+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "event": "retry",
+      "reason": "Illustrious review requested a structural retry",
+      "attempt": 2,
+      "at": "2026-08-22T22:54:44.250161+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T22:55:16.331154+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T22:55:40.203732+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T22:55:53.406684+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "event": "retry",
+      "reason": "Illustrious review requested a structural retry",
+      "attempt": 3,
+      "at": "2026-08-22T22:55:53.413687+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T22:56:23.460607+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T22:56:47.662385+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T22:57:03.327420+00:00"
+    },
+    {
+      "stage": "FAILED",
+      "component": "retry_limit",
+      "at": "2026-08-22T22:57:03.334421+00:00"
+    }
+  ],
+  "error": {
+    "component": "retry_limit",
+    "type": "RuntimeError",
+    "message": "Max retries (3) exceeded for PREMISES_READY. Reason: Illustrious review requested a structural retry",
+    "at": "2026-08-22T22:57:03.334421+00:00"
+  },
+  "retries_PREMISES_READY": 3
+}

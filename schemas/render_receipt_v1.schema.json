@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Render Receipt v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "receipt_id", "stage", "attempt", "render_spec_id", "stage_render_plan_id", "prompt_artifact_id", "workflow", "generation", "submission", "output_asset"],
+  "properties": {
+    "schema_version": {"type": "string", "enum": ["render_receipt_v1"]},
+    "receipt_id": {"type": "string", "minLength": 1},
+    "stage": {"type": "string", "enum": ["illustrious", "klein"]},
+    "attempt": {"type": "integer", "minimum": 1},
+    "render_spec_id": {"type": "string", "minLength": 1},
+    "stage_render_plan_id": {"type": "string", "minLength": 1},
+    "prompt_artifact_id": {"type": "string", "minLength": 1},
+    "workflow": {"type": "string", "minLength": 1},
+    "generation": {"type": "object"},
+    "submission": {"type": "object"},
+    "output_asset": {"type": "string", "minLength": 1}
+  }
+}

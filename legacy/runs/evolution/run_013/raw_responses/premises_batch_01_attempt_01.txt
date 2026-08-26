@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e013_b01_01",
+    "category": "closeup",
+    "premise": "2B's face is framed by a sudden, sharp intake of breath as her black blindfold slips slightly down the bridge of her nose due to a rapid head turn; her left hand rises instinctively to steady it while her visible eye widens with focused alertness at an unseen sound."
+  },
+  {
+    "id": "e013_b01_02",
+    "category": "medium",
+    "premise": "A strong gust of wind from a broken ventilation shaft catches the hem of 2B's black dress, lifting it to reveal her thigh-high stockings; she twists her torso sharply to maintain balance, one hand gripping the edge of a metal console for stability while her expression remains composed but tense."
+  },
+  {
+    "id": "e013_b01_03",
+    "category": "fullbody",
+    "premise": "2B balances on the narrow, rusted rim of an industrial water tank in a flooded courtyard; her weight shifts precariously to one leg as she extends a gloved hand to catch a falling gear mechanism before it hits the water below, her silhouette emphasizing tension and precision."
+  },
+  {
+    "id": "e013_b01_04",
+    "category": "dynamic",
+    "premise": "Mid-leap over a jagged crack in the floor, 2B's puffy sleeves billow with motion blur as she twists her hips to dodge an incoming shard of glass; her legs are extended dynamically forward, and her hair whips behind her, capturing the peak moment of evasive action."
+  },
+  {
+    "id": "e013_b01_05",
+    "category": "cinematic",
+    "premise": "From a low angle looking up through a broken skylight, 2B stands on the edge of a crumbling rooftop against a vast, stormy sky; rain streaks her face and darkens her dress as she looks down at the city below, one hand resting on her hip in a posture of weary command amidst the chaos."
+  }
+]

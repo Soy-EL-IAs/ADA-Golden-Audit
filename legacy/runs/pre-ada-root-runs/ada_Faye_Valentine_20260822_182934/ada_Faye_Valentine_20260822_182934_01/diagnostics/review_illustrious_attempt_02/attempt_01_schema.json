@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-1pq10h3dc0kge4mggzfls",
+  "object": "chat.completion",
+  "created": 1787434551,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_182934_01\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"defects\": [\n    \"Wrong hair color: Premise requires purple hair; image shows dark purple with orange hairband, but the hairband is not part of the canonical outfit and is not specified in identity_elements. However, the hair color is correct.\",\n    \"Wrong eye color: Premise requires green eyes; image shows green eyes — CORRECT.\",\n    \"Wrong outfit: Premise requires crop_top, shorts, thighhighs, boots, bare_shoulders, lipstick. Image shows yellow crop_top, yellow shorts, purple thighhighs, white boots — CORRECT for canonical outfit.\",\n    \"Wrong expression: Premise requires irritated_expression; image shows an irritated expression — CORRECT.\",\n    \"Wrong scene requirement: Premise requires holding_crumpled_newspaper; image shows holding a crumpled newspaper — CORRECT.\",\n    \"Wrong lighting: Premise requires dim_office_lighting; image shows bright, even lighting — WRONG.\",\n    \"Wrong newspaper headline: Premise requires 'SCANDAL: BEBOP PILOT SPOTTED IN PUBLIC'; image shows 'SCANDAL: BEBOP PILOT SPOTTED IN PUBLIC' — CORRECT.\",\n    \"Wrong narrative drift: Premise requires non-graphic tension; image shows explicit nudity — WRONG.\"\n  ],\n  \"drift\": [\n    \"The lighting is bright, not dim as required.\",\n    \"The image shows explicit nudity, which violates the risk_notes about maintaining non-graphic tension.\"\n  ],\n  \"summary\": \"The image fails due to bright lighting and explicit nudity, which violate the scene requirements and risk notes. The identity elements and outfit are mostly correct, but the lighting and nudity are critical failures.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1711,
+    "completion_tokens": 408,
+    "total_tokens": 2119,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

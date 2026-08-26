@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"Lara Croft is frozen mid-stride in a dimly lit, dust-choked temple corridor, her body angled defensively as she looks back over her shoulder. A thick, jagged stone slab has just crashed down behind her, blocking the exit and trapping her with a shadowy figure emerging from the darkness ahead. Her expression is one of sharp, focused alertness rather than panic, highlighting the immediate cause (the collapse) and consequence (being cornered). The visual hook is the contrast between her athletic readiness and the overwhelming scale of the ancient architecture closing in on her.\",\n  \"identity_elements\": [\n    \"brown_hair\",\n    \"brown_eyes\",\n    \"long_hair\",\n    \"braid\",\n    \"large_breasts\"\n  ],\n  \"canonical_outfit\": [\n    \"gloves\",\n    \"shorts\",\n    \"tank_top\",\n    \"fingerless_gloves\",\n    \"short_shorts\",\n    \"jewelry\",\n    \"boots\",\n    \"black_gloves\",\n    \"necklace\",\n    \"backpack\",\n    \"bare_shoulders\"\n  ],\n  \"scene_requirements\": [\n    \"dust_clouds_settling\",\n    \"stone_slab_debris_blocking_path\",\n    \"shadowy_figure_emerging_from_darkness\",\n    \"defensive_stance_with_look_back_over_shoulder\",\n    \"dim_temple_lighting\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the shadowy figure remains ambiguous to maintain focus on Lara's reaction.\",\n    \"Keep the dust clouds visible but not obscuring her face or key outfit details.\",\n    \"Avoid showing the actual moment of impact; focus on the immediate aftermath.\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 694,
+    "total_output_tokens": 400,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.45793821172969,
+    "time_to_first_token_seconds": 1.2464000000000002
+  }
+}

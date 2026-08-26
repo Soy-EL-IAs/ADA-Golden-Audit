@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-c1ayr4hj35smygt7xc1kzd",
+  "object": "chat.completion",
+  "created": 1787432630,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_180015_02\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"preserved_ok\": [],\n  \"defects\": [\n    \"The newspaper is held low, near the thighs, failing to cover the chest area as required for strategic censorship.\",\n    \"The character's large breasts are fully visible, violating the core premise of using the newspaper as a shield.\",\n    \"The hairband is present but the hair color is not purple; it appears dark blue or black, deviating from the approved spec.\",\n    \"The crop top is not visible; instead, a red jacket is tied around the waist, which is not part of the approved attire.\",\n    \"The shorts are yellow, not matching the approved color or style.\",\n    \"The boots are light green, not matching the approved color or style.\",\n    \"The thighs are covered by thighhighs, but the color is pinkish, not matching the approved style.\",\n    \"The character's expression is neutral, not showing wary suspicion as required.\",\n    \"There is no visible off-frame threat or silhouette to justify her defensive posture.\"\n  ],\n  \"drift\": [\n    \"The framing and composition do not support the narrative of an unseen onlooker or approaching presence.\",\n    \"The lighting is bright and even, contradicting the dimly lit alleyway premise.\",\n    \"The background is a plain wall with no alleyway features, removing environmental context.\",\n    \"The character's pose is static and confrontational, not defensive or wary as specified.\"\n  ],\n  \"summary\": \"The image fails to meet the PremiseSpec in multiple critical areas. The newspaper does not cover the chest, the character's attire is incorrect, and the narrative context is missing. The framing and lighting also contradict the premise. This constitutes a major structural failure requiring RETRY_ILLUSTRIOUS.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1686,
+    "completion_tokens": 421,
+    "total_tokens": 2107,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

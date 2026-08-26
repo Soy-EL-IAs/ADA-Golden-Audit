@@ -1,0 +1,31 @@
+{
+  "id": "chel_001",
+  "character": "Chel",
+  "franchise": "The Road to El Dorado",
+  "identity": [
+    "iconic turquoise outfit",
+    "long dark hair"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Chel, with her iconic turquoise outfit and long dark hair, tiptoes through an El Dorado treasure chamber carrying an oversized golden idol against her chest; as she glances back with a sly smile, the smooth floor starts tilting and a stream of gold coins slides between her legs toward the camera while she tries to keep her balance.",
+  "must_include": [
+    "oversized golden idol",
+    "tilting smooth floor",
+    "stream of gold coins"
+  ],
+  "environment": [
+    "El Dorado treasure chamber"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "gore",
+    "multiple women",
+    "nudity"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 3100001,
+  "krea_seed_base": 4100001
+}

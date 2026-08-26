@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Final Stage Decision v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "decision_id", "concept_id", "attempt", "selected_stage", "selected_image", "reason", "source", "comparative_review_id", "requires_human_review", "automatic"],
+  "properties": {
+    "schema_version": {"type": "string", "enum": ["final_stage_decision_v1"]},
+    "decision_id": {"type": "string", "minLength": 1},
+    "concept_id": {"type": "string", "minLength": 1},
+    "attempt": {"type": "integer", "minimum": 1},
+    "selected_stage": {"type": "string", "enum": ["illustrious", "klein"]},
+    "selected_image": {"type": "string", "minLength": 1},
+    "reason": {"type": "string", "minLength": 1},
+    "source": {"type": "string", "enum": ["comparative_review", "comparative_review_fallback"]},
+    "comparative_review_id": {"type": "string", "minLength": 1},
+    "requires_human_review": {"type": "boolean"},
+    "automatic": {"type": "boolean", "enum": [true]}
+  }
+}

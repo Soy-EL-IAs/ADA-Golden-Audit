@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e014_b04_closeup",
+    "category": "closeup",
+    "premise": "2B's face is captured in a tight close-up as a single, heavy raindrop hovers on the tip of her nose; she holds her breath with intense focus, her black blindfold taut against her skin as she resists the urge to blink, while water beads visibly on the fabric of her hairband and the edge of her glove raised near her chin."
+  },
+  {
+    "id": "e014_b04_medium",
+    "category": "medium",
+    "premise": "In a waist-up shot, 2B leans back against a textured stone pillar to shake loose a large, dry leaf stuck in the puffy feather-trim of her sleeve; her body arches slightly to dislodge it, causing the cutout of her black dress to stretch across her torso, while her expression remains stoic despite the tactile irritation."
+  },
+  {
+    "id": "e014_b04_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B mid-jump over a low, rusted barrier; her legs are extended in a high stride, showcasing the length of her thigh-high stockings and boots, while her arms swing forward for momentum. Her short white hair lifts with the upward velocity, and her dress hem flares out around her waist as she clears the obstacle."
+  },
+  {
+    "id": "e014_b04_dynamic",
+    "category": "dynamic",
+    "premise": "2B twists her torso violently to duck under a swinging chain; her black dress hem blurs with the rotational force, and one gloved hand smacks the air near her head to deflect a secondary impact. Her blindfold is slightly askew from the sudden movement, revealing a flash of intense concentration as she completes the evasion."
+  },
+  {
+    "id": "e014_b04_cinematic",
+    "category": "cinematic",
+    "premise": "A wide shot shows 2B standing on a narrow stone bridge, reaching out to catch a small, fluttering mechanical butterfly that is about to land on her fingertip; the scale of the ancient ruins behind her emphasizes her isolation, but her delicate hand gesture and focused gaze anchor the scene with quiet curiosity as the creature hovers."
+  }
+]

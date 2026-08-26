@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"b03_01\",\n    \"category\": \"closeup\",\n    \"premise\": \"An extreme close-up from a slightly low angle focuses on 2B's face as she tilts her head, the white blindfold pulled taut across her eyes. Her expression is deceptively serene and innocent, yet her lips are parted slightly in a subtle, knowing smile that hints at hidden amusement or secret awareness. The framing isolates her short black hair and the delicate fabric of the blindfold against a soft, out-of-focus background, emphasizing the contrast between her stoic appearance and the playful tension in her expression.\"\n  },\n  {\n    \"id\": \"b03_02\",\n    \"category\": \"medium\",\n    \"premise\": \"A medium shot from behind captures 2B adjusting the strap of her black dress, her back arched gracefully to emphasize the curve of her waist and hips. Her white hair falls softly over one shoulder as she reaches up, creating a dynamic line that draws the eye toward the cutout details of her outfit. The composition highlights the tension in her posture and the silhouette of her figure, with a hint of vulnerability mixed with deliberate elegance.\"\n  },\n  {\n    \"id\": \"b03_03\",\n    \"category\": \"fullbody\",\n    \"premise\": \"A full-body frontal view shows 2B standing on one leg, the other extended forward in a poised ballet-like stance. Her dress flutters slightly as if caught by a gentle breeze, revealing the length of her legs and the fit of her thigh-high boots. The viewpoint is eye-level, capturing her confident yet restrained posture and the sharp contrast between her dark attire and the bright, minimalist environment.\"\n  },\n  {\n    \"id\": \"b03_04\",\n    \"category\": \"dynamic\",\n    \"premise\": \"A dynamic action shot from a low angle shows 2B mid-leap, her body twisted in an elegant arc as she evades an unseen obstacle. Her hair streams behind her, and the fabric of her dress clings to her form, accentuating her athletic silhouette. The motion blur suggests speed and agility, while her focused expression maintains the character's usual composure despite the intense physical effort.\"\n  },\n  {\n    \"id\": \"b03_05\",\n    \"category\": \"cinematic\",\n    \"premise\": \"A cinematic wide shot places 2B in a dimly lit, atmospheric corridor with dramatic lighting casting long shadows across her figure. She stands still, silhouetted against a bright light source behind her, creating a strong contrast that outlines her form. The composition is balanced and symmetrical, evoking a sense of mystery and anticipation as she appears to wait for an unseen arrival or departure.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 5319,
+    "total_output_tokens": 609,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 8.494038969925523,
+    "time_to_first_token_seconds": 6.7195219999999996
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "zatanna_065",
+  "character": "Zatanna",
+  "franchise": "DC Comics",
+  "identity": [
+    "long black hair",
+    "black fitted magician tuxedo bodysuit with white shirtfront",
+    "top hat and wand"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a theater dressing room, she taps her top hat with a wand and a long silk scarf erupts much farther than expected, wrapping around the vanity chair instead of her hand, with confident sensual body language throughout.",
+  "must_include": [
+    "endless silk scarf",
+    "top hat"
+  ],
+  "environment": [
+    "dressing room",
+    "warm mirror bulbs",
+    "costume racks and velvet stool"
+  ],
+  "animation_hook": "She tugs the scarf, the chair rolls toward her, and she catches it with one boot while smiling at the trick.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000064,
+  "krea_seed_base": 2000064
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"faye_valentine, cowboy_bebop, 1girl, purple_hair, short_hair, green_eyes, large_breasts, hairband, crop_top, bare_shoulders, dimly lit office, off-shoulder crop top, frozen mid-motion, wide eyes, gaze directed toward entrance, tense expression, relaxed posture contrasted with sudden alertness, sharp knock at door implied by her reaction, subtle strategic censorship via focus on tension rather than exposure, no background characters\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 685,
+    "total_output_tokens": 111,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 8.67310007538565,
+    "time_to_first_token_seconds": 10.824881999999999
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Review Observation v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "observation_id", "render_spec_id", "stage", "attempt", "requirements", "defects", "drift", "summary", "source_review_verdict"],
+  "properties": {
+    "schema_version": {"type": "string", "enum": ["review_observation_v1"]},
+    "observation_id": {"type": "string", "minLength": 1},
+    "render_spec_id": {"type": "string", "minLength": 1},
+    "stage": {"type": "string", "enum": ["illustrious", "klein", "lustify", "miaomiao"]},
+    "attempt": {"type": "integer", "minimum": 1},
+    "requirements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["requirement_id", "category", "result", "evidence"],
+        "properties": {
+          "requirement_id": {"type": "string", "minLength": 1},
+          "category": {"type": "string", "enum": ["identity", "outfit", "scene", "composition"]},
+          "result": {"type": "string", "enum": ["PASS", "FAIL", "NOT_VISIBLE", "NOT_APPLICABLE", "UNKNOWN"]},
+          "evidence": {"type": "array", "items": {"type": "string", "minLength": 1}}
+        }
+      }
+    },
+    "defects": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "drift": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "summary": {"type": "string"},
+    "agent_rating": {"type": "number", "minimum": 1.0, "maximum": 10.0},
+    "source_review_verdict": {"type": "string", "minLength": 1}
+  }
+}

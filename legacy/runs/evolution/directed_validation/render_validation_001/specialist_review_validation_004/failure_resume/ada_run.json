@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "run_id": "review_validation",
+  "pipeline": "specialist_image_v1",
+  "character": "2B",
+  "version": "NieR:Automata",
+  "review_policy": "strict",
+  "stage": "KLEIN_PROMPTS_READY",
+  "created_at": "2026-08-22T15:46:31.058836+00:00",
+  "updated_at": "2026-08-22T16:07:16.972655+00:00",
+  "seeds": {
+    "esh001_01": {
+      "illustrious": 7930719883736228483,
+      "klein": 8881520617910482129
+    }
+  },
+  "artifacts": {
+    "premise_spec": "premise_spec.json",
+    "illustrious_result": "illustrious_result.json",
+    "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\render_validation_001_master_full_001\\esh001_01\\illustrious_00001_.png",
+    "illustrious_review_diagnostics": "D:\\IA\\Ada\\evolution_runs\\directed_validation\\render_validation_001\\specialist_review_validation_004\\failure_resume\\review_diagnostics",
+    "illustrious_review": "illustrious_review.json",
+    "klein_result": "klein_result.json",
+    "klein_context": "klein_effective_context.json"
+  },
+  "history": [
+    {
+      "stage": "CREATED",
+      "at": "2026-08-22T15:46:31.058836+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "at": "2026-08-22T15:46:31.073872+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T15:46:31.082886+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T15:46:31.089900+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "event": "recoverable_failure",
+      "component": "illustrious_visual_review",
+      "type": "VisualReviewTransportError",
+      "message": "Visual Review failed hard after controlled transports: schema: ValueError: review response contains no JSON object | native: ValueError: review response contains no JSON object",
+      "recoverable": true,
+      "at": "2026-08-22T15:46:31.105944+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T15:46:34.248817+00:00"
+    },
+    {
+      "stage": "KLEIN_PROMPTS_READY",
+      "at": "2026-08-22T16:07:16.972655+00:00"
+    }
+  ],
+  "error": null
+}

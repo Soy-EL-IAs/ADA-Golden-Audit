@@ -1,0 +1,9 @@
+{
+  "id": "2b_balanced_v1_dynamic_001",
+  "illustrious_prompt": "2b_(nier:automata), dynamic action pose, mid-air pivot to the left, sharp kinetic redirection, white hair whipping forward with motion blur, black dress flaring out, feather-trimmed sleeves distinct from puffy fabric, intact blindfold clearly visible on face, massive stone pillar collapsing from right side, clear separation between character silhouette and environmental obstruction, NieR:Automata style",
+  "resolved_risks": [
+    "Ensure the blindfold remains intact and clearly visible despite the dynamic head movement.",
+    "Distinguish the feather-trimmed sleeves from standard puffy sleeves to maintain character accuracy.",
+    "Keep the environmental obstruction (stone pillar) distinct from the character's silhouette to avoid visual merging."
+  ]
+}

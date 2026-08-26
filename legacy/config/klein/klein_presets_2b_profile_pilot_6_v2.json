@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "dataset_id": "2b_profile_pilot_6_v2",
+  "created_at": "2026-08-21T18:33:04.765170+00:00",
+  "presets": {
+    "closeup_a2r": {
+      "steps": 4,
+      "loras": [
+        {
+          "lora": "flux/klein_snofs_v1_3.safetensors",
+          "strength": 0.6
+        },
+        {
+          "lora": "flux/A2R_Klein_Standard.safetensors",
+          "strength": 0.5
+        }
+      ]
+    },
+    "general_semireal": {
+      "steps": 8,
+      "loras": [
+        {
+          "lora": "flux/klein_snofs_v1_3.safetensors",
+          "strength": 0.6
+        },
+        {
+          "lora": "flux/anime2real-semi.safetensors",
+          "strength": 0.8
+        }
+      ]
+    }
+  },
+  "records": {
+    "2b_pilot_01": "closeup_a2r",
+    "2b_pilot_02": "closeup_a2r",
+    "3b_pilot_03": "general_semireal",
+    "2b_pilot_04": "general_semireal",
+    "2b_pilot_05": "general_semireal",
+    "2b_pilot_06": "general_semireal"
+  }
+}

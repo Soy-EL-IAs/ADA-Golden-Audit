@@ -1,0 +1,225 @@
+{
+  "per_premise": [
+    {
+      "id": "e014_b01_closeup",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 8.0,
+      "animation_potential": 9.0,
+      "notes": "Strong causal link (pulling free). 'Crack in blindfold' is a minor factual stretch but acceptable as damage. Good tension."
+    },
+    {
+      "id": "e014_b01_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Clothing as causal agent (hem catching). Good visual hook. Slightly generic 'corridor' setting."
+    },
+    {
+      "id": "e014_b01_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 8.0,
+      "notes": "Catching a book is a specific micro-story. Balance on crumbling ledge adds stakes."
+    },
+    {
+      "id": "e014_b01_dynamic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 9.0,
+      "notes": "Industrial hazard (steam). High motion. 'Blindfold displaced' is a strong visual beat."
+    },
+    {
+      "id": "e014_b01_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 9.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Atmospheric risk. Catching a petal is delicate but low-stakes. 'Sun-drenched' contrasts with typical NieR gloom but fits profile."
+    },
+    {
+      "id": "e014_b02_closeup",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "'Glowing data-chip' is a specific prop not in profile but plausible. Defensive pose is slightly static."
+    },
+    {
+      "id": "e014_b02_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Repeats 'clothing snag' family from b01_medium. Yanking cable is active."
+    },
+    {
+      "id": "e014_b02_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 5.0,
+      "animation_potential": 6.0,
+      "notes": "Stretching to a switch is functional but lacks narrative tension. 'Elegant arc' is descriptive filler."
+    },
+    {
+      "id": "e014_b02_dynamic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 9.0,
+      "notes": "Dodge debris. Similar to b01_dynamic (dodging force). High energy."
+    },
+    {
+      "id": "e014_b02_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 8.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Holding broken bird is a good micro-story. Rain splash adds motion."
+    },
+    {
+      "id": "e014_b03_closeup",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Fluorescent light flash. 'Static discharge' on hair is a nice detail."
+    },
+    {
+      "id": "e014_b03_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Prying hatch. Physical strain shows personality (controlled effort). Good use of sleeve bunching."
+    },
+    {
+      "id": "e014_b03_fullbody",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 5.0,
+      "animation_potential": 6.0,
+      "notes": "Stepping over crack. Borderline 'locomotion filler' but has balance stakes."
+    },
+    {
+      "id": "e014_b03_dynamic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 9.0,
+      "notes": "Catching briefcase. Specific object interaction. Good momentum."
+    },
+    {
+      "id": "e014_b03_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Swaying bridge. 'Hazy city skyline' is atmospheric. Steady against railing is active enough."
+    },
+    {
+      "id": "e014_b04_closeup",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 5.0,
+      "animation_potential": 4.0,
+      "notes": "Raindrop on nose. Very static. 'Hovers' is physically unlikely without wind context. Weak cause."
+    },
+    {
+      "id": "e014_b04_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Leaf in sleeve. Tactile irritation is a good micro-story. Slightly low stakes."
+    },
+    {
+      "id": "e014_b04_fullbody",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 5.0,
+      "animation_potential": 7.0,
+      "notes": "Jumping over barrier. Locomotion filler risk. 'Rusted barrier' is generic."
+    },
+    {
+      "id": "e014_b04_dynamic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 9.0,
+      "notes": "Ducking under chain. Similar to b01/b02 dynamic dodges. High motion."
+    },
+    {
+      "id": "e014_b04_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 9.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Mechanical butterfly. Very similar to b01_cinematic (catching small object in ruins). Repetitive."
+    }
+  ],
+  "set_scores": {
+    "identity": 8.2,
+    "visual_appeal": 7.6,
+    "diversity": 6.5,
+    "repetition_control": 5.8,
+    "micro_story": 6.4,
+    "animation_potential": 7.1
+  },
+  "strengths": [
+    "Consistent adherence to 2B's visual identity (blindfold, dress, sleeves).",
+    "Strong use of clothing as a causal agent in several premises.",
+    "Dynamic shots have high motion potential and clear directional energy."
+  ],
+  "failures": [
+    "Repetition of 'dodging/evasion' dynamic actions across multiple batches.",
+    "Cinematic shots lean heavily on 'catching small object' (petal, butterfly) in ruins, creating a repetitive pattern.",
+    "Some premises rely on atmospheric elements (rain, sun) without strong causal interaction.",
+    "Locomotion filler present in fullbody shots (stepping over cracks, jumping barriers)."
+  ],
+  "desired_patterns": [
+    "Specific object interactions that imply narrative history (e.g., the briefcase, the bird).",
+    "Clothing reacting to physical forces rather than just posing.",
+    "Clear cause-and-effect chains visible in the frame."
+  ],
+  "undesired_patterns": [
+    "Generic industrial hazards without specific context.",
+    "Static poses in scenic locations (cinematic shots often fail this).",
+    "Repetitive 'dodge' mechanics for dynamic shots.",
+    "Atmospheric mood pieces where the character is passive."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Dodging/Evasion Dynamic Action",
+      "proposal_ids": [
+        "e014_b01_dynamic",
+        "e014_b02_dynamic",
+        "e014_b04_dynamic"
+      ]
+    },
+    {
+      "pattern": "Catching Small Object in Ruins (Cinematic)",
+      "proposal_ids": [
+        "e014_b01_cinematic",
+        "e014_b04_cinematic"
+      ]
+    },
+    {
+      "pattern": "Clothing Snag/Interaction (Medium)",
+      "proposal_ids": [
+        "e014_b01_medium",
+        "e014_b02_medium"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Vary dynamic actions beyond dodging (e.g., throwing, pulling, pushing, climbing).",
+    "Diversify cinematic hooks; avoid 'catching small object' as a default.",
+    "Ensure locomotion shots have clear narrative consequences (escape, pursuit) rather than just obstacle clearance.",
+    "Reduce reliance on atmospheric weather elements unless they directly impact the character's action."
+  ],
+  "verdict": "Solid batch with strong identity and visual appeal, but suffers from repetitive dynamic actions and cinematic hooks. Needs more variety in causal interactions and less reliance on generic evasion or atmospheric mood pieces."
+}

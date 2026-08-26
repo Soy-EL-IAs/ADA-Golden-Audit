@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e030_b01_closeup",
+    "category": "closeup",
+    "premise": "2B's black blindfold is being pushed aside by a sudden, high-pressure jet of steam erupting from a ruptured industrial valve near her shoulder; her left hand snaps up to steady the fabric against the heat while her visible eye widens in controlled alarm as scalding droplets splatter across her cheek and hairband."
+  },
+  {
+    "id": "e030_b01_medium",
+    "category": "medium",
+    "premise": "2B is caught mid-dodge from a swinging chain link hanging off a broken catwalk railing; her torso twists sharply to the left, pulling her black dress against her body as she grips the edge of a metal crate for leverage, her expression tight with focus rather than panic."
+  },
+  {
+    "id": "e030_b01_fullbody",
+    "category": "fullbody",
+    "premise": "2B is balancing on one leg atop a crumbling concrete pillar in an overgrown urban ruin, stretching her other leg high to hook onto a low-hanging vine; the twist emphasizes her silhouette and thigh-high stockings as she prepares to swing across a gap where the ground has just collapsed."
+  },
+  {
+    "id": "e030_b01_dynamic",
+    "category": "dynamic",
+    "premise": "2B is in mid-air, having been launched backward by an invisible shockwave; her puffy sleeves are flaring from the air resistance and her hair is whipping forward as she tucks her knees to protect herself, with motion blur trailing behind her to indicate rapid displacement."
+  },
+  {
+    "id": "e030_b01_cinematic",
+    "category": "cinematic",
+    "premise": "A low-angle shot from below looks up at 2B standing on a tilting, fractured platform in a vast industrial shaft; she remains perfectly still and composed while the structure groans and cracks around her feet, emphasizing her stability against the chaotic scale of the collapsing environment."
+  }
+]

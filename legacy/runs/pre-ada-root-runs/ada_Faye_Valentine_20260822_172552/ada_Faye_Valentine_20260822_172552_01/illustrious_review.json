@@ -1,0 +1,22 @@
+{
+  "id": "faye_valentine_ada_Faye_Valentine_20260822_172552_01",
+  "stage": "illustrious",
+  "verdict": "RETRY_ILLUSTRIOUS",
+  "preserved_ok": [
+    "purple_hair",
+    "short_hair",
+    "green_eyes",
+    "hairband"
+  ],
+  "defects": [
+    "The character is not holding a paper to cover her chest; instead, she is actively signing a document with a pen. This violates the premise's requirement that she 'quickly grabs a loose sheet of paper from the desk, holding it up strategically to cover her chest'.",
+    "The red garment is tied around her waist and not used to cover her chest, contradicting the 'strategic cover-up' narrative.",
+    "The crop top and bare shoulders are visible, but the paper cover-up is absent, breaking the core compositional tension described in the premise."
+  ],
+  "drift": [
+    "The action is not interrupted by a knock; the character is actively signing, which contradicts the premise's narrative of 'freezing mid-motion' due to an interruption.",
+    "The expression is focused on the document, not showing alarm or composure in reaction to an interruption.",
+    "The scene lacks the 'suspended tension' because the cover-up mechanism is missing, altering the intended narrative."
+  ],
+  "summary": "The image fails to implement the core narrative of interruption and strategic cover-up. The character is signing without reacting to an interruption, and no paper is used to cover her chest. This constitutes a major structural failure that cannot be repaired."
+}

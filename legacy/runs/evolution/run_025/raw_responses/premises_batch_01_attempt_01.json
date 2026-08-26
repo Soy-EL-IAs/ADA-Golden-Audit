@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e025_b01_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A close-up of 2B's face as she squints against a sudden blinding flash from a ruptured coolant line, her black blindfold tilting slightly off-center while a fine mist sprays across her cheek and hairband.\"\n  },\n  {\n    \"id\": \"e025_b01_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"A medium shot capturing 2B's torso twisting sharply to the left as she catches a heavy, falling data core with her gloved hand, the momentum pulling her puffy sleeves back and straining the fabric of her dress across her waist.\"\n  },\n  {\n    \"id\": \"e025_b01_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"A full-body view of 2B lunging forward with one leg planted firmly on a cracked tile, the other extended back for balance as she slides across a slick oil spill to avoid a swinging pipe, her thigh-high stockings contrasting against the dark grime.\"\n  },\n  {\n    \"id\": \"e025_b01_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"A low-angle dynamic freeze-frame of 2B mid-leap over a jagged rubble pit, her white hair and dress hem flaring upward with the lift, her expression locked in focused intensity as she clears the gap.\"\n  },\n  {\n    \"id\": \"e025_b01_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"A wide cinematic shot of 2B standing on a crumbling balcony edge, leaning back slightly to brace herself against a gust of wind from a distant collapsing tower, her blindfold whipping violently as debris rains down around her.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3244,
+    "total_output_tokens": 429,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.083533732793267,
+    "time_to_first_token_seconds": 3.9377910000000003
+  }
+}

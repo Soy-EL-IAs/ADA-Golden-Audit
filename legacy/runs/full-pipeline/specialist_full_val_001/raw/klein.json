@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, feather-trimmed_sleeves, puffy_sleeves, juliet_sleeves, black_gloves, thigh_boots, hairband, clothing_cutout, leotard, dimly_lit_command_center, shadows, flinching, raising_gloved_hand_to_shield_blindfold, stoic_expression, momentary_vulnerability, tension, mechanical_precision, human-like_reaction, light_catching_feather_sleeves, subtle_static_burst_from_terminal, remove_mechanical_hand, remove_glowing_ring\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 777,
+    "total_output_tokens": 144,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 11.529023997663451,
+    "time_to_first_token_seconds": 1.5307760000000001
+  }
+}

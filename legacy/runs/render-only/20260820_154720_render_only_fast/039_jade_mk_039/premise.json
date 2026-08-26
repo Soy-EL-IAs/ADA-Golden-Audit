@@ -1,0 +1,34 @@
+{
+  "id": "jade_mk_039",
+  "character": "Jade",
+  "franchise": "Mortal Kombat",
+  "identity": [
+    "long dark hair",
+    "green fitted combat outfit with mask accents",
+    "glowing staff"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "Inside a lantern-lit temple hallway, she twirls her staff and accidentally hooks a decorative tassel, making a chain of lantern fringe sway after her in a wave, with confident sensual body language throughout.",
+  "must_include": [
+    "twirling staff",
+    "swaying lantern tassels"
+  ],
+  "environment": [
+    "temple hallway",
+    "warm lantern light",
+    "wood columns and polished stone"
+  ],
+  "animation_hook": "She reverses the staff spin, frees the tassel, and sends the wave traveling back down the hall.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000038,
+  "krea_seed_base": 2000038
+}

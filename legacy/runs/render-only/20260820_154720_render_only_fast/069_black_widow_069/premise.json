@@ -1,0 +1,34 @@
+{
+  "id": "black_widow_069",
+  "character": "Black Widow",
+  "franchise": "Marvel",
+  "identity": [
+    "red shoulder-length hair",
+    "black fitted tactical catsuit",
+    "widow gauntlets"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "Inside a sleek office after hours, she slides across a polished desk to reach a security panel and sends a neat row of pens rolling in opposite directions like synchronized props, with confident sensual body language throughout.",
+  "must_include": [
+    "desk slide",
+    "rolling pens"
+  ],
+  "environment": [
+    "modern office",
+    "cool city night light",
+    "glass walls and polished desk"
+  ],
+  "animation_hook": "She catches the last pen at the desk edge, taps the panel with it, and drops lightly to the floor.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000068,
+  "krea_seed_base": 2000068
+}

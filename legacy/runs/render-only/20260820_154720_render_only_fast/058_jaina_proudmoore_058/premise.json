@@ -1,0 +1,34 @@
+{
+  "id": "jaina_proudmoore_058",
+  "character": "Jaina Proudmoore",
+  "franchise": "Warcraft",
+  "identity": [
+    "long blonde hair",
+    "blue-white fitted mage robes",
+    "staff with glowing crystal"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "Inside an icy archive, she cools a steaming cup with a tiny frost spell and accidentally freezes the saucer to the table, with confident sensual body language throughout.",
+  "must_include": [
+    "frozen saucer",
+    "steaming cup"
+  ],
+  "environment": [
+    "arcane archive",
+    "soft blue magical light",
+    "bookshelves and frost-edged windows"
+  ],
+  "animation_hook": "She tugs once, realizes the saucer is stuck, then melts a perfect ring beneath it with a warm fingertip glow.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000057,
+  "krea_seed_base": 2000057
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2b_balanced_v1_dynamic_001",
+  "category": "Action",
+  "premise": "Adult 2B executes a sharp, mid-air pivot to the left as a massive stone pillar collapses from her right side; her white hair whips forward with the motion while her black dress and feather-trimmed sleeves flare out, capturing the exact moment of kinetic redirection before she lands.",
+  "preserved_elements": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "feather-trimmed_sleeves"
+  ],
+  "risk_notes": [
+    "Ensure the blindfold remains intact and clearly visible despite the dynamic head movement.",
+    "Distinguish the feather-trimmed sleeves from standard puffy sleeves to maintain character accuracy.",
+    "Keep the environmental obstruction (stone pillar) distinct from the character's silhouette to avoid visual merging."
+  ]
+}

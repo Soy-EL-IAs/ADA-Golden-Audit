@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"Faye Valentine from Cowboy Bebop, short purple hair, green eyes, large breasts, wearing a yellow crop top with bare shoulders, yellow shorts, purple thighhighs, white boots, red lipstick, standing in a dimly lit office, sharp irritated expression, holding up a crumpled newspaper clipping covering the lower half of her torso, visible headline text 'SCANDAL: BEBOP PILOT SPOTTED IN PUBLIC' on the paper, slight tear in the paper from her grip\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 1349,
+    "total_output_tokens": 111,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.835119257081752,
+    "time_to_first_token_seconds": 2.2084650000000003
+  }
+}

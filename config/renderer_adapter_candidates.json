@@ -1,0 +1,14 @@
+{
+  "schema_version": "renderer_adapter_candidates_v1",
+  "policy": "The production Lustify baseline has zero optional adapters. A candidate requires a named capability, a verified compatible local recipe, and receipt provenance before promotion.",
+  "candidates": [
+    {"name":"Krea2 Style Reference", "capability":"style_reference", "status":"adapter_required_not_integrated"},
+    {"name":"Krea2 Ostris Edit", "capability":"reference_edit", "status":"adapter_required_not_integrated"},
+    {"name":"Elusarca Detail Enhancer", "capability":"detail_enhancement", "status":"candidate"},
+    {"name":"Krea2 Realism V1", "capability":"realism_modifier", "status":"candidate"},
+    {"name":"UltraReal", "capability":"photo_professional", "status":"candidate"},
+    {"name":"RealSkin", "capability":"skin_detail", "status":"candidate"},
+    {"name":"GalaxyAce", "capability":"candid_realism", "status":"candidate"},
+    {"name":"Krea2 silhouette/depth/pose controls", "capability":"structure_control", "status":"experimental_recipe_pending"}
+  ]
+}

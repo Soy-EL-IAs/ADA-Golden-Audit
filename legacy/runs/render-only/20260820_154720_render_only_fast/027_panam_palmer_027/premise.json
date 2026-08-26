@@ -1,0 +1,34 @@
+{
+  "id": "panam_palmer_027",
+  "character": "Panam Palmer",
+  "franchise": "Cyberpunk 2077",
+  "identity": [
+    "long dark hair with side braid",
+    "fitted tactical top and jeans",
+    "utility belt and aviator goggles"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "At a desert roadside garage, she leans into an engine bay and a compressed-air hose wriggles free, whipping harmlessly around her boots like a mechanical snake, with confident sensual body language throughout.",
+  "must_include": [
+    "loose air hose",
+    "open engine bay"
+  ],
+  "environment": [
+    "desert garage",
+    "harsh golden afternoon light",
+    "dust, tools, and parked off-road vehicle"
+  ],
+  "animation_hook": "She traps the hose under one boot, grabs the nozzle, and shuts it off while dust swirls around her.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000026,
+  "krea_seed_base": 2000026
+}

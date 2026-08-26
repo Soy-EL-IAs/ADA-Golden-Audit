@@ -1,0 +1,17 @@
+{
+  "id": "faye_valentine_ada_Faye_Valentine_20260822_172552_03",
+  "stage": "illustrious",
+  "verdict": "MINOR_DEFECT",
+  "preserved_ok": [
+    "purple_hair",
+    "green_eyes",
+    "thighhighs"
+  ],
+  "defects": [
+    "The crop top is yellow, not matching the premise's implied color or material context. The shirt drape is visible but appears as a red garment, not a loose shirt from the desk, and the action of draping is not clearly implied as a reaction to a knock. The background is a flat pink/purple, lacking the dimly lit office atmosphere. The character’s pose is leaning forward, but the knock is not visually implied — it’s a narrative omission, not a pixel defect."
+  ],
+  "drift": [
+    "The premise specifies a knock causing alarm and a reaction to drape a shirt — the image shows her holding a pen and signing, with no visual cue of interruption. The shirt is draped over her chest, but it’s not clearly a loose shirt from the desk, and the action is not framed as a reaction to an external event. The lighting and background are stylized and do not match the dim office setting."
+  ],
+  "summary": "The image preserves key visual elements (purple hair, green eyes, thighhighs) but fails to correctly render the narrative action of reacting to a knock with a shirt drape. The crop top color and background lighting are inconsistent with the premise. The knock is not visually implied, creating narrative drift. These are minor rendering and compositional issues, not structural failures."
+}

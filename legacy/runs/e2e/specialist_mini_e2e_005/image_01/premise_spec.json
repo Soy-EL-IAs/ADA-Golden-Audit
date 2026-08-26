@@ -1,0 +1,16 @@
+{
+  "id": "2b_mini_01",
+  "category": "strategic_censorship",
+  "premise": "2B stands in a dimly lit command center, her posture rigid as she holds a glowing data tablet at chest height to obscure the lower half of her black dress. A sudden burst of static from a nearby terminal causes her to flinch, dropping the tablet which shatters on the floor, revealing the full silhouette of her leotard and thigh-highs in the instant before she can recover.",
+  "preserved_elements": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "risk_notes": [
+    "Ensure the blindfold remains intact to maintain identity despite the sudden movement.",
+    "The tablet must be clearly visible as the object providing censorship before it drops.",
+    "Avoid showing facial expressions since the character is blindfolded; focus on body language and posture."
+  ]
+}

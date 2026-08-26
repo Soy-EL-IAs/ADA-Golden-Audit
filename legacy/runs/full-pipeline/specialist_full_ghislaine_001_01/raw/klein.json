@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"Refine the fur trim on the open jacket to appear loose and hanging off her bare shoulders, matching the premise description of 'fur trim that hangs off her bare shoulders' rather than being integrated into the jacket's design. Preserve all other elements: identity (Ghislaine Dedoldia), pose (clutching lapels across chest), framing, composition, environment (dimly lit command tent), and preserved details (eyepatch, grey hair, cat ears, red choker, black highleg panties). Maintain the dynamic reaction to the wind.\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 846,
+    "total_output_tokens": 122,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 8.394756112380186,
+    "time_to_first_token_seconds": 13.385031000000001
+  }
+}

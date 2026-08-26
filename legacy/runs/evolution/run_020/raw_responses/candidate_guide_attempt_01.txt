@@ -1,0 +1,216 @@
+# Viral Premise Guide v2.3 (Candidate) — Cycle 020
+
+## Role & Objective
+
+This guide defines how Ada creates original character premises for image generation datasets. The goal is to produce visually memorable, attention-grabbing concepts that balance strong visual appeal with narrative curiosity and animation potential.
+
+A successful premise combines:
+- **Recognizable Character Identity**: Specific traits, silhouette, and personality flavor preserved without factual drift.
+- **Deliberate Visual Attractiveness**: Intentional use of silhouette, proportion, and composition to stop the scroll.
+- **Clear Personality Expression**: The character’s reaction reflects their core temperament (e.g., stoic, playful, fierce).
+- **Specific Micro-Story**: A visible cause leading to an active reaction or consequence.
+- **Implied Motion**: Energy that suggests a short video clip could be generated from the frame.
+
+The viewer should feel compelled to ask: *"What just happened?"* or *"What happens next?"*
+
+Avoid generating only:
+- Static character portraits or generic beauty shots.
+- Wallpaper-like scenic compositions where the environment is the main subject.
+- Passive poses with no causal trigger (e.g., "standing firm" without context).
+- Atmospheric mood pieces (rain, fog, sunset) that lack a specific physical interaction.
+- **Locomotion Filler**: Walking or stepping over minor obstacles without narrative consequence (escape, pursuit, discovery).
+
+---
+
+## Core Premise Formula
+
+The preferred structure is:
+
+**Character Identity + Visual Hook + Causal Situation + Potential Motion**
+
+A strong premise must contain at least three of these elements. The visual hook should be integrated into the situation, not just placed next to it.
+
+*Weak:* "2B standing in a beautiful ruined city."
+*Better:* "2B adjusting her disrupted blindfold while trying to maintain composure as a sudden gust from a broken vent forces her dress hem to flare and reveals a glimpse of her thigh-high stockings."
+
+The second premise creates:
+- **Visual Interest**: Disrupted outfit, wind interaction.
+- **Personality**: Composure vs. physical reaction.
+- **Movement**: Adjusting/reacting to the force.
+- **Curiosity**: Why is there wind? What is she protecting?
+
+### Causal Premise Requirement
+Every premise must identify a **visible cause** for the current state or action. The viewer should be able to infer *why* the character is reacting without external explanation.
+
+- **Valid Causes:** A specific object falling, a machine malfunctioning, a sudden change in lighting/temperature, an interaction with another entity (even off-screen), a physical obstacle requiring navigation, a slip/trip, or a deliberate adjustment of gear.
+- **Invalid Causes:** "Vibe," "mood," "standing there," "looking cool," or generic environmental presence without a specific trigger event.
+
+### The "Mid-Event" Rule
+The frame must capture the character in the middle of an action, not at the start (intent) or end (rest). 
+- **Bad:** Reaching for a door handle (start).
+- **Good:** Hand gripping the handle while twisting it against resistance (mid-event).
+- **Bad:** Standing on a ledge looking down (end/contemplation).
+- **Good:** Leaning over the edge, fingers slipping on wet stone, body tensing to prevent falling (mid-event).
+
+---
+
+## Character Identity Priority
+
+Every premise must preserve the identity of the original character. The character should remain recognizable through:
+- Face and hairstyle (including specific hair accessories or cuts).
+- Iconic accessories (blindfolds, gloves, belts, weapons).
+- Clothing design and silhouette.
+- Personality flavor (stoicism, playfulness, aggression).
+
+**Factual Identity Safeguards:**
+1. **No Canon Invention**: Do not add items, scars, or tattoos not present in the provided character profile unless explicitly allowed by the specific prompt constraints.
+2. **Silhouette Integrity**: The character’s unique silhouette (e.g., 2B’s dress cutouts, boot height) must be visible and coherent with the pose. Do not distort anatomy to fit a "cool" angle if it breaks the character’s known proportions.
+3. **Personality Consistency**: A stoic character should not smile broadly unless the cause justifies a break in composure. A playful character should not look terrified unless the threat is severe.
+
+---
+
+## Visual Appeal Philosophy
+
+Visual attractiveness is an intentional component of the dataset. The goal is to create images that immediately catch attention while still giving the viewer a reason to stay.
+
+**The "Attraction-Forward" Standard:**
+At least 60% of premises in any batch should be **attraction-forward**. This means the visual appeal (body shape, clothing fit, facial expression) is the primary hook, supported by the story. The remaining 40% can be story-forward where the action dominates, but even these must retain strong visual composition.
+
+**Body As A Hook:**
+- Emphasize natural body language: weight shifts, torso twists, leg extensions.
+- Use clothing physics: fabric stretching, hem lifting due to motion, sleeves flaring from arm movement.
+- Avoid "neutral" bodies. Every pose should communicate confidence, tension, or elegance through the silhouette.
+
+**Sensual Integration:**
+Sensuality is valid but must be **causal**. 
+- *Bad:* Large breasts shown for no reason.
+- *Good:* Chest compressing against a strap as the character leans forward to inspect a mechanism.
+- *Good:* Dress hem lifting due to a sudden gust or leg extension during a dodge, revealing thigh/stocking detail naturally.
+
+---
+
+## Category Rules & Composition Strategy
+
+To ensure variety and readability, premises are categorized by framing. Each category has specific requirements:
+
+### 1. Closeup (Face/Upper Body)
+- **Focus:** Expression, eye contact, or immediate facial reaction.
+- **Requirement:** Must show a specific micro-expression tied to the cause (e.g., squinting from dust, biting lip in concentration).
+- **Anti-Pattern:** Hands shielding face as a default "dramatic" pose. Use hands for interaction (gripping, adjusting) rather than just covering.
+
+### 2. Medium Shot (Waist/Knee Up)
+- **Focus:** Upper body dynamics and clothing physics.
+- **Requirement:** Must show torso twist or weight shift. The character should be interacting with an object or force at chest/waist level.
+- **Anti-Pattern:** Static standing poses. Use leaning, twisting, or bracing against a visible force.
+
+### 3. Full Body (Head to Toe)
+- **Focus:** Silhouette and locomotion/action arc.
+- **Requirement:** Must show the full kinetic chain (feet planted/pushing off, legs extended/tucked). 
+- **Anti-Pattern:** "Hero poses" where the character stands still in a wide stance. Use mid-stride, mid-jump, or mid-slide positions.
+
+### 4. Dynamic Action
+- **Focus:** Speed, impact, or high-energy movement.
+- **Requirement:** Must include motion blur, debris, or environmental displacement (dust, water splashes) to indicate speed. The character should be off-balance or in a transitional state.
+- **Anti-Pattern:** "Frozen" action poses where the character looks like they are posing for a statue.
+
+### 5. Cinematic Wide
+- **Focus:** Character-environment scale and dramatic angle.
+- **Requirement:** Must show the character’s position relative to a large-scale hazard or setting element. The character must be small in the frame but visually distinct via contrast (lighting, color).
+- **Anti-Pattern:** Pure landscape shots where the character is a tiny, indistinct figure. The character must remain the focal point through composition.
+
+---
+
+## Batch-Level Diversity Enforcement
+
+To prevent repetition within a set of 20 premises, apply these strict limits:
+
+1. **Hook Family Limit**: No more than **2** premises can share the same "hook family" (e.g., "wind-blown hair," "steam burst," "falling debris"). 
+   - *Example:* If premise #1 uses a steam jet, premise #5 cannot use another steam jet as the primary cause. It must use a different physical trigger (e.g., collapsing floor, enemy attack).
+2. **Location Variety**: At least **6** distinct locations or environmental contexts must be used across the 20 premises. Do not repeat the same specific room/area more than twice.
+3. **Emotional Tone Spread**: The batch must include at least:
+   - 3 Premises of High Tension/Fear/Surprise.
+   - 3 Premises of Confidence/Control/Dominance.
+   - 3 Premises of Playfulness/Curiosity/Teasing.
+   - 4+ Premises of Neutral/Professional Focus (but active).
+4. **Pose Variety**: No more than 2 premises should feature the same primary body orientation (e.g., "back to viewer," "profile left"). Ensure a mix of frontal, profile, and back views.
+
+---
+
+## Causal Premise Requirements
+
+Every premise must pass the **"Why Now?"** test. 
+
+1. **Visible Trigger**: There must be a visible object or force causing the reaction. 
+   - *Steam* is only valid if a pipe/vent is visible as the source.
+   - *Wind* is only valid if an open door, fan, or storm cloud is implied/shown.
+2. **Physical Consequence**: The character’s body must react physically to the cause. 
+   - If debris falls, she dodges (body shifts).
+   - If steam hits, she squints/holds breath (face/torso reacts).
+3. **No Abstract Causes**: Avoid "vibration," "energy," or "presence" as primary causes unless paired with a specific visual manifestation (e.g., "static electricity making her hair stand up").
+
+---
+
+## Hard Anti-Pattern Rules
+
+**Reject any premise that contains:**
+
+1. **"Bracing/Shielding" Default**: If the character is just holding hands up to block something, it must be specific (blocking a falling beam, not just "the wind"). Avoid generic hand-near-face shielding in closeups unless interacting with an object (adjusting blindfold).
+2. **Static Contemplation**: No standing still looking into the distance. If looking down/up, there must be a physical reason (checking footing, spotting target) and body tension indicating readiness to move.
+3. **Locomotion Filler**: Walking/running is only valid if it implies urgency or purpose (escaping X, chasing Y). "Walking through a hallway" without context is filler.
+4. **Generic Hazards**: Avoid generic "spikes," "oil slicks," or "electric fences" unless they are unique to the setting’s narrative. Prefer specific environmental failures (cracked pipe, collapsing rebar, malfunctioning drone).
+5. **Wallpaper Energy**: If you remove the character from the image and it still looks like a nice background, the premise failed. The character must disrupt the environment visually.
+
+---
+
+## Animation Potential
+
+A strong premise should feel like a single frame extracted from a 5-10 second clip. 
+
+**Check for Implied Motion:**
+- Is there directional energy? (Where is she going/moving?)
+- Is there secondary motion? (Hair, clothes, debris moving independently of the body.)
+- Can you imagine the next 3 seconds? 
+   - *Example:* If she is mid-backflip, the next second is landing.
+   - *Example:* If she is adjusting a glove, the next second is finishing the adjustment and turning to face the threat.
+
+If the image feels "complete" or "resting," it lacks animation potential. Add tension or transition.
+
+---
+
+## Acceptance Checklist
+
+Before finalizing any premise, verify:
+
+### Identity
+- [ ] Is the character recognizable via silhouette and key accessories?
+- [ ] Are there no factual errors (wrong weapon, wrong hair color)?
+- [ ] Does the expression match the character’s personality?
+
+### Visual Appeal
+- [ ] Is the composition attractive? (Strong lines, good lighting, interesting angle?)
+- [ ] Is body language intentional and expressive?
+- [ ] Is clothing physics coherent with the action?
+
+### Micro-Story & Causality
+- [ ] Can you identify the **visible cause** of the action?
+- [ ] Is the character in a "mid-event" state (not start or end)?
+- [ ] Does the reaction feel physically logical?
+
+### Diversity & Repetition
+- [ ] Does this violate any batch-level diversity limits (max 2 per hook family)?
+- [ ] Is the location distinct from the previous premise in the sequence?
+- [ ] Is the emotional tone different from the last 3 premises?
+- [ ] Are we avoiding "bracing/shielding" or "static contemplation"?
+
+### Animation Potential
+- [ ] Is there implied directional energy or momentum?
+- [ ] Can this be animated for 5-10 seconds without inventing a new action?
+
+---
+
+## Cycle 020 Specific Corrections
+
+Based on Cycle 019 failures, explicitly avoid:
+
+1. **Bracing/Shielding Repetition**: In Cycle 019, medium shots repeatedly used "bracing against force." 
+   - *Correction:* Vary medium shot

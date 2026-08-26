@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-48hhaei0uue0g4ib5cl14sm",
+  "object": "chat.completion",
+  "created": 1787432637,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_180015_03\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"preserved_ok\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"hairband\",\n    \"shorts\",\n    \"lipstick\",\n    \"thighhighs\",\n    \"boots\"\n  ],\n  \"defects\": [\n    \"The crop top is yellow, not matching the PremiseSpec's implied color. The shirt is not a crop top but a red jacket tied around the waist, which is not the specified garment.\",\n    \"The bare shoulders are visible, but the crop top is not the correct garment as described. The red jacket is not a crop top and does not preserve the intended visual structure.\",\n    \"The paper is on the floor, not fluttering in the air near her face as specified. This removes the visual cause for her interrupted posture.\",\n    \"The character is not staring at an off-frame door; she is facing forward, and the door is partially visible but not the focus of her gaze or action.\",\n    \"The facial expression conveys alarm, but the PremiseSpec requires surprise or alarm without fear, which is not clearly differentiated visually.\"\n  ],\n  \"drift\": [\n    \"The character’s pose and attire do not align with the PremiseSpec’s narrative of being interrupted by a fluttering paper. The red jacket and yellow outfit are inconsistent with the specified clothing.\",\n    \"The paper’s placement on the floor contradicts the PremiseSpec’s requirement for it to be airborne near her face, which is the visual cause of her interruption.\",\n    \"The framing and composition do not emphasize the off-frame door as the source of interruption, which is critical to the narrative.\"\n  ],\n  \"summary\": \"The image fails to preserve critical elements of the PremiseSpec. The crop top and bare shoulders are misrepresented, the paper is not fluttering as required, and the character’s pose and gaze do not align with the narrative of being interrupted by an off-frame door. These are major structural failures requiring a RETRY_ILLUSTRIOUS.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1637,
+    "completion_tokens": 478,
+    "total_tokens": 2115,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

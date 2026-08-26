@@ -1,0 +1,206 @@
+{
+  "per_premise": [
+    {
+      "id": "e013_b01_01",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Strong identity focus on the blindfold. The 'rapid head turn' is a valid cause for the slip. However, it relies heavily on facial expression and micro-movement, which limits animation potential compared to full-body actions."
+    },
+    {
+      "id": "e013_b01_02",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Good use of clothing (hem/stockings) as a visual hook. The wind from a specific source (ventilation shaft) provides a clear cause. The reaction (twisting/gripping) is active and distinct."
+    },
+    {
+      "id": "e013_b01_03",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Industrial setting. The action (catching a gear) is specific but feels slightly generic for an android character who might not need to 'catch' things with bare hands if she has combat reflexes. Still, the balance element adds tension."
+    },
+    {
+      "id": "e013_b01_04",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "High kinetic energy. The dodge is specific (shard of glass). Motion blur and hair whip provide strong animation cues. Good dynamic shot."
+    },
+    {
+      "id": "e013_b01_05",
+      "identity": 7,
+      "visual_appeal": 8,
+      "micro_story": 4,
+      "animation_potential": 5,
+      "notes": "Weak micro-story. 'Weary command' is an internal state, not a visible causal reaction to a specific event in the frame. The rain/storm is atmospheric support but doesn't drive the action. She is essentially standing still."
+    },
+    {
+      "id": "e013_b02_01",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "The raindrop hitting the blindfold is a specific cause. However, the reaction (eye narrowing/jaw tightening) is subtle and static. It risks being a 'beauty shot' with a tiny narrative excuse."
+    },
+    {
+      "id": "e013_b02_02",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Excellent use of the 'Clothing as Causal Agent' rule. The sleeve snagging on rebar is a specific physical problem requiring an active solution (pulling/leaning). Strong tactile realism."
+    },
+    {
+      "id": "e013_b02_03",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 5,
+      "animation_potential": 6,
+      "notes": "Testing a tile is a low-stakes action. It borders on 'locomotion filler' or static posing. The cause for the balance check isn't strongly established (why now? what triggered it?). Feels like a pause in movement rather than an event."
+    },
+    {
+      "id": "e013_b02_04",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Similar to e013_b01_04. Ducking under a pipe is a specific industrial hazard. The 'predictive focus' adds narrative depth. Good dynamic execution."
+    },
+    {
+      "id": "e013_b02_05",
+      "identity": 7,
+      "visual_appeal": 8,
+      "micro_story": 4,
+      "animation_potential": 5,
+      "notes": "Another 'standing firm' pose. Arms crossed is a static posture. The wind/lightning are atmospheric. Lacks a specific causal trigger for her current stance other than 'being there.' Weak micro-story."
+    },
+    {
+      "id": "e013_b03_01",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Hair blowing across the blindfold is a specific nuisance. The reaction (tilting head to calculate angle) is intelligent and fits her personality. However, it's a very small-scale event with limited animation scope."
+    },
+    {
+      "id": "e013_b03_02",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Steam hiss is a specific cause. The flinch/recoil is a strong physical reaction. Good use of body language to show surprise/tension. Industrial hazard family."
+    },
+    {
+      "id": "e013_b03_03",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Mid-fall/crouch is dynamic. Reaching for a root system provides a clear goal. The tension in the limbs is well-described. Good fullbody action."
+    },
+    {
+      "id": "e013_b03_04",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Low slide is a distinct movement type. Evading debris is specific. The spray of water/dust adds visual flair and consequence to the motion. Strong dynamic premise."
+    },
+    {
+      "id": "e013_b03_05",
+      "identity": 7,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 6,
+      "notes": "Glass floor cracking is a good visual hook. However, she is 'looking up' with determination, which is somewhat passive. The cause (weight) is clear, but the reaction could be more active (e.g., stepping away from a crack). Still better than pure standing."
+    },
+    {
+      "id": "e013_b04_01",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 5,
+      "animation_potential": 4,
+      "notes": "Dust settling is a slow process. The 'startled reflex' to dust feels slightly exaggerated or unnatural for an android unless the dust is abrasive. Very low animation potential; it's essentially a static portrait with a tiny detail."
+    },
+    {
+      "id": "e013_b04_02",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Sleeve caught in elevator door is a classic but effective 'clothing as causal agent' scenario. The tension of holding breath and waiting for the mechanism to reverse adds narrative suspense. Strong medium shot."
+    },
+    {
+      "id": "e013_b04_03",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 5,
+      "animation_potential": 6,
+      "notes": "Plucking a rose is a gentle action. While it contrasts with the environment, it lacks high stakes or urgent cause. It feels more like a 'beauty shot' in a garden than a narrative moment. Low tension."
+    },
+    {
+      "id": "e013_b04_04",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Spinning to evade a vine is organic/nature interaction. High kinetic energy. The 'dark umbrella' dress flare is a strong visual hook. Good dynamic premise."
+    },
+    {
+      "id": "e013_b04_05",
+      "identity": 7,
+      "visual_appeal": 8,
+      "micro_story": 4,
+      "animation_potential": 5,
+      "notes": "Standing on an altar in a cathedral. 'Calm determination' is internal. The light shafts are atmospheric. She is not interacting with the environment actively (just looking up). Weak micro-story."
+    }
+  ],
+  "set_scores": {
+    "identity": 8,
+    "visual_appeal": 8,
+    "diversity": 6,
+    "repetition_control": 5,
+    "micro_story": 6,
+    "animation_potential": 7
+  },
+  "strengths": [
+    "Strong adherence to character identity markers (blindfold, dress, sleeves) across all premises.",
+    "Effective use of 'Clothing as Causal Agent' in several premises (e013_b02_02, e013_b04_02), adding tactile realism.",
+    "Dynamic shots (e013_b01_04, e013_b03_04) have high animation potential with clear directional energy and consequences."
+  ],
+  "failures": [
+    "Repetition of 'Industrial Hazard' family: Steam/Sparks/Pipes/Gears appear in e013_b01_02, e013_b01_03, e013_b02_04, e013_b03_02 (4 times), exceeding the limit of 2.",
+    "Repetition of 'Static Standing/Atmospheric' Cinematic shots: e013_b01_05, e013_b02_05, and e013_b04_05 all feature 2B standing still in a large environment with atmospheric effects (rain/fog/light) but lacking specific causal interaction.",
+    "Closeup shots often rely on subtle facial expressions or minor nuisances (dust, hair strand) rather than distinct physical events, leading to lower animation potential."
+  ],
+  "desired_patterns": [
+    "Clothing items actively participating in the narrative cause and effect (snagging, lifting, catching).",
+    "Specific, visible causes for character reactions (e.g., a specific object falling, a machine malfunctioning).",
+    "Active physical reactions (dodging, pulling, balancing) rather than static postures or internal emotional states."
+  ],
+  "undesired_patterns": [
+    "'Standing firm' poses in high-stakes or atmospheric settings without active interaction.",
+    "Generic industrial hazards used as background noise rather than specific narrative triggers.",
+    "Atmospheric elements (rain, fog, light) replacing concrete events as the primary hook."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Industrial Hazard (Steam/Pipes/Gears/Metal)",
+      "proposal_ids": ["e013_b01_02", "e013_b01_03", "e013_b02_04", "e013_b03_02"]
+    },
+    {
+      "pattern": "Static Cinematic Standing (Atmospheric Dominance)",
+      "proposal_ids": ["e013_b01_05", "e013_b02_05", "e013_b04_05"]
+    },
+    {
+      "pattern": "Subtle Closeup Nuisance (Hair/Dust/Rain on Face)",
+      "proposal_ids": ["e013_b01_01", "e013_b02_01", "e013_b03_01", "e013_b04_01"]
+    }
+  ],
+  "recommendations_for_next_cycle":

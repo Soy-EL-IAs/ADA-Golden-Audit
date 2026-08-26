@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"Orihime Inoue stands frozen in a dimly lit corridor, her long dark brown hair adorned with a red ribbon, large expressive eyes wide with a startled expression shifting from serenity to shock. She has a slender build and wears a white dress with red accents. Across her midsection, she clutches a torn white sheet that acts as a failing barrier; the frayed edge of the fabric is visibly slipping down her left side due to a sudden gust, indicated by motion blur on the cloth, revealing a sliver of skin and the strap of an undergarment beneath. Her right hand reaches out instinctively toward the source of the disturbance, capturing the peak tension between composure and unraveling.\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 847,
+    "total_output_tokens": 152,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.394602541252349,
+    "time_to_first_token_seconds": 1.42652
+  }
+}

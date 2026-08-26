@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e020_b02_01",
+    "category": "closeup",
+    "premise": "Extreme close-up of 2B's face as a sudden burst of high-pressure water from a ruptured pipe hits her directly, forcing her to squint tightly behind the black blindfold and clench her jaw in controlled discomfort while droplets splash off her short white hair."
+  },
+  {
+    "id": "e020_b02_02",
+    "category": "medium",
+    "premise": "Medium shot of 2B forcefully pulling a loose, sparking electrical cable away from her chest to prevent it from tangling in the puffy feather-trimmed sleeves of her dress, her black gloves gripping the metal conduit with visible strain as sparks fly near her shoulder."
+  },
+  {
+    "id": "e020_b02_03",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B performing a low crouch-dodge to slip beneath a swinging wrecking ball in an industrial yard, her thigh-high boots gripping the uneven gravel for traction while her dress hem lifts sharply due to the rapid downward movement."
+  },
+  {
+    "id": "e020_b02_04",
+    "category": "dynamic",
+    "premise": "Dynamic mid-action shot of 2B spinning rapidly to deliver a slash, causing her short white hair and the hem of her black dress to blur into a circular motion as she deflects a thrown shard of glass that shatters against her sword blade."
+  },
+  {
+    "id": "e020_b02_05",
+    "category": "cinematic",
+    "premise": "Wide high-angle shot of 2B dangling from the edge of a crumbling concrete ledge, her arms taut as she hangs over a chasm filled with swirling mist, illuminated by a single flickering emergency light above that highlights her silhouette against the dark void."
+  }
+]

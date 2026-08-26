@@ -1,0 +1,34 @@
+{
+  "id": "rachel_ng_045",
+  "character": "Rachel",
+  "franchise": "Ninja Gaiden",
+  "identity": [
+    "long blonde hair",
+    "black fitted leather combat outfit",
+    "large war hammer"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a medieval forge, she rests her oversized hammer against an anvil and the handle slowly slides, tapping a hanging chain that starts a comedic sequence of metal clinks, with confident sensual body language throughout.",
+  "must_include": [
+    "sliding hammer",
+    "hanging chain"
+  ],
+  "environment": [
+    "stone forge",
+    "orange furnace glow",
+    "tools and drifting sparks"
+  ],
+  "animation_hook": "She catches the hammer before it falls, lifts it onto her shoulder, and the chain continues swaying behind her.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000044,
+  "krea_seed_base": 2000044
+}

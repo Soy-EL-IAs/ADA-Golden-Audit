@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-08-22T11:14:22.786928+00:00",
+  "files": {
+    "baseline_v1.2.md": {
+      "source": "D:\\IA\\Ada\\config\\prompt_guides\\viral_premise_guide_v1.2.md",
+      "sha256": "b9ac2df4510c575faab62b0d654a12bcc997e6841d5ce42e915cb7e893e24dfe",
+      "bytes": 16432
+    },
+    "extreme_test_v1.md": {
+      "source": "D:\\IA\\Ada\\config\\prompt_guides\\viral_premise_guide_extreme_test_v1.md",
+      "sha256": "5ac3af265013a50cfa795480fe67e86ce2533bada18edc51d4fb7b47522eb5d6",
+      "bytes": 4267
+    },
+    "initial_iteration_report_v1.md": {
+      "source": "D:\\IA\\Ada\\analysis\\viral_guide_iteration_report_v1.md",
+      "sha256": "2d731506625cc7ed42532885e705f3ed7d2b417bd26b1ad1ae4572737121ccaa",
+      "bytes": 21902
+    },
+    "previous_cycle_report.md": {
+      "source": "D:\\IA\\Ada\\evolution_runs\\run_037\\cycle_report.md",
+      "sha256": "2d342fc8dd95d1d53afc435c0749d8a30ac71bf1671e06421345db51e3a5e95d",
+      "bytes": 14075
+    },
+    "previous_candidate_guide.md": {
+      "source": "D:\\IA\\Ada\\evolution_runs\\run_037\\candidate_guide.md",
+      "sha256": "381b7934d5a95f01a566806dd961b384328b6cc03638242efa0d756b33ffd42e",
+      "bytes": 12499
+    }
+  }
+}

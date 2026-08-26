@@ -1,0 +1,16 @@
+{
+  "enabled_by_default": true,
+  "provider": "searxng",
+  "searxng_url": "http://127.0.0.1:8080",
+  "timeout_seconds": 20,
+  "default_limit": 10,
+  "max_limit": 30,
+  "language": "all",
+  "safe_search": 1,
+  "character_refs_root": "data/references",
+  "brave": {
+    "optional": true,
+    "enabled": false,
+    "requires_api_key": true
+  }
+}

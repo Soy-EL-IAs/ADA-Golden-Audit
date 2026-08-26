@@ -1,0 +1,16 @@
+{
+  "id": "2b_specialist_full_001",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "defects": [],
+  "drift": [
+    "The sword is partially drawn and held in a combat-ready stance, violating the requirement to keep it sheathed or hand on hilt to maintain anticipation."
+  ],
+  "summary": "All preserved elements are visibly correct. The only visible drift is the sword being drawn, which contradicts the narrative intent of maintaining anticipation rather than active combat."
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e033_b04_closeup",
+    "category": "closeup",
+    "premise": "Extreme close-up of 2B's face as a single drop of thick, viscous coolant drips from an overhead pipe directly onto her black blindfold; the sudden cold impact causes her eyes to widen slightly behind the fabric and her breath to hitch in controlled shock, while fine droplets of condensation bead up on the dark material before sliding down toward her jaw."
+  },
+  {
+    "id": "e033_b04_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B twisting sharply to her right as a loose panel of corrugated metal slides out from under her foot; she pivots on the ball of one thigh-high boot to maintain balance, her puffy feather-trimmed sleeves flaring outward with the momentum as she grips the edge of a nearby console for stability, her expression tight with focused urgency."
+  },
+  {
+    "id": "e033_b04_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B lunging forward to catch a heavy steel toolbox that is tumbling off a high shelf; her arms are extended fully, palms open and ready to absorb the impact, while her weight shifts aggressively onto the balls of her feet, causing her dress hem to lift and reveal the top of her thigh-high stockings in a dynamic display of effort and precision."
+  },
+  {
+    "id": "e033_b04_dynamic",
+    "category": "dynamic",
+    "premise": "2B executes a rapid backflip over a low-hanging cable that snaps taut across her path; her body rotates in mid-air, hairband keeping her short white hair secure as she tucks her knees to minimize profile, creating a tight, controlled silhouette against the blurred background of sparking wires."
+  },
+  {
+    "id": "e033_b04_cinematic",
+    "category": "cinematic",
+    "premise": "Wide-angle low shot from behind a massive fallen girder as 2B emerges from the dust cloud, stepping over the debris with deliberate precision; her figure is framed against the towering, broken architecture of the ruined facility, emphasizing her steady advance through the chaotic wreckage as she scans for further instability."
+  }
+]

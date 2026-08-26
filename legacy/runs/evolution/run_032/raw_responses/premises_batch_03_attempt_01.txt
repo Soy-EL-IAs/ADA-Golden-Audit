@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e032_b03_closeup",
+    "category": "closeup",
+    "premise": "Extreme close-up of 2B's face as a sudden electrical surge from a nearby conduit causes her black blindfold to vibrate violently, forcing her to squeeze her eyes shut behind the fabric while a single strand of white hair is blown sharply across her cheek."
+  },
+  {
+    "id": "e032_b03_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B leaning back with one arm extended to catch a heavy, loose bolt plummeting from a cracked ceiling pipe, her puffy feather-trimmed sleeves billowing outward against the downdraft while she maintains a steady grip on the metal edge."
+  },
+  {
+    "id": "e032_b03_fullbody",
+    "category": "fullbody",
+    "premise": "Full body view of 2B stepping carefully across a field of broken glass shards scattered on a wet floor, her thigh-high boots pressing down to prevent slipping while she extends one gloved hand toward a distant exit, her dress hem swaying with the precise rhythm of her cautious steps."
+  },
+  {
+    "id": "e032_b03_dynamic",
+    "category": "dynamic",
+    "premise": "Dynamic shot of 2B executing a rapid backward somersault to evade a sweeping laser grid, her body tucked tight and motion-blurred as sparks shower from the surface she just cleared, leaving a trail of disturbed dust in her wake."
+  },
+  {
+    "id": "e032_b03_cinematic",
+    "category": "cinematic",
+    "premise": "Cinematic wide shot of 2B clinging to the side of a massive, descending elevator shaft as it drops rapidly, her body pressed flat against the rusted metal by the G-force while debris tumbles past her in slow motion, emphasizing her grip on the rivets."
+  }
+]

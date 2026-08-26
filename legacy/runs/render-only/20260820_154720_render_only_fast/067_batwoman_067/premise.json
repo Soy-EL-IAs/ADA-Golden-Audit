@@ -1,0 +1,34 @@
+{
+  "id": "batwoman_067",
+  "character": "Batwoman",
+  "franchise": "DC Comics",
+  "identity": [
+    "long red hair under black cowl",
+    "black-red fitted armored batsuit",
+    "red cape and utility belt"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "Inside a dim train depot, she drops from a roof beam and her cape catches a gust from an arriving empty train, billowing forward and briefly covering her view, with confident sensual body language throughout.",
+  "must_include": [
+    "arriving empty train",
+    "billowing red cape"
+  ],
+  "environment": [
+    "train depot",
+    "cool sodium and blue light",
+    "steel beams and mist"
+  ],
+  "animation_hook": "She sweeps the cape aside, steps onto the platform edge, and lets the train wind carry it neatly behind her.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000066,
+  "krea_seed_base": 2000066
+}

@@ -1,0 +1,575 @@
+{
+  "schema_version": 2,
+  "character": "nanally de NTE",
+  "version": null,
+  "created_at": "2026-08-25T13:49:59.865359+00:00",
+  "status": "downloaded",
+  "usable": true,
+  "provider": "searxng",
+  "source_query": "\"Nanally Nte\" \"neverness to everness\"",
+  "searches": [
+    "\"Nanally Nte\" \"neverness to everness\"",
+    "\"Nanally Nte\" \"neverness to everness\" character",
+    "\"Nanally Nte\" \"neverness to everness\" official artwork",
+    "\"nanally_(nte)\"",
+    "\"nanally de NTE\" \"neverness to everness\" character",
+    "\"nanally (nte)\" \"neverness to everness\" character"
+  ],
+  "refs": [
+    {
+      "file": "refs/ref_02.jpg",
+      "source_url": "https://ntevmg.perfectworld.com/webops/nte/Nanally_EN-951x480.jpg",
+      "page_url": "https://nte.perfectworld.com/es/article/news/gamenews/20240830/252525.html",
+      "domain": "nte.perfectworld.com",
+      "final_score": 98,
+      "recommendation": "auto",
+      "provenance": {
+        "source_page": "https://nte.perfectworld.com/es/article/news/gamenews/20240830/252525.html",
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/Nanally_EN-951x480.jpg",
+        "source_tier": "official",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 1.0,
+      "reference_utility": 0.65,
+      "identity_validation": {
+        "status": "textual_provenance",
+        "identity_match": true,
+        "confidence": 1.0,
+        "evidence": [
+          "official_domain:Perfect World / Neverness to Everness; character_in_title_or_url:nanally nte,version_match:neverness to everness; acceptable_resolution:951x480; origin:image_search"
+        ]
+      },
+      "sha256": "8aa11c8caffd1e254b425c5377dd6d60932252d6d80eae4fa3ed409bc2e93205",
+      "downloaded_at": "2026-08-25T13:50:01.503647+00:00"
+    }
+  ],
+  "character_id": "nanally_nte",
+  "canonical_name": "Nanally Nte",
+  "franchise": [
+    "neverness_to_everness"
+  ],
+  "identity_resolution": {
+    "canonical_tag": "nanally_(nte)",
+    "source": "danbooru_taxonomy",
+    "aliases": [
+      "nanally de NTE",
+      "Nanally Nte",
+      "nanally (nte)"
+    ]
+  },
+  "canonical_references": [
+    {
+      "file": "refs/ref_02.jpg",
+      "source_url": "https://ntevmg.perfectworld.com/webops/nte/Nanally_EN-951x480.jpg",
+      "page_url": "https://nte.perfectworld.com/es/article/news/gamenews/20240830/252525.html",
+      "domain": "nte.perfectworld.com",
+      "final_score": 98,
+      "recommendation": "auto",
+      "provenance": {
+        "source_page": "https://nte.perfectworld.com/es/article/news/gamenews/20240830/252525.html",
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/Nanally_EN-951x480.jpg",
+        "source_tier": "official",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 1.0,
+      "reference_utility": 0.65,
+      "identity_validation": {
+        "status": "textual_provenance",
+        "identity_match": true,
+        "confidence": 1.0,
+        "evidence": [
+          "official_domain:Perfect World / Neverness to Everness; character_in_title_or_url:nanally nte,version_match:neverness to everness; acceptable_resolution:951x480; origin:image_search"
+        ]
+      },
+      "sha256": "8aa11c8caffd1e254b425c5377dd6d60932252d6d80eae4fa3ed409bc2e93205",
+      "downloaded_at": "2026-08-25T13:50:01.503647+00:00"
+    }
+  ],
+  "generated_identity_references": [],
+  "reference_status": "READY_WITH_LIMITED_REFERENCES",
+  "reference_count": 1,
+  "reference_confidence": 1.0,
+  "discovery": {
+    "queries_used": [
+      "\"Nanally Nte\" \"neverness to everness\"",
+      "\"Nanally Nte\" \"neverness to everness\" character",
+      "\"Nanally Nte\" \"neverness to everness\" official artwork",
+      "\"nanally_(nte)\"",
+      "\"nanally de NTE\" \"neverness to everness\" character",
+      "\"nanally (nte)\" \"neverness to everness\" character"
+    ],
+    "raw_candidate_count": 120,
+    "page_fetch_errors": 0,
+    "rejected": [
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/activity.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/【EN】娜娜莉.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/18088308/pexels-photo-18088308.jpeg?cs=srgb&dl=pexels-jonathanborba-18088308.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/airplay.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29501453/pexels-photo-29501453.jpeg?cs=srgb&dl=pexels-yellow-huang-472767430-29501453.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/alarm-clock-check.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/6288281/pexels-photo-6288281.jpeg?cs=srgb&dl=pexels-msm8-6288281.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original-wordmark.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/alarm-smoke.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7333981/pexels-photo-7333981.jpeg?cs=srgb&dl=pexels-mart-production-7333981.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/album.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/16291439/pexels-photo-16291439.jpeg?cs=srgb&dl=pexels-nam-quan-nguy-n-459228913-16291439.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/activity.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1666739031994-147a1cc3894e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/【EN】娜娜莉.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/17313368/pexels-photo-17313368.jpeg?cs=srgb&dl=pexels-luhong-17313368.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/airplay.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1698423846501-cc5c25d07e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/01/Nanally-NTE.webp",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/37206359/pexels-photo-37206359.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-37206359.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/alarm-clock-check.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1592136669401-d08f5d9e2e96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/Nanally_EN-951x480.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/18088308/pexels-photo-18088308.jpeg?cs=srgb&dl=pexels-jonathanborba-18088308.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original-wordmark.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/alarm-smoke.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1573532113542-0bec9028d57f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://gamingpromax.com/wp-content/uploads/2026/05/nte-neverness-to-everness-nanally-profile-page-1024x629.webp",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/15507817/pexels-photo-15507817.jpeg?cs=srgb&dl=pexels-helloaesthe-15507817.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/activity.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Nanally.full.4351752.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/6609816/pexels-photo-6609816.jpeg?cs=srgb&dl=pexels-juliana-navajas-robb-22212684-6609816.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/airplay.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/01/Nanally-NTE.webp",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/18069829/pexels-photo-18069829.png?cs=srgb&dl=pexels-googledeepmind-18069829.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/alarm-clock-check.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/28494625/pexels-photo-28494625.jpeg?cs=srgb&dl=pexels-steve-28494625.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original-wordmark.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/alarm-smoke.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://shikimori.one/system/user_images_h/original/69c812effa6963e8bf61bd35/2eb547a82c584253e73d4495baadfb444ce3f4723b79ca6181cff3da20e08be9.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/18069828/pexels-photo-18069828.png?cs=srgb&dl=pexels-googledeepmind-18069828.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/album.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/Nanally_EN-951x480.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/36088659/pexels-photo-36088659.jpeg?cs=srgb&dl=pexels-klien-s-1130211452-36088659.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/【EN】娜娜莉.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/6288281/pexels-photo-6288281.jpeg?cs=srgb&dl=pexels-msm8-6288281.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://pbs.twimg.com/media/HGMo0MYaAAAlgYm.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/37669364/pexels-photo-37669364.jpeg?cs=srgb&dl=pexels-iban-lopez-luna-2159602676-37669364.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/Nanally_EN-951x480.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29501453/pexels-photo-29501453.jpeg?cs=srgb&dl=pexels-yellow-huang-472767430-29501453.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/01/Nanally-NTE.webp",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/19627232/pexels-photo-19627232.jpeg?cs=srgb&dl=pexels-jan-van-der-wolf-11680885-19627232.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/18969888/pexels-photo-18969888.jpeg?cs=srgb&dl=pexels-sofia-marquet-453708414-18969888.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/12507967/pexels-photo-12507967.jpeg?cs=srgb&dl=pexels-lapushkina-12507967.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/9812146/pexels-photo-9812146.jpeg?cs=srgb&dl=pexels-79380313-9812146.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://shikimori.one/system/user_images_h/original/69c812effa6963e8bf61bd35/2eb547a82c584253e73d4495baadfb444ce3f4723b79ca6181cff3da20e08be9.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/20731396/pexels-photo-20731396.jpeg?cs=srgb&dl=pexels-obadafa-20731396.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.ntebuild.com/images/characters/nanally/full-body.webp",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/9754792/pexels-photo-9754792.jpeg?cs=srgb&dl=pexels-theshuttervision-9754792.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/9325864/pexels-photo-9325864.jpeg?cs=srgb&dl=pexels-ibnulharezmi-9325864.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/activity.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1761407658985-ee747e01e633?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/【EN】娜娜莉.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/38771307/pexels-photo-38771307.jpeg?cs=srgb&dl=pexels-roald-wagener-2163212139-38771307.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original-wordmark.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/ad.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1727871634594-7ae47245490e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.ytimg.com/vi/H6v7D3qlHlw/maxresdefault.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/18088308/pexels-photo-18088308.jpeg?cs=srgb&dl=pexels-jonathanborba-18088308.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/airplay.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1698423847339-5ed2d0e2860b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/01/Nanally-NTE.webp",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/15507817/pexels-photo-15507817.jpeg?cs=srgb&dl=pexels-helloaesthe-15507817.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/alarm-clock-check.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1783004839452-10521c3e0c38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://gamingpromax.com/wp-content/uploads/2026/05/nte-neverness-to-everness-nanally-profile-page-1024x629.webp",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13185429/pexels-photo-13185429.jpeg?cs=srgb&dl=pexels-sebastian-casimiro-242488940-13185429.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/activity.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/【EN】娜娜莉.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/17313368/pexels-photo-17313368.jpeg?cs=srgb&dl=pexels-luhong-17313368.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/airplay.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/01/Nanally-NTE.webp",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/18088308/pexels-photo-18088308.jpeg?cs=srgb&dl=pexels-jonathanborba-18088308.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/alarm-clock-check.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntevmg.perfectworld.com/webops/nte/Nanally_EN-951x480.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7904047/pexels-photo-7904047.jpeg?cs=srgb&dl=pexels-mnttzri-7904047.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original-wordmark.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/alarm-smoke.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://gamingpromax.com/wp-content/uploads/2026/05/nte-neverness-to-everness-nanally-profile-page-1024x629.webp",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/15507817/pexels-photo-15507817.jpeg?cs=srgb&dl=pexels-helloaesthe-15507817.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/album.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://ntegame.com/images/nanally-character.webp",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/37206359/pexels-photo-37206359.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-37206359.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "source_url": "https://www.lapakgaming.com/blog/id-id/wp-content/uploads/2025/01/Nanally-NTE.webp",
+      "page_url": "https://www.joytify.com/blog/en-us/rpg-others/neverness-to-everness/",
+      "error": "compact visual identity validation rejected candidate"
+    },
+    {
+      "source_url": "https://assetsio.gnwcdn.com/NTE-Nanally.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+      "page_url": "https://www.eurogamer.net/neverness-to-everness-nte-best-character-tier-list",
+      "error": "compact visual identity validation rejected candidate"
+    },
+    {
+      "source_url": "https://hwres.oslink.io/rcmnq/gw/gwcard/frE43C-1777537218344.webp",
+      "page_url": "https://www.oslink.io/blog/guide/neverness-to-everness-nanally-build-guide.html",
+      "error": "compact visual identity validation rejected candidate"
+    },
+    {
+      "source_url": "https://files.otakustudy.com/content/2026/05/03063703/Nanally_result-scaled.webp",
+      "page_url": "https://www.otakustudy.com/video-game/2026/05/nte-review/",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "duplicate_hashes": []
+}

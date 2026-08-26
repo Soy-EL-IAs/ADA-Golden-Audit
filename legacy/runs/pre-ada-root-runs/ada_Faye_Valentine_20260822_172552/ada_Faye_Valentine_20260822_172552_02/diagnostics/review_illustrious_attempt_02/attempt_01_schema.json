@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-10grhaf987j3n7cpjuwq74",
+  "object": "chat.completion",
+  "created": 1787431499,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_172552_02\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"preserved_ok\": [\n    \"purple_hair\",\n    \"green_eyes\",\n    \"hairband\"\n  ],\n  \"defects\": [\n    \"The character is not wearing a crop top; she wears a yellow zip-up top with a red jacket draped over her shoulders. This violates the premise's clothing specification.\",\n    \"The character is not frozen mid-motion in response to a knock; she is seated calmly holding a coffee cup, with no visible reaction to an interruption. This completely fails to depict the narrative tension.\",\n    \"The background lacks any indication of a door or knock, and there is no visual cue to suggest an external interruption. This removes the core compositional element of the premise.\"\n  ],\n  \"drift\": [\n    \"The entire narrative and compositional intent of the premise — a moment of stillness interrupted by an external event — is absent. The character’s posture, gaze, and environment do not reflect the premise’s required tension or action.\",\n    \"The clothing (yellow top, red jacket) and pose (sitting calmly with coffee) are inconsistent with the premise’s specified attire and reaction.\"\n  ],\n  \"summary\": \"The image fails to meet the premise by omitting the key narrative interruption and misrepresenting the character’s attire and posture. The core compositional drift is too severe to be corrected.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1500,
+    "completion_tokens": 339,
+    "total_tokens": 1839,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

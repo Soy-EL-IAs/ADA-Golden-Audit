@@ -1,0 +1,216 @@
+{
+  "per_premise": [
+    {
+      "id": "e015_b01_closeup",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Strong causal link (condensation drop). The 'slipping blindfold' is a recurring motif. Visual appeal relies on the tension of the fingers and the break in composure."
+    },
+    {
+      "id": "e015_b01_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 8.0,
+      "animation_potential": 7.0,
+      "notes": "Good use of clothing as a causal agent (sleeves tightening). The action is specific (prying a grate) rather than generic. Good balance of strain and composure."
+    },
+    {
+      "id": "e015_b01_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 8.0,
+      "notes": "The 'tilting platform' is a clear cause. However, the focus on stockings stretching feels slightly secondary to the balance act. Good dynamic potential."
+    },
+    {
+      "id": "e015_b01_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 9.0,
+      "notes": "Excellent dynamic shot. Catching a heavy gear is a specific physical interaction with clear consequence (weight/brace). Hair flying adds visual energy."
+    },
+    {
+      "id": "e015_b01_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Steadying a beam is active, but 'precarious ledge' is a common trope. The silhouette framing is good, but the narrative hook is weaker than other entries."
+    },
+    {
+      "id": "e015_b02_closeup",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 8.0,
+      "animation_potential": 6.0,
+      "notes": "Very strong micro-story. Extracting glass from the blindfold is tactile and specific. The 'hairband' detail adds identity fidelity. High tension."
+    },
+    {
+      "id": "e015_b02_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Sleeve snagging on rebar is a good causal agent. However, it repeats the 'sleeve tension' hook from b01_medium and b03_medium. The stoic expression is well-placed."
+    },
+    {
+      "id": "e015_b02_fullbody",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 7.0,
+      "notes": "Balancing on a crumbling pillar is active. The 'falling debris chunk nearby' provides the cause for the tilt. Slightly generic location (stone pillar) but acceptable."
+    },
+    {
+      "id": "e015_b02_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 9.0,
+      "notes": "Deflecting a chain is a strong physical interaction. Sparks add visual flair. Clear direction of movement and force."
+    },
+    {
+      "id": "e015_b02_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Grabbing a slipping elevator cable is a specific focal point. The 'vast industrial background' risks becoming wallpaper if not careful, but the action saves it."
+    },
+    {
+      "id": "e015_b03_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Steam on blindfold is a weak cause compared to the drop of condensation or glass shard. 'Verifying heat damage' is an internal thought process rather than a visible physical consequence. Feels passive."
+    },
+    {
+      "id": "e015_b03_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Another 'sleeve snag' premise. This is the third time this specific hook family appears (b01_med, b02_med). The repetition dilutes the impact of using clothing as a causal agent."
+    },
+    {
+      "id": "e015_b03_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 8.0,
+      "notes": "Balancing on a girder with wind is similar to b01_fullbody (tilting platform). The 'testing stability' action is good, but the wind cause feels slightly less tangible than the gravity shift."
+    },
+    {
+      "id": "e015_b03_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 9.0,
+      "notes": "Sliding under a beam is excellent dynamic motion. Dust kicking up adds consequence. Clear cause (swinging beam) and reaction (slide)."
+    },
+    {
+      "id": "e015_b03_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Climbing a slab towards a light is somewhat generic. The 'flickering emergency light' is a good focal point, but the action (climbing) lacks a specific immediate threat or consequence other than reaching the exit."
+    },
+    {
+      "id": "e015_b04_closeup",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Catching an oil drop is a strong tactile interaction. Similar to b01_closeup (condensation) but distinct enough in substance (oil vs water). Good tension."
+    },
+    {
+      "id": "e015_b04_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Retrieving a data chip is a specific goal. The body twist and dress cutout tension are well-integrated. Good use of the 'gap' environment."
+    },
+    {
+      "id": "e015_b04_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 8.0,
+      "animation_potential": 7.0,
+      "notes": "Resisting a chain pull is a strong physical conflict. The 'dark grate' adds narrative stakes (being dragged). Good use of stockings stretching as a visual cue for force."
+    },
+    {
+      "id": "e015_b04_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 9.0,
+      "notes": "Side-stepping steam is a clear cause-and-effect. The hair sweeping across the blindfold is a nice identity-specific detail. Good lateral energy."
+    },
+    {
+      "id": "e015_b04_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Pressing against a hydraulic piston to save a unit is a strong heroic act. The scale contrast (small character vs large machine) works well."
+    }
+  ],
+  "set_scores": {
+    "identity": 9.0,
+    "visual_appeal": 8.0,
+    "diversity": 7.0,
+    "repetition_control": 6.0,
+    "micro_story": 7.0,
+    "animation_potential": 8.0
+  },
+  "strengths": [
+    "Consistent adherence to the 'Causal Premise Requirement' with visible triggers for most actions.",
+    "Strong integration of clothing elements (blindfold, sleeves, stockings) as active participants in the narrative rather than just aesthetic details.",
+    "High animation potential across dynamic and fullbody shots due to clear directional energy and physical consequences.",
+    "Effective use of 2B's personality guardrails, maintaining composure while showing brief cracks through physical strain or tactile reactions."
+  ],
+  "failures": [
+    "Repetition of the 'Sleeve Snag/Tension' hook family in three separate medium shots (b01_med, b02_med, b03_med), violating the batch diversity limit.",
+    "Several closeup premises rely on subtle fluid interactions (condensation, steam, oil) that may be difficult to render distinctly without high-resolution detail, risking visual ambiguity.",
+    "Cinematic shots occasionally drift towards 'character in environment' rather than 'character interacting with specific distant element,' particularly b01_cin and b03_cin."
+  ],
+  "desired_patterns": [
+    "Specific physical interactions with distinct objects (gears, chains, glass shards) that create clear visual tension.",
+    "Use of clothing as a causal agent to add texture and specificity to the micro-story.",
+    "Clear cause-and-effect chains where the viewer can infer the next second's action."
+  ],
+  "undesired_patterns": [
+    "Repeated use of 'sleeve snagging' or 'fabric tension' as the primary hook for multiple medium shots.",
+    "Passive contemplation or atmospheric mood pieces lacking a specific physical trigger (e.g., b03_closeup with steam).",
+    "Generic locomotion or balancing acts without a clear narrative consequence beyond maintaining position."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Sleeve Snag/Tension",
+      "proposal_ids": [
+        "e015_b01_medium",
+        "e015_b02_medium",
+        "e015_b03_medium"
+      ]
+    },
+    {
+      "pattern": "Fluid Drop on Blindfold/Face",
+      "proposal_ids": [
+        "e015_b01_closeup",
+        "e015_b04_closeup"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Limit 'Sleeve/Clothing Snag' hooks to a maximum of 2 per batch and vary the specific clothing item (e.g., blindfold strap, glove finger, boot heel) to maintain diversity.",
+    "For closeup shots, prioritize tactile interactions with solid objects over fluid drops to ensure clearer visual storytelling at lower resolutions.",
+    "Ensure cinematic shots always include a specific, identifiable distant object or event that the character is actively engaging with, not just observing."
+  ],
+  "verdict": "Strong batch with high identity fidelity and animation potential. The primary weakness is the repetition of the 'sleeve tension' hook in medium shots, which slightly undermines the diversity score. Minor adjustments to vary the causal agents would elevate this set further."
+}

@@ -1,0 +1,204 @@
+{
+  "per_premise": [
+    {
+      "id": "e037_b01_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Strong causal link (burst pipe -> damp hair/blindfold shift). Good micro-expression. Slight risk of 'atmospheric' if the water isn't visually distinct from general rain, but specific enough."
+    },
+    {
+      "id": "e037_b01_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Mechanical cause (jammed door). Good body mechanics. 'Twisting' verb is common but acceptable here. Fabric tension well-described."
+    },
+    {
+      "id": "e037_b01_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Elemental cause (wind). Balance challenge is clear. 'Crumbling stone archway' is a distinct location."
+    },
+    {
+      "id": "e037_b01_dynamic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "High energy. Visible threat (debris). 'Tight spiral' pose is dynamic. Good motion vectors."
+    },
+    {
+      "id": "e037_b01_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Vertical ascent. 'Climbing' is a strong action. Scale contrast works. Slight risk of generic 'climbing ruin' trope but acceptable."
+    },
+    {
+      "id": "e037_b02_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 6,
+      "notes": "Biological cause (vine). Good sensory detail (sticky secretion). Distinct from previous closeups."
+    },
+    {
+      "id": "e037_b02_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Mechanical/Environmental cause (sliding slab). 'Bracing' is a repeated verb concept but the context differs from b01_medium. Good tension."
+    },
+    {
+      "id": "e037_b02_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 5,
+      "notes": "Biological cause (dragonfly). Unique interaction. 'Crouched' pose is static but justified by the need for stillness. Good narrative curiosity."
+    },
+    {
+      "id": "e037_b02_dynamic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Vaulting over fence. Clear cause (fence collapsing). High motion potential."
+    },
+    {
+      "id": "e037_b02_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 5,
+      "animation_potential": 4,
+      "notes": "Walking on light beam. 'Locomotion Filler' risk is high here; walking carefully is a low-energy action for a cinematic scale shot. Lacks strong physical consequence."
+    },
+    {
+      "id": "e037_b03_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Sound-based cause (crackling). Less visually distinct than b01/b02 closeups. 'Recoils' is a good action but the visual cue (sweat) is generic."
+    },
+    {
+      "id": "e037_b03_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "'Unseen weight' is a weak cause. Violates the 'visible cause' rule slightly as the viewer cannot infer *what* is pulling her without external context. Similar body mechanics to b01_medium."
+    },
+    {
+      "id": "e037_b03_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 5,
+      "notes": "EXACT DUPLICATE of e037_b02_fullbody. Same dragonfly, same bridge, same pose. Major repetition failure."
+    },
+    {
+      "id": "e037_b03_dynamic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "EXACT DUPLICATE of e037_b02_dynamic. Same fence vaulting. Major repetition failure."
+    },
+    {
+      "id": "e037_b03_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 5,
+      "animation_potential": 4,
+      "notes": "EXACT DUPLICATE of e037_b02_cinematic. Same light beam walk. Major repetition failure."
+    },
+    {
+      "id": "e037_b04_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 5,
+      "notes": "Biological cause (spores). Similar to b02_closeup (bioluminescent) but distinct enough. 'Holding breath' is a passive reaction compared to the active wince in b01."
+    },
+    {
+      "id": "e037_b04_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Mechanical cause (fracturing glass). Good visual detail. 'Bracing' verb repeated again."
+    },
+    {
+      "id": "e037_b04_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Elemental/Mechanical cause (explosion shockwave). Balance challenge is clear. Distinct from previous fullbody poses."
+    },
+    {
+      "id": "e037_b04_dynamic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Diving away from steam. Similar to b01_dynamic (dodging debris) but different vector and cause. Acceptable variety."
+    },
+    {
+      "id": "e037_b04_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "EXACT DUPLICATE of e037_b01_cinematic. Same cathedral climb. Major repetition failure."
+    }
+  ],
+  "set_scores": {
+    "identity": 9,
+    "visual_appeal": 8.5,
+    "diversity": 6,
+    "repetition_control": 4,
+    "micro_story": 7,
+    "animation_potential": 7
+  },
+  "strengths": [
+    "Strong adherence to character identity facts (blindfold, hair, dress details) across all premises.",
+    "Good use of causal forces in the first two batches (water, mechanical jam, wind, debris, vine, slab).",
+    "Dynamic and Cinematic categories generally show high visual appeal and clear motion vectors."
+  ],
+  "failures": [
+    "Critical Repetition: Batch 03 contains three exact duplicates from Batch 02 (fullbody, dynamic, cinematic), and Batch 04 repeats the Cinematic premise from Batch 01.",
+    "Weak Causality in e037_b03_medium ('unseen weight') fails the 'visible cause' test.",
+    "Locomotion Filler: e037_b02_cinematic (walking on light beam) lacks sufficient narrative consequence or physical strain for a cinematic scale shot.",
+    "Verb Repetition: 'Bracing/Leaning back' is overused in Medium shots."
+  ],
+  "desired_patterns": [
+    "Distinct micro-locations for each premise to prevent visual monotony.",
+    "Clear, visible physical causes for all actions (no 'unseen forces').",
+    "Variation in primary action verbs (e.g., using 'shifting', 'twisting', 'reaching' instead of just 'bracing')."
+  ],
+  "undesired_patterns": [
+    "Exact duplicate premises across different batch IDs.",
+    "Passive locomotion (walking/standing) without significant physical consequence or threat.",
+    "Generic atmospheric causes that don't physically interact with the character's body/outfit."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Dragonfly on wooden bridge",
+      "proposal_ids": ["e037_b02_fullbody", "e037_b03_fullbody"]
+    },
+    {
+      "pattern": "Vaulting over rusted iron fence",
+      "proposal_ids": ["e037_b02_dynamic", "e037_b03_dynamic"]
+    },
+    {
+      "pattern": "Walking on light beam in atrium",
+      "proposal_ids": ["e037

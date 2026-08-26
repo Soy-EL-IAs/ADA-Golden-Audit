@@ -1,0 +1,40 @@
+{
+  "requested_character": "2B",
+  "requested_version": null,
+  "matched_tag": "2b_(nier:automata)",
+  "character_profile_used": true,
+  "gender": "1girl",
+  "copyright": [
+    "nier_(series)",
+    "nier:automata"
+  ],
+  "characteristics": [
+    "short_hair",
+    "blindfold",
+    "white_hair"
+  ],
+  "clothing": [
+    "hairband",
+    "clothing_cutout",
+    "thighhighs",
+    "gloves",
+    "puffy_sleeves",
+    "long_sleeves",
+    "dress",
+    "black_dress",
+    "leotard",
+    "juliet_sleeves",
+    "black_gloves",
+    "boots",
+    "feather-trimmed_sleeves",
+    "thigh_boots"
+  ],
+  "relationships": {
+    "parents": [],
+    "children": [],
+    "siblings": []
+  },
+  "version_match": null,
+  "candidates": [],
+  "source": "booru-characters"
+}

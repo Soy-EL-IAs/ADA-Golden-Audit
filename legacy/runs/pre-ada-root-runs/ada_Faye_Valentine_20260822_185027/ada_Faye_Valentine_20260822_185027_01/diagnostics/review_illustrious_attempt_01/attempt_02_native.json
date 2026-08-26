@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen/qwen3-vl-8b",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_185027_01\",\n  \"stage\": \"illustrious\",\n  \"identity_ok\": true,\n  \"scene_requirements_ok\": false,\n  \"actual_visible_defects\": [\n    \"newspaper clipping is not torn at edges\",\n    \"no visible skin beneath paper\",\n    \"expression is confident smirk, not irritated with narrowed eyes\",\n    \"hand on hip is not digging into shorts fabric\"\n  ],\n  \"drift\": [\n    \"newspaper clipping is not strategically obscuring midriff\",\n    \"no torn edges visible\",\n    \"expression does not convey irritation\",\n    \"hand position does not emphasize tension\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 1740,
+    "total_output_tokens": 165,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 126.33580977042871,
+    "time_to_first_token_seconds": 0.49684100000000003
+  }
+}

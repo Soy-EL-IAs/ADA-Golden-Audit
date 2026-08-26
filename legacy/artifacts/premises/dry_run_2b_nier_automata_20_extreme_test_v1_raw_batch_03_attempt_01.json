@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"b03_01\",\n    \"category\": \"closeup\",\n    \"premise\": \"2B looks directly into the viewer's eyes with a knowing, half-lidded smirk while her white hair strands fall across her face; one hand gently pulls a stray lock back, revealing the edge of her blindfold and a subtle blush on her cheek as she leans slightly forward.\"\n  },\n  {\n    \"id\": \"b03_02\",\n    \"category\": \"medium\",\n    \"premise\": \"Framed from the waist up, 2B is caught mid-motion adjusting the high slit of her black dress with one gloved hand while looking down at a reflection in a polished surface, her expression shifting from focused to playful as she realizes the fabric has slipped.\"\n  },\n  {\n    \"id\": \"b03_03\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body shot of 2B stepping out of a steam-filled shower area, holding her dress closed with both hands in front of her chest to maintain coverage, water droplets glistening on her skin and hair as she tilts her head up with a confident, challenging gaze.\"\n  },\n  {\n    \"id\": \"b03_04\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B is captured in mid-air during a playful backflip, her black dress flaring out around her legs and revealing the sheer fabric of her thigh-highs, with a mischievous grin on her face as she looks directly at the camera through the motion blur.\"\n  },\n  {\n    \"id\": \"b03_05\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Low-angle dramatic composition focusing on 2B's silhouette against a bright, warm light source as she leans back over a railing, one leg extended to show off the length of her boots and thigh-highs, her expression serene yet provocative as she watches something fall from her hand.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 1562,
+    "total_output_tokens": 454,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.698889846695801,
+    "time_to_first_token_seconds": 2.8685549999999997
+  }
+}

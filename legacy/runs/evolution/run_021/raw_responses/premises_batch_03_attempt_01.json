@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e021_b03_1\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme close-up of the lower half of 2B's face and neck as a sudden, intense heat wave from an off-screen furnace causes her skin to glisten with fine beads of sweat; she keeps her jaw clenched in rigid control while her black blindfold strap tightens slightly against the tension in her scalp, capturing a micro-expression of suppressed discomfort.\"\n  },\n  {\n    \"id\": \"e021_b03_2\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B extending both arms forward to catch a heavy, falling data core; the impact drives her shoulders down and twists her torso slightly as she absorbs the weight, causing the fabric of her puffy feather-trimmed sleeves to stretch taut over her biceps while her hairband remains steady against the sudden jolt.\"\n  },\n  {\n    \"id\": \"e021_b03_3\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B standing on a cracked, tilting platform as it begins to slide down a sloped metal ramp; she plants her boots firmly into the grooves of the surface for traction, leaning back slightly to counterbalance the downward pull, which pulls her black dress hem taut against her thigh-high stockings and highlights the silhouette of her stance.\"\n  },\n  {\n    \"id\": \"e021_b03_4\",\n    \"category\": \"dynamic\",\n    \"premise\": \"High-energy action shot of 2B twisting her torso sharply to swing a heavy chain around her, using its momentum to knock aside a rushing wave of debris; motion blur trails the chain's arc as her hair whips outward from the centrifugal force, and one gloved hand grips the handle with visible strain against the kinetic pull.\"\n  },\n  {\n    \"id\": \"e021_b03_5\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Wide low-angle shot of a massive, rotating turbine blade slicing through the air inches above 2B; she is crouched low in a defensive stance, her eyes tracking the descending edge with intense focus as dust and grease are sucked into the vortex around her, emphasizing her small but precise figure against the looming mechanical threat.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4089,
+    "total_output_tokens": 539,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.803899991416586,
+    "time_to_first_token_seconds": 4.694612
+  }
+}

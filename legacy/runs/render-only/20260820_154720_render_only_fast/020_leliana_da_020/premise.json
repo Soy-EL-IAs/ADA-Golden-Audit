@@ -1,0 +1,34 @@
+{
+  "id": "leliana_da_020",
+  "character": "Leliana",
+  "franchise": "Dragon Age",
+  "identity": [
+    "red hair pulled back",
+    "dark fitted bard-rogue leathers",
+    "small lute and daggers"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On an empty tavern stage, she bends to retrieve a fallen pick and accidentally plucks one lute string with her glove, causing a hanging row of mugs to vibrate in comic sympathy, with confident sensual body language throughout.",
+  "must_include": [
+    "lute string twang",
+    "vibrating mugs"
+  ],
+  "environment": [
+    "tavern stage",
+    "warm hearth light",
+    "wood beams and empty tables"
+  ],
+  "animation_hook": "She tests another note, watches the mugs wobble again, and turns the accident into a playful rhythm.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000019,
+  "krea_seed_base": 2000019
+}

@@ -1,0 +1,57 @@
+{
+  "maximum_count": 100,
+  "maximum_chunk_size": 10,
+  "master_max_output_tokens": 4096,
+  "category_order": [
+    "closeup",
+    "medium",
+    "fullbody",
+    "dynamic",
+    "cinematic"
+  ],
+  "prompt_rules": [
+    "Character eligibility is semantic: use only fictional characters.",
+    "Preserve recognizable identity and the requested version's canonical outfit.",
+    "Use beautiful once as a soft reinforcement, never as the subject.",
+    "Describe composition with viewpoint and framing only.",
+    "Never use camera, camera angle, lens, photographer, filming or physical photographic equipment.",
+    "Vary poses, situations, settings, expressions, actions and viewpoints.",
+    "Avoid unnecessary text and logos.",
+    "Keep the Klein prompt focused on preserving identity, outfit, pose, viewpoint and framing while adding realistic finish."
+  ],
+  "presets": {
+    "closeup_a2r": {
+      "steps": 4,
+      "loras": [
+        {
+          "lora": "flux/klein_snofs_v1_3.safetensors",
+          "strength": 0.6
+        },
+        {
+          "lora": "flux/A2R_Klein_Standard.safetensors",
+          "strength": 0.5
+        }
+      ]
+    },
+    "general_semireal": {
+      "steps": 8,
+      "loras": [
+        {
+          "lora": "flux/klein_snofs_v1_3.safetensors",
+          "strength": 0.6
+        },
+        {
+          "lora": "flux/anime2real-semi.safetensors",
+          "strength": 0.8
+        }
+      ]
+    }
+  },
+  "category_presets": {
+    "closeup": "closeup_a2r",
+    "medium": "general_semireal",
+    "fullbody": "general_semireal",
+    "dynamic": "general_semireal",
+    "cinematic": "general_semireal"
+  }
+}

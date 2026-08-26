@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-ywu8vipburgz1fvg4hcxh",
+  "object": "chat.completion",
+  "created": 1787432835,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_180015_02\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"preserved_ok\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"hairband\",\n    \"thighhighs\",\n    \"boots\",\n    \"bare_shoulders\",\n    \"crop_top\"\n  ],\n  \"defects\": [\n    \"The newspaper is not held over the chest to obscure the large breasts; it is held low and does not function as a shield.\",\n    \"The newspaper is not crumpled as specified; it appears folded and flat.\",\n    \"The newspaper does not cover the chest area, violating the strategic censorship premise.\",\n    \"The character is not holding the newspaper as a barrier; it is held in her hand at waist level.\"\n  ],\n  \"drift\": [\n    \"The off-frame threat is not implied by any silhouette or light source; the background is plain and ambiguous.\",\n    \"The character’s expression is not one of wary suspicion; she appears neutral or slightly smirking.\",\n    \"The framing does not suggest an unseen onlooker or interruption; the composition is static and lacks narrative tension.\",\n    \"The newspaper is not used as a defensive barrier; it is held casually, contradicting the premise’s action.\"\n  ],\n  \"summary\": \"The image fails to meet the PremiseSpec by not implementing the strategic censorship mechanism. The newspaper is not positioned to obscure the chest, is not crumpled, and does not serve as a barrier. The narrative drift is severe: no implied threat, no wary expression, and no compositional tension. The preserved elements are visually present but do not fulfill the functional intent of the premise.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1686,
+    "completion_tokens": 396,
+    "total_tokens": 2082,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

@@ -1,0 +1,40 @@
+{
+  "run_id": "001_tifa_001",
+  "batch_id": "20260820_134621_render_only_fast",
+  "sequence": 1,
+  "premise_id": "tifa_001",
+  "mode": "render-only-fast",
+  "review_status": "unreviewed_render_only",
+  "status": "unreviewed_render_only",
+  "created_at": "2026-08-20T13:46:21.650737-03:00",
+  "illustrious_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 710031,
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_134621_render_only_fast\\001_tifa_001\\illustrious\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_134621_render_only_fast\\001_tifa_001\\illustrious",
+        "type": "output"
+      }
+    }
+  ],
+  "krea_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 710131,
+      "source_image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_134621_render_only_fast\\001_tifa_001\\illustrious\\candidate_01.png",
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_134621_render_only_fast\\001_tifa_001\\krea\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_134621_render_only_fast\\001_tifa_001\\krea",
+        "type": "output"
+      }
+    }
+  ],
+  "illustrious_style_note": "at the beer tap, one hand operating it, beer foam splashing directly onto the white cropped tank top; naturally wet fabric with a subtle semi-transparent effect, adult and non-explicit, preserve identity, costume, and all required premise elements",
+  "framing_profile": "medium_close_up",
+  "illustrious_prompt_id": "5cbc0054-cb80-4f87-a4a2-c6ddb4eb9728",
+  "krea_prompt_id": "3d80f64a-5e4b-4155-97dc-d3fe637236b9",
+  "completed_at": "2026-08-20T13:46:54.247346-03:00"
+}

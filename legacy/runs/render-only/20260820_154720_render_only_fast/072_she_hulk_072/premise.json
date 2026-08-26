@@ -1,0 +1,34 @@
+{
+  "id": "she_hulk_072",
+  "character": "She-Hulk",
+  "franchise": "Marvel",
+  "identity": [
+    "long dark green hair",
+    "purple-white fitted superhero suit",
+    "tall muscular curvy build"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In an empty courthouse records room, she reaches to a high shelf and gently bumps the metal rack, making a stack of folders slide toward her like a slow paper avalanche, with confident sensual body language throughout.",
+  "must_include": [
+    "sliding folders",
+    "high shelf"
+  ],
+  "environment": [
+    "records room",
+    "neutral fluorescent light",
+    "metal shelves and boxed files"
+  ],
+  "animation_hook": "She catches the stack against one hip, nudges the shelf straight with a fingertip, and places the folders back neatly.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000071,
+  "krea_seed_base": 2000071
+}

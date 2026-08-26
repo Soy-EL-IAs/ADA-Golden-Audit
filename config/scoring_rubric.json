@@ -1,0 +1,40 @@
+{
+  "scale": {
+    "minimum": 0,
+    "maximum": 10,
+    "precision": 1
+  },
+  "illustrious": {
+    "identity": 0.25,
+    "premise_readability": 0.25,
+    "sex_appeal": 0.20,
+    "anatomy_composition": 0.15,
+    "animation_potential": 0.15
+  },
+  "krea": {
+    "identity_retention": 0.25,
+    "premise_retention": 0.25,
+    "final_visual_quality": 0.20,
+    "sex_appeal": 0.15,
+    "anatomy": 0.10,
+    "animation_potential": 0.05
+  },
+  "final_formula": {
+    "illustrious_total": 0.30,
+    "krea_total": 0.70
+  },
+  "hard_fail_conditions": [
+    "character is not recognizable",
+    "a must_include element central to the premise is missing",
+    "severe anatomy failure",
+    "multiple unintended main characters",
+    "the frame has no readable animation hook"
+  ],
+  "selection_rules": [
+    "Score every candidate independently before comparing them.",
+    "Do not reward photorealism when it damages identity or premise retention.",
+    "A hard-fail candidate cannot win regardless of numerical score.",
+    "Use one decimal place and include a short evidence-based reason for every category.",
+    "Select one final winner and one runner-up."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "premise_id": "ada_001",
+  "stage": "illustrious",
+  "candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_124117_ada_001\\illustrious\\candidate_00001_.png",
+      "hard_fail": true,
+      "hard_fail_reasons": ["a must_include element central to the premise is missing: crowded elevator", "a must_include element central to the premise is missing: many chickens"],
+      "scores": {
+        "identity": 8.5,
+        "premise_readability": 3.0,
+        "sex_appeal": 8.5,
+        "anatomy_composition": 8.5,
+        "animation_potential": 3.0
+      },
+      "weighted_total": 6.3,
+      "summary": "Ada es reconocible por el bob negro, vestido rojo, medias y silueta de espía; la maleta aparece en un pasillo de hotel. No hay ascensor abarrotado, gallinas ni gallina sobre la maleta, por lo que el núcleo cómico no se lee. La figura y composición son limpias, pero el gancho de puertas cerrándose y gallinas aleteando está ausente."
+    },
+    {
+      "candidate_id": "candidate_02",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_124117_ada_001\\illustrious\\candidate_00002_.png",
+      "hard_fail": true,
+      "hard_fail_reasons": ["a must_include element central to the premise is missing: crowded elevator", "a must_include element central to the premise is missing: many chickens"],
+      "scores": {
+        "identity": 8.5,
+        "premise_readability": 3.5,
+        "sex_appeal": 8.5,
+        "anatomy_composition": 8.5,
+        "animation_potential": 3.0
+      },
+      "weighted_total": 6.4,
+      "summary": "Ada, vestido rojo, medias, tacones y maleta son visibles en un corredor de hotel. Faltan el ascensor, las muchas gallinas, la gallina sobre la maleta y la expresión incrédula específica; la escena es una entrada estática. Anatomía y luz son correctas, pero no hay un gancho de aleteo ni puertas cerrándose."
+    },
+    {
+      "candidate_id": "candidate_03",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_124117_ada_001\\illustrious\\candidate_00003_.png",
+      "hard_fail": true,
+      "hard_fail_reasons": ["a must_include element central to the premise is missing: crowded elevator", "a must_include element central to the premise is missing: chicken standing on suitcase"],
+      "scores": {
+        "identity": 8.5,
+        "premise_readability": 5.0,
+        "sex_appeal": 8.5,
+        "anatomy_composition": 8.5,
+        "animation_potential": 5.0
+      },
+      "weighted_total": 7.1,
+      "summary": "Ada, maleta y dos gallinas aparecen en un pasillo de hotel, lo que conserva parte de la broma. Sin embargo, no es un ascensor abarrotado, no hay muchas gallinas ni una gallina sobre la maleta, y Ada no mira al espectador con incredulidad. La anatomía es sólida; el aleteo tiene potencial, pero faltan puertas y compresión del ascensor."
+    },
+    {
+      "candidate_id": "candidate_04",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_124117_ada_001\\illustrious\\candidate_00004_.png",
+      "hard_fail": true,
+      "hard_fail_reasons": ["a must_include element central to the premise is missing: crowded elevator", "a must_include element central to the premise is missing: many chickens"],
+      "scores": {
+        "identity": 8.5,
+        "premise_readability": 2.0,
+        "sex_appeal": 8.5,
+        "anatomy_composition": 8.5,
+        "animation_potential": 2.5
+      },
+      "weighted_total": 6.0,
+      "summary": "Ada y una maleta son reconocibles, pero la escena es un pasillo vacío: faltan ascensor, gallinas, gallina sobre la maleta y expresión incrédula. La anatomía y el vestido son limpios, aunque no hay acción legible de gallinas, puertas ni control de la compostura."
+    }
+  ],
+  "winner": null,
+  "runner_up": null,
+  "selection_reason": "Las cuatro candidatas son hard fail por no representar de forma completa el ascensor abarrotado de gallinas; candidate_03 conserva dos gallinas pero no el ascensor ni la gallina sobre la maleta. No se selecciona ganador hard-fail.",
+  "reviewed_at": "2026-08-20T12:48:00-03:00"
+}

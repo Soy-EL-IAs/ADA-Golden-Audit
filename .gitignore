@@ -1,0 +1,34 @@
+# Python and test caches
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Machine-local configuration and editor state
+config/ada.local.json
+config/editor/obsidian/
+
+# ADA runtime storage. Character metadata/references are portable; runs and
+# Library pixels remain local productive data.
+data/*
+!data/README.md
+!data/characters/
+!data/characters/**
+!data/references/
+!data/references/**
+data/references/_failed/
+
+# Large experimental and historical artifacts retained locally
+experimental/model_lab/
+experimental/runs/
+legacy/scratch/
+
+# Test sandboxes are allowed only in the authoritative temp root
+data/tmp/tests/
+
+# External-engine diagnostics and generated exports
+legacy/provenance/comfy_history.json
+*.zip
+*.log
+tree.txt

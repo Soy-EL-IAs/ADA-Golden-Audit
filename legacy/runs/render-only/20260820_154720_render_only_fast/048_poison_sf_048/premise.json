@@ -1,0 +1,34 @@
+{
+  "id": "poison_sf_048",
+  "character": "Poison",
+  "franchise": "Street Fighter",
+  "identity": [
+    "long pink hair",
+    "black peaked cap with fitted cropped top and denim shorts",
+    "handcuffs and riding crop"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On an empty concert stage, she leans toward a microphone stand for a pose and accidentally steps on a foot pedal that launches a harmless puff of stage smoke around her boots, with confident sensual body language throughout.",
+  "must_include": [
+    "stage smoke puff",
+    "microphone stand"
+  ],
+  "environment": [
+    "concert stage",
+    "purple spotlights",
+    "speakers and haze"
+  ],
+  "animation_hook": "She steps through the smoke, hooks the mic stand with one boot, and spins it upright as the haze clears.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000047,
+  "krea_seed_base": 2000047
+}

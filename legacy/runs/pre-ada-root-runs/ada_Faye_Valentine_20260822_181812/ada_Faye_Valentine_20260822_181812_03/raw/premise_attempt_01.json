@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"Faye Valentine stands in a dimly lit office, her expression shifting from confident smirk to sharp irritation as she holds up a crumpled newspaper clipping that obscures her midriff. The visible cause is the headline 'MISSING HEIRESS FOUND', which has just been slapped onto her desk by an unseen authority figure, interrupting her casual pose. Her consequence is a defensive posture, one hand gripping the paper tightly while the other rests on her hip, creating a strong animation hook through the tension of her about to tear the clipping or snap at the off-screen critic.\",\n  \"identity_elements\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"large_breasts\"\n  ],\n  \"canonical_outfit\": [\n    \"hairband\",\n    \"shorts\",\n    \"lipstick\",\n    \"thighhighs\",\n    \"shirt\",\n    \"bare_shoulders\",\n    \"crop_top\",\n    \"boots\"\n  ],\n  \"scene_requirements\": [\n    \"holding_crumpled_newspaper_clipping\",\n    \"irritated_expression\",\n    \"defensive_stance\",\n    \"dimly_lit_office_environment\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the newspaper clipping clearly covers the midriff area to satisfy strategic censorship without explicit nudity.\",\n    \"Maintain the 'bare_shoulders' and 'crop_top' visibility above the obstruction to preserve character identity.\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 663,
+    "total_output_tokens": 342,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.654015333624987,
+    "time_to_first_token_seconds": 0.333158
+  }
+}

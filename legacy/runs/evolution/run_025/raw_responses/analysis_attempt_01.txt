@@ -1,0 +1,62 @@
+{
+  "per_premise": [
+    {"id": "e025_b01_closeup", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 8, "notes": "Strong causal link (coolant line). Identity preserved. Mist adds texture."},
+    {"id": "e025_b01_medium", "identity": 9, "visual_appeal": 8, "micro_story": 7, "animation_potential": 7, "notes": "Good physical strain. 'Data core' is a valid prop. Clear cause (falling object)."},
+    {"id": "e025_b01_fullbody", "identity": 9, "visual_appeal": 8, "micro_story": 8, "animation_potential": 9, "notes": "Dynamic slide with clear obstacle (pipe) and surface interaction (oil). Strong motion."},
+    {"id": "e025_b01_dynamic", "identity": 9, "visual_appeal": 7, "micro_story": 6, "animation_potential": 8, "notes": "Leap over rubble is generic but visually clear. Lacks specific narrative stakes beyond 'gap'."},
+    {"id": "e025_b01_cinematic", "identity": 9, "visual_appeal": 7, "micro_story": 6, "animation_potential": 7, "notes": "Wind/debris is atmospheric. Leaning back is a passive reaction to force rather than an active event."},
+    {"id": "e025_b02_closeup", "identity": 9, "visual_appeal": 8, "micro_story": 9, "animation_potential": 9, "notes": "Excellent micro-story. Insect interaction is specific and biological (avoids mechanical overuse). High tension."},
+    {"id": "e025_b02_medium", "identity": 9, "visual_appeal": 8, "micro_story": 7, "animation_potential": 7, "notes": "Repetition of 'catching falling heavy object' from b01_medium. Similar torso twist mechanics."},
+    {"id": "e025_b02_fullbody", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 8, "notes": "Sliding under cable is a distinct navigation mechanic. Good use of dust for atmosphere/interaction."},
+    {"id": "e025_b02_dynamic", "identity": 9, "visual_appeal": 7, "micro_story": 6, "animation_potential": 8, "notes": "Swinging chain is a mechanical hazard. Similar to b01_fullbody (avoiding swinging object)."},
+    {"id": "e025_b02_cinematic", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 8, "notes": "Slab sliding away is a clear consequence. Bracing against edge shows weight distribution."},
+    {"id": "e025_b03_closeup", "identity": 9, "visual_appeal": 7, "micro_story": 6, "animation_potential": 7, "notes": "Wind interaction is weak causality. 'Cracked vent' is vague compared to specific objects."},
+    {"id": "e025_b03_medium", "identity": 9, "visual_appeal": 8, "micro_story": 7, "animation_potential": 7, "notes": "Swinging chain again. Repetitive hazard type (chain/pipe). Strain on cutout is good visual detail."},
+    {"id": "e025_b03_fullbody", "identity": 9, "visual_appeal": 6, "micro_story": 5, "animation_potential": 6, "notes": "'Stepping carefully' is low energy. Risk of 'Locomotion Filler'. Balance pose lacks high stakes."},
+    {"id": "e025_b03_dynamic", "identity": 9, "visual_appeal": 7, "micro_story": 6, "animation_potential": 8, "notes": "Spinning to avoid debris is generic. Similar kinetic energy to b01/b02 dynamics without new narrative flavor."},
+    {"id": "e025_b03_cinematic", "identity": 9, "visual_appeal": 6, "micro_story": 4, "animation_potential": 5, "notes": "'Massive shadow' is vague. 'Composed curiosity' is a personality trait, not an event. Weak cause."},
+    {"id": "e025_b04_closeup", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 8, "notes": "Off-screen predator screech is a valid audio-visual trigger. Flinch is reactive and specific."},
+    {"id": "e025_b04_medium", "identity": 9, "visual_appeal": 7, "micro_story": 6, "animation_potential": 7, "notes": "Yanking lever is a mechanical interaction. Acceptable within limits but feels standard."},
+    {"id": "e025_b04_fullbody", "identity": 9, "visual_appeal": 8, "micro_story": 8, "animation_potential": 9, "notes": "Diving to catch chip is a clear goal-oriented action. Good body extension."},
+    {"id": "e025_b04_dynamic", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 9, "notes": "Sliding under blast door is a high-stakes escape. Clear cause (closing door) and consequence."}
+  ],
+  "set_scores": {
+    "identity": 9.2,
+    "visual_appeal": 7.4,
+    "diversity": 6.5,
+    "repetition_control": 5.8,
+    "micro_story": 7.1,
+    "animation_potential": 7.8
+  },
+  "strengths": [
+    "Consistent preservation of 2B's identity traits (blindfold, hair, dress details) across all premises.",
+    "Strong physical causality in most medium and dynamic shots (catching, sliding, bracing).",
+    "Good use of clothing physics (sleeves flaring, hem lifting) to enhance visual appeal without losing narrative focus."
+  ],
+  "failures": [
+    "Repetition of 'swinging mechanical hazard' (pipe in b01, chain in b02/b03) creating a conceptual cluster.",
+    "Several cinematic shots rely on vague atmospheric causes ('shadow', 'wind from distant tower') rather than specific physical events.",
+    "b03_fullbody is low-stakes locomotion filler (stepping over gap) which violates the 'Locomotion Filler' anti-pattern."
+  ],
+  "desired_patterns": [
+    "Specific object interactions (insect, data core, chip) that create unique micro-stories.",
+    "Clear cause-and-effect chains where the character's action directly responds to a visible physical force or object.",
+    "Dynamic weight shifts and body extensions that integrate visual appeal with kinetic energy."
+  ],
+  "undesired_patterns": [
+    "Generic 'avoiding debris' dynamics without specific narrative context (b01_dynamic, b03_dynamic).",
+    "Vague atmospheric triggers ('shadow', 'gust') that lack a tangible source or consequence.",
+    "Repetitive hazard types (swinging pipes/chains) dominating the mechanical interaction quota."
+  ],
+  "repetition_clusters": [
+    {"pattern": "Swinging Mechanical Hazard", "proposal_ids": ["e025_b01_fullbody", "e025_b02_dynamic", "e025_b03_medium"]},
+    {"pattern": "Catching Falling Object", "proposal_ids": ["e025_b01_medium", "e025_b02_medium"]},
+    {"pattern": "Generic Debris Avoidance", "proposal_ids": ["e025_b01_dynamic", "e025_b03_dynamic"]}
+  ],
+  "recommendations_for_next_cycle": [
+    "Replace one 'swinging hazard' premise with a biological or environmental interaction (e.g., dodging a falling plant, reacting to a sound source).",
+    "Strengthen cinematic premises by anchoring them to specific physical events (e.g., 'bracing as a specific beam snaps') rather than vague shadows or wind.",
+    "Increase the stakes in full-body navigation scenes; avoid simple 'stepping over' gaps unless there is a clear threat below."
+  ],
+  "verdict": "Solid batch with strong identity and physical causality, but suffers from moderate repetition in mechanical hazards and some weak atmospheric causality in cinematic shots. Needs tighter diversity enforcement on hazard types."
+}

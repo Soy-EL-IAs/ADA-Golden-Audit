@@ -1,0 +1,218 @@
+{
+  "per_premise": [
+    {
+      "id": "e022_b01_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 6,
+      "notes": "Strong causal link (resisting valve). Good identity details (gloves, blindfold). 'Sweat' is a minor canon stretch for an android but acceptable as stylization. Visual appeal is moderate; focus on hand/jaw tension."
+    },
+    {
+      "id": "e022_b01_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 9,
+      "animation_potential": 7,
+      "notes": "Excellent dual-action premise (bracing door + catching chip). Clear cause and consequence. Sleeves bunching adds visual texture. Strong personality expression through multitasking under pressure."
+    },
+    {
+      "id": "e022_b01_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Good use of environment (vent duct). Dress dragging on grate is a nice detail. Action is clear (crawling/reaching). Avoids static balancing."
+    },
+    {
+      "id": "e022_b01_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "High energy. Projectile graze provides clear cause. Hair whip and boot slide are good motion cues. Slightly generic 'dodge' but executed well with specific physical reactions."
+    },
+    {
+      "id": "e022_b01_cinematic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Strong active interaction (pulling lever). Body weight thrown back creates good silhouette. Dust plumes are supporting, not primary hook. Good scale contrast."
+    },
+    {
+      "id": "e022_b02_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 6,
+      "notes": "Steam burst is a clear cause. Head tilt and hair ripple are good motion cues. 'Crack in composure' is well-defined by breath-holding. Similar to b01_closeup in tone (strain/composure) but distinct trigger."
+    },
+    {
+      "id": "e022_b02_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Shielding face from flash is a clear reaction. Gripping panel for stability adds secondary action. Sparks on sleeves add visual interest without being the main hook."
+    },
+    {
+      "id": "e022_b02_fullbody",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Violates 'Locomotion Filler' rule. Stepping over rebar is a minor obstacle without significant narrative consequence (no escape/pursuit/discovery). 'Snagging and yanking free' adds some story but feels like a stumble rather than a strategic move."
+    },
+    {
+      "id": "e022_b02_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Catching a falling gear is a strong active interaction. Body stretched low and taut creates good silhouette. Hairband slipping is a nice detail consequence."
+    },
+    {
+      "id": "e022_b02_cinematic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Pushing open a closing hatch is good. However, it overlaps conceptually with b01_cinematic (pulling lever) and b04_medium (prying panel). All involve heavy mechanical resistance. Distinct enough in action (push vs pull/pry) but part of the 'heavy machinery' cluster."
+    },
+    {
+      "id": "e022_b03_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 6,
+      "notes": "High-pressure coolant jet. Very similar to b02_closeup (steam burst). Both involve head tilt back and hair clumping/rippling due to upward force. Repetition of 'fluid blast from below' concept."
+    },
+    {
+      "id": "e022_b03_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Prying apart jammed panels. Similar to b04_medium (prying open panel). Both involve upward/outward force against rusted metal. 'Sweat drop' is a nice detail but the core action is repetitive with b04_medium."
+    },
+    {
+      "id": "e022_b03_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 7,
+      "notes": "Sliding sideways on ledge. Good dynamic pose. Avoids static balancing by emphasizing the slide and weight shift. Clear cause (collapsing floor ahead)."
+    },
+    {
+      "id": "e022_b03_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Spinning to evade chain. High energy. Hair whip is a strong visual hook. Clear cause (slamming chain). Good contrast between motion and centered body."
+    },
+    {
+      "id": "e022_b03_cinematic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Pulling down ladder. Good scale. However, 'hanging/swinging' is a common trope. The action (pulling down) is distinct from b01_cinematic (pulling lever) but both involve pulling heavy metal objects with full body weight."
+    },
+    {
+      "id": "e022_b04_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 7,
+      "animation_potential": 5,
+      "notes": "Gripping frayed cable. Similar to b01_closeup (gripping valve). Both involve hand gripping a mechanical part under strain with sweat/sparks. Repetition of 'hand grip on machinery' concept."
+    },
+    {
+      "id": "e022_b04_medium",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Prying open maintenance panel. Very similar to b03_medium (prying apart panels). Both involve downward/outward force against rusted metal with sleeve compression. Strong repetition cluster."
+    },
+    {
+      "id": "e022_b04_fullbody",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Crawling through trench. Similar to b01_fullbody (crawling under duct). Both involve low clearance crawling with dress dragging. Repetition of 'low crawl' concept."
+    },
+    {
+      "id": "e022_b04_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Leaping over crack. Good motion. However, 'leaping over obstacle' is a form of locomotion filler if the gap isn't significant. Less narrative weight than b01_dynamic (dodge projectile) or b02_dynamic (catch gear)."
+    },
+    {
+      "id": "e022_b04_cinematic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Hanging from beam. Similar to b03_cinematic (hanging/pulling ladder). Both involve suspended body with dangling legs. Repetition of 'suspended/hanging' concept."
+    }
+  ],
+  "set_scores": {
+    "identity": 9,
+    "visual_appeal": 8,
+    "diversity": 6,
+    "repetition_control": 5,
+    "micro_story": 7,
+    "animation_potential": 7
+  },
+  "strengths": [
+    "Consistent and accurate character identity across all premises.",
+    "Strong causal links in most premises (visible triggers for actions).",
+    "Good use of specific clothing details (sleeves, dress hem, blindfold) to enhance visual appeal and motion cues.",
+    "Effective avoidance of pure static poses; almost every premise has implied or explicit motion."
+  ],
+  "failures": [
+    "Significant repetition in 'heavy machinery resistance' concepts (pulling lever, pushing hatch, prying panels).",
+    "Repetition of 'fluid blast from below' closeups (steam vs coolant) with nearly identical reactions.",
+    "Repetition of 'low clearance crawling' fullbody shots (duct vs trench).",
+    "Some premises rely on generic locomotion (stepping over rebar, leaping over crack) without strong narrative consequence."
+  ],
+  "desired_patterns": [
+    "Clear cause-and-effect chains with visible triggers.",
+    "Integration of character-specific details into the action (e.g., sleeves bunching during push).",
+    "Variety in physical constraints (gripping, pushing, pulling, dodging, catching)."
+  ],
+  "undesired_patterns": [
+    "Repeated 'hand gripping machinery' closeups with minimal variation.",
+    "Repeated 'prying/pushing heavy metal' medium shots.",
+    "Locomotion filler without narrative stakes (stepping over minor obstacles).",
+    "Fluid blasts from below as a repeated closeup hook."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Hand gripping machinery under strain",
+      "proposal_ids": ["e022_b01_closeup", "e022_b04_closeup"]
+    },
+    {
+      "pattern": "Fluid blast from below causing head tilt/hair ripple",
+      "proposal_ids": ["e022_b02_closeup", "e022_b03_closeup"]
+    },
+    {
+      "pattern": "Prying/pushing against heavy rusted metal panels/doors",
+      "proposal_ids": ["e022_b01_medium", "e022_b02_cinematic", "e022_b03_medium", "e022_b04_medium"]
+    },
+    {
+      "pattern": "Low clearance crawling with dress dragging",
+      "proposal_ids": ["e022_b01_fullbody", "e022_b04_fullbody"]
+    },
+    {
+      "pattern": "Suspended/hanging body with dangling legs",
+      "proposal_ids": ["e022_b03_cinematic", "e022_b04_cinematic"]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Limit 'heavy machinery resistance' to max 2 premises per batch

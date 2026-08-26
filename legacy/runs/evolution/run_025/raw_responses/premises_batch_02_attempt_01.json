@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e025_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A tight close-up of 2B's face as a single, large mechanical insect lands on her black blindfold; she holds perfectly still with narrowed eyes visible beneath the fabric, her breath hitching slightly as her gloved hand rises slowly to flick it away.\"\n  },\n  {\n    \"id\": \"e025_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"A medium shot of 2B's torso twisting sharply as she catches a heavy, rusted gear that has fallen from above; the impact jars her shoulders back, causing her puffy feather-trimmed sleeves to flare outward and her black dress cutout to stretch slightly under the strain.\"\n  },\n  {\n    \"id\": \"e025_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"A full-body view of 2B crouching low on one knee in a narrow, dusty corridor, her body coiled tightly to slide under a hanging low-hazard cable; her thigh-high boots grip the uneven ground firmly while her white hair and blindfold brush against the dust cloud kicked up by her movement.\"\n  },\n  {\n    \"id\": \"e025_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"A high-speed dynamic freeze-frame of 2B rotating in mid-air to avoid a swinging chain link, her white hair whipping upward and her black dress hem flaring wide with the centrifugal force; her expression is locked in intense focus as she clears the obstacle by inches.\"\n  },\n  {\n    \"id\": \"e025_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"A wide cinematic shot of 2B standing on a fractured ledge, leaning forward to brace her gloved hands against the crumbling edge as a massive stone slab slides away behind her; debris rains down around her, and she looks back over her shoulder with composed urgency.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3671,
+    "total_output_tokens": 474,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.687374724515282,
+    "time_to_first_token_seconds": 4.443399
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "concepts": [
+    {
+      "concept_id": "m1_shihouin_yoruichi_01",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "center of frame on rooftop edge",
+      "hook": "Golden aura glowing softly around fingers",
+      "camera": "full body shot focusing on legs and torso",
+      "expression": "smug smile"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_02",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "slightly left of frame center",
+      "hook": "Wind blowing purple ponytail strands",
+      "camera": "medium shot highlighting upper body and face",
+      "expression": "intense gaze"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_03",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "foreground near building edge",
+      "hook": "Reflection of yellow eyes in dark sky",
+      "camera": "low angle emphasizing height and power",
+      "expression": "calm focus"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_04",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "right side of composition space",
+      "hook": "Leotard fabric catching moonlight sharply",
+      "camera": "three-quarter view showing dynamic stance",
+      "expression": "slight smirk"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_05",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "mid-ground against distant lights",
+      "hook": "Gloves being pulled snug tightly",
+      "camera": "close-up on hands and forearm details",
+      "expression": "sharp attention"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_06",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "center aligned with skyline horizon",
+      "hook": "Shadow stretching long across tiles",
+      "camera": "wide shot capturing full silhouette context",
+      "expression": "confident poise"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_07",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "left foreground near parapet wall",
+      "hook": "Purple hair cascading over shoulder elegantly",
+      "camera": "over-the-shoulder angle creating depth",
+      "expression": "playful tilt"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_08",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "high angle looking down from above",
+      "hook": "Thigh-highs gleaming under silver moonlight",
+      "camera": "bird's-eye view framing legs prominently",
+      "expression": "cool detachment"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_09",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "center stage with open sky backdrop",
+      "hook": "Bare shoulders contrasting dark skin tone",
+      "camera": "chest-up portrait emphasizing upper physique",
+      "expression": "serene authority"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_10",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "dynamic diagonal line across frame",
+      "hook": "Motion blur hinting at recent movement",
+      "camera": "action-oriented low-angle tracking shot feel",
+      "expression": "focused intensity"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_11",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "soft focus background with sharp subject",
+      "hook": "Subtle chakra ripple visible near hands",
+      "camera": "shallow depth of field isolating character",
+      "expression": "mysterious calm"
+    },
+    {
+      "concept_id": "m1_shihouin_yoruichi_12",
+      "action": "standing confidently adjusting gloves",
+      "setting": "a moonlit rooftop with a clean city skyline",
+      "micro_location": "symmetrical balance within central axis",
+      "hook": "Moon directly behind head creating halo effect",
+      "camera": "heroic frontal shot maximizing presence",
+      "expression": "regal confidence"
+    }
+  ]
+}

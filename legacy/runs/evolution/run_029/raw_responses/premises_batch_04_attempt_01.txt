@@ -1,0 +1,29 @@
+```json
+[
+  {
+    "id": "e029_b04_1",
+    "category": "closeup",
+    "premise": "Close-up of 2B's face as a sudden spike in ambient temperature causes her short white hair to steam slightly; her black blindfold remains taut and unmoved, but her gloved hand rises sharply to wipe a bead of condensation from the bridge of the fabric, her eyes narrowed with sharp focus on the heat source off-screen."
+  },
+  {
+    "id": "e029_b04_2",
+    "category": "medium",
+    "premise": "Waist-up shot of 2B leaning heavily against a collapsing wall section, her shoulder pressing into the debris as she braces for impact; her puffy sleeves compress under the weight, and her expression is one of strained determination rather than fear, with her gaze locked on the shifting rubble above."
+  },
+  {
+    "id": "e029_b04_3",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B climbing a vertical support beam using only her hands and feet, her body pressed flat against the metal surface; her thigh-high stockings grip the rough texture as she pulls herself upward, her dress hem hanging straight down due to gravity, emphasizing the vertical tension of the ascent."
+  },
+  {
+    "id": "e029_b04_4",
+    "category": "dynamic",
+    "premise": "High-energy shot of 2B mid-leap over a spreading fissure in the floor, her body fully extended horizontally in the air; her black dress flares out behind her due to momentum, and her eyes are fixed on the landing spot ahead as dust plumes rise from the cracking ground below."
+  },
+  {
+    "id": "e029_b04_5",
+    "category": "cinematic",
+    "premise": "Wide-angle shot of 2B standing on a suspended platform that is tilting sharply to one side due to a broken cable; she shifts her weight aggressively to the high side to counterbalance, her hair blowing sideways from the air displacement, highlighting the precarious tilt against the vast, dark industrial ceiling."
+  }
+]
+```

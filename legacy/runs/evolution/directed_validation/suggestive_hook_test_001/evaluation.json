@@ -1,0 +1,48 @@
+{
+  "test": "suggestive_hook_test_001",
+  "guide": "Ada Viral Premise Guide — Directed Candidate v1.1: Suggestive Visual Hook",
+  "reference": "run_027",
+  "method": "Manual directed validation against the supplied guide, the local 2B profile, and run_027's recorded evaluation.",
+  "per_premise": [
+    {"id":"dvt001_01","suggestive_hook":8.5,"scroll_stop_potential":8.2,"sensual_composition":8.1,"character_identity":9.4,"micro_story":7.8,"animation_potential":7.4,"diversity":9.0,"penalties":[]},
+    {"id":"dvt001_02","suggestive_hook":8.3,"scroll_stop_potential":8.0,"sensual_composition":7.9,"character_identity":9.3,"micro_story":7.9,"animation_potential":7.0,"diversity":9.1,"penalties":[]},
+    {"id":"dvt001_03","suggestive_hook":8.4,"scroll_stop_potential":8.3,"sensual_composition":8.0,"character_identity":9.2,"micro_story":7.8,"animation_potential":7.1,"diversity":9.0,"penalties":[]},
+    {"id":"dvt001_04","suggestive_hook":8.0,"scroll_stop_potential":7.8,"sensual_composition":7.8,"character_identity":9.5,"micro_story":7.4,"animation_potential":7.2,"diversity":8.8,"penalties":[]},
+    {"id":"dvt001_05","suggestive_hook":8.6,"scroll_stop_potential":8.4,"sensual_composition":8.4,"character_identity":9.4,"micro_story":7.8,"animation_potential":7.7,"diversity":9.2,"penalties":[]},
+    {"id":"dvt001_06","suggestive_hook":8.5,"scroll_stop_potential":8.3,"sensual_composition":8.0,"character_identity":9.3,"micro_story":8.2,"animation_potential":7.3,"diversity":9.1,"penalties":[]},
+    {"id":"dvt001_07","suggestive_hook":8.1,"scroll_stop_potential":8.0,"sensual_composition":8.2,"character_identity":9.5,"micro_story":7.7,"animation_potential":7.3,"diversity":9.0,"penalties":[]},
+    {"id":"dvt001_08","suggestive_hook":8.4,"scroll_stop_potential":8.2,"sensual_composition":7.9,"character_identity":9.3,"micro_story":8.1,"animation_potential":7.2,"diversity":9.0,"penalties":[]},
+    {"id":"dvt001_09","suggestive_hook":8.7,"scroll_stop_potential":8.5,"sensual_composition":8.5,"character_identity":9.5,"micro_story":8.0,"animation_potential":7.6,"diversity":9.2,"penalties":[]},
+    {"id":"dvt001_10","suggestive_hook":8.2,"scroll_stop_potential":8.1,"sensual_composition":8.0,"character_identity":9.4,"micro_story":8.1,"animation_potential":7.5,"diversity":9.2,"penalties":[]},
+    {"id":"dvt001_11","suggestive_hook":8.5,"scroll_stop_potential":8.3,"sensual_composition":8.4,"character_identity":9.3,"micro_story":7.9,"animation_potential":7.4,"diversity":9.1,"penalties":[]},
+    {"id":"dvt001_12","suggestive_hook":8.3,"scroll_stop_potential":8.2,"sensual_composition":8.1,"character_identity":9.4,"micro_story":8.0,"animation_potential":7.7,"diversity":9.1,"penalties":[]},
+    {"id":"dvt001_13","suggestive_hook":8.2,"scroll_stop_potential":8.2,"sensual_composition":8.2,"character_identity":9.4,"micro_story":7.6,"animation_potential":8.0,"diversity":8.9,"penalties":[]},
+    {"id":"dvt001_14","suggestive_hook":8.4,"scroll_stop_potential":8.3,"sensual_composition":8.3,"character_identity":9.3,"micro_story":7.8,"animation_potential":7.9,"diversity":9.0,"penalties":[]},
+    {"id":"dvt001_15","suggestive_hook":8.6,"scroll_stop_potential":8.5,"sensual_composition":8.5,"character_identity":9.4,"micro_story":7.7,"animation_potential":8.0,"diversity":9.2,"penalties":[]},
+    {"id":"dvt001_16","suggestive_hook":8.5,"scroll_stop_potential":8.4,"sensual_composition":8.2,"character_identity":9.5,"micro_story":8.0,"animation_potential":7.8,"diversity":9.0,"penalties":[]},
+    {"id":"dvt001_17","suggestive_hook":8.4,"scroll_stop_potential":8.4,"sensual_composition":8.1,"character_identity":9.3,"micro_story":8.2,"animation_potential":7.3,"diversity":9.2,"penalties":[]},
+    {"id":"dvt001_18","suggestive_hook":8.6,"scroll_stop_potential":8.5,"sensual_composition":8.4,"character_identity":9.4,"micro_story":8.0,"animation_potential":7.4,"diversity":9.1,"penalties":[]},
+    {"id":"dvt001_19","suggestive_hook":8.5,"scroll_stop_potential":8.4,"sensual_composition":8.2,"character_identity":9.3,"micro_story":8.3,"animation_potential":7.5,"diversity":9.1,"penalties":[]},
+    {"id":"dvt001_20","suggestive_hook":8.4,"scroll_stop_potential":8.3,"sensual_composition":8.0,"character_identity":9.4,"micro_story":8.1,"animation_potential":7.5,"diversity":9.2,"penalties":[]}
+  ],
+  "set_scores": {
+    "suggestive_hook": 8.4,
+    "scroll_stop_potential": 8.3,
+    "sensual_composition": 8.2,
+    "character_identity": 9.4,
+    "micro_story": 7.9,
+    "animation_potential": 7.5,
+    "diversity": 9.1
+  },
+  "penalty_audit": {
+    "trailer_syndrome": {"count":0,"severity":"none"},
+    "generic_fanservice": {"count":0,"severity":"none"},
+    "beauty_shot": {"count":0,"severity":"none"},
+    "repetition": {"count":0,"severity":"none"}
+  },
+  "verdict": "positive",
+  "limitations": [
+    "This is a premise-level directed validation, not an image or video render test.",
+    "The lower animation score versus run_027 reflects deliberate containment of motion; it should be validated later with short video generation rather than presumed equivalent."
+  ]
+}

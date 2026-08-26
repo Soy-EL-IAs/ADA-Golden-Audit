@@ -1,0 +1,208 @@
+{
+  "per_premise": [
+    {
+      "id": "e023_b01_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Strong causal link between spark and reaction. However, 'pushing blindfold back' is a significant identity shift that may feel less iconic than the standard look unless justified by the specific need to see."
+    },
+    {
+      "id": "e023_b01_medium",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Lifting a grate is functional but visually static. The 'holding steady' aspect reduces animation potential compared to active manipulation like prying or twisting."
+    },
+    {
+      "id": "e023_b01_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Good balance of tension and consequence (sliding slab). The visual emphasis on legs is functional to the balancing act."
+    },
+    {
+      "id": "e023_b01_dynamic",
+      "identity": 9,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Excellent dynamic action. The chain swing provides a clear cause and the dodge is active. Strong silhouette."
+    },
+    {
+      "id": "e023_b01_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Catching debris is a good micro-story, but the 'silhouetted against window' framing risks becoming atmospheric if the catch isn't emphasized enough. Slightly passive stance."
+    },
+    {
+      "id": "e023_b02_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Bracing against a beam is active. The detail of the strap snapping taut adds physicality. Good close-up focus."
+    },
+    {
+      "id": "e023_b02_medium",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Pulling a cable is similar to the prying cluster. The 'jerk' provides some motion, but it feels like a variation of mechanical struggle rather than a distinct hook."
+    },
+    {
+      "id": "e023_b02_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Sliding under a press is high-tension and visually distinct. The compression of the body against the floor creates strong lines."
+    },
+    {
+      "id": "e023_b02_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Leaping over steam is a classic dynamic move. The 'split jump' adds visual flair. Clear cause (steam burst) and consequence (dodge)."
+    },
+    {
+      "id": "e023_b02_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Reaching for a chain to swing is good, but the 'standing on girder' setup feels slightly static before the action. The silhouette against sky is effective."
+    },
+    {
+      "id": "e023_b03_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Tracking electricity is reactive but less physically interactive than bracing or dodging. The 'sharp focus' expression is good for personality."
+    },
+    {
+      "id": "e03_b03_medium",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Prying a vent cover is part of the 'Mechanical Jam/Prying' hook family. This is likely the second or third instance in the batch, risking repetition."
+    },
+    {
+      "id": "e023_b03_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 7,
+      "notes": "Catching a falling beam is active and has clear consequence. The lunge position is dynamic and shows weight distribution well."
+    },
+    {
+      "id": "e023_b03_dynamic",
+      "identity": 9,
+      "visual_appeal": 9,
+      "micro_story": 8,
+      "animation_potential": 9,
+      "notes": "Vaulting over a pit with a chain is excellent. High motion blur potential and clear narrative of traversal."
+    },
+    {
+      "id": "e023_b03_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Grabbing a cargo crate is specific. The 'fighting for balance against wind' adds an atmospheric element that might dilute the primary action if not handled carefully."
+    },
+    {
+      "id": "e023_b04_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Using a glass shard as a mirror is a unique and clever micro-story. It shows intelligence/observation rather than just physical struggle."
+    },
+    {
+      "id": "e023_b04_medium",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Twisting a valve is another mechanical interaction. Similar to prying/pulling cables. The 'sliding gloves' detail adds texture but the core action is repetitive."
+    },
+    {
+      "id": "e023_b04_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Hanging from an I-beam is a strong silhouette. Reaching for a bolt adds a secondary action that prevents it from being just a pose."
+    },
+    {
+      "id": "e023_b04_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Sliding to kick a door is high energy. The 'parallel to ground' pose is visually striking and implies significant velocity."
+    },
+    {
+      "id": "e023_b04_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Pulling a rope on a tilting platform is good tension. The 'tangled rope' detail adds complexity to the action."
+    }
+  ],
+  "set_scores": {
+    "identity": 8.5,
+    "visual_appeal": 7.8,
+    "diversity": 6.5,
+    "repetition_control": 5.5,
+    "micro_story": 7.2,
+    "animation_potential": 7.5
+  },
+  "strengths": [
+    "Strong adherence to character identity with consistent use of key accessories (blindfold, gloves, dress details).",
+    "High animation potential in dynamic and full-body shots, with clear implied motion and physics.",
+    "Good variety in shot types (closeup to cinematic) ensuring a well-rounded dataset structure."
+  ],
+  "failures": [
+    "Significant repetition in the 'Mechanical Jam/Prying' hook family: e023_b01_medium (lifting grate), e023_b02_medium (pulling cable), e023_b03_medium (prying vent), e023_b04_medium (twisting valve). This violates the max 2 rule for similar mechanical struggles.",
+    "Several cinematic and closeup shots rely on 'standing' or 'reaching' which can feel passive if not strongly tied to immediate consequence.",
+    "The 'Fluid/Steam' cluster appears in e023_b02_dynamic (steam leap) and potentially overlaps with atmospheric elements in other shots, though it is less severe than the mechanical repetition."
+  ],
+  "desired_patterns": [
+    "Active manipulation of environment or body in response to a visible cause.",
+    "Clear causal chains: Object A moves -> Character B reacts -> Consequence C occurs.",
+    "Integration of visual appeal (silhouette, fabric tension) with functional action rather than static posing."
+  ],
+  "undesired_patterns": [
+    "Repeated mechanical struggles (prying, pulling, twisting) without distinct narrative consequences or varied physical interactions.",
+    "Atmospheric elements (wind, light) serving as the primary hook instead of specific character interaction.",
+    "Passive gripping or standing without visible resistance or immediate threat."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Mechanical Jam/Prying/Struggle",
+      "proposal_ids": ["e023_b01_medium", "e023_b02_medium", "e023_b03_medium", "e023_b04_medium"]
+    },
+    {
+      "pattern": "Cinematic Reaching/Grasping",
+      "proposal_ids": ["e023_b01_cinematic", "e023_b02_cinematic", "e023_b03_cinematic", "e023_b04_cinematic"]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Reduce the number of 'mechanical struggle' premises to max 2, and replace others with distinct hook families like 'Discovery/Inspection' or 'Combat/Evasion'.",
+    "Ensure cinematic shots have a more specific, immediate event happening within the frame rather than just establishing a precarious position.",
+    "Vary the physical interaction in mechanical scenes: instead of always pulling/prying, consider pushing, climbing, or balancing on the machinery."
+  ],
+  "verdict": "The batch is strong in identity and animation potential but suffers from moderate repetition in the 'mechanical struggle' hook family. The cinematic shots are competent but lack the punch of the dynamic/full-body entries. Adjusting the medium-shot mechanical variations will improve diversity scores significantly."
+}

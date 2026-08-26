@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e037_b01_closeup",
+    "category": "closeup",
+    "premise": "2B's face is framed tightly as she winces against the sudden chill of a burst water pipe, her short white hair clinging damp to her cheek while her black blindfold shifts slightly from the moisture, capturing the micro-expression of controlled discomfort before she blinks away the condensation."
+  },
+  {
+    "id": "e037_b01_medium",
+    "category": "medium",
+    "premise": "A waist-up view shows 2B bracing against a heavy, rusted door handle that has just jammed shut, her torso twisted sharply to the side as she twists her gloved hand with effort, causing the fabric of her black dress's cutout and puffy sleeves to stretch taut across her midsection in response to the mechanical resistance."
+  },
+  {
+    "id": "e037_b01_fullbody",
+    "category": "fullbody",
+    "premise": "2B is captured in a full-body stance on the slick, moss-covered edge of a crumbling stone archway, her weight shifted entirely onto one thigh-high boot as she reaches out with both hands to steady herself against a sudden gust of wind that lifts her dress hem and stockings, highlighting her precarious balance against the organic growths."
+  },
+  {
+    "id": "e037_b01_dynamic",
+    "category": "dynamic",
+    "premise": "Mid-air, 2B executes a sharp lateral dodge away from a falling chunk of debris visible in the upper corner, her body twisted into a tight spiral with one leg extended forward and arms crossed defensively, capturing the peak moment of evasion as her hair and clothing trail behind her in a blur of motion."
+  },
+  {
+    "id": "e037_b01_cinematic",
+    "category": "cinematic",
+    "premise": "Set against the vast, shadowed interior of a collapsed cathedral, 2B is seen from a low angle as she climbs vertically up a jagged pillar of exposed rebar and concrete, her small silhouette contrasting with the immense scale of the ruin while she pulls herself upward, driven by the need to reach a distant light source at the apex."
+  }
+]

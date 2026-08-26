@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e036_b03_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme closeup of 2B's black-gloved hand gripping a jagged, rusted gear that is grinding against her palm; the friction has worn through the glove material at the knuckles, revealing raw skin beneath as she forces the mechanism to stop rotating, with a single drop of hydraulic fluid beading on the metal edge just before it drips onto her wrist.\"\n  },\n  {\n    \"id\": \"e036_b03_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B leaning forward aggressively, using both black-gloved hands to pry open a sealed, corroded hatch on a curved metallic wall; her torso is compressed and twisted as she applies leverage, causing the puffy sleeves to bunch up at her elbows while the cutout in her dress strains against the tension in her core muscles.\"\n  },\n  {\n    \"id\": \"e036_b03_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B mid-stride across a wide, broken suspension bridge cable; one thigh-high boot is planted firmly on the swaying wire while her other leg kicks out to push off from a nearby support beam, shifting her center of gravity dangerously high as she balances against the wind shear created by the snapping cable.\"\n  },\n  {\n    \"id\": \"e036_b03_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B executing a sharp, low slide across a polished marble floor to evade a falling chandelier fragment; her body is compressed close to the ground with motion blur trailing behind her dress hem and hair, while one hand skims the surface of the floor, sending up a spray of dust and debris in the wake of her rapid deceleration.\"\n  },\n  {\n    \"id\": \"e036_b03_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Low-angle cinematic shot looking up at 2B as she stands atop a crumbling, spiraling staircase of stone; she is actively climbing upward against the pull of gravity, her boots digging into the loose steps as chunks of rock crumble away behind her, with dust swirling around her silhouette against the vast, open sky above.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4403,
+    "total_output_tokens": 539,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.54914973945526,
+    "time_to_first_token_seconds": 5.148591000000001
+  }
+}

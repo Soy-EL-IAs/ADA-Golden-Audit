@@ -1,0 +1,92 @@
+{
+  "batch_id": "orchestration_test_002",
+  "status": "complete",
+  "workflow": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\workflows\\illustrious_to_klein_batch_base_ui.json",
+  "dataset": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\prompts\\klein_batch_trial_3.jsonl",
+  "count": 3,
+  "output_root": "LunaKleinBatch/orchestration_test_002",
+  "records": [
+    {
+      "index": 1,
+      "id": "chel_001",
+      "status": "complete",
+      "prompt_id": "30e6e61a-03c4-42c8-81bc-264bd166907e",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\orchestration_test_002\\chel_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\orchestration_test_002\\chel_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\orchestration_test_002\\chel_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "id": "nico_robin_001",
+      "status": "complete",
+      "prompt_id": "642b24b5-d4e2-4df5-9250-16ac5558cac7",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\orchestration_test_002\\nico_robin_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\orchestration_test_002\\nico_robin_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\orchestration_test_002\\nico_robin_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "id": "nami_001",
+      "status": "complete",
+      "prompt_id": "abfe11fb-21e2-4c50-9170-80a781b023a3",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\orchestration_test_002\\nami_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\orchestration_test_002\\nami_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\orchestration_test_002\\nami_001",
+          "type": "output"
+        }
+      ]
+    }
+  ],
+  "completed_at": "2026-08-21T09:02:48.274820-03:00"
+}

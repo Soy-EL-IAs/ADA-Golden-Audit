@@ -1,0 +1,39 @@
+{
+  "run_id": "001_tifa_001",
+  "batch_id": "20260820_133528_render_only_fast",
+  "sequence": 1,
+  "premise_id": "tifa_001",
+  "mode": "render-only-fast",
+  "review_status": "unreviewed_render_only",
+  "status": "unreviewed_render_only",
+  "created_at": "2026-08-20T13:35:28.949563-03:00",
+  "illustrious_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 710031,
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_133528_render_only_fast\\001_tifa_001\\illustrious\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_133528_render_only_fast\\001_tifa_001\\illustrious",
+        "type": "output"
+      }
+    }
+  ],
+  "krea_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 710131,
+      "source_image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_133528_render_only_fast\\001_tifa_001\\illustrious\\candidate_01.png",
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_133528_render_only_fast\\001_tifa_001\\krea\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_133528_render_only_fast\\001_tifa_001\\krea",
+        "type": "output"
+      }
+    }
+  ],
+  "illustrious_style_note": "medium close-up at the Seventh Heaven bar, Tifa reaching for the beer tap as a dramatic cloud of harmless beer foam splashes across her white cropped tank top; naturally wet fabric with a subtle semi-transparent effect, adult alluring expression and pose, non-explicit, no nudity, keep the beer tap and expanding foam visible, anatomically coherent",
+  "illustrious_prompt_id": "86383ddf-7b75-42e4-8822-bdc0ecb852f3",
+  "krea_prompt_id": "11447dd8-12bd-4fb1-a060-d965562bc6bf",
+  "completed_at": "2026-08-20T13:36:01.244559-03:00"
+}

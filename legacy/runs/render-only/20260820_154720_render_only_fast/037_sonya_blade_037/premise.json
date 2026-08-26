@@ -1,0 +1,34 @@
+{
+  "id": "sonya_blade_037",
+  "character": "Sonya Blade",
+  "franchise": "Mortal Kombat",
+  "identity": [
+    "blonde ponytail",
+    "green fitted tactical uniform",
+    "combat gloves"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a military obstacle gym, she vaults a padded barrier and lands on a springy mat that rebounds a foam training baton straight into the air beside her, with confident sensual body language throughout.",
+  "must_include": [
+    "springy mat",
+    "foam training baton"
+  ],
+  "environment": [
+    "training gym",
+    "bright overhead lighting",
+    "padded obstacles and rubber flooring"
+  ],
+  "animation_hook": "She catches the baton behind her back, turns, and immediately transitions into another vault.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000036,
+  "krea_seed_base": 2000036
+}

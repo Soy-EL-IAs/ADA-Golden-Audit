@@ -1,0 +1,15 @@
+{
+  "id": "faye_valentine_ada_Faye_Valentine_20260822_172552_02",
+  "stage": "illustrious",
+  "verdict": "RETRY_ILLUSTRIOUS",
+  "preserved_ok": [],
+  "defects": [
+    "The character is wearing a yellow top with black trim and red fabric draped over her shoulder, not matching the premise's purple hairband and crop top."
+  ],
+  "drift": [
+    "The premise specifies Faye is in a dimly lit office with bare shoulders exposed by an off-shoulder crop top. The rendered image shows her in a brightly lit doorway, wearing a yellow top with red fabric, not matching the premise's clothing or setting.",
+    "The premise requires her to be frozen mid-motion, glancing toward the entrance due to a knock. The rendered image shows her looking directly at the viewer, not reacting to an external interruption.",
+    "The premise specifies 'strategic censorship' by focusing on tension, not explicit exposure. The rendered image shows her in a revealing outfit with no censorship, contradicting the premise's intent."
+  ],
+  "summary": "Major structural failure: clothing, pose, gaze, and setting do not match the premise. The character is not reacting to an interruption, and the outfit and lighting are inconsistent with the approved premise."
+}

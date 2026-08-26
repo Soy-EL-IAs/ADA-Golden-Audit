@@ -1,0 +1,14 @@
+{
+  "id": "2b_balanced_v1_closeup_001",
+  "stage": "illustrious",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair"
+  ],
+  "defects": [],
+  "drift": [
+    "The composition is a tight close-up, but the shallow depth of field is not strongly emphasized; background blur is minimal and does not fully isolate the subject."
+  ],
+  "summary": "The image correctly preserves the blindfold and white hair as specified. No visible defects are present. The narrative drift is minor: the shallow depth of field is not as pronounced as required to fully emphasize the tension and focus on the facial reaction."
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e015_b01_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"2B's gloved fingers tense as she pinches the edge of her slipping black blindfold, a single drop of condensation from a ruptured ceiling pipe landing on her forehead to break her composure.\"\n  },\n  {\n    \"id\": \"e015_b01_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B leans forward with controlled urgency, using both gloved hands to pry open a jammed ventilation grate, the strain tightening her puffy sleeves and pulling her dress hem slightly upward.\"\n  },\n  {\n    \"id\": \"e015_b01_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B crouches low to maintain balance on a tilting metal platform, one hand gripping a rusted pipe for stability as her thigh-high stockings stretch against the sudden shift in gravity.\"\n  },\n  {\n    \"id\": \"e015_b01_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B twists sharply to catch a falling heavy gear with her forearm, the impact sending her short white hair flying and disrupting the drape of her dress as she braces for the weight.\"\n  },\n  {\n    \"id\": \"e015_b01_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"2B stands on a precarious ledge, extending one arm to steady a collapsing beam that is acting as a bridge, her silhouette framed against the chaotic debris of the structure below.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3125,
+    "total_output_tokens": 380,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.319237002133475,
+    "time_to_first_token_seconds": 3.850311
+  }
+}

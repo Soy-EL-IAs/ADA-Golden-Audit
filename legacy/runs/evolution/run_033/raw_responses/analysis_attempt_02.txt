@@ -1,0 +1,219 @@
+{
+  "per_premise": [
+    {
+      "id": "e033_b01_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 9,
+      "animation_potential": 7,
+      "notes": "Strong causal link (shard impact). 'Controlled frustration' fits personality. Dust adds visual texture."
+    },
+    {
+      "id": "e033_b01_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Good use of fabric physics (sleeves billowing). Clear cause (steam/pressure)."
+    },
+    {
+      "id": "e033_b01_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Specific balance challenge. Cause (slip on gravel) is visible and logical."
+    },
+    {
+      "id": "e033_b01_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "High energy. 'Vault' is a distinct verb. Clear obstacle (snapping conduit)."
+    },
+    {
+      "id": "e033_b01_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Scale is good, but 'reaching down' from a high platform to pull a cable on the ground is physically awkward without more context. Slightly static."
+    },
+    {
+      "id": "e033_b02_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 6,
+      "notes": "Steam/heat cause is clear. Condensation on blindfold is a nice detail."
+    },
+    {
+      "id": "e033_b02_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Prying action is specific. Strain is visible in sleeves and posture."
+    },
+    {
+      "id": "e033_b02_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Leap across gap is dynamic. 'Split position' might be slightly unrealistic for a quick leap but visually striking."
+    },
+    {
+      "id": "e033_b02_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Low-dive is distinct. Friction sparks add visual interest."
+    },
+    {
+      "id": "e033_b02_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Hanging from cable is a common trope. 'Swinging wide' is passive compared to active dodging."
+    },
+    {
+      "id": "e033_b03_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 6,
+      "notes": "Mud splatter is a strong visual hook. 'Calculated frustration' fits well."
+    },
+    {
+      "id": "e033_b03_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Prying grate is similar to b02_medium (prying hatch). Repetition of 'pry' mechanic."
+    },
+    {
+      "id": "e033_b03_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "EXACT DUPLICATE of e033_b01_fullbody. Major repetition failure."
+    },
+    {
+      "id": "e033_b03_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "EXACT DUPLICATE of e033_b02_dynamic. Major repetition failure."
+    },
+    {
+      "id": "e033_b03_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "EXACT DUPLICATE of e033_b02_cinematic. Major repetition failure."
+    },
+    {
+      "id": "e033_b04_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 6,
+      "notes": "Coolant drip is a good specific cause. 'Controlled shock' fits personality."
+    },
+    {
+      "id": "e033_b04_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Twisting to avoid sliding panel is a good dynamic reaction. Distinct from previous mediums."
+    },
+    {
+      "id": "e033_b04_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Catching toolbox is a 'catching object' hook. Distinct from balance/leap hooks."
+    },
+    {
+      "id": "e033_b04_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Backflip is a distinct verb. Good kinetic energy."
+    },
+    {
+      "id": "e033_b04_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 5,
+      "animation_potential": 4,
+      "notes": "'Stepping over debris' is flagged as 'Locomotion Filler' in the guide. Weak micro-story."
+    }
+  ],
+  "set_scores": {
+    "identity": 9,
+    "visual_appeal": 8,
+    "diversity": 5,
+    "repetition_control": 4,
+    "micro_story": 7,
+    "animation_potential": 7
+  },
+  "strengths": [
+    "Strong adherence to character identity and personality guardrails across all premises.",
+    "Effective use of fabric physics (sleeves, dress hem) to enhance visual appeal and imply motion.",
+    "Clear causal triggers in most premises, avoiding abstract 'vibes'.",
+    "Good variety in dynamic verbs (vault, dive, backflip)."
+  ],
+  "failures": [
+    "Three exact duplicates in the b03 block (fullbody, dynamic, cinematic) copied from previous blocks.",
+    "Repetition of 'prying' mechanic in medium shots (b02 and b03).",
+    "Cinematic shots tend to be passive or lack strong narrative consequence (hanging, stepping over debris).",
+    "Location distinction rule likely violated with multiple industrial/ruined facility settings without clear differentiation."
+  ],
+  "desired_patterns": [
+    "Unique mechanical hooks for each premise.",
+    "Active character agency in cinematic shots rather than passive observation or simple locomotion.",
+    "Distinct environmental contexts that change the type of interaction (e.g., water, fire, gravity shift) rather than just 'industrial ruins'."
+  ],
+  "undesired_patterns": [
+    "Exact copy-paste of premises across blocks.",
+    "Passive balancing or locomotion without narrative stake.",
+    "Repeating the same physical interaction type (prying, catching) too frequently."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Exact Duplicate: Stepping off crumbling ledge onto narrow beam",
+      "proposal_ids": ["e033_b01_fullbody", "e033_b03_fullbody"]
+    },
+    {
+      "pattern": "Exact Duplicate: Low-dive beneath swinging chain of debris",
+      "proposal_ids": ["e033_b02_dynamic", "e033_b03_dynamic"]
+    },
+    {
+      "pattern": "Exact Duplicate: Hanging from frayed cable in industrial shaft",
+      "proposal_ids": ["e033_b02_cinematic", "e033_b03_cinematic"]
+    },
+    {
+      "pattern": "Similar Mechanic: Prying open jammed/rusted object with gloved hands",
+      "proposal_ids": ["e033_b02_medium", "e033_b03_medium"]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Eliminate all exact duplicates; ensure each premise has a unique core mechanic.",
+    "Vary the 'medium' shot interactions beyond prying/bracing (e.g., manipulating controls, inspecting damage, interacting with another entity).",
+    "Strengthen cinematic shots by adding specific narrative stakes or active problem-solving rather than just scale or locomotion.",
+    "Ensure location diversity is explicit and distinct (e.g., one in a flooded basement, one on a rooftop garden, one inside a server room) to avoid the 'industrial ruin' monotony."
+  ],
+  "verdict": "The set has strong individual premise quality regarding identity and causality, but fails significantly on batch-level diversity due to three exact duplicates and repetitive mechanical hooks. The cinematic category is weak on narrative consequence."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2b_nier_014",
+  "character": "2B",
+  "franchise": "NieR:Automata",
+  "identity": [
+    "short white bob with black blindfold",
+    "black gothic combat dress with thigh-high boots",
+    "katana and hovering pod"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In an abandoned shopping arcade, she steps onto a dormant escalator that jerks to life, making her balance with one hand on the rail while a cluster of balloons tugs loose beside her, with confident sensual body language throughout.",
+  "must_include": [
+    "sudden escalator start",
+    "floating balloons"
+  ],
+  "environment": [
+    "abandoned mall",
+    "soft skylight",
+    "dusty storefronts and broken escalator lights"
+  ],
+  "animation_hook": "She regains balance, slices only the balloon strings free from a railing, and watches them drift upward as she ascends.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000013,
+  "krea_seed_base": 2000013
+}

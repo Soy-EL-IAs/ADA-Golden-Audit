@@ -1,0 +1,176 @@
+{
+  "batch_id": "ada_e2e_v1_001",
+  "status": "complete",
+  "workflow": "D:\\IA\\Ada\\workflows\\illustrious_to_klein_batch_base_ui.json",
+  "dataset": "D:\\IA\\Ada\\prompts\\ada_e2e_v1.jsonl",
+  "count": 4,
+  "output_root": "LunaKleinBatch/ada_e2e_v1_001",
+  "klein_preset_plan": "D:\\IA\\Ada\\config\\klein_presets_ada_e2e_v1.json",
+  "records": [
+    {
+      "index": 1,
+      "id": "ada_e2e_2b_closeup_01",
+      "status": "complete",
+      "klein_preset": {
+        "name": "closeup_a2r",
+        "steps": 4,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\A2R_Klein_Standard.safetensors",
+            "strength": 0.5
+          }
+        ]
+      },
+      "prompt_id": "f0d505eb-1b35-45df-a794-bbddf411db81",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_closeup_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_closeup_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_closeup_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "id": "ada_e2e_2b_fullbody_01",
+      "status": "complete",
+      "klein_preset": {
+        "name": "general_semireal",
+        "steps": 8,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\anime2real-semi.safetensors",
+            "strength": 0.8
+          }
+        ]
+      },
+      "prompt_id": "6eac8596-6ef1-43a5-b4e5-6d99221da7cc",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_fullbody_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_fullbody_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_fullbody_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "id": "ada_e2e_2b_dynamic_01",
+      "status": "complete",
+      "klein_preset": {
+        "name": "general_semireal",
+        "steps": 8,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\anime2real-semi.safetensors",
+            "strength": 0.8
+          }
+        ]
+      },
+      "prompt_id": "0e820edb-9599-49ce-a928-3c2bb6cf39b8",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_dynamic_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_dynamic_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_dynamic_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "id": "ada_e2e_2b_cinematic_01",
+      "status": "complete",
+      "klein_preset": {
+        "name": "general_semireal",
+        "steps": 8,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\anime2real-semi.safetensors",
+            "strength": 0.8
+          }
+        ]
+      },
+      "prompt_id": "9b670244-8540-46d8-823c-541b69c7ee91",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_cinematic_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_cinematic_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\ada_e2e_v1_001\\ada_e2e_2b_cinematic_01",
+          "type": "output"
+        }
+      ]
+    }
+  ],
+  "completed_at": "2026-08-21T18:12:31.308592-03:00"
+}

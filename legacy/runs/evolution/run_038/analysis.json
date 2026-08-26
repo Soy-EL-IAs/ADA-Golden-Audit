@@ -1,0 +1,225 @@
+{
+  "per_premise": [
+    {
+      "id": "e038_b01_closeup",
+      "identity": 9.5,
+      "visual_appeal": 7.0,
+      "micro_story": 8.5,
+      "animation_potential": 6.0,
+      "notes": "Strong causal link (condensation drop) to reaction (flinch). Identity markers (blindfold, steam context) are clear. Slightly low animation potential as the action is a micro-flinch."
+    },
+    {
+      "id": "e038_b01_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 8.0,
+      "animation_potential": 7.5,
+      "notes": "Good use of mechanical cause (tilting floor) to create clothing tension (cutout dress). Visual appeal is high due to the torso twist and fabric interaction."
+    },
+    {
+      "id": "e038_b01_fullbody",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 8.5,
+      "animation_potential": 8.0,
+      "notes": "Excellent biological/organic cause (vines coiling). Creates immediate threat and physical consequence (balance shift). Strong silhouette."
+    },
+    {
+      "id": "e038_b01_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.5,
+      "micro_story": 7.5,
+      "animation_potential": 9.0,
+      "notes": "High energy spin with clear cause (shrapnel). Hair and sleeves flaring adds visual noise/interest. Slightly generic 'evasive maneuver' but well-executed."
+    },
+    {
+      "id": "e038_b01_cinematic",
+      "identity": 9.5,
+      "visual_appeal": 7.5,
+      "micro_story": 6.5,
+      "animation_potential": 4.0,
+      "notes": "Weak micro-story. 'Staring down at a shadow' is passive observation rather than active interaction. Relies heavily on atmosphere (backlighting/dust) to carry the scene."
+    },
+    {
+      "id": "e038_b02_closeup",
+      "identity": 9.5,
+      "visual_appeal": 7.0,
+      "micro_story": 8.0,
+      "animation_potential": 6.5,
+      "notes": "Clear cause (glass shard) and reaction (recoil/sting). Good tension in the face. The 'dust motes' detail is atmospheric but supports the stillness after impact."
+    },
+    {
+      "id": "e038_b02_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.5,
+      "animation_potential": 7.0,
+      "notes": "Mechanical cause (jammed hatch) leads to physical strain. Good use of gloves and sleeve tension. Slightly static compared to other medium shots but effective."
+    },
+    {
+      "id": "e038_b02_fullbody",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 7.5,
+      "animation_potential": 8.5,
+      "notes": "Vertical descent with elemental cause (smoke). Good use of stockings and dress hem interaction. Clear 'escape' narrative."
+    },
+    {
+      "id": "e038_b02_dynamic",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 9.0,
+      "notes": "Leap over crack with falling debris cause. Good momentum implied by hair/blindfold trailing. Slightly similar to b01_dynamic in terms of 'mid-air evasion' but distinct enough."
+    },
+    {
+      "id": "e038_b02_cinematic",
+      "identity": 9.5,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 4.5,
+      "notes": "Passive standing on sinking ship. 'Looking out' is weak interaction. Relies on the burning deck for visual interest rather than character action."
+    },
+    {
+      "id": "e038_b03_closeup",
+      "identity": 9.5,
+      "visual_appeal": 7.5,
+      "micro_story": 8.0,
+      "animation_potential": 6.0,
+      "notes": "Elemental cause (cold/coolant) with visible effect (mist/frost). Good physical reaction (pulling collar up). Strong sensory detail."
+    },
+    {
+      "id": "e038_b03_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 7.5,
+      "animation_potential": 7.5,
+      "notes": "Mechanical cause (swinging chain) leads to torso twist and dress tension. Good use of gloves for stability. Clear danger."
+    },
+    {
+      "id": "e038_b03_fullbody",
+      "identity": 9.5,
+      "visual_appeal": 7.5,
+      "micro_story": 7.0,
+      "animation_potential": 6.5,
+      "notes": "Debris crash cause. Bracing pose is good but slightly static compared to the vine/beam premise. Hair swept back adds motion."
+    },
+    {
+      "id": "e038_b03_dynamic",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 7.5,
+      "animation_potential": 9.5,
+      "notes": "High energy somersault over lava with steam jet cause. Excellent use of heat distortion and fabric whipping. Very strong visual hook."
+    },
+    {
+      "id": "e038_b03_cinematic",
+      "identity": 9.5,
+      "visual_appeal": 7.0,
+      "micro_story": 6.5,
+      "animation_potential": 4.0,
+      "notes": "Colossus shadow cause creates wind effect on hair/blindfold. However, the character is still 'standing alone' and observing. Passive stance weakens the cinematic impact."
+    },
+    {
+      "id": "e038_b04_closeup",
+      "identity": 9.5,
+      "visual_appeal": 7.5,
+      "micro_story": 8.5,
+      "animation_potential": 6.5,
+      "notes": "Biological cause (beetles) leading to restrained reaction (holding breath/stillness). Excellent personality expression (restraint vs instinct)."
+    },
+    {
+      "id": "e038_b04_medium",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.5,
+      "animation_potential": 7.0,
+      "notes": "Mechanical cause (ladder jolt) leading to balance loss and torso twist. Good use of sleeve tension. Similar structural logic to b01_medium but distinct enough."
+    },
+    {
+      "id": "e038_b04_fullbody",
+      "identity": 9.5,
+      "visual_appeal": 7.5,
+      "micro_story": 7.0,
+      "animation_potential": 6.5,
+      "notes": "Crate sliding cause leads to crouch/balance shift. Good use of boot tips and weight distribution. Slightly less dramatic than other fullbody shots."
+    },
+    {
+      "id": "e038_b04_dynamic",
+      "identity": 9.5,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 8.5,
+      "notes": "Horizontal slide with kick action. Clear cause (loose stone/debris). Good lateral motion implied by hair trailing."
+    },
+    {
+      "id": "e038_b04_cinematic",
+      "identity": 9.5,
+      "visual_appeal": 8.5,
+      "micro_story": 7.5,
+      "animation_potential": 6.0,
+      "notes": "Bird landing cause creates structural shudder/crack. Better than previous cinematic shots because the environment reacts to a specific event (bird) rather than just being present."
+    }
+  ],
+  "set_scores": {
+    "identity": 9.5,
+    "visual_appeal": 8.0,
+    "diversity": 7.5,
+    "repetition_control": 6.5,
+    "micro_story": 7.5,
+    "animation_potential": 7.5
+  },
+  "strengths": [
+    "Consistent and accurate character identity across all 20 premises.",
+    "Strong causal logic in most premises (visible cause -> physical reaction).",
+    "Effective use of clothing physics (dress cutout, sleeves, stockings) to enhance visual appeal without losing narrative focus.",
+    "Good variety in causal forces (mechanical, elemental, biological)."
+  ],
+  "failures": [
+    "Cinematic category suffers from passive 'standing and looking' poses in 3 out of 4 entries (b01, b02, b03), lacking active interaction.",
+    "Repetition of 'torso twist + fabric tension' as the primary visual hook in multiple medium shots (b01, b03, b04).",
+    "Several dynamic premises rely on similar 'mid-air evasion with hair trailing' mechanics, reducing distinctiveness."
+  ],
+  "desired_patterns": [
+    "Active environmental interaction where the character changes the state of the environment or is physically altered by it.",
+    "Distinctive body language that reflects personality (restraint, composure) rather than just generic action poses.",
+    "Clear cause-and-effect chains visible in a single frame."
+  ],
+  "undesired_patterns": [
+    "Passive observation ('staring at', 'looking out') as the primary action.",
+    "Atmospheric mood pieces (backlighting, dust) substituting for specific physical events.",
+    "Repeated use of 'twisting torso to show dress tension' without varying the underlying cause or body mechanics."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Passive Cinematic Stance",
+      "proposal_ids": [
+        "e038_b01_cinematic",
+        "e038_b02_cinematic",
+        "e038_b03_cinematic"
+      ]
+    },
+    {
+      "pattern": "Torso Twist & Fabric Tension (Medium)",
+      "proposal_ids": [
+        "e038_b01_medium",
+        "e038_b03_medium",
+        "e038_b04_medium"
+      ]
+    },
+    {
+      "pattern": "Mid-Air Evasion with Trailing Hair (Dynamic)",
+      "proposal_ids": [
+        "e038_b01_dynamic",
+        "e038_b02_dynamic",
+        "e038_b04_dynamic"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "For Cinematic shots, require an active physical interaction with the environment (e.g., pushing against a closing door, catching a falling object) rather than just standing in it.",
+    "Vary the body mechanics in Medium shots; avoid defaulting to 'torso twist' for every mechanical cause. Use leg movement, head tilt, or arm extension instead.",
+    "Differentiate Dynamic shots by varying the type of motion (e.g., vertical drop vs horizontal slide vs rotational spin) and the specific clothing element reacting (sleeves vs hem vs hair)."
+  ],
+  "verdict": "Strong batch with high identity consistency and good causal logic, but suffers from passive cinematic framing and repetitive medium-shot mechanics. Needs more active environmental engagement in wide shots."
+}

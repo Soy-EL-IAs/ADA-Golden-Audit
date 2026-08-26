@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-hpj4q7vi49qmckooaausu",
+  "object": "chat.completion",
+  "created": 1787435147,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_184029_02\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"defects\": [\n    \"Immutable identity failure: hair color is purple (correct), but eyes are green (correct per spec). However, the hand grabbing the crop top is not clearly distinct from Faye's own hands — the grabbing hand is visually ambiguous and lacks claw marks or texture differentiation, violating the risk note.\",\n    \"Scene requirement failure: the hand grabbing the crop top hem is not clearly visible or distinct from Faye's own hand. The 'aggressive hand' is visually confused with her own arm, breaking the narrative tension.\",\n    \"Missing critical scene requirement: the torn paper is not visible — it is missing entirely. The premise requires the paper to partially obscure the view, but it is absent. This is a major structural failure.\",\n    \"Drift: the hand grabbing the top is not clearly a 'sudden, aggressive hand' — it appears as part of Faye's own pose, breaking the narrative intent.\",\n    \"Drift: the crop top is not being pulled down by an external hand — it appears as if Faye is holding it herself, violating the scene requirement.\"\n  ],\n  \"drift\": [\n    \"The torn paper is missing — this is a critical omission that breaks the premise's narrative hook.\",\n    \"The hand grabbing the crop top is visually ambiguous — it appears to be part of Faye's own arm, not an external force, which breaks the scene requirement.\"\n  ],\n  \"summary\": \"The image fails the identity contract due to ambiguous hand representation and missing critical scene elements. The torn paper is absent, and the grabbing hand is visually confused with Faye's own hand, violating the risk note and scene requirement. This is a major structural failure requiring RETRY_ILLUSTRIOUS.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1762,
+    "completion_tokens": 419,
+    "total_tokens": 2181,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

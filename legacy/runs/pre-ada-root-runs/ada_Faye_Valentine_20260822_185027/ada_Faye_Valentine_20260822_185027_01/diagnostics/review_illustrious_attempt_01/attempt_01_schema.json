@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-ghl8o7oq1kl6vrknayu299",
+  "object": "chat.completion",
+  "created": 1787435668,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_185027_01\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"defects\": [\n    \"Wrong hair color: Premise requires purple hair; image shows dark purple with orange hairband, but not matching the canonical 'purple_hair' specification.\",\n    \"Wrong eye color: Premise requires green eyes; image shows green eyes — this is correct.\",\n    \"Wrong species traits: Premise requires human female; image shows human female — this is correct.\",\n    \"Scene requirement failure: Premise requires 'holding crumpled newspaper clipping over midriff' — image shows a crumpled newspaper, but it is held in a way that does not cover the midriff; it is held like a fan, not obscuring the torso.\",\n    \"Scene requirement failure: Premise requires 'torn edges of paper visible' — image shows torn edges, but they are not clearly visible as part of the clipping being held over the midriff; the paper is held in a way that obscures the torn edges.\",\n    \"Scene requirement failure: Premise requires 'irritated expression with narrowed eyes' — image shows narrowed eyes, but the expression is more confident or smug, not irritated.\",\n    \"Scene requirement failure: Premise requires 'hand on hip with fingers digging into shorts fabric' — image shows one hand on hip, but fingers are not digging into shorts fabric; they are resting on the hip.\",\n    \"Canonical outfit drift: Premise requires 'hairband' — image shows a hairband, but it is orange, not matching the canonical specification.\",\n    \"Canonical outfit drift: Premise requires 'shorts' — image shows shorts, but they are gold, not matching the canonical specification.\",\n    \"Canonical outfit drift: Premise requires 'lipstick' — image shows red lipstick, which matches the canonical specification.\",\n    \"Canonical outfit drift: Premise requires 'thighhighs' — image shows thighhighs, but they are pink with holes, not matching the canonical specification.\",\n    \"Canonical outfit drift: Premise requires 'shirt' — image shows a red shirt, but it is not a shirt; it is a red jacket or cape, not matching the canonical specification.\",\n    \"Canonical outfit drift: Premise requires 'bare_shoulders' — image shows bare shoulders, which matches the canonical specification.\",\n    \"Canonical outfit drift: Premise requires 'crop_top' — image shows a crop top, which matches the canonical specification.\",\n    \"Canonical outfit drift: Premise requires 'boots' — image shows boots, which matches the canonical specification.\"\n  ],\n  \"drift\": [\n    \"The newspaper clipping is not clearly distinct from clothing; it is held in a way that makes it look like part of the outfit.\",\n    \"The revealed skin area is not minimal and non-graphic; it is large and exposed, not matching the risk notes.\"\n  ],\n  \"summary\": \"The image fails multiple critical scene requirements and has significant identity and outfit drift. The newspaper is not held over the midriff, the expression is not irritated, and the hand is not digging into the shorts. The hairband and shorts colors do not match the canonical specification. The risk",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "length"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1723,
+    "completion_tokens": 700,
+    "total_tokens": 2423,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

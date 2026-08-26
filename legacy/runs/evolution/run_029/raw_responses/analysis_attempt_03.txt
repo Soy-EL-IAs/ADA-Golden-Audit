@@ -1,0 +1,64 @@
+{
+  "per_premise": [
+    {"id": "e029_b01_1", "identity": 9, "visual_appeal": 8, "micro_story": 7, "animation_potential": 6, "notes": "Strong identity with the blindfold slip. The 'gripping edge' is a static brace; animation potential is low as it's a hold rather than an action in progress."},
+    {"id": "e029_b01_2", "identity": 8, "visual_appeal": 7, "micro_story": 6, "animation_potential": 5, "notes": "Violates 'No Static Bracing'. Leaning forward to keep balance against wind is passive resistance. The cause (vent) is visible but the reaction is static."},
+    {"id": "e029_b01_3", "identity": 8, "visual_appeal": 7, "micro_story": 6, "animation_potential": 5, "notes": "Generic locomotion. Stepping across a bridge without a specific destination or immediate threat beyond the gap is weak. Reaching for a pillar is a secondary static action."},
+    {"id": "e029_b01_4", "identity": 8, "visual_appeal": 8, "micro_story": 7, "animation_potential": 8, "notes": "Good dynamic energy. Dodging debris with a clear vector and consequence (dust cloud) works well. The dress flare is justified by motion."},
+    {"id": "e029_b01_5", "identity": 7, "visual_appeal": 8, "micro_story": 6, "animation_potential": 4, "notes": "Atmospheric defaulter. 'Industrial sunset' is a mood tool. Pulling a cable to secure footing is vague; is she climbing? Anchoring? The action lacks clear mechanical consequence."},
+    {"id": "e029_b02_1", "identity": 8, "visual_appeal": 7, "micro_story": 6, "animation_potential": 5, "notes": "Close-up is decent but 'gripping own wrist' is a reflexive pose rather than an interaction with the environment. The steam cause is visible."},
+    {"id": "e029_b02_2", "identity": 8, "visual_appeal": 7, "micro_story": 6, "animation_potential": 5, "notes": "Leaning over a hole is a static inspection. Holding rebar is passive support. Lacks the 'active verb' required for strong animation potential."},
+    {"id": "e029_b02_3", "identity": 7, "visual_appeal": 8, "micro_story": 5, "animation_potential": 4, "notes": "Balancing on a beam is generic locomotion. 'Legs crossed at ankles' is an unnatural pose for stability unless specified as a specific technique, which it isn't. Weak causal link to the reactor heat."},
+    {"id": "e029_b02_4", "identity": 8, "visual_appeal": 8, "micro_story": 7, "animation_potential": 8, "notes": "Strong dynamic premise. Catching a swinging cable is an active verb with clear physics and consequence. Good use of body extension."},
+    {"id": "e029_b02_5", "identity": 7, "visual_appeal": 8, "micro_story": 6, "animation_potential": 4, "notes": "Alien flora is a 'what if' element not in the profile, but acceptable if visually self-contained. Pressing hand to wall is static; lacks immediate physical feedback or motion."},
+    {"id": "e029_b03_1", "identity": 8, "visual_appeal": 7, "micro_story": 5, "animation_potential": 4, "notes": "Dust settling is a slow process. 'Inspecting particle drift' is passive observation. The hand raised mid-air is a pose, not an action in progress."},
+    {"id": "e029_b03_2", "identity": 8, "visual_appeal": 7, "micro_story": 6, "animation_potential": 5, "notes": "Straining against a lever is good, but 'twisting torso' can be static if not mid-motion. The jammed lever provides a clear cause."},
+    {"id": "e029_b03_3", "identity": 8, "visual_appeal": 7, "micro_story": 6, "animation_potential": 5, "notes": "Squeezing under a beam is a good physical interaction. The dress catching adds consequence. However, 'sliding forward' implies motion that isn't fully captured in the static description of the pose."},
+    {"id": "e029_b03_4", "identity": 8, "visual_appeal": 8, "micro_story": 7, "animation_potential": 8, "notes": "Spinning to evade glass is high energy. Clear cause (shrapnel) and consequence (hair flying). Good dynamic premise."},
+    {"id": "e029_b03_5", "identity": 7, "visual_appeal": 8, "micro_story": 5, "animation_potential": 4, "notes": "Hanging from a chain is static. 'Swinging gently' implies motion but the pose itself is passive. Lacks immediate threat or goal."},
+    {"id": "e029_b04_1", "identity": 8, "visual_appeal": 7, "micro_story": 6, "animation_potential": 5, "notes": "Wiping condensation is a good micro-action. The heat cause is visible via steam. Identity is well-preserved."},
+    {"id": "e029_b04_2", "identity": 8, "visual_appeal": 7, "micro_story": 6, "animation_potential": 5, "notes": "Bracing against a collapsing wall is static resistance. 'Shoulder pressing into debris' is a hold, not an active movement away from danger."},
+    {"id": "e029_b04_3", "identity": 7, "visual_appeal": 8, "micro_story": 6, "animation_potential": 5, "notes": "Climbing a vertical beam is good, but 'body pressed flat' can be static. The grip on stockings is a nice detail but the overall action is standard climbing."},
+    {"id": "e029_b04_4", "identity": 8, "visual_appeal": 8, "micro_story": 7, "animation_potential": 8, "notes": "Mid-leap over a fissure is excellent. Clear cause (fissure) and consequence (dust plumes). Strong dynamic energy."},
+    {"id": "e029_b04_5", "identity": 7, "visual_appeal": 8, "micro_story": 6, "animation_potential": 5, "notes": "Counterbalancing on a tilting platform is good, but 'shifting weight' can be static if not mid-shift. The hair blowing sideways adds motion cues."}
+  ],
+  "set_scores": {
+    "identity": 8,
+    "visual_appeal": 7.5,
+    "diversity": 6,
+    "repetition_control": 5,
+    "micro_story": 6,
+    "animation_potential": 6
+  },
+  "strengths": [
+    "Strong preservation of character identity across all premises.",
+    "Good use of dynamic verbs in the 'dynamic' category (dodging, lunging, spinning, leaping).",
+    "Visual appeal is consistently high with good composition descriptions."
+  ],
+  "failures": [
+    "Heavy reliance on static bracing/standing poses in closeup and medium categories.",
+    "Generic locomotion (walking/balancing) without clear narrative stakes in fullbody premises.",
+    "Atmospheric elements (sunset, steam, dust) often replace specific physical interactions."
+  ],
+  "desired_patterns": [
+    "Active verbs with clear cause-and-effect consequences.",
+    "Micro-stories that imply immediate next actions.",
+    "Diverse environmental interactions beyond just wind/debris."
+  ],
+  "undesired_patterns": [
+    "Static bracing against forces (wind, weight).",
+    "Passive observation or inspection without physical engagement.",
+    "Generic balancing/walking without specific hazards or goals."
+  ],
+  "repetition_clusters": [
+    {"pattern": "Wind/Air Current Interaction", "proposal_ids": ["e029_b01_2", "e029_b02_3", "e029_b04_5"]},
+    {"pattern": "Static Bracing/Support", "proposal_ids": ["e029_b01_1", "e029_b02_2", "e029_b04_2"]},
+    {"pattern": "Debris/Dust Atmosphere", "proposal_ids": ["e029_b01_1", "e029_b01_4", "e029_b03_1", "e029_b04_4"]}
+  ],
+  "recommendations_for_next_cycle": [
+    "Replace static bracing with active evasion or manipulation of the force.",
+    "Ensure fullbody premises have a clear destination or immediate threat, not just a gap to cross.",
+    "Reduce reliance on wind/debris as primary hooks; introduce more varied physical interactions (e.g., water, magnetic fields, biological elements).",
+    "Make closeups more active: instead of inspecting dust, show the moment of impact or reaction to a sudden change."
+  ],
+  "verdict": "The set shows strong identity and visual appeal but suffers from repetition in hook mechanics (wind/debris) and a lack of dynamic action in static categories. The 'dynamic' category is strong, while 'closeup' and 'medium' lean too heavily on passive poses."
+}

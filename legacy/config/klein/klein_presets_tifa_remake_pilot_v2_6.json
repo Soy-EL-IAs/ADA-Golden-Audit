@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "presets": {
+    "closeup_a2r": {
+      "steps": 4,
+      "loras": [
+        {"lora": "flux/klein_snofs_v1_3.safetensors", "strength": 0.6},
+        {"lora": "flux/A2R_Klein_Standard.safetensors", "strength": 0.5}
+      ]
+    },
+    "fullbody_dynamic_semireal": {
+      "steps": 8,
+      "loras": [
+        {"lora": "flux/klein_snofs_v1_3.safetensors", "strength": 0.6},
+        {"lora": "flux/anime2real-semi.safetensors", "strength": 0.8}
+      ]
+    }
+  },
+  "records": {
+    "tifa_remake_v26_closeup_01": "closeup_a2r",
+    "tifa_remake_v26_closeup_02": "closeup_a2r",
+    "tifa_remake_v26_fullbody_01": "fullbody_dynamic_semireal",
+    "tifa_remake_v26_fullbody_02": "fullbody_dynamic_semireal",
+    "tifa_remake_v26_dynamic_01": "fullbody_dynamic_semireal",
+    "tifa_remake_v26_dynamic_02": "fullbody_dynamic_semireal"
+  }
+}

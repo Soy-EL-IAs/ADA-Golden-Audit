@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e023_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Close-up on 2B's face as she holds a broken shard of glass before her eyes to reflect the glow of a distant explosion; the jagged edge trembles slightly in her black-gloved hand, and the fractured light catches the taut line of her jaw and the slight displacement of her blindfold strap against her cheekbone.\"\n  },\n  {\n    \"id\": \"e023_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot of 2B waist-up as she forcefully twists a large, corroded valve wheel to stop a leaking pipe; her black gloves slide against the wet metal surface, causing her puffy sleeves to bunch and strain at the cuffs while the sudden release of pressure forces her torso to twist sharply, stretching the fabric across her chest.\"\n  },\n  {\n    \"id\": \"e023_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B hanging by one arm from a high, rusted I-beam; her body is suspended vertically with legs crossed at the ankles for balance, highlighting the length of her thigh-high stockings and boots against the dark background as she reaches with her free hand to grab a loose bolt dropping below her.\"\n  },\n  {\n    \"id\": \"e023_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Dynamic side-angle shot capturing 2B mid-slide across a polished metal floor as she uses her booted foot to kick open a stuck maintenance door; her body is parallel to the ground, short white hair streaming back from the velocity, and the hem of her dress flares out behind her due to the drag against the surface.\"\n  },\n  {\n    \"id\": \"e023_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Cinematic wide shot showing 2B standing on a precarious, tilted platform suspended over a deep shaft; she is actively pulling down a heavy, tangled rope to secure it against the railing as the platform begins to tilt further, her silhouette framed by the dramatic depth of the shaft and the tension in her posture.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4450,
+    "total_output_tokens": 521,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.642909191298994,
+    "time_to_first_token_seconds": 5.1664390000000004
+  }
+}

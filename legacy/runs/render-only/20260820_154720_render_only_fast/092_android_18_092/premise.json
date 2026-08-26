@@ -1,0 +1,34 @@
+{
+  "id": "android_18_092",
+  "character": "Android 18",
+  "franchise": "Dragon Ball",
+  "identity": [
+    "blonde bob",
+    "blue denim vest over fitted striped top and skirt",
+    "blue eyes and boots"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "Inside a capsule-tech kitchen, she opens a compact fridge and a tightly packed bottle rolls out, bounces off the counter, and arcs neatly into her waiting hand, with confident sensual body language throughout.",
+  "must_include": [
+    "rolling bottle",
+    "open compact fridge"
+  ],
+  "environment": [
+    "futuristic kitchen",
+    "bright soft lighting",
+    "rounded appliances and clean counters"
+  ],
+  "animation_hook": "She twists the cap, takes one step aside, and closes the fridge with her heel as the door swings back.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000091,
+  "krea_seed_base": 2000091
+}

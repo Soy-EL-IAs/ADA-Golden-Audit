@@ -1,0 +1,39 @@
+{
+  "run_id": "001_tifa_001",
+  "batch_id": "20260820_133141_render_only_fast",
+  "sequence": 1,
+  "premise_id": "tifa_001",
+  "mode": "render-only-fast",
+  "review_status": "unreviewed_render_only",
+  "status": "unreviewed_render_only",
+  "created_at": "2026-08-20T13:31:41.113886-03:00",
+  "illustrious_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 710031,
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_133141_render_only_fast\\001_tifa_001\\illustrious\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_133141_render_only_fast\\001_tifa_001\\illustrious",
+        "type": "output"
+      }
+    }
+  ],
+  "krea_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 710131,
+      "source_image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_133141_render_only_fast\\001_tifa_001\\illustrious\\candidate_01.png",
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_133141_render_only_fast\\001_tifa_001\\krea\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_133141_render_only_fast\\001_tifa_001\\krea",
+        "type": "output"
+      }
+    }
+  ],
+  "illustrious_style_note": "white cropped tank top naturally dampened by harmless beer foam, wet fabric detail, adult alluring but anatomically coherent expression and pose",
+  "illustrious_prompt_id": "9241a537-7ee0-4da6-b80f-2efcf6c4ebbe",
+  "krea_prompt_id": "ea52a438-fc06-4fc7-a353-9569c8b43ed0",
+  "completed_at": "2026-08-20T13:32:13.209190-03:00"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2b_specialist_full_val_001",
+  "illustrious_prompt": "2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, feather-trimmed_sleeves, puffy_sleeves, juliet_sleeves, black_gloves, thigh_boots, hairband, clothing_cutout, leotard, dimly_lit_command_center, shadows, static_burst_from_terminal, flinching, raising_gloved_hand_to_shield_blindfold, stoic_expression, momentary_vulnerability, tension, mechanical_precision, human-like_reaction, light_catching_feather_sleeves",
+  "resolved_risks": [
+    "Ensure the blindfold remains clearly visible to maintain identity without implying sight.",
+    "Keep the static burst subtle to avoid distracting from the character's reaction.",
+    "Maintain the stoic expression despite the flinch to preserve her canonical demeanor."
+  ]
+}

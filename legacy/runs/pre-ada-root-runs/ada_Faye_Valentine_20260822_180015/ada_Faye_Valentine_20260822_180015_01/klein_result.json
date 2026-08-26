@@ -1,0 +1,22 @@
+{
+  "id": "faye_valentine_ada_Faye_Valentine_20260822_180015_01",
+  "klein_prompt": "Convert this image into a polished semi-realistic rendering. Preserve the exact pose, composition, framing, expression, clothing state and environment from the source image. Preserve the character's . Correct these minor rendering or anatomy defects: The single sheet of paper is not visibly fluttering or falling; it appears as a static object on the floor, failing to create the intended interruption effect.; The paper is not positioned to obscure her chest as specified; it is on the floor, which breaks the narrative of an unseen source above.. Preserve the exact source clothing coverage and chest anatomy. Do not invent exposed nipples, areolae, or additional skin details that are not visible in the source image.",
+  "preserve": [
+    "purple_hair",
+    "short_hair",
+    "green_eyes",
+    "large_breasts",
+    "hairband",
+    "shorts",
+    "lipstick",
+    "thighhighs",
+    "shirt",
+    "bare_shoulders",
+    "crop_top",
+    "boots"
+  ],
+  "correct": [
+    "The single sheet of paper is not visibly fluttering or falling; it appears as a static object on the floor, failing to create the intended interruption effect.",
+    "The paper is not positioned to obscure her chest as specified; it is on the floor, which breaks the narrative of an unseen source above."
+  ]
+}

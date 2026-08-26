@@ -1,0 +1,34 @@
+{
+  "id": "samara_me_024",
+  "character": "Samara",
+  "franchise": "Mass Effect",
+  "identity": [
+    "blue Asari features with head crest",
+    "red-and-black fitted Justicar armor",
+    "biotics"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a quiet monastery atrium, she begins a controlled biotic stretch and accidentally lifts every loose cushion off the floor into a neat ring around her, with confident sensual body language throughout.",
+  "must_include": [
+    "floating cushions",
+    "biotic glow"
+  ],
+  "environment": [
+    "monastery atrium",
+    "soft blue twilight",
+    "stone arches and still water"
+  ],
+  "animation_hook": "She lowers one hand and the cushions descend in sequence, landing perfectly around the meditation circle.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000023,
+  "krea_seed_base": 2000023
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"1girl, 2b_(nier:automata), close-up, face focus, turning head sharply to the side, sharp alertness, wide eyes, focused gaze, slight tension in jaw, white hair, short hair, slightly disheveled hair, black blindfold, firmly placed blindfold, very shallow depth of field, strong bokeh, heavily blurred background, soft lighting, detailed skin texture\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 717,
+    "total_output_tokens": 92,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 11.708406712378663,
+    "time_to_first_token_seconds": 3.3448249999999997
+  }
+}

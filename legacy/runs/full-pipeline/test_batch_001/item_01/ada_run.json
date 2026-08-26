@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "run_id": "item_01",
+  "pipeline": "specialist_image_v1",
+  "character": "Ghislaine Dedoldia",
+  "version": null,
+  "review_policy": "strict",
+  "stage": "CREATED",
+  "created_at": "2026-08-22T20:18:05.726553+00:00",
+  "updated_at": "2026-08-22T20:18:05.726553+00:00",
+  "seeds": {},
+  "artifacts": {},
+  "history": [
+    {
+      "stage": "CREATED",
+      "at": "2026-08-22T20:18:05.726553+00:00"
+    }
+  ],
+  "error": null
+}

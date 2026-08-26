@@ -1,0 +1,217 @@
+{
+  "schema_version": "grounded_review_regression_results_v1",
+  "completed_at": "2026-08-25T14:40:03.544392+00:00",
+  "model": "qwen/qwen3-vl-8b",
+  "new_images_generated": 0,
+  "results": [
+    {
+      "case_id": "chun_li_expected_pass",
+      "image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaProduction\\m2_mission_20260825_110816_d940a0_r01_110825345470\\m1_chun_li_01\\lustify_00001_.png",
+      "expected": {
+        "identity": "PASS",
+        "subject_count": "PASS",
+        "verdict": "PASS"
+      },
+      "old_raw_review": {
+        "id": "m1_chun_li_01",
+        "stage": "lustify",
+        "verdict": "PASS",
+        "scores": {
+          "identity": 10,
+          "anatomy": 10,
+          "prompt_adherence": 10,
+          "composition": 10,
+          "visual_quality": 10
+        },
+        "identity_failures": [],
+        "defects": [],
+        "hard_constraint_failures": [],
+        "summary": "The rendered image fully satisfies the semantic specification. All visible identity cues (hair bun, brown hair, hair ribbon) are present. The character is correctly identified as Chun-Li in her signature blue and gold outfit with white boots and spiked wristbands. The martial arts training hall environment with mirrors, wooden floor, and training bags is clearly visible. The low-angle composition and the controlled spinning kick pose are accurately rendered. No defects or hard constraint failures are present."
+      },
+      "new_review": {
+        "id": "m1_chun_li_01",
+        "stage": "lustify",
+        "identity": {
+          "result": "PASS",
+          "score": 10,
+          "confidence": 1.0
+        },
+        "subject_count": {
+          "expected": 1,
+          "actual": 1,
+          "result": "PASS"
+        },
+        "scores": {
+          "anatomy": 10,
+          "prompt_adherence": 10,
+          "composition": 10,
+          "visual_quality": 10
+        },
+        "defects": [],
+        "hard_constraint_failures": [],
+        "summary": "The image accurately depicts Chun-Li in her canonical design with the hair bun, brown hair, and hair ribbon. The outfit matches the specified Chinese clothes with spikes, pantyhose, and boots. The scene is a martial arts training hall with mirrors and training bags visible. The low angle near floor level is correctly rendered. The controlled spinning kick is captured with dynamic blur from rapid rotation speed. All locked requirements are satisfied.",
+        "identity_failures": [],
+        "verdict": "PASS",
+        "agent_scores": {
+          "identity": 10.0,
+          "anatomy": 10.0,
+          "prompt_adherence": 10.0,
+          "composition": 10.0,
+          "visual_quality": 10.0
+        },
+        "agent_rating": 9.5,
+        "rating_before_caps": 9.5,
+        "applied_caps": [],
+        "canonical_reference_count": 2
+      }
+    },
+    {
+      "case_id": "nanally_expected_identity_fail",
+      "image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaProduction\\m2_mission_20260825_111112_757917_r01_111116827612\\m1_nanally_de_nte_01\\lustify_00001_.png",
+      "expected": {
+        "identity": "FAIL",
+        "verdict": "FAIL",
+        "maximum_rating": 4.0
+      },
+      "old_raw_review": {
+        "id": "m1_nanally_de_nte_01",
+        "stage": "lustify",
+        "verdict": "PASS",
+        "scores": {
+          "identity": 10,
+          "anatomy": 10,
+          "prompt_adherence": 10,
+          "composition": 10,
+          "visual_quality": 10
+        },
+        "identity_failures": [],
+        "defects": [],
+        "hard_constraint_failures": [],
+        "summary": "The rendered image fully satisfies the semantic specification. All visible requirements are met: red hair, long hair, red eyes, cat ears, hair ornament, tiger ears, jacket, shirt, black necktie, and the character is shown reading a folded letter beside an open window in a softly lit study with bookshelves. The composition is a close-up on the face and letter edges as required. No defects or hard constraint failures are visible."
+      },
+      "new_review": {
+        "id": "m1_nanally_de_nte_01",
+        "stage": "lustify",
+        "identity": {
+          "result": "FAIL",
+          "score": 3,
+          "confidence": 0.98
+        },
+        "subject_count": {
+          "expected": 1,
+          "actual": 1,
+          "result": "PASS"
+        },
+        "scores": {
+          "anatomy": 9,
+          "prompt_adherence": 7,
+          "composition": 10,
+          "visual_quality": 10
+        },
+        "defects": [],
+        "hard_constraint_failures": [
+          "identity:canonical"
+        ],
+        "summary": "The image fails identity:canonical because the character's design visibly differs from the canonical reference. The reference shows nanally de NTE with glasses, a distinct hairstyle, and a different outfit. The rendered image lacks glasses and has a different hair ornament and tail pattern. The character's ears are tiger-striped, which is not consistent with the canonical design. The rendered image satisfies the prompt's composition and visual quality but fails to preserve the required identity.",
+        "identity_failures": [
+          "Generated protagonist does not match ADA canonical character references"
+        ],
+        "verdict": "FAIL",
+        "agent_scores": {
+          "identity": 3.0,
+          "anatomy": 9.0,
+          "prompt_adherence": 7.0,
+          "composition": 10.0,
+          "visual_quality": 10.0
+        },
+        "agent_rating": 4.0,
+        "rating_before_caps": 7.1,
+        "applied_caps": [
+          {
+            "reason": "identity_fail",
+            "cap": 4.0
+          },
+          {
+            "reason": "hard_constraint_failure",
+            "cap": 5.0
+          }
+        ],
+        "canonical_reference_count": 1
+      }
+    },
+    {
+      "case_id": "hinata_expected_subject_count_fail",
+      "image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaProduction\\m2_mission_20260825_110555_5090de_r01_110602370180\\m1_hyuuga_hinata_03\\lustify_00001_.png",
+      "expected": {
+        "identity": "PASS",
+        "subject_count": "FAIL",
+        "verdict": "FAIL",
+        "maximum_rating": 4.5
+      },
+      "old_raw_review": {
+        "id": "m1_hyuuga_hinata_03",
+        "stage": "lustify",
+        "verdict": "PASS",
+        "scores": {
+          "identity": 10,
+          "anatomy": 10,
+          "prompt_adherence": 10,
+          "composition": 10,
+          "visual_quality": 10
+        },
+        "identity_failures": [],
+        "defects": [],
+        "hard_constraint_failures": [],
+        "summary": "The rendered image fully satisfies the semantic specification. Hinata Hyuga is correctly depicted with black hair, long hair, fishnets, and a forehead protector. The scene is a warm traditional tea room with visible shoji screens, low table, and teapot. The composition is a medium shot capturing her shoulder-length silhouette. All expected visible elements are present and accurately rendered."
+      },
+      "new_review": {
+        "id": "m1_hyuuga_hinata_03",
+        "stage": "lustify",
+        "identity": {
+          "result": "PASS",
+          "score": 10,
+          "confidence": 1.0
+        },
+        "subject_count": {
+          "expected": 1,
+          "actual": 2,
+          "result": "FAIL"
+        },
+        "scores": {
+          "anatomy": 10,
+          "prompt_adherence": 9,
+          "composition": 10,
+          "visual_quality": 10
+        },
+        "defects": [],
+        "hard_constraint_failures": [
+          "subject_count: expected=1, actual=2",
+          "Expected 1 visible subject(s), found 2"
+        ],
+        "summary": "The image correctly depicts Hinata Hyuga with her signature black hair, long hair, purple eyes, blunt bangs, and forehead protector. The scene is a warm traditional tea room with shoji screens and a low table with a teapot and cups. However, a second person is visible on the right side of the frame, violating the requirement for a single subject. The composition and visual quality are excellent, and the character's anatomy is accurately rendered.",
+        "identity_failures": [],
+        "verdict": "FAIL",
+        "agent_scores": {
+          "identity": 10.0,
+          "anatomy": 10.0,
+          "prompt_adherence": 9.0,
+          "composition": 10.0,
+          "visual_quality": 10.0
+        },
+        "agent_rating": 4.5,
+        "rating_before_caps": 9.5,
+        "applied_caps": [
+          {
+            "reason": "subject_count_fail",
+            "cap": 4.5
+          },
+          {
+            "reason": "hard_constraint_failure",
+            "cap": 5.0
+          }
+        ],
+        "canonical_reference_count": 1
+      }
+    }
+  ]
+}

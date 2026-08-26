@@ -1,0 +1,8 @@
+{
+  "id": "2b_ada_2B_20260822_201238_01",
+  "stage": "klein",
+  "verdict": "PASS",
+  "defects": [],
+  "drift": [],
+  "summary": "The image successfully captures 2B's frozen moment with high fidelity to the PremiseSpec. Identity elements (short white hair, blindfold) are correct. Scene requirements (torn dress revealing midriff, shocked expression via one visible eye, holding data tablet) are visually met. Minor rendering polish may be needed but no structural failures exist."
+}

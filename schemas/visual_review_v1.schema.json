@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "ada://schemas/visual_review_v1",
+  "title": "VisualReview v1",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "stage": {"type": "string", "enum": ["illustrious", "klein", "lustify", "miaomiao"]},
+    "verdict": {"type": "string", "enum": ["PASS", "MINOR_DEFECT", "RETRY_ILLUSTRIOUS", "REVIEW", "REJECT"]},
+    "preserved_ok": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1}
+    },
+    "identity_ok": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1}
+    },
+    "scene_requirements_ok": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1}
+    },
+    "defects": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1}
+    },
+    "drift": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1}
+    },
+    "summary": {"type": "string", "minLength": 1}
+  },
+  "required": ["id", "stage", "verdict", "defects", "drift", "summary"]
+}

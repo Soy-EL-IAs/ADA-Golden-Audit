@@ -1,0 +1,335 @@
+{
+  "batch_id": "tifa_remake_pilot_001",
+  "status": "complete",
+  "workflow": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\workflows\\illustrious_to_klein_batch_base_ui.json",
+  "dataset": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\prompts\\tifa_lockhart_ff7_remake_pilot_12.jsonl",
+  "count": 12,
+  "output_root": "LunaKleinBatch/tifa_remake_pilot_001",
+  "records": [
+    {
+      "index": 1,
+      "id": "tifa_remake_closeup_01",
+      "status": "complete",
+      "prompt_id": "c7f7d7b6-e667-4aef-abda-b4082f916d37",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_closeup_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_closeup_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_closeup_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "id": "tifa_remake_closeup_02",
+      "status": "complete",
+      "prompt_id": "d6e14bda-e9f0-4956-afab-8cfc34a8fdd0",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_closeup_02",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_closeup_02",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_closeup_02",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "id": "tifa_remake_closeup_03",
+      "status": "complete",
+      "prompt_id": "7f2952ee-f96e-451c-b0be-42b219642870",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_closeup_03",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_closeup_03",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_closeup_03",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "id": "tifa_remake_medium_01",
+      "status": "complete",
+      "prompt_id": "19c39d84-f0aa-490c-bf53-be20556b5e88",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_medium_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_medium_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_medium_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "id": "tifa_remake_medium_02",
+      "status": "complete",
+      "prompt_id": "edf6cd13-5e45-4ff8-944f-8bc340b3b181",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_medium_02",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_medium_02",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_medium_02",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "id": "tifa_remake_medium_03",
+      "status": "complete",
+      "prompt_id": "a5a62337-5492-4a23-8545-f9d763cdf14d",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_medium_03",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_medium_03",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_medium_03",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "id": "tifa_remake_fullbody_01",
+      "status": "complete",
+      "prompt_id": "5a4519a7-5c5a-4d26-8fba-5d75319e5e88",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "id": "tifa_remake_fullbody_02",
+      "status": "complete",
+      "prompt_id": "e1180b8e-077c-45f5-b49c-f35e9e29e728",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_02",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_02",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_02",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "id": "tifa_remake_fullbody_03",
+      "status": "complete",
+      "prompt_id": "613d8cb6-cfa6-4949-ad05-29d16b38072d",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_03",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_03",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_03",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "id": "tifa_remake_dynamic_01",
+      "status": "complete",
+      "prompt_id": "78543596-a78f-499d-9797-d5843c797a92",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_dynamic_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_dynamic_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_dynamic_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "id": "tifa_remake_dynamic_02",
+      "status": "complete",
+      "prompt_id": "2ae9f5f5-4488-403f-a703-c90a83e42be5",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_dynamic_02",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_dynamic_02",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_dynamic_02",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "id": "tifa_remake_dynamic_03",
+      "status": "complete",
+      "prompt_id": "de9da8bf-d23e-4012-975f-6d0cfca045a5",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_dynamic_03",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_dynamic_03",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_dynamic_03",
+          "type": "output"
+        }
+      ]
+    }
+  ],
+  "completed_at": "2026-08-21T11:36:36.291578-03:00"
+}

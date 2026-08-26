@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e012_b02_closeup",
+    "category": "closeup",
+    "premise": "Extreme close-up on 2B's eyes and the lower half of her black blindfold as a sudden, localized burst of heat from an off-screen flare causes her to blink rapidly; sweat beads form on her temple while her jaw tightens in controlled irritation, with the white hair strands framing her face appearing slightly damp from the humidity."
+  },
+  {
+    "id": "e012_b02_medium",
+    "category": "medium",
+    "premise": "Waist-up shot of 2B leaning forward to inspect a cracked, glowing control panel on a wall; her gloved right hand hovers just inches from the surface while she tilts her head sharply to the side, her expression shifting from neutral curiosity to sharp focus as sparks pop and sizzle near her puffy feather-trimmed sleeve."
+  },
+  {
+    "id": "e012_b02_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B twisting her torso to untangle her left thigh-high stocking from a jagged piece of protruding rebar; she balances on one leg with her weight shifted back, her black dress cutout revealing the tension in her posture as she pulls the fabric free with a sharp yank."
+  },
+  {
+    "id": "e012_b02_dynamic",
+    "category": "dynamic",
+    "premise": "High-speed dynamic shot of 2B sliding horizontally across a polished metal floor to evade a falling ceiling panel; her body is low and parallel to the ground, her black boots trailing sparks against the surface, while her hair fans out behind her in a stark white contrast against the dark industrial backdrop."
+  },
+  {
+    "id": "e012_b02_cinematic",
+    "category": "cinematic",
+    "premise": "Wide cinematic angle from below showing 2B swinging across a vast, open chasm on a frayed cable; her body is extended in a straight line, defying gravity as she arcs through the air, with the massive scale of the surrounding ruins emphasizing the precariousness and momentum of her movement."
+  }
+]

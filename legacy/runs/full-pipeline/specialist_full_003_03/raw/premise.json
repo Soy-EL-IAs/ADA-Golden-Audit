@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"2B stands in a dimly lit command center, her white hair and black dress sharply defined against the shadows. A sudden mechanical whir interrupts the silence as a large, ornate iron gate begins to slide down from above, its heavy bars casting long, jagged shadows across her face. The cause is visible: a red emergency light blinks on the wall behind her, signaling an imminent lockdown. As the gate descends, it partially obscures her upper body, leaving only her gloved hands gripping the edge of the table and her thigh-high boots firmly planted in view. The consequence is immediate tension; she does not flinch but tilts her head slightly, her blindfolded eyes fixed forward as if anticipating the impact. The animation hook lies in the precise moment the gate’s final bar aligns with her waistline, creating a visual cage that emphasizes her stillness against the descending weight.\",\n  \"preserved_elements\": [\n    \"blindfold\",\n    \"white_hair\",\n    \"black_dress\",\n    \"thigh_boots\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the blindfold remains clearly visible despite the shadows cast by the gate.\",\n    \"Avoid depicting any skin exposure beyond what is implied by the dress cutouts to maintain restraint.\",\n    \"The gate must be clearly mechanical and industrial, not organic or magical, to ground the scene in the NieR:Automata aesthetic.\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 550,
+    "total_output_tokens": 323,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 5.42765109963119,
+    "time_to_first_token_seconds": 3.190446
+  }
+}

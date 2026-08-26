@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"2B stands in a dimly lit command center, her back turned to the viewer as she adjusts the strap of her black dress; a sudden burst of light from an off-screen monitor startles her, causing her to spin around sharply with her white hair whipping forward and her blindfold catching the glare, freezing her mid-motion.\",\n  \"preserved_elements\": [\n    \"blindfold\",\n    \"white_hair\",\n    \"black_dress\",\n    \"thigh_boots\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the blindfold remains opaque to maintain mystery and prevent eye visibility ambiguity.\",\n    \"Keep the dress cutout subtle to avoid excessive exposure while maintaining the silhouette of the leotard base.\",\n    \"The sudden turn should be captured in a dynamic pose, not a static standing position, to emphasize the interruption.\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 544,
+    "total_output_tokens": 205,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.134814288427027,
+    "time_to_first_token_seconds": 2.056745
+  }
+}

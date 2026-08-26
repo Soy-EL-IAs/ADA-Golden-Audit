@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"Faye Valentine, cowboy_bebop, 1girl, short purple hair with a hairband, green eyes, wary suspicious expression, narrowed eyes staring intently toward the left edge of frame, holding a crumpled newspaper directly over her chest to obscure large breasts, bare shoulders visible above the crop top, wearing shorts, thighhighs, and boots, dimly lit alleyway background, faint silhouette or light source at the far left edge implying an approaching presence, defensive posture\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 1222,
+    "total_output_tokens": 108,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.32752355286063,
+    "time_to_first_token_seconds": 1.918394
+  }
+}

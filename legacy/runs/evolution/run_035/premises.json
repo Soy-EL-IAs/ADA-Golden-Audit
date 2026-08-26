@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "run": 35,
+  "character": "2B",
+  "version": "NieR:Automata",
+  "count": 20,
+  "distribution": {
+    "closeup": 4,
+    "medium": 4,
+    "fullbody": 4,
+    "dynamic": 4,
+    "cinematic": 4
+  },
+  "candidate_guide": "candidate_guide.md",
+  "lm_studio_only": true,
+  "rendering_executed": false,
+  "proposals": [
+    {
+      "id": "e035_b01_closeup",
+      "category": "closeup",
+      "premise": "2B's gloved fingers tense as she pinches the edge of her black blindfold, pulling it slightly askew to wipe away a fine layer of metallic dust that has settled on the fabric, revealing a flash of irritation in her narrowed eyes beneath."
+    },
+    {
+      "id": "e035_b01_medium",
+      "category": "medium",
+      "premise": "2B leans her upper body sharply against a rusted vertical pipe to brace herself as a sudden burst of steam from a ruptured valve pushes against her back, causing the puffy feather-trimmed sleeves of her dress to billow outward and distort her silhouette."
+    },
+    {
+      "id": "e035_b01_fullbody",
+      "category": "fullbody",
+      "premise": "2B balances precariously on one leg atop a narrow, cracked stone ledge, shifting her center of gravity to keep from slipping as the surface tilts beneath her thigh-high boot, forcing her arms out for stability while maintaining a composed posture."
+    },
+    {
+      "id": "e035_b01_dynamic",
+      "category": "dynamic",
+      "premise": "2B executes a rapid low slide across a slick concrete floor to avoid a falling debris chunk, her black dress hem flaring dramatically around her legs and her short white hair blurring with the speed of the maneuver."
+    },
+    {
+      "id": "e035_b01_cinematic",
+      "category": "cinematic",
+      "premise": "2B is seen as a small figure clinging to the side of a massive, rotating industrial gear structure, her body pressed flat against the metal as she reaches for a handhold just before the mechanism swings past her position."
+    },
+    {
+      "id": "e035_b02_closeup",
+      "category": "closeup",
+      "premise": "2B's black glove is stained with a smear of thick, viscous green oil from a ruptured coolant line she has just wiped against her thigh, causing the fabric of her dress to darken slightly as she frowns in focused concentration at the grime on her knuckles."
+    },
+    {
+      "id": "e035_b02_medium",
+      "category": "medium",
+      "premise": "2B twists her torso sharply to the left, pulling her right arm back as a loose cable snaps taut and whips past her ear, causing the puffy feather-trimmed sleeve on that side to stretch tight against her bicep while her hairband resists the pull of her short white hair."
+    },
+    {
+      "id": "e035_b02_fullbody",
+      "category": "fullbody",
+      "premise": "2B crouches low to slide under a low-hanging, sparking electrical conduit, her thighs compressed against the tight fit of her stockings and the hem of her dress riding up slightly as she maintains a steady gaze forward to gauge the clearance for her next step."
+    },
+    {
+      "id": "e035_b02_dynamic",
+      "category": "dynamic",
+      "premise": "2B vaults over a jagged shard of broken glass, her body airborne and legs tucked tightly to avoid the debris below, with her black dress hem flaring upward from the upward momentum of the jump and her boots pointing toward the landing zone ahead."
+    },
+    {
+      "id": "e035_b02_cinematic",
+      "category": "cinematic",
+      "premise": "2B hangs by one hand from a massive, rusted crane hook swinging violently in a crosswind, her body dangling parallel to the ground as she waits for the momentum to reverse before pulling herself up onto the steel beam above."
+    },
+    {
+      "id": "e035_b03_closeup",
+      "category": "closeup",
+      "premise": "A single, thick drop of condensation falls from a leaking pipe directly onto the center of 2B's black blindfold, causing her to hold her breath and slightly tilt her chin down as she waits for the fabric to absorb the moisture before it drips into her eye, her jaw tightening with suppressed annoyance."
+    },
+    {
+      "id": "e035_b03_medium",
+      "category": "medium",
+      "premise": "2B twists her upper body sharply to the right, extending her left arm fully to grip a vibrating control lever, causing the puffy feather-trimmed sleeve on that side to compress and bunch up while her torso arcs in an exaggerated counter-balance to stabilize her stance against the machine's hum."
+    },
+    {
+      "id": "e035_b03_fullbody",
+      "category": "fullbody",
+      "premise": "2B freezes mid-step on a polished, wet metal floor where a layer of grease has caused her right thigh-high boot to skid sideways, forcing her left leg to lunge forward and her arms to swing wildly for balance as she fights to keep her hips from rotating out of alignment."
+    },
+    {
+      "id": "e035_b03_dynamic",
+      "category": "dynamic",
+      "premise": "2B performs a rapid, low crouch-spin to dodge a horizontal laser tripwire, her black dress hem whipping in a circular blur around her legs and her short white hair fanning out from the centrifugal force of the turn as she completes the rotation."
+    },
+    {
+      "id": "e035_b03_cinematic",
+      "category": "cinematic",
+      "premise": "2B is silhouetted against a towering, glowing coolant tower, pressing her back flat against its cold surface to avoid the heat shimmer rising from below, her arms pinned tight to her sides as she watches a heavy maintenance drone drift slowly past at eye level."
+    },
+    {
+      "id": "e035_b04_closeup",
+      "category": "closeup",
+      "premise": "2B's black glove presses firmly against her temple as a high-pitched feedback screech from a nearby broken speaker vibrates through the air, causing the fabric of her blindfold to tremble visibly and her jaw to clench in suppressed concentration."
+    },
+    {
+      "id": "e035_b04_medium",
+      "category": "medium",
+      "premise": "2B bends deeply at the waist to retrieve a small, loose component from beneath a heavy, stationary machine part, her torso compressing and the puffy feather-trimmed sleeves of her dress bunching tightly against her upper arms as she reaches with focused precision."
+    },
+    {
+      "id": "e035_b04_fullbody",
+      "category": "fullbody",
+      "premise": "2B stands rigid on a narrow, elevated metal beam while a violent gust of wind from an open vent pushes against her broad shoulders, forcing her to widen her stance and plant her thigh-high boots firmly into the grating to prevent being swept off balance."
+    },
+    {
+      "id": "e035_b04_dynamic",
+      "category": "dynamic",
+      "premise": "2B lunges forward with explosive speed to catch a swinging industrial hook before it crashes down, her body stretched horizontally in mid-air and her black dress hem streaming backward from the rapid acceleration as she extends one gloved hand to grasp the metal."
+    },
+    {
+      "id": "e035_b04_cinematic",
+      "category": "cinematic",
+      "premise": "2B is seen small against a vast, dark chasm where a thin rope bridge has snapped, gripping the fraying end of a cable with one hand while her legs dangle over the abyss as she begins to pull herself upward toward safety."
+    }
+  ]
+}

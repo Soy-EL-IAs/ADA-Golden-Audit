@@ -1,0 +1,59 @@
+{
+  "results": [],
+  "model_events": [
+    {
+      "event": "load",
+      "agent": "premise",
+      "seconds": 12.394,
+      "role": "premise_agent"
+    },
+    {
+      "event": "load",
+      "agent": "illustrious",
+      "seconds": 0.0,
+      "role": "illustrious_agent"
+    }
+  ],
+  "comfy_events": [],
+  "failed_image": 1,
+  "error": {
+    "type": "RuntimeError",
+    "message": "{\"20\": {\"errors\": [{\"type\": \"required_input_missing\", \"message\": \"Required input is missing\", \"details\": \"filename_prefix\", \"extra_info\": {\"input_name\": \"filename_prefix\"}}], \"dependent_outputs\": [\"20\"], \"class_type\": \"SaveImage\"}}"
+  },
+  "last_state": {
+    "schema_version": 1,
+    "run_id": "mini_01",
+    "pipeline": "specialist_image_v1",
+    "character": "2B",
+    "version": "NieR:Automata",
+    "review_policy": "strict",
+    "stage": "ILLUSTRIOUS_PROMPTS_READY",
+    "created_at": "2026-08-22T16:35:03.976002+00:00",
+    "updated_at": "2026-08-22T16:35:54.343072+00:00",
+    "seeds": {
+      "2b_mini_01": {
+        "illustrious": 1395281587724116782,
+        "klein": 2937087313439683781
+      }
+    },
+    "artifacts": {
+      "premise_spec": "premise_spec.json",
+      "illustrious_result": "illustrious_result.json"
+    },
+    "history": [
+      {
+        "stage": "CREATED",
+        "at": "2026-08-22T16:35:03.976002+00:00"
+      },
+      {
+        "stage": "PREMISES_READY",
+        "at": "2026-08-22T16:35:38.683583+00:00"
+      },
+      {
+        "stage": "ILLUSTRIOUS_PROMPTS_READY",
+        "at": "2026-08-22T16:35:54.343072+00:00"
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "run": 28,
+  "character": "2B",
+  "version": "NieR:Automata",
+  "count": 20,
+  "distribution": {
+    "closeup": 4,
+    "medium": 4,
+    "fullbody": 4,
+    "dynamic": 4,
+    "cinematic": 4
+  },
+  "candidate_guide": "candidate_guide.md",
+  "lm_studio_only": true,
+  "rendering_executed": false,
+  "proposals": [
+    {
+      "id": "e028_b01_closeup",
+      "category": "closeup",
+      "premise": "Close-up on 2B's face and upper chest as a sudden electrical spark from a damaged nearby console jumps onto her black glove, causing her to flinch and tighten her jaw in composed restraint while the static charge makes the loose strands of her short white hair stand up against her blindfold."
+    },
+    {
+      "id": "e028_b01_medium",
+      "category": "medium",
+      "premise": "Medium shot of 2B waist-up, bracing herself against a crumbling stone pillar as a heavy chain-link fence collapses behind her; she tilts her head slightly to avoid the falling debris, her puffy feather-trimmed sleeves catching the wind and revealing the tension in her black dress fabric."
+    },
+    {
+      "id": "e028_b01_fullbody",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B mid-stride on a slippery, moss-covered rooftop edge; she is leaning forward to maintain balance as her thigh-high boots grip the surface, her dress hem flapping violently in the updraft while she stares intently at the narrow path ahead."
+    },
+    {
+      "id": "e028_b01_dynamic",
+      "category": "dynamic",
+      "premise": "Dynamic action shot of 2B vaulting over a low concrete barrier, her body stretched horizontally with one hand reaching out and the other holding her sword; motion blur trails behind her white hair and black gloves as dust kicks up from her boots landing on the other side."
+    },
+    {
+      "id": "e028_b01_cinematic",
+      "category": "cinematic",
+      "premise": "Cinematic low-angle wide shot with 2B standing in the foreground, silhouetted against a massive, broken clock tower in the background; a sudden gust of wind pushes a large sheet of torn metal across her path, forcing her to turn and shield her face with one gloved hand while her blindfold remains steady."
+    },
+    {
+      "id": "e028_b02_closeup",
+      "category": "closeup",
+      "premise": "Extreme close-up on 2B's face as a sudden burst of steam from a ruptured valve hits her directly, forcing her to clench her jaw and keep her blindfold steady despite the heat; condensation beads form instantly on her skin and the fine white hairs of her bangs curl slightly away from the impact zone."
+    },
+    {
+      "id": "e028_b02_medium",
+      "category": "medium",
+      "premise": "Medium shot of 2B waist-up, leaning back against a heavy steel door to keep it open as a swarm of mechanical moths rushes through the gap; she holds her breath and keeps her eyes forward behind the blindfold while the chaotic fluttering obscures her puffy sleeves in a blur of wings."
+    },
+    {
+      "id": "e028_b02_fullbody",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B suspended mid-air, her boots hooked over the edge of a crumbling concrete ledge as she lowers herself down; her body is taut with controlled tension, her dress hem swinging freely in the void below while one hand grips a jagged piece of rebar for support."
+    },
+    {
+      "id": "e028_b02_dynamic",
+      "category": "dynamic",
+      "premise": "Dynamic shot of 2B spinning rapidly to dodge a swinging pendulum blade; her body is twisted in motion, with the black fabric of her dress and the trim of her sleeves creating a circular blur around her core as she maintains perfect balance on one leg."
+    },
+    {
+      "id": "e028_b02_cinematic",
+      "category": "cinematic",
+      "premise": "Cinematic high-angle shot looking down from a shattered atrium ceiling, with 2B standing small in the center of the frame; massive shards of glass are falling around her like rain, but she has positioned herself perfectly to let them pass by leaning slightly, her silhouette sharp against the bright light flooding from above."
+    },
+    {
+      "id": "e028_b03_closeup",
+      "category": "closeup",
+      "premise": "Close-up on 2B's face and neck as a fragment of shattered glass from a nearby window slices through the air toward her, causing her to tilt her head sharply to avoid it; a single drop of blood beads on her cheek while she maintains unblinking composure behind the blindfold, the black hairband tightening slightly against the sudden movement."
+    },
+    {
+      "id": "e028_b03_medium",
+      "category": "medium",
+      "premise": "Medium shot of 2B waist-up, crouching low to slide under a horizontal bar of twisted rebar that is slowly rotating; her black gloves grip the wet concrete floor for traction while the puffy feather-trimmed sleeves brush against the metal, creating sparks as she times her movement with the mechanical rhythm."
+    },
+    {
+      "id": "e028_b03_fullbody",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B suspended in a vertical shaft of light, her boots hovering just inches above a puddle to avoid the electrical charge crackling on the surface; her dress hem is lifted by the rising heat distortion, revealing the length of her thigh-high stockings as she prepares to step forward with precise balance."
+    },
+    {
+      "id": "e028_b03_dynamic",
+      "category": "dynamic",
+      "premise": "Dynamic shot of 2B mid-leap over a spreading patch of toxic green sludge, her body twisted to keep her sword clear of the liquid; motion blur emphasizes the speed as her white hair whips back, and the black fabric of her dress flares dramatically behind her, contrasting with the organic hazard below."
+    },
+    {
+      "id": "e028_b03_cinematic",
+      "category": "cinematic",
+      "premise": "Cinematic wide shot from a low angle, capturing 2B standing on a cracked bridge as a massive concrete slab collapses in the background; she remains stationary with one hand raised to shield her blindfold from the dust cloud engulfing her, the sheer scale of the destruction dwarfing her figure while highlighting her stillness against the chaos."
+    },
+    {
+      "id": "e028_b04_closeup",
+      "category": "closeup",
+      "premise": "Close-up on 2B's face and neck as a high-pressure jet of icy coolant sprays from a ruptured pipe directly into her blindfold, causing her to wince and tighten her jaw in composed restraint; the mist instantly fogs the black fabric while droplets cling to the fine white hairs of her bangs, contrasting with the sharp tension in her expression."
+    },
+    {
+      "id": "e028_b04_medium",
+      "category": "medium",
+      "premise": "Medium shot of 2B waist-up, bracing herself against a vibrating metal railing as a heavy cargo crate slides past on the track below; her black gloves grip the bar tightly to absorb the shockwave, while the puffy feather-trimmed sleeves billow slightly from the displacement of air created by the moving weight."
+    },
+    {
+      "id": "e028_b04_fullbody",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B balancing on a narrow, rusted iron catwalk suspended over a chasm; her thigh-high boots grip the wet metal surface as she leans into the wind to keep her center of gravity, her dress hem and stockings whipping violently in the updraft while she stares intently at the next anchor point ahead."
+    },
+    {
+      "id": "e028_b04_dynamic",
+      "category": "dynamic",
+      "premise": "Dynamic action shot of 2B executing a rapid sidestep to avoid a snapping cable that whips past her ear; motion blur trails behind her white hair and black gloves as she twists her torso, the black fabric of her dress flaring out to reveal the length of her thigh-high stockings in the instant of evasion."
+    },
+    {
+      "id": "e028_b04_cinematic",
+      "category": "cinematic",
+      "premise": "Cinematic low-angle wide shot with 2B standing in the foreground, silhouetted against a massive, rotating turbine fan in the background; she holds her ground as debris is sucked toward the blades behind her, one hand raised to shield her face from the intense suction force while her blindfold remains steady against the chaos."
+    }
+  ]
+}

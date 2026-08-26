@@ -1,0 +1,258 @@
+{
+  "batch_id": "tifa_remake_pilot_v2_6_001",
+  "status": "complete",
+  "workflow": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\workflows\\illustrious_to_klein_batch_base_ui.json",
+  "dataset": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\prompts\\tifa_lockhart_ff7_remake_pilot_v2_6.jsonl",
+  "count": 6,
+  "output_root": "LunaKleinBatch/tifa_remake_pilot_v2_6_001",
+  "klein_preset_plan": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\config\\klein_presets_tifa_remake_pilot_v2_6.json",
+  "records": [
+    {
+      "index": 1,
+      "id": "tifa_remake_v26_closeup_01",
+      "status": "complete",
+      "klein_preset": {
+        "name": "closeup_a2r",
+        "steps": 4,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\A2R_Klein_Standard.safetensors",
+            "strength": 0.5
+          }
+        ]
+      },
+      "prompt_id": "438d00ee-d610-4af8-998e-8d0c9a5f8712",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_closeup_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_closeup_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_closeup_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "id": "tifa_remake_v26_closeup_02",
+      "status": "complete",
+      "klein_preset": {
+        "name": "closeup_a2r",
+        "steps": 4,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\A2R_Klein_Standard.safetensors",
+            "strength": 0.5
+          }
+        ]
+      },
+      "prompt_id": "67a485f9-633a-470e-a183-7a8ca9905792",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_closeup_02",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_closeup_02",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_closeup_02",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "id": "tifa_remake_v26_fullbody_01",
+      "status": "complete",
+      "klein_preset": {
+        "name": "fullbody_dynamic_semireal",
+        "steps": 8,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\anime2real-semi.safetensors",
+            "strength": 0.8
+          }
+        ]
+      },
+      "prompt_id": "8734f889-c2e6-4658-88e4-b2fdbd2dddec",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_fullbody_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_fullbody_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_fullbody_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "id": "tifa_remake_v26_fullbody_02",
+      "status": "complete",
+      "klein_preset": {
+        "name": "fullbody_dynamic_semireal",
+        "steps": 8,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\anime2real-semi.safetensors",
+            "strength": 0.8
+          }
+        ]
+      },
+      "prompt_id": "41bbf0d0-1ad5-4fcd-bd38-d7916759fbb9",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_fullbody_02",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_fullbody_02",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_fullbody_02",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "id": "tifa_remake_v26_dynamic_01",
+      "status": "complete",
+      "klein_preset": {
+        "name": "fullbody_dynamic_semireal",
+        "steps": 8,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\anime2real-semi.safetensors",
+            "strength": 0.8
+          }
+        ]
+      },
+      "prompt_id": "3bf9cc2a-006e-458d-bf5b-b2055523cf32",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_dynamic_01",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_dynamic_01",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_dynamic_01",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "id": "tifa_remake_v26_dynamic_02",
+      "status": "complete",
+      "klein_preset": {
+        "name": "fullbody_dynamic_semireal",
+        "steps": 8,
+        "loras": [
+          {
+            "lora": "flux\\klein_snofs_v1_3.safetensors",
+            "strength": 0.6
+          },
+          {
+            "lora": "flux\\anime2real-semi.safetensors",
+            "strength": 0.8
+          }
+        ]
+      },
+      "prompt_id": "07f99b43-6e9f-45d3-8fea-994894c295e8",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_dynamic_02",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_dynamic_02",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_dynamic_02",
+          "type": "output"
+        }
+      ]
+    }
+  ],
+  "completed_at": "2026-08-21T12:49:31.335010-03:00"
+}

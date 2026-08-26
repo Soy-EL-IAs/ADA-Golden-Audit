@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"Ghislaine Dedoldia stands in a dimly lit command tent, her grey hair and cat ears visible against the shadows. She is mid-motion, pulling off one of her bridal gauntlets to reveal a red choker around her neck, when a sudden flash of lightning from outside illuminates her bare shoulders and abs. The interruption causes her to freeze with wide red eyes behind her eyepatch, her tail bristling in reaction to the shock, creating a moment of suspended tension between vulnerability and readiness.\",\n  \"preserved_elements\": [\n    \"eyepatch\",\n    \"grey_hair\",\n    \"cat_ears\",\n    \"red_choker\",\n    \"bare_shoulders\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the eyepatch is clearly visible on the correct eye to maintain identity.\",\n    \"Keep the lightning flash as a background element so it does not obscure the character's face or choker.\",\n    \"Avoid depicting the gauntlet removal as fully undressing; keep one hand still holding the fabric to maintain modesty while showing bare shoulders.\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 584,
+    "total_output_tokens": 257,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 8.24942406501445,
+    "time_to_first_token_seconds": 9.51363
+  }
+}

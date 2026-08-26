@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e038_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A cluster of iridescent beetles lands on the black blindfold, causing 2B to hold her breath and keep perfectly still as she fights the instinct to swat them away, her eyes widening slightly behind the fabric while her jaw tightens with restrained irritation.\"\n  },\n  {\n    \"id\": \"e038_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B grips a descending metal ladder rung with one gloved hand as a sudden jolt from the platform above knocks her off balance, forcing her to twist her torso against the railing and pulling the puffy sleeves of her dress taut across her shoulders.\"\n  },\n  {\n    \"id\": \"e038_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B crouches low on a slippery stone ledge, balancing on the tips of her thigh-high boots as a heavy wooden crate slides past her feet, her weight shifted back to avoid being knocked into the abyss below.\"\n  },\n  {\n    \"id\": \"e038_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B is captured mid-air in a horizontal slide across a narrow beam, extending one leg to kick a loose stone away from her path as debris rains down around her, her white hair trailing behind the momentum of the lateral movement.\"\n  },\n  {\n    \"id\": \"e038_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"2B stands on a fractured glass floor suspended high above a forest canopy, backlit by the bright sun as a massive bird of prey lands on the edge of the pane beside her, causing the entire structure to shudder and crack further.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4134,
+    "total_output_tokens": 434,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.768531714956225,
+    "time_to_first_token_seconds": 4.962354
+  }
+}

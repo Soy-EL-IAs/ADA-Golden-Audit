@@ -1,0 +1,17 @@
+{
+  "id": "ghislaine_dedoldia_specialist_full_ghislaine_001_01",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "eyepatch",
+    "grey_hair",
+    "cat_ears",
+    "red_choker",
+    "black_highleg_panties"
+  ],
+  "defects": [],
+  "drift": [
+    "The jacket is open and held closed by her hands, but the fur trim is not visibly consistent with the premise's description of 'fur trim that hangs off her bare shoulders'. The fur appears more integrated into the jacket's design rather than hanging loosely."
+  ],
+  "summary": "All preserved elements are visibly correct. No visible defects. Minor narrative drift in fur trim presentation."
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e037_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A tight close-up captures 2B's face as a thick, pulsating bioluminescent vine wraps around her wrist, its sticky secretion beginning to adhere to the fabric of her black glove; she holds her breath with visible tension in her jaw and a slight furrow in her brow behind the blindfold, eyes narrowed against the faint green glow illuminating the underside of her chin.\"\n  },\n  {\n    \"id\": \"e037_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"From a waist-up perspective, 2B leans back aggressively to brace herself as a heavy, moss-covered stone slab slides down a narrow vertical shaft toward her; her gloved hands press firmly against the rough wall behind her for leverage, causing the puffy feather-trimmed sleeves to bunch up at her elbows while the cutout in her black dress stretches taut across her midsection under the strain of the counter-weight.\"\n  },\n  {\n    \"id\": \"e037_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"In a full-body shot on the edge of a crumbling wooden bridge, 2B is crouched low to minimize her profile as a large, translucent dragonfly with iridescent wings lands heavily on the plank just inches from her face; her weight is shifted entirely onto her left thigh-high boot for stability while her right leg hovers slightly off the ground, and she holds perfectly still with focused intensity, her white hair hanging motionless to avoid startling the creature.\"\n  },\n  {\n    \"id\": \"e037_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Captured at the peak of a vaulting maneuver, 2B launches herself over a low, rusted iron fence as it begins to collapse inward under her momentum; her body is arched mid-air with legs split in an agile leap, one arm extended forward for balance while the other trails back, and her black dress flares dramatically behind her due to the rapid upward acceleration, contrasting with the sharp downward angle of the falling metal.\"\n  },\n  {\n    \"id\": \"e037_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Set in a vast, sun-drenched atrium filled with floating dust motes and broken glass shards, 2B is seen from a wide horizontal angle as she walks carefully across a narrow beam of intense light that cuts through the darkened room; her silhouette is sharply defined by the backlighting, highlighting the outline of her hairband and blindfold, while she navigates the precarious path with deliberate steps to avoid stepping on the scattered debris below.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3674,
+    "total_output_tokens": 626,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.78168268662009,
+    "time_to_first_token_seconds": 4.4353869999999995
+  }
+}

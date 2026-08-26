@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "run": 15,
+  "character": "2B",
+  "version": "NieR:Automata",
+  "count": 20,
+  "distribution": {
+    "closeup": 4,
+    "medium": 4,
+    "fullbody": 4,
+    "dynamic": 4,
+    "cinematic": 4
+  },
+  "candidate_guide": "candidate_guide.md",
+  "lm_studio_only": true,
+  "rendering_executed": false,
+  "proposals": [
+    {
+      "id": "e015_b01_closeup",
+      "category": "closeup",
+      "premise": "2B's gloved fingers tense as she pinches the edge of her slipping black blindfold, a single drop of condensation from a ruptured ceiling pipe landing on her forehead to break her composure."
+    },
+    {
+      "id": "e015_b01_medium",
+      "category": "medium",
+      "premise": "2B leans forward with controlled urgency, using both gloved hands to pry open a jammed ventilation grate, the strain tightening her puffy sleeves and pulling her dress hem slightly upward."
+    },
+    {
+      "id": "e015_b01_fullbody",
+      "category": "fullbody",
+      "premise": "2B crouches low to maintain balance on a tilting metal platform, one hand gripping a rusted pipe for stability as her thigh-high stockings stretch against the sudden shift in gravity."
+    },
+    {
+      "id": "e015_b01_dynamic",
+      "category": "dynamic",
+      "premise": "2B twists sharply to catch a falling heavy gear with her forearm, the impact sending her short white hair flying and disrupting the drape of her dress as she braces for the weight."
+    },
+    {
+      "id": "e015_b01_cinematic",
+      "category": "cinematic",
+      "premise": "2B stands on a precarious ledge, extending one arm to steady a collapsing beam that is acting as a bridge, her silhouette framed against the chaotic debris of the structure below."
+    },
+    {
+      "id": "e015_b02_closeup",
+      "category": "closeup",
+      "premise": "A jagged shard of glass embeds in the fabric of 2B's black blindfold, causing her gloved hand to freeze mid-motion as she carefully extracts it without disturbing the hairband beneath."
+    },
+    {
+      "id": "e015_b02_medium",
+      "category": "medium",
+      "premise": "2B twists her torso sharply to release a puffy sleeve that has snagged on a protruding rebar, the pull stretching the fabric taut across her arm while she maintains a stoic expression."
+    },
+    {
+      "id": "e015_b02_fullbody",
+      "category": "fullbody",
+      "premise": "Balancing on one leg atop a crumbling stone pillar, 2B reaches out with her free hand to steady herself as the structure tilts under the weight of a falling debris chunk nearby."
+    },
+    {
+      "id": "e015_b02_dynamic",
+      "category": "dynamic",
+      "premise": "2B pivots on her heel to deflect a swinging chain with her forearm, the impact driving her into a low crouch and sending sparks scattering from the metal link."
+    },
+    {
+      "id": "e015_b02_cinematic",
+      "category": "cinematic",
+      "premise": "From a high vantage point, 2B extends her arm to grab the dangling cable of a suspended elevator car that is slipping below, her silhouette stretching taut against the vast industrial background."
+    },
+    {
+      "id": "e015_b03_closeup",
+      "category": "closeup",
+      "premise": "A thin wisp of steam from a ruptured pipe curls against 2B's black blindfold, causing her gloved fingers to tighten on the strap as she leans forward to verify if the heat is damaging the fabric beneath."
+    },
+    {
+      "id": "e015_b03_medium",
+      "category": "medium",
+      "premise": "2B turns her torso sharply to pull a puffy sleeve free from a tangle of loose electrical wiring, the sudden tension stretching the dress cutout across her waist as she maintains a focused gaze on the connection point."
+    },
+    {
+      "id": "e015_b03_fullbody",
+      "category": "fullbody",
+      "premise": "2B balances precariously on a narrow, rusted girder, extending one leg forward to test its stability before committing her weight, her thigh-high boots gripping the metal as a gust of wind from below threatens to push her off balance."
+    },
+    {
+      "id": "e015_b03_dynamic",
+      "category": "dynamic",
+      "premise": "2B ducks low under a swinging steel beam, using her momentum to slide along the ground, the friction of her boots against the concrete kicking up dust while she watches the hazard clear above her head."
+    },
+    {
+      "id": "e015_b03_cinematic",
+      "category": "cinematic",
+      "premise": "From a low angle, 2B climbs the jagged edge of a collapsed concrete slab, her silhouette framed against a distant, flickering emergency light that signals the exit path through the darkened industrial corridor."
+    },
+    {
+      "id": "e015_b04_closeup",
+      "category": "closeup",
+      "premise": "2B's gloved hand hovers just above her black blindfold, fingers rigidly extended to catch a single heavy drop of oil falling from a leaking overhead pipe before it strikes the fabric, her white hair trembling slightly with the tension of holding still."
+    },
+    {
+      "id": "e015_b04_medium",
+      "category": "medium",
+      "premise": "2B leans into a narrow gap between two concrete blocks to retrieve a dropped data chip, her body twisting at the waist so that the cutout of her dress pulls taut against her midsection while her puffy sleeves brush the rough stone surfaces."
+    },
+    {
+      "id": "e015_b04_fullbody",
+      "category": "fullbody",
+      "premise": "2B stands with feet planted wide on a wet, moss-covered stone floor, leaning her entire upper body backward against the pull of a heavy chain wrapped around her wrist, her thigh-high stockings stretching as she resists being dragged toward a dark grate."
+    },
+    {
+      "id": "e015_b04_dynamic",
+      "category": "dynamic",
+      "premise": "2B executes a rapid side-step to avoid a burst of pressurized steam from a ruptured valve, the sudden lateral force sending her short white hair sweeping across her blindfold and flaring the hem of her black dress outward."
+    },
+    {
+      "id": "e015_b04_cinematic",
+      "category": "cinematic",
+      "premise": "From a low angle, 2B presses both palms against a massive, slowly descending hydraulic piston to create enough clearance for a small mechanical unit to pass beneath, her silhouette framed by the towering industrial machinery and the dust cloud kicked up by the impact."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e013_b02_01\",\n    \"category\": \"closeup\",\n    \"premise\": \"A macro view of 2B's face as a single, heavy raindrop strikes the center of her black blindfold with audible force; her visible eye narrows in sharp, focused determination while her jaw tightens, and the water beads on the fabric begin to slide toward the edge, threatening to obscure her vision.\"\n  },\n  {\n    \"id\": \"e013_b02_02\",\n    \"category\": \"medium\",\n    \"premise\": \"2B's right puffy feather-trimmed sleeve has snagged on a jagged piece of rebar protruding from the wall; she leans her torso back to create tension, pulling with her left hand while her black dress stretches taut across her waist, revealing the strain in her posture as she tries to free herself without tearing the fabric.\"\n  },\n  {\n    \"id\": \"e013_b02_03\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Perched on the high ledge of a shattered balcony, 2B balances with one leg extended forward to test the stability of a cracked tile; her body weight is shifted back into her heels for counterbalance, and her hand hovers near her thigh-high boot, ready to push off or correct her stance as dust motes swirl around her feet.\"\n  },\n  {\n    \"id\": \"e013_b02_04\",\n    \"category\": \"dynamic\",\n    \"premise\": \"In a sharp, low-angle twist, 2B ducks beneath a swinging pipe that has just missed her head; motion blur streaks across her short white hair and the hem of her dress flares upward from the rapid rotation, while her gaze locks onto the next obstacle in the sequence with intense, predictive focus.\"\n  },\n  {\n    \"id\": \"e013_b02_05\",\n    \"category\": \"cinematic\",\n    \"premise\": \"From a wide, deep-focus perspective, 2B stands alone on a precipice overlooking an abyss of fog; the wind whips her dress and stockings against her legs, creating a sense of isolation, but she remains grounded with arms crossed, exuding calm confidence as distant lightning illuminates her silhouette in stark contrast to the dark void.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3444,
+    "total_output_tokens": 532,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.802965732498699,
+    "time_to_first_token_seconds": 4.052125
+  }
+}

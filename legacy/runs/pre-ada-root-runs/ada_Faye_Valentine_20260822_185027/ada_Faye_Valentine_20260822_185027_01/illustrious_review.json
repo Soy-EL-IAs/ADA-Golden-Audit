@@ -1,0 +1,20 @@
+{
+  "id": "faye_valentine_ada_Faye_Valentine_20260822_185027_01",
+  "stage": "illustrious",
+  "verdict": "MINOR_DEFECT",
+  "identity_ok": [],
+  "scene_requirements_ok": [],
+  "defects": [
+    "newspaper clipping is not torn at edges",
+    "no visible skin beneath paper",
+    "expression is confident smirk, not irritated with narrowed eyes",
+    "hand on hip is not digging into shorts fabric"
+  ],
+  "drift": [
+    "newspaper clipping is not strategically obscuring midriff",
+    "no torn edges visible",
+    "expression does not convey irritation",
+    "hand position does not emphasize tension"
+  ],
+  "summary": "Defects: newspaper clipping is not torn at edges; no visible skin beneath paper; expression is confident smirk, not irritated with narrowed eyes; hand on hip is not digging into shorts fabric Drift: newspaper clipping is not strategically obscuring midriff; no torn edges visible; expression does not convey irritation; hand position does not emphasize tension"
+}

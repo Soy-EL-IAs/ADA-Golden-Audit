@@ -1,0 +1,230 @@
+{
+  "per_premise": [
+    {
+      "id": "e034_b01_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.0,
+      "notes": "Strong causal link between wires and blindfold. 'Squinting through fabric' is slightly ambiguous but acceptable for an android context."
+    },
+    {
+      "id": "e034_b01_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 7.0,
+      "notes": "Good physical tension. 'Rusted gear' is a generic prop but fits the industrial aesthetic without breaking canon."
+    },
+    {
+      "id": "e034_b01_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 8.0,
+      "notes": "Clear environmental force (wind) causing a balance challenge. Good silhouette usage."
+    },
+    {
+      "id": "e034_b01_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 9.0,
+      "notes": "Distinct motion verb (sliding vault). Clear obstacle avoidance."
+    },
+    {
+      "id": "e034_b01_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "'Gravitational pull' is an abstract force; 'bracing' against it is passive. The mechanical eye is a strong visual hook but the character's action is weak."
+    },
+    {
+      "id": "e034_b02_closeup",
+      "identity": 8.0,
+      "visual_appeal": 6.0,
+      "micro_story": 5.0,
+      "animation_potential": 4.0,
+      "notes": "Dust settling is a slow process. 'Blinking rapidly' is a micro-reaction but lacks the punch of a physical impact or force. Feels like an atmosphere piece."
+    },
+    {
+      "id": "e034_b02_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 7.0,
+      "notes": "Similar to b01_medium but with a different prop (cable vs gear). 'Viscous black cable' adds texture interest."
+    },
+    {
+      "id": "e034_b02_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "'Standing on tiptoes' is a static pose. 'Sudden jolt' is the cause, but the reaction (rigid/elongated) is passive bracing rather than active correction."
+    },
+    {
+      "id": "e034_b02_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 8.0,
+      "notes": "Backward pivot is a distinct mechanic. Good use of hair/dress flow."
+    },
+    {
+      "id": "e034_b02_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 5.0,
+      "animation_potential": 4.0,
+      "notes": "'Striding purposefully' is locomotion filler. 'Scanning shadows' is passive observation. Fails the 'active role' requirement for cinematic."
+    },
+    {
+      "id": "e034_b03_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 8.0,
+      "animation_potential": 8.0,
+      "notes": "Strong cause (welder flash) and reaction (pulling strap tight). Good tension."
+    },
+    {
+      "id": "e034_b03_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 7.0,
+      "notes": "Near-duplicate of b02_medium. 'Wrench a heavy... grate' vs 'wrench a sticky... cable'. The core mechanic (torso twist to pull object from housing) is identical."
+    },
+    {
+      "id": "e034_b03_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Exact duplicate of b02_fullbody. Same pose, same cause (jolt), same location type."
+    },
+    {
+      "id": "e034_b03_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 8.0,
+      "notes": "Exact duplicate of b02_dynamic. Same pivot, same chain evasion."
+    },
+    {
+      "id": "e034_b03_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 5.0,
+      "animation_potential": 4.0,
+      "notes": "Exact duplicate of b02_cinematic. Same striding/scanning in stone pillars."
+    },
+    {
+      "id": "e034_b04_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Wind whipping hair is a common trope. 'Squinting' and 'tightening jaw' are similar to b01/b03 closeups but less specific than the wire/flash causes."
+    },
+    {
+      "id": "e034_b04_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 7.0,
+      "notes": "Crouching for traction is a distinct mechanic from the 'wrenching' of b01/b02/b03. Good interaction with environment (water/moss)."
+    },
+    {
+      "id": "e034_b04_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 8.0,
+      "notes": "Balance on spire tip is distinct from the beam in b02/b03. Updraft cause is clear."
+    },
+    {
+      "id": "e034_b04_dynamic",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 9.0,
+      "notes": "Rolling is a distinct motion verb. Clear cause (falling masonry)."
+    },
+    {
+      "id": "e034_b04_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Climbing is active, but 'escape rising smoke' is a bit generic. Still better than the passive striding in b02/b03."
+    }
+  ],
+  "set_scores": {
+    "identity": 9.0,
+    "visual_appeal": 7.5,
+    "diversity": 4.0,
+    "repetition_control": 3.0,
+    "micro_story": 6.5,
+    "animation_potential": 6.5
+  },
+  "strengths": [
+    "Strong adherence to character identity facts (blindfold, gloves, dress details) across all premises.",
+    "Good use of specific physical causes in the first batch (b01), such as wires snagging or wind gusts.",
+    "Dynamic category verbs are varied and distinct where they appear (vault, pivot, roll)."
+  ],
+  "failures": [
+    "Severe repetition: Batch b03 is an exact duplicate of Batch b02 for Medium, Fullbody, Dynamic, and Cinematic categories.",
+    "Batch b04 Closeup repeats the 'wind/hair' motif from b01 Fullbody without sufficient differentiation in cause or reaction intensity.",
+    "Cinematic premises often default to passive observation ('scanning', 'striding') rather than active engagement with the scale/contrast.",
+    "Medium category relies heavily on the same 'torso twist/wrenching object' mechanic across b01, b02, and b03."
+  ],
+  "desired_patterns": [
+    "Unique core physical interaction mechanisms for each premise in the batch.",
+    "Active verbs that imply immediate follow-through or consequence (e.g., 'catching', 'dodging', 'climbing') rather than static states ('standing', 'scanning').",
+    "Distinct environmental textures and locations to prevent visual monotony."
+  ],
+  "undesired_patterns": [
+    "Exact duplicate premises across different batch IDs.",
+    "Passive balance or bracing without a clear, immediate threat or active correction motion.",
+    "Locomotion filler (striding/walking) used as the primary action in cinematic shots.",
+    "Atmospheric elements (dust, wind) serving as the sole hook without specific physical interaction."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Exact Duplicate: Medium Wrenching Object",
+      "proposal_ids": [
+        "e034_b02_medium",
+        "e034_b03_medium"
+      ]
+    },
+    {
+      "pattern": "Exact Duplicate: Fullbody Beam Balance",
+      "proposal_ids": [
+        "e034_b02_fullbody",
+        "e034_b03_fullbody"
+      ]
+    },
+    {
+      "pattern": "Exact Duplicate: Dynamic Chain Pivot",
+      "proposal_ids": [
+        "e034_b02_dynamic",
+        "e034_b03_dynamic"
+      ]
+    },
+    {
+      "pattern": "Exact Duplicate: Cinematic Pillar Striding",
+      "proposal_ids": [
+        "e034_b02_cinematic",
+        "e034_b03_cinematic"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Eliminate all exact duplicates; ensure every premise in the set of 20 has a unique core mechanic.",
+    "For Cinematic shots, replace passive 'scanning/striding' with active interactions like 'climbing', 'leaping across chasms', or 'emerging from dust clouds'.",
+    "Vary the Medium category mechanics: instead of repeating 'wrenching/pulling', use 'bracing against impact', 'manipulating controls', or 'catching falling debris'."
+  ],
+  "verdict": "The set fails primarily due to poor repetition control. While individual premises in b01 and parts of b04 are strong, the inclusion of an entire duplicate batch (b03 mirroring b02) drastically reduces diversity and violates the 'Unique Core Mechanic' rule."
+}

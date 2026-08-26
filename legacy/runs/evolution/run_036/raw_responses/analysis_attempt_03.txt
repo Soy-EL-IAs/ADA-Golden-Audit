@@ -1,0 +1,62 @@
+{
+  "per_premise": [
+    {"id": "e036_b01_closeup", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 7, "notes": "Strong causal link (sparking wire) and clear physical reaction. Identity is preserved via glove and blindfold edge."},
+    {"id": "e036_b01_medium", "identity": 9, "visual_appeal": 8, "micro_story": 7, "animation_potential": 8, "notes": "Good use of recoil as a cause. The 'rusted piston' is specific enough to avoid generic ruin."},
+    {"id": "e036_b01_fullbody", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 9, "notes": "Excellent balance challenge. The falling gear striking the boot provides a clear consequence and motion vector."},
+    {"id": "e036_b01_dynamic", "identity": 8, "visual_appeal": 7, "micro_story": 5, "animation_potential": 9, "notes": "High energy but weak narrative cause. Why is she vaulting? 'Jagged shard' is a minor obstacle without clear threat context (Locomotion Filler risk)."},
+    {"id": "e036_b01_cinematic", "identity": 8, "visual_appeal": 9, "micro_story": 7, "animation_potential": 8, "notes": "Strong scale contrast. Hanging from a fan blade is active interaction with the environment."},
+    {"id": "e036_b02_closeup", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 6, "notes": "Steam jet provides clear cause. The 'stoic endurance' fits personality well."},
+    {"id": "e036_b02_medium", "identity": 9, "visual_appeal": 7, "micro_story": 7, "animation_potential": 7, "notes": "Mechanical torque is a good cause. The gate sliding open implies a larger event."},
+    {"id": "e036_b02_fullbody", "identity": 9, "visual_appeal": 8, "micro_story": 8, "animation_potential": 8, "notes": "Oil-slicked platform adds texture and risk. Stabilizing the valve wheel is a clear action."},
+    {"id": "e036_b02_dynamic", "identity": 9, "visual_appeal": 8, "micro_story": 7, "animation_potential": 9, "notes": "Catching debris mid-spin is dynamic. The 'redirect' hint adds narrative depth."},
+    {"id": "e036_b02_cinematic", "identity": 8, "visual_appeal": 9, "micro_story": 7, "animation_potential": 8, "notes": "Similar to b01_cinematic (hanging/dangling in shaft). Repetition of 'dangling from above' motif."},
+    {"id": "e036_b03_closeup", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 6, "notes": "Worn glove reveals skin (consistent with 'black gloves' profile if damaged). Good tactile detail."},
+    {"id": "e036_b03_medium", "identity": 9, "visual_appeal": 7, "micro_story": 7, "animation_potential": 7, "notes": "Prying a hatch is active. The 'corroded' detail adds specificity."},
+    {"id": "e036_b03_fullbody", "identity": 8, "visual_appeal": 7, "micro_story": 6, "animation_potential": 8, "notes": "Balancing on a cable is good. 'Wind shear' from snapping cable is a valid cause."},
+    {"id": "e036_b03_dynamic", "identity": 9, "visual_appeal": 8, "micro_story": 7, "animation_potential": 9, "notes": "Sliding to evade chandelier fragment is clear. Good use of friction/surface interaction."},
+    {"id": "e036_b03_cinematic", "identity": 8, "visual_appeal": 8, "micro_story": 6, "animation_potential": 7, "notes": "Climbing a crumbling staircase is active. However, 'vast open sky' risks becoming atmospheric if the crumbling isn't emphasized enough."},
+    {"id": "e036_b04_closeup", "identity": 9, "visual_appeal": 7, "micro_story": 8, "animation_potential": 6, "notes": "Static electricity arc is a strong visual hook. 'Suppressed shock' fits personality."},
+    {"id": "e036_b04_medium", "identity": 9, "visual_appeal": 7, "micro_story": 7, "animation_potential": 7, "notes": "Hoisting up from a drop is clear. The 'slick wet stone' adds texture."},
+    {"id": "e036_b04_fullbody", "identity": 9, "visual_appeal": 8, "micro_story": 7, "animation_potential": 7, "notes": "Glass shard walkway is specific. Holding an artifact adds a 'why' to the movement."},
+    {"id": "e036_b04_dynamic", "identity": 9, "visual_appeal": 8, "micro_story": 7, "animation_potential": 9, "notes": "Backflip from steam vent is high energy. Clear cause and consequence."},
+    {"id": "e036_b04_cinematic", "identity": 8, "visual_appeal": 9, "micro_story": 7, "animation_potential": 8, "notes": "Centrifugal force in a silo is a strong physics-based hook. Active interaction with the wall."}
+  ],
+  "set_scores": {
+    "identity": 9,
+    "visual_appeal": 8,
+    "diversity": 7,
+    "repetition_control": 6,
+    "micro_story": 7,
+    "animation_potential": 8
+  },
+  "strengths": [
+    "Strong adherence to the 'Causal Premise' rule; almost every premise has a visible physical trigger.",
+    "Consistent preservation of 2B's identity markers (blindfold, gloves, dress cut) across all shots.",
+    "High animation potential due to clear motion vectors and implied next steps."
+  ],
+  "failures": [
+    "Repetition of 'hanging/dangling' motifs in cinematic categories (b01_cinematic, b02_cinematic).",
+    "Several premises rely on similar 'industrial machinery failure' hooks (piston, valve, fan, silo) without enough variation in the type of threat.",
+    "Some dynamic shots (e.g., b01_dynamic) lack sufficient narrative context for the action (why vault?)."
+  ],
+  "desired_patterns": [
+    "Integration of body appeal with specific physical strain or tension.",
+    "Use of unique, specific props that interact directly with the character's clothing or body.",
+    "Clear emotional micro-expressions tied to the physical cause."
+  ],
+  "undesired_patterns": [
+    "Generic 'industrial ruin' settings without specific interacting elements.",
+    "Repetition of the same causal force (e.g., multiple steam/pressure events).",
+    "Passive poses where the environment is just a backdrop rather than an active threat."
+  ],
+  "repetition_clusters": [
+    {"pattern": "Hanging/Dangling from above in shafts/fans", "proposal_ids": ["e036_b01_cinematic", "e036_b02_cinematic"]},
+    {"pattern": "Industrial machinery failure/impact", "proposal_ids": ["e036_b01_medium", "e036_b02_fullbody", "e036_b04_cinematic"]}
+  ],
+  "recommendations_for_next_cycle": [
+    "Vary the 'Cinematic' category to include more horizontal scale or environmental interaction rather than just vertical hanging.",
+    "Introduce non-mechanical causes (e.g., biological, elemental, social) to break the industrial monotony.",
+    "Ensure dynamic shots have a clearer 'why' for the movement beyond just obstacle avoidance."
+  ],
+  "verdict": "Strong batch with high identity fidelity and animation potential. Main weakness is repetitive hook families in cinematic and mechanical categories."
+}

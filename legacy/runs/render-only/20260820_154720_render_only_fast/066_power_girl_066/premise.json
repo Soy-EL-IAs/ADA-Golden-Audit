@@ -1,0 +1,34 @@
+{
+  "id": "power_girl_066",
+  "character": "Power Girl",
+  "franchise": "DC Comics",
+  "identity": [
+    "short blonde hair",
+    "white fitted superhero suit with blue gloves and cape",
+    "red cape"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On a windy city rooftop, she plants her hands on her hips for a heroic pose and a loose newspaper sheet slaps across her face before peeling away on the next gust, with confident sensual body language throughout.",
+  "must_include": [
+    "windblown newspaper sheet",
+    "heroic rooftop pose"
+  ],
+  "environment": [
+    "city rooftop",
+    "bright afternoon light",
+    "vents and distant skyline"
+  ],
+  "animation_hook": "She catches the paper in midair, folds it once, and tucks it under a vent cover as her cape snaps behind her.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000065,
+  "krea_seed_base": 2000065
+}

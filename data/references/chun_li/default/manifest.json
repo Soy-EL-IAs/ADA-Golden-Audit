@@ -1,0 +1,535 @@
+{
+  "schema_version": 2,
+  "character": "chun-li",
+  "version": null,
+  "created_at": "2026-08-25T13:49:28.498845+00:00",
+  "status": "downloaded",
+  "usable": true,
+  "provider": "searxng",
+  "source_query": "\"Chun-Li\" \"street fighter\"",
+  "searches": [
+    "\"Chun-Li\" \"street fighter\"",
+    "\"Chun-Li\" \"street fighter\" character",
+    "\"Chun-Li\" \"street fighter\" official artwork",
+    "\"chun-li\"",
+    "\"chun-li\" \"street fighter\" character"
+  ],
+  "refs": [
+    {
+      "file": "refs/ref_01.webp",
+      "source_url": "https://static.wikia.nocookie.net/streetfighter/images/3/37/Chun-Li_SF6.webp/revision/latest?cb=20220808102032&path-prefix=es",
+      "page_url": "https://streetfighter.fandom.com/es/wiki/Chun-Li",
+      "domain": "streetfighter.fandom.com",
+      "final_score": 83,
+      "recommendation": "review",
+      "provenance": {
+        "source_page": "https://streetfighter.fandom.com/es/wiki/Chun-Li",
+        "image_url": "https://static.wikia.nocookie.net/streetfighter/images/3/37/Chun-Li_SF6.webp/revision/latest?cb=20220808102032&path-prefix=es",
+        "source_tier": "trusted",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 1.0,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "textual_provenance",
+        "identity_match": true,
+        "confidence": 1.0,
+        "evidence": [
+          "trusted_domain:fandom.com; character_in_title_or_url:chun li,version_match:street fighter; preferred_resolution:1030x1645; origin:image_search"
+        ]
+      },
+      "sha256": "672510e464b28135b4aac186b48d55c814d325ad713dfca8e5ad94cb0ac6a774",
+      "downloaded_at": "2026-08-25T13:49:28.658655+00:00"
+    },
+    {
+      "file": "refs/ref_04.png",
+      "source_url": "https://toppng.com/uploads/preview/chun-li-street-fighter-chun-li-115629275940p91wbvotz.png",
+      "page_url": "https://toppng.com/freepng/225644/street-fighter-iv-png-image-chun-li-street-fighter-4",
+      "domain": "toppng.com",
+      "final_score": 53,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://toppng.com/freepng/225644/street-fighter-iv-png-image-chun-li-street-fighter-4",
+        "image_url": "https://toppng.com/uploads/preview/chun-li-street-fighter-chun-li-115629275940p91wbvotz.png",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 1.0,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.99,
+        "evidence": [
+          "hair_bun",
+          "double_bun",
+          "brown_hair",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "062ec725fc5cd6a0dcafd642df6c7112c699642c95437a11a48a16d85ef51f2e",
+      "downloaded_at": "2026-08-25T13:49:31.630436+00:00"
+    }
+  ],
+  "character_id": "chun_li",
+  "canonical_name": "Chun-Li",
+  "franchise": [
+    "street_fighter"
+  ],
+  "identity_resolution": {
+    "canonical_tag": "chun-li",
+    "source": "danbooru_taxonomy",
+    "aliases": [
+      "chun-li",
+      "Chun-Li"
+    ]
+  },
+  "canonical_references": [
+    {
+      "file": "refs/ref_01.webp",
+      "source_url": "https://static.wikia.nocookie.net/streetfighter/images/3/37/Chun-Li_SF6.webp/revision/latest?cb=20220808102032&path-prefix=es",
+      "page_url": "https://streetfighter.fandom.com/es/wiki/Chun-Li",
+      "domain": "streetfighter.fandom.com",
+      "final_score": 83,
+      "recommendation": "review",
+      "provenance": {
+        "source_page": "https://streetfighter.fandom.com/es/wiki/Chun-Li",
+        "image_url": "https://static.wikia.nocookie.net/streetfighter/images/3/37/Chun-Li_SF6.webp/revision/latest?cb=20220808102032&path-prefix=es",
+        "source_tier": "trusted",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 1.0,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "textual_provenance",
+        "identity_match": true,
+        "confidence": 1.0,
+        "evidence": [
+          "trusted_domain:fandom.com; character_in_title_or_url:chun li,version_match:street fighter; preferred_resolution:1030x1645; origin:image_search"
+        ]
+      },
+      "sha256": "672510e464b28135b4aac186b48d55c814d325ad713dfca8e5ad94cb0ac6a774",
+      "downloaded_at": "2026-08-25T13:49:28.658655+00:00"
+    },
+    {
+      "file": "refs/ref_04.png",
+      "source_url": "https://toppng.com/uploads/preview/chun-li-street-fighter-chun-li-115629275940p91wbvotz.png",
+      "page_url": "https://toppng.com/freepng/225644/street-fighter-iv-png-image-chun-li-street-fighter-4",
+      "domain": "toppng.com",
+      "final_score": 53,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://toppng.com/freepng/225644/street-fighter-iv-png-image-chun-li-street-fighter-4",
+        "image_url": "https://toppng.com/uploads/preview/chun-li-street-fighter-chun-li-115629275940p91wbvotz.png",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 1.0,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.99,
+        "evidence": [
+          "hair_bun",
+          "double_bun",
+          "brown_hair",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "062ec725fc5cd6a0dcafd642df6c7112c699642c95437a11a48a16d85ef51f2e",
+      "downloaded_at": "2026-08-25T13:49:31.630436+00:00"
+    }
+  ],
+  "generated_identity_references": [],
+  "reference_status": "READY",
+  "reference_count": 2,
+  "reference_confidence": 1.0,
+  "discovery": {
+    "queries_used": [
+      "\"Chun-Li\" \"street fighter\"",
+      "\"Chun-Li\" \"street fighter\" character",
+      "\"Chun-Li\" \"street fighter\" official artwork",
+      "\"chun-li\"",
+      "\"chun-li\" \"street fighter\" character"
+    ],
+    "raw_candidate_count": 100,
+    "page_fetch_errors": 0,
+    "rejected": [
+      {
+        "image_url": "https://live.staticflickr.com/931/43798648301_6deab1a78e_b.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1606254789997-29068d6b4640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13176139/pexels-photo-13176139.jpeg?cs=srgb&dl=pexels-charlie-rock-driguez-288924117-13176139.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3025/2882009668_b34738c102_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/65535/49548159248_032549547d_b.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1772536258768-a122bb69819c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13203294/pexels-photo-13203294.jpeg?cs=srgb&dl=pexels-alejandro-morales-lozano-1440286-13203294.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3450/3696945365_b521dfc3ce_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/65535/49548659311_3275ea6d65_b.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1772536258564-60012ca98b66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/18632427/pexels-photo-18632427.jpeg?cs=srgb&dl=pexels-jesper-425001880-18632427.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/65535/49548159248_032549547d_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/2713/4374910437_55e5cab53f.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/8152/7391637842_fe4ed94d28_b.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1772536258768-a122bb69819c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/f3/64/35/f3643575758ed68dd94817af4169004a.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7792054/pexels-photo-7792054.jpeg?cs=srgb&dl=pexels-cottonbro-7792054.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2014_Dragon_Con_Cosplay_-_Street_Fighter_%2815121210981%29.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3476/3697101596_9a4d4da938_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/2287/1697209713_4bc0ee4282.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/b9/78/a2/b978a2c8cb14ad5a21f0e466236f44a0.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13203294/pexels-photo-13203294.jpeg?cs=srgb&dl=pexels-alejandro-morales-lozano-1440286-13203294.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Chun-Li%2C_Riminicomix_2021_%2851361601968%29.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2672/3697102364_7cecd9d466_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/3393/3642198684_506c2dca11_b.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7792056/pexels-photo-7792056.jpeg?cs=srgb&dl=pexels-cottonbro-7792056.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Chun-Li%2C_Riminicomix_2021_%2851362116269%29.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/496/19037623120_4ee0d0b0c7_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/3940/14957837914_c0610f25ba_b.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/mail-badge.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1704297420636-a8ae49fe119c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Chun-Li.full.3192301.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/11296116/pexels-photo-11296116.jpeg?cs=srgb&dl=pexels-186118622-11296116.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/7838/46354149954_1723890ddf_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "http://www.game-art-hq.com/wp-content/uploads/2011/09/Street-Fighter-Alpha-3-Game-Character-Official-Artwork-Render-Chun-Li.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/6876129/pexels-photo-6876129.jpeg?cs=srgb&dl=pexels-john-6876129.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/7910/32135940027_16fa4703ed_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Chun-Li.full.3576761.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/30232331/pexels-photo-30232331.jpeg?cs=srgb&dl=pexels-marcus-80608062-30232331.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/65535/48670516933_a0eb02e083_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Chun-Li.full.3838224.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/34990408/pexels-photo-34990408.jpeg?cs=srgb&dl=pexels-capturavisualmoment-34990408.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/65535/48670862341_d073b3d957_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "http://www.game-art-hq.com/wp-content/uploads/2011/08/SFXT-Street-Fighter-X-Tekken-Official-Game-Art-Chun-Li-Character-Render.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/17072149/pexels-photo-17072149.jpeg?cs=srgb&dl=pexels-rafaalem-17072149.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/7861/32135929497_f480f76835_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/6321669/pexels-photo-6321669.jpeg?cs=srgb&dl=pexels-shkrabaanthony-6321669.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/7920/32135938377_6583bc6ffa_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/3140/2435219589_ed9e0bf39b.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1748350572064-fd47d5e035cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://wallpapers.com/images/hd/chun-li-street-fighter-portrait-q8qu6w4gufztcrpw.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/30321913/pexels-photo-30321913.jpeg?cs=srgb&dl=pexels-liuuu-_61-2383408-30321913.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1/1005430_3cc651a0f3_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/3384/3244808347_c38c363f83.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1606254789997-29068d6b4640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/b2/de/46/b2de467485fe773d48402c52c085fb76.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Chun-Li%2C_Riminicomix_2021_%2851361382321%29.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/38899290/pexels-photo-38899290.jpeg?cs=srgb&dl=pexels-soc-nang-d-ng-2150345854-38899290.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2016/2188635882_95dc7ba462_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/6133/6017476117_ebbb58b2ec_b.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1772536258768-a122bb69819c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/27434896/pexels-photo-27434896.jpeg?cs=srgb&dl=pexels-byb-byb-412101727-27434896.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3270/2663179673_38eb681582_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/8431/7613665072_85102db173_b.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1772536258539-ccc6732ee6cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/8152/7391637842_fe4ed94d28_b.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1772536258768-a122bb69819c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/f3/64/35/f3643575758ed68dd94817af4169004a.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7792054/pexels-photo-7792054.jpeg?cs=srgb&dl=pexels-cottonbro-7792054.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3476/3697101596_9a4d4da938_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/2287/1697209713_4bc0ee4282.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/b9/78/a2/b978a2c8cb14ad5a21f0e466236f44a0.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13203294/pexels-photo-13203294.jpeg?cs=srgb&dl=pexels-alejandro-morales-lozano-1440286-13203294.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2672/3697102364_7cecd9d466_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/3393/3642198684_506c2dca11_b.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.wikia.nocookie.net/vgcdatabase/images/b/b3/12_sfxtekken05.jpg/revision/latest?cb=20140424071737",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7792056/pexels-photo-7792056.jpeg?cs=srgb&dl=pexels-cottonbro-7792056.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2714/4053876822_85d6b384d2_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/3940/14957837914_c0610f25ba_b.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/dot.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/04/dc/ed/04dced204f313087e05c9c4443d006fa.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7780169/pexels-photo-7780169.jpeg?cs=srgb&dl=pexels-cottonbro-7780169.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "source_url": "https://static.wikia.nocookie.net/vgcdatabase/images/b/b3/12_sfxtekken05.jpg/revision/latest?cb=20140424071737",
+      "page_url": "https://ar.inspiredpencil.com/pictures-2023/street-fighter-characters-chun-li",
+      "error": "compact visual identity validation rejected candidate"
+    },
+    {
+      "source_url": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2023/09/SH-Figuarts-Chun-Li-Outfit-2-Figure-004.jpg",
+      "page_url": "https://bleedingcool.com/collectibles/kick-the-competition-with-s-h-figuarts-street-fighter-6-chun-li/",
+      "error": "LM Studio HTTP 400: {\"error\":\"'url' field must be a base64 encoded image.\"}"
+    },
+    {
+      "source_url": "https://cdnb.artstation.com/p/assets/images/images/074/170/641/large/fabian-tasama-asset.jpg?1711416483",
+      "page_url": "https://www.artstation.com/artwork/9Edboo",
+      "error": "Unterminated string starting at: line 8 column 5 (char 378)"
+    }
+  ],
+  "duplicate_hashes": []
+}

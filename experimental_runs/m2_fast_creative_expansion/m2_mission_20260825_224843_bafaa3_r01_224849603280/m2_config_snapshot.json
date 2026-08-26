@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "experiment": "M2 — Fast Creative Expansion",
+  "creative_expansion_model": "qwen3.5-9b-uncensored-hauhaucs-aggressive",
+  "strong_evaluation_model": "qwen3.8-27b-uncensored",
+  "character": "Shihouin Yoruichi",
+  "version": "bleach",
+  "requested_count": 12,
+  "context_length": 16384,
+  "native_transport": {
+    "endpoint": "/api/v1/chat",
+    "reasoning": "off",
+    "temperature": 0.8,
+    "max_output_tokens": 8000,
+    "store": false
+  },
+  "execution": {
+    "creative_calls": 1,
+    "creative_retries": 0,
+    "creative_fallbacks": 0,
+    "comfyui_calls": 0,
+    "selection_enabled": false,
+    "rendering_enabled": false
+  },
+  "generation_context": {
+    "mode": "direct",
+    "source_asset_id": "",
+    "source_generation_id": "",
+    "alternative_mode": "",
+    "alternative_instruction": "",
+    "source_context": {}
+  },
+  "where": "a moonlit rooftop with a clean city skyline",
+  "creative_intent": {
+    "schema_version": "creative_intent_envelope_v1",
+    "character": {
+      "value": "Shihouin Yoruichi",
+      "locked": true,
+      "must_be_visible": false
+    },
+    "setting": {
+      "value": "a moonlit rooftop with a clean city skyline",
+      "locked": true,
+      "must_be_visible": true
+    },
+    "action": {
+      "value": "standing confidently while adjusting her gloves, Golden ada_alpha_golden_20260825_224631 Gate 1",
+      "locked": true,
+      "must_be_visible": false
+    },
+    "render_intent": {
+      "value": "semi_realistic",
+      "locked": true,
+      "must_be_visible": false
+    }
+  },
+  "what_happens": "standing confidently while adjusting her gloves, Golden ada_alpha_golden_20260825_224631 Gate 1"
+}

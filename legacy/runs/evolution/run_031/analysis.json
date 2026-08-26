@@ -1,0 +1,232 @@
+{
+  "per_premise": [
+    {
+      "id": "e031_b01_closeup",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Strong identity with specific gear interaction. The 'sparking electrical contact' provides a clear cause for the heat/lean. Good closeup focus."
+    },
+    {
+      "id": "e031_b01_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 7.0,
+      "notes": "Clear cause (steam jet) and reaction (twist/brace). Sleeves flaring adds visual interest. Slightly generic industrial setting but effective."
+    },
+    {
+      "id": "e031_b01_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Good balance challenge. 'Wind updraft' is a bit vague but acceptable as a consequence of the chasm depth. Hem lift adds appeal."
+    },
+    {
+      "id": "e031_b01_dynamic",
+      "identity": 8.0,
+      "visual_appeal": 9.0,
+      "micro_story": 6.0,
+      "animation_potential": 8.0,
+      "notes": "High energy. 'Friction sparks' from stockings is a strong visual hook. Clear cause (laser grid). Distinct verb (slide)."
+    },
+    {
+      "id": "e031_b01_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 9.0,
+      "micro_story": 6.0,
+      "animation_potential": 7.0,
+      "notes": "Strong scale contrast. Active push-off prevents static statue feel. Silhouette works well with the gear background."
+    },
+    {
+      "id": "e031_b02_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Repetition of steam cause from b01_medium. 'Gripping vibrating grate' is a bit passive compared to the active heat interaction in b01_closeup."
+    },
+    {
+      "id": "e031_b02_medium",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Chain swing is a good near-miss cause. Similar 'twist/brace' mechanic to b01_medium but distinct object (chain vs steam)."
+    },
+    {
+      "id": "e031_b02_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Tilting platform is a common trope. 'Dress hem flares from air displacement' feels weakly causal compared to the wind in b01_fullbody."
+    },
+    {
+      "id": "e031_b02_dynamic",
+      "identity": 8.0,
+      "visual_appeal": 8.0,
+      "micro_story": 6.0,
+      "animation_potential": 7.0,
+      "notes": "Spin to evade mechanical arm. Good motion blur description. Distinct from slide (b01) and dive (b03)."
+    },
+    {
+      "id": "e031_b02_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 9.0,
+      "micro_story": 6.0,
+      "animation_potential": 7.0,
+      "notes": "Fractured window/light shafts. Push-off action is good. Similar scale contrast to b01_cinematic but different light source."
+    },
+    {
+      "id": "e031_b03_closeup",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 7.0,
+      "animation_potential": 6.0,
+      "notes": "Chain anchor dropping is a strong specific cause. Reflexive shield pose is dynamic for a closeup."
+    },
+    {
+      "id": "e031_b03_medium",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Piston slam is a good cause. However, 'static legs' contradicts the active bracing described earlier in the sentence. Slightly confusing phrasing."
+    },
+    {
+      "id": "e031_b03_fullbody",
+      "identity": 8.0,
+      "visual_appeal": 9.0,
+      "micro_story": 6.0,
+      "animation_potential": 7.0,
+      "notes": "High arcing leap. 'Swirling mist' is atmospheric but the leap itself has clear momentum. Hem flare is well-integrated."
+    },
+    {
+      "id": "e031_b03_dynamic",
+      "identity": 8.0,
+      "visual_appeal": 9.0,
+      "micro_story": 7.0,
+      "animation_potential": 8.0,
+      "notes": "Slide on oil floor. Very similar to b01_dynamic (slide on metal). 'Black droplets' spray is a nice detail but the core action repeats."
+    },
+    {
+      "id": "e031_b03_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 8.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Gripping ladder rung. 'Vibrating' is a weak cause for a cinematic scale shot; feels more like a medium action. Less impactful than the push-offs in previous cinematics."
+    },
+    {
+      "id": "e031_b04_closeup",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 5.0,
+      "animation_potential": 4.0,
+      "notes": "Collapsing shelf/dust. 'Brushing debris' is a low-stakes action. Feels more like a cleanup moment than a high-tension micro-story."
+    },
+    {
+      "id": "e031_b04_medium",
+      "identity": 9.0,
+      "visual_appeal": 7.0,
+      "micro_story": 6.0,
+      "animation_potential": 5.0,
+      "notes": "Lateral shaking floor. Bracing against bulkhead. Similar 'brace/twist' mechanic to b01_medium and b02_medium."
+    },
+    {
+      "id": "e031_b04_fullbody",
+      "identity": 9.0,
+      "visual_appeal": 8.0,
+      "micro_story": 6.0,
+      "animation_potential": 6.0,
+      "notes": "Tilting/rotating platform. Very similar to b02_fullbody (tilting/sliding platform). Repetition of the 'balance on unstable surface' hook."
+    },
+    {
+      "id": "e031_b04_dynamic",
+      "identity": 8.0,
+      "visual_appeal": 8.0,
+      "micro_story": 6.0,
+      "animation_potential": 7.0,
+      "notes": "Backward roll. Distinct verb from slide/spin/dive. Falling beam is a clear cause."
+    },
+    {
+      "id": "e031_b04_cinematic",
+      "identity": 8.0,
+      "visual_appeal": 9.0,
+      "micro_story": 6.0,
+      "animation_potential": 7.0,
+      "notes": "Fractured skylight. Pulling up to stand/reach for cable. Similar light shaft aesthetic to b02_cinematic."
+    }
+  ],
+  "set_scores": {
+    "identity": 9.0,
+    "visual_appeal": 8.0,
+    "diversity": 6.0,
+    "repetition_control": 5.0,
+    "micro_story": 7.0,
+    "animation_potential": 6.0
+  },
+  "strengths": [
+    "Consistent character identity with specific references to blindfold, hair, and outfit details.",
+    "Strong visual appeal in dynamic and cinematic categories, particularly with light effects and motion blur.",
+    "Most premises have a clear visible cause (steam, chain, laser, debris) driving the action."
+  ],
+  "failures": [
+    "Significant repetition of 'bracing/leaning against wall' mechanics across multiple medium shots (b01, b02, b04).",
+    "Repetition of 'tilting/sliding platform' fullbody concepts (b02 and b04 are nearly identical in setup).",
+    "Two dynamic premises involve sliding on a floor (b01 metal, b03 oil), reducing verb diversity.",
+    "Cinematic shots rely heavily on silhouette against large machinery/light sources, creating a repetitive visual family."
+  ],
+  "desired_patterns": [
+    "Clear causal triggers visible in the frame.",
+    "Integration of body appeal through fabric tension and weight shifts rather than static poses.",
+    "Distinct motion verbs for dynamic categories (slide, spin, dive, roll are all present, which is good)."
+  ],
+  "undesired_patterns": [
+    "Generic industrial environments without specific narrative context beyond 'danger'.",
+    "Passive bracing that lacks a secondary active movement or consequence.",
+    "Atmospheric elements (mist, dust) used as primary hooks rather than consequences of action."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Bracing/Leaning against structure to counteract force",
+      "proposal_ids": [
+        "e031_b01_medium",
+        "e031_b02_medium",
+        "e031_b04_medium"
+      ]
+    },
+    {
+      "pattern": "Balancing on unstable/tilting platform",
+      "proposal_ids": [
+        "e031_b02_fullbody",
+        "e031_b04_fullbody"
+      ]
+    },
+    {
+      "pattern": "Sliding low across floor to evade hazard",
+      "proposal_ids": [
+        "e031_b01_dynamic",
+        "e031_b03_dynamic"
+      ]
+    },
+    {
+      "pattern": "Silhouette against large light source/machinery with push-off action",
+      "proposal_ids": [
+        "e031_b01_cinematic",
+        "e031_b02_cinematic",
+        "e031_b04_cinematic"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Vary the medium shot mechanics: instead of bracing against walls, use active dodging or interacting with objects (catching a falling tool, stepping over debris).",
+    "Differentiate fullbody balance shots: one could be on ice/water, another on a narrow beam, another climbing a vertical surface.",
+    "Introduce more varied dynamic verbs: consider jumping, crawling, or swinging rather than just sliding and spinning.",
+    "For cinematic shots, vary the character's relationship to the scale: instead of always pushing off/launching, try interacting with the machinery (gripping a moving part, hiding behind a gear) or being dwarfed by it in a moment of stillness that implies tension."
+  ],
+  "verdict": "The set is strong on identity and visual appeal but suffers from moderate repetition in mechanical actions (bracing, sliding, balancing). The causal logic is generally sound. To improve, the next cycle should focus on diversifying the *type* of physical interaction rather than just changing the environment or object."
+}

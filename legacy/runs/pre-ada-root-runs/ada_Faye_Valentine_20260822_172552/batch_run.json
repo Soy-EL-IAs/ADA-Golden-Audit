@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "batch_id": "ada_Faye_Valentine_20260822_172552",
+  "character": "Faye Valentine",
+  "version": null,
+  "count": 3,
+  "items": [
+    "ada_Faye_Valentine_20260822_172552_01",
+    "ada_Faye_Valentine_20260822_172552_02",
+    "ada_Faye_Valentine_20260822_172552_03"
+  ],
+  "created_at": "2026-08-22T20:25:52.316842+00:00",
+  "updated_at": "2026-08-22T20:25:52.316842+00:00"
+}

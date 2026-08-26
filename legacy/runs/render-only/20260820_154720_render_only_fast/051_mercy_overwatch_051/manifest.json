@@ -1,0 +1,38 @@
+{
+  "run_id": "051_mercy_overwatch_051",
+  "batch_id": "20260820_154720_render_only_fast",
+  "sequence": 51,
+  "premise_id": "mercy_overwatch_051",
+  "mode": "render-only-fast",
+  "review_status": "unreviewed_render_only",
+  "status": "unreviewed_render_only",
+  "created_at": "2026-08-20T16:11:24.103328-03:00",
+  "illustrious_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 1000050,
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_154720_render_only_fast\\051_mercy_overwatch_051\\illustrious\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_154720_render_only_fast\\051_mercy_overwatch_051\\illustrious",
+        "type": "output"
+      }
+    }
+  ],
+  "krea_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 2000050,
+      "source_image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_154720_render_only_fast\\051_mercy_overwatch_051\\illustrious\\candidate_01.png",
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_154720_render_only_fast\\051_mercy_overwatch_051\\krea\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_154720_render_only_fast\\051_mercy_overwatch_051\\krea",
+        "type": "output"
+      }
+    }
+  ],
+  "illustrious_prompt_id": "f3055d76-3abe-479b-b4fc-d5e370beaabe",
+  "krea_prompt_id": "1c615110-5840-402e-a309-5de11bce59f7",
+  "completed_at": "2026-08-20T16:11:54.257678-03:00"
+}

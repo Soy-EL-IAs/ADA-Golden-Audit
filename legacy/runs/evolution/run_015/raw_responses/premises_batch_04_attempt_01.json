@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e015_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"2B's gloved hand hovers just above her black blindfold, fingers rigidly extended to catch a single heavy drop of oil falling from a leaking overhead pipe before it strikes the fabric, her white hair trembling slightly with the tension of holding still.\"\n  },\n  {\n    \"id\": \"e015_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B leans into a narrow gap between two concrete blocks to retrieve a dropped data chip, her body twisting at the waist so that the cutout of her dress pulls taut against her midsection while her puffy sleeves brush the rough stone surfaces.\"\n  },\n  {\n    \"id\": \"e015_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B stands with feet planted wide on a wet, moss-covered stone floor, leaning her entire upper body backward against the pull of a heavy chain wrapped around her wrist, her thigh-high stockings stretching as she resists being dragged toward a dark grate.\"\n  },\n  {\n    \"id\": \"e015_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B executes a rapid side-step to avoid a burst of pressurized steam from a ruptured valve, the sudden lateral force sending her short white hair sweeping across her blindfold and flaring the hem of her black dress outward.\"\n  },\n  {\n    \"id\": \"e015_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"From a low angle, 2B presses both palms against a massive, slowly descending hydraulic piston to create enough clearance for a small mechanical unit to pass beneath, her silhouette framed by the towering industrial machinery and the dust cloud kicked up by the impact.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4291,
+    "total_output_tokens": 439,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.63243294148128,
+    "time_to_first_token_seconds": 5.056722
+  }
+}

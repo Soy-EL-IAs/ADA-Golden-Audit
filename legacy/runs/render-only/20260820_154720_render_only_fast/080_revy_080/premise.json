@@ -1,0 +1,34 @@
+{
+  "id": "revy_080",
+  "character": "Revy",
+  "franchise": "Black Lagoon",
+  "identity": [
+    "long dark brown hair",
+    "black fitted crop top with denim shorts",
+    "dual pistols in shoulder holsters"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On a humid dock at night, she steps onto a loose plank and one end pops up, launching an empty soda can into the air beside her, with confident sensual body language throughout.",
+  "must_include": [
+    "loose dock plank",
+    "flying soda can"
+  ],
+  "environment": [
+    "industrial dock",
+    "orange sodium light",
+    "wet wood and cargo crates"
+  ],
+  "animation_hook": "She catches the can without looking, crushes it in one hand, and kicks the plank flat before walking on.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000079,
+  "krea_seed_base": 2000079
+}

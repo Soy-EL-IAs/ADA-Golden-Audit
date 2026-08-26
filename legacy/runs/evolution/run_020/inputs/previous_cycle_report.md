@@ -1,0 +1,163 @@
+# Ada Viral Guide Evolution — Cycle 019
+
+- Model: `qwen3.8-27b-uncensored` via local LM Studio
+- Premises: 20
+- Rendering: not executed
+- Overall diagnostic mean: 6.92/10
+
+## Set scores
+
+| Dimension | Score |
+|---|---:|
+| Identity | 8.50 |
+| Visual Appeal | 7.20 |
+| Diversity | 6.50 |
+| Repetition Control | 6.00 |
+| Micro Story | 6.50 |
+| Animation Potential | 6.80 |
+
+## Verdict
+
+Acceptable but needs refinement. Identity is strong, but diversity in action types and avoidance of static poses could be improved to meet the 'mid-event' requirement more rigorously.
+
+## Strengths
+
+- Consistent character identity across all premises.
+- Good use of specific physical causes (steam, debris, projectiles) in most dynamic shots.
+- Clear visual hooks involving clothing physics (sleeves flaring, dress hem lifting).
+
+## Failures
+
+- Repetition of 'bracing/shielding' poses in medium shots (b02_medium, b04_medium).
+- Several cinematic and fullbody premises lean towards static 'hero poses' or contemplative stances rather than active mid-event moments.
+- Locomotion filler present in b01_fullbody (stepping over slab) without strong narrative consequence.
+
+## Desired patterns
+
+- Active interaction with props/environment that changes the character's state visibly.
+- Clear cause-and-effect chains visible in a single frame.
+- Variety in emotional tone and physical action types.
+
+## Undesired patterns
+
+- Static poses of intent (reaching, peering) without immediate physical consequence.
+- Generic hazards (steam, sparks) used repeatedly without distinct narrative context.
+- Hand-near-face shielding as a default closeup hook.
+
+## Repetition clusters
+
+- **Bracing/Shielding against environmental force**: `e019_b02_medium`, `e019_b04_medium`
+- **Static/Contemplative stance in wide shots**: `e019_b01_cinematic`, `e019_b03_cinematic`, `e019_b04_cinematic`
+
+## Recommendations for the next cycle
+
+- Replace static 'reaching/peering' cinematic shots with active dodging or impact moments.
+- Vary medium shot actions beyond bracing/shielding; include twisting, lunging, or gripping moving objects.
+- Ensure fullbody locomotion has a clear narrative purpose (escape, pursuit) rather than just obstacle navigation.
+
+## Per-premise audit
+
+| ID | Category | Identity | Appeal | Micro-story | Animation | Notes |
+|---|---|---:|---:|---:|---:|---|
+| `e019_b01_closeup` | closeup | 9.0 | 8.0 | 7.0 | 8.0 | Strong cause (debris) and reaction. Identity clear via blindfold/hair. |
+| `e019_b01_medium` | medium | 9.0 | 8.0 | 7.0 | 8.0 | Good mechanical interaction. Sleeves flaring adds visual interest. |
+| `e019_b01_fullbody` | fullbody | 8.0 | 7.0 | 5.0 | 6.0 | 'Stepping over' is borderline locomotion filler. Lacks strong narrative consequence beyond movement. |
+| `e019_b01_dynamic` | dynamic | 8.0 | 7.0 | 6.0 | 8.0 | Clear dodge. 'Bracing against wall' is a bit passive for a dynamic shot but acceptable. |
+| `e019_b01_cinematic` | cinematic | 8.0 | 7.0 | 6.0 | 5.0 | 'Reaching to catch' is a static pose of intent rather than an active event. Less dynamic than other cinematic options. |
+| `e019_b02_closeup` | closeup | 8.0 | 7.0 | 6.0 | 4.0 | Pistol embedded in forearm is a strong visual hook but slightly generic injury. Static nature limits animation potential. |
+| `e019_b02_medium` | medium | 8.0 | 7.0 | 6.0 | 5.0 | 'Shielding face' is a common anti-pattern. Guide explicitly warns against default hand-near-face hooks. |
+| `e019_b02_fullbody` | fullbody | 8.0 | 7.0 | 6.0 | 7.0 | Sliding to catch is good action. Sparks add visual flair. |
+| `e019_b02_dynamic` | dynamic | 8.0 | 7.0 | 6.0 | 8.0 | Vaulting over conduit is clear. Good motion blur usage. |
+| `e019_b02_cinematic` | cinematic | 8.0 | 7.0 | 6.0 | 6.0 | Dodging turbine is good. Composition with blade obscuring frame is interesting. |
+| `e019_b03_closeup` | closeup | 8.0 | 7.0 | 6.0 | 5.0 | Steam jet is a valid cause. Focus on boots/hem is distinct from face closeups. |
+| `e019_b03_medium` | medium | 8.0 | 7.0 | 6.0 | 5.0 | 'Alien crystalline structure' is a bit vague but acceptable as a prop. Catching action is clear. |
+| `e019_b03_fullbody` | fullbody | 8.0 | 7.0 | 6.0 | 7.0 | Lunging to grab door is strong. Good use of momentum. |
+| `e019_b03_dynamic` | dynamic | 8.0 | 6.0 | 5.0 | 7.0 | Mid-roll is dynamic. 'Sparking rotating fan blade' is similar to conduit/fan hazards in other premises. |
+| `e019_b03_cinematic` | cinematic | 8.0 | 7.0 | 6.0 | 5.0 | Pushing pillar is a static 'hero' pose of effort. Less dynamic than dodging or catching. |
+| `e019_b04_closeup` | closeup | 8.0 | 7.0 | 6.0 | 6.0 | Head turn to track projectile is good. Similar to b01 closeup in terms of reaction type. |
+| `e019_b04_medium` | medium | 8.0 | 7.0 | 6.0 | 5.0 | Bracing against valve is good. Similar to b02 medium in terms of bracing/shielding. |
+| `e019_b04_fullbody` | fullbody | 8.0 | 7.0 | 5.0 | 6.0 | Crouching to slide under is good. 'Airflow generated by passing hazard' is a bit abstract for the flare cause. |
+| `e019_b04_dynamic` | dynamic | 8.0 | 7.0 | 6.0 | 8.0 | Backflip is high energy. Steam burst cause is clear. |
+| `e019_b04_cinematic` | cinematic | 8.0 | 7.0 | 5.0 | 4.0 | 'Peering down' is a contemplative/static pose. Guide warns against 'standing still... looking sad or thoughtful'. This lacks active physical interaction with the environment beyond gripping rebar. |
+
+## Premises
+
+### e019_b01_closeup — closeup
+
+Eye-level close-up of 2B's face and upper chest as she tilts her head sharply to the side, reacting to a high-pitched mechanical screech off-screen; a jagged fragment of white metal debris is frozen in mid-air just inches from her black blindfold, forcing her to flinch with visible tension in her jaw while her short white hair whips forward.
+
+### e019_b01_medium — medium
+
+Medium shot from the waist up showing 2B twisting her torso violently to dodge a swinging hydraulic piston; her puffy feather-trimmed sleeves flare outward with kinetic force, and her black gloves grip a rusted railing tightly as her dress cutout stretches slightly across her chest due to the rapid rotational movement.
+
+### e019_b01_fullbody — fullbody
+
+Full-body low-angle view of 2B stepping over a large, shattered slab of concrete; her weight is shifted entirely onto her back leg in thigh-high boots, while her front foot hovers just above the debris, and her dress hem flares upward due to the momentum of the step, revealing the line of her thigh-high stockings.
+
+### e019_b01_dynamic — dynamic
+
+High-energy dynamic shot capturing 2B mid-dodge as a bolt flies past her ear; motion blur trails behind her arm which is extended to brace against a crumbling wall, and small dust particles from the impact site float in the foreground while her hairband remains firmly in place despite the sudden turn.
+
+### e019_b01_cinematic — cinematic
+
+Wide cinematic shot positioning 2B on a narrow metal catwalk overlooking a deep industrial shaft; she is looking down at a dangling cable that has just snapped, her body leaning forward with one hand reaching out to catch it before it falls into the abyss, creating a clear line of sight between her focused expression and the falling hazard.
+
+### e019_b02_closeup — closeup
+
+Extreme close-up of 2B's gloved hand gripping the hilt of a pistol that is embedded in her forearm, her black glove fingers straining white-knuckled against the metal; a thin stream of blue hydraulic fluid leaks from the puncture site onto her puffy sleeve, and her short white hair hangs limp over one side of her blindfold as she stares down at the intruder with cold focus.
+
+### e019_b02_medium — medium
+
+Medium shot from a low angle showing 2B leaning heavily against a cracked concrete pillar for support, her left arm raised high to shield her face from a shower of falling glass shards; the impact causes her dress cutout to pull taut across her chest and her feather-trimmed sleeves to puff out with trapped air, while her expression remains tightly controlled despite the debris raining around her.
+
+### e019_b02_fullbody — fullbody
+
+Full-body high-angle view of 2B sliding on her knees across a polished metal floor to catch a falling crate; her thigh-high boots scrape sparks along the surface, leaving two parallel burn marks, and her dress hem flares backward due to the friction, revealing the full length of her stockings as she braces with both black-gloved hands against the edge of the sliding cargo.
+
+### e019_b02_dynamic — dynamic
+
+Dynamic diagonal composition capturing 2B mid-air as she vaults over a low, sparking electrical conduit; her body is extended horizontally in a dive, with motion blur trailing behind her legs and one hand reaching forward to grab a loose cable for balance, while small fragments of burnt insulation float in the foreground against the industrial background.
+
+### e019_b02_cinematic — cinematic
+
+Wide cinematic shot from behind a massive, slowly rotating turbine blade that partially obscures the left side of the frame; 2B is positioned in the center-right foreground, crouching low on one knee to dodge the sweeping metal edge, her body tensed and ready to spring upward as the blade passes directly over her head.
+
+### e019_b03_closeup — closeup
+
+Low-angle close-up focusing on 2B's boots and the hem of her dress as she steps sharply onto a grated metal floor to avoid a sudden jet of steam shooting from a ruptured pipe below; the force of the steam pushes her black skirt upward, revealing the top of her thigh-high stockings, while her short white hair is blown back against her neck by the hot gust.
+
+### e019_b03_medium — medium
+
+Medium shot from a side angle showing 2B twisting her upper body to catch a falling, jagged shard of alien crystalline structure with both black-gloved hands; the impact jolts her arms upward, causing her puffy feather-trimmed sleeves to compress and flare outward, while her hairband tilts slightly as she absorbs the weight with visible strain in her shoulders.
+
+### e019_b03_fullbody — fullbody
+
+Full-body high-angle view of 2B lunging forward to grab the handle of a heavy, rusted cargo door that is swinging shut on her; her body is stretched horizontally in mid-air, with one thigh-high boot extended toward the ground and the other trailing behind, creating a dynamic line as she uses momentum to pull the massive steel slab open before it slams into her.
+
+### e019_b03_dynamic — dynamic
+
+High-energy dynamic shot capturing 2B mid-roll on the ground to dodge a sparking, rotating fan blade; motion blur trails behind her legs as she completes the rotation, and small fragments of burnt insulation float in the foreground while her black blindfold remains fixed despite the rapid spin, with her dress hem swirling around her hips.
+
+### e019_b03_cinematic — cinematic
+
+Wide cinematic shot from a low angle positioning 2B at the base of a crumbling stone pillar that is actively tilting toward her; she is braced with one foot against the ground and hands outstretched to push the massive weight away, her body tensed in effort as dust plumes erupt from the impact point, creating a clear line of tension between her determined expression and the collapsing architecture.
+
+### e019_b04_closeup — closeup
+
+Eye-level close-up of 2B's face as she sharply turns her head to the left, tracking a high-speed projectile that whizzes past the tip of her nose; a wisp of short white hair sticks rigidly forward due to the displaced air, and her jaw is clenched in tight focus while the background blurs into streaks of motion to emphasize the near-miss.
+
+### e019_b04_medium — medium
+
+Medium shot from a side angle showing 2B leaning heavily against a vertical support beam to brace for impact; she is holding a large, rusted valve wheel with both black-gloved hands, her biceps tensing as the wheel spins backward rapidly, causing her puffy feather-trimmed sleeves to compress and shift upward while her dress cutout stretches taut across her chest due to the leaning posture.
+
+### e019_b04_fullbody — fullbody
+
+Full-body low-angle view of 2B executing a deep, wide-stance crouch on a sloped metal ramp to slide under a low-hanging, sparking cable; her thigh-high boots are planted firmly with toes digging into the grating for friction, and her dress hem flares upward from the airflow generated by the passing hazard, revealing the full length of her stockings as she stabilizes her balance.
+
+### e019_b04_dynamic — dynamic
+
+High-energy dynamic shot capturing 2B mid-backflip to evade a ground-level burst of steam; her body is inverted with legs tucked tight, creating a compact silhouette, while motion blur trails behind her boots and small droplets of condensation freeze in the air around her head, highlighting the speed of the rotation as she clears the jet.
+
+### e019_b04_cinematic — cinematic
+
+Wide cinematic shot from a high angle overlooking a fractured rooftop edge; 2B is positioned at the very precipice, leaning forward with one hand gripping a loose rebar for stability as she peers down into the abyss to locate her dropped weapon, her body hanging slightly over the void while wind lifts the hem of her dress and her blindfold remains fixed despite the precarious balance.

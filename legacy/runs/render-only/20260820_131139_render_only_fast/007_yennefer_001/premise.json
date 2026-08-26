@@ -1,0 +1,44 @@
+{
+  "id": "yennefer_001",
+  "character": "Yennefer of Vengerberg",
+  "franchise": "The Witcher",
+  "identity": [
+    "long wavy black hair",
+    "violet eyes",
+    "black fitted dress",
+    "obsidian star necklace",
+    "pale skin"
+  ],
+  "sexual_direction": [
+    "elegant voluptuous silhouette",
+    "deep neckline",
+    "bare shoulders",
+    "black stockings",
+    "confident seated pose"
+  ],
+  "premise": "Yennefer attempts to dry her wet hair with magic, but the spell makes every object in the bathroom levitate around her while she calmly holds a hairbrush.",
+  "must_include": [
+    "floating towels",
+    "floating bottles",
+    "hairbrush",
+    "purple magic",
+    "wet hair"
+  ],
+  "environment": [
+    "luxurious medieval bathroom",
+    "large mirror",
+    "candles",
+    "marble bathtub"
+  ],
+  "animation_hook": "The objects orbit faster, the mirror rattles and Yennefer struggles to cancel the spell without looking embarrassed.",
+  "avoid": [
+    "missing floating objects",
+    "generic witch",
+    "explicit nudity",
+    "modern hair dryer",
+    "multiple women"
+  ],
+  "krea_direction": "cinematic realistic dark-fantasy game render with candlelight, purple magic and luxurious materials",
+  "seed_base": 740071,
+  "krea_seed_base": 740171
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2b_balanced_v1_cinematic_001",
+  "stage": "illustrious",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "defects": [],
+  "drift": [
+    "The steam jet is not visibly present; the rupture and its causal interruption are not depicted, breaking the narrative moment of interruption."
+  ],
+  "summary": "All preserved elements are visibly correct. No visible defects. Narrative drift: the steam jet and its causal interruption are missing, which breaks the premise's action sequence."
+}

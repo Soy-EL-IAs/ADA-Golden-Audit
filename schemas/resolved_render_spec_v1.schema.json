@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Resolved Render Spec v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "spec_id", "character_contract_id", "concept_id", "character", "concept", "outfit", "scene_requirements", "composition_intent", "validation_requirements", "risk_notes", "render_policy_version"],
+  "properties": {
+    "schema_version": {"type": "string", "enum": ["resolved_render_spec_v1"]},
+    "spec_id": {"type": "string", "minLength": 1},
+    "character_contract_id": {"type": "string", "minLength": 1},
+    "concept_id": {"type": "string", "minLength": 1},
+    "character": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["display_name", "canonical_tag", "must_preserve"],
+      "properties": {
+        "display_name": {"type": "string", "minLength": 1},
+        "canonical_tag": {"type": "string"},
+        "must_preserve": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "concept": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["snapshot", "visual_hook", "provocative_mechanism", "diversity_signature"],
+      "properties": {
+        "snapshot": {"type": "string"},
+        "visual_hook": {"type": "string"},
+        "provocative_mechanism": {"type": "string"},
+        "diversity_signature": {"type": "object"}
+      }
+    },
+    "outfit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["mode", "required_if_visible", "valid_variants"],
+      "properties": {
+        "mode": {"type": "string", "enum": ["canonical_default", "concept_override"]},
+        "required_if_visible": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "valid_variants": {"type": "array", "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "scene_requirements": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "composition_intent": {"type": "string"},
+    "validation_requirements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["requirement_id", "category", "statement", "applicability"],
+        "properties": {
+          "requirement_id": {"type": "string", "minLength": 1},
+          "category": {"type": "string", "enum": ["identity", "outfit", "scene", "composition"]},
+          "statement": {"type": "string", "minLength": 1},
+          "applicability": {"type": "string", "enum": ["REQUIRED", "IF_VISIBLE"]}
+        }
+      }
+    },
+    "risk_notes": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "render_policy_version": {"type": "string", "minLength": 1}
+  }
+}

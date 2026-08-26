@@ -1,0 +1,34 @@
+{
+  "id": "motoko_kusanagi_094",
+  "character": "Motoko Kusanagi",
+  "franchise": "Ghost in the Shell",
+  "identity": [
+    "short purple-black hair",
+    "purple-gray fitted tactical bodysuit",
+    "cybernetic limbs and visor"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On a rain-glossed megacity skybridge, she crouches to jack into a service port and a passing ventilation burst sends her coat panel and loose cables streaming horizontally, with confident sensual body language throughout.",
+  "must_include": [
+    "service port cable",
+    "ventilation burst"
+  ],
+  "environment": [
+    "megacity skybridge",
+    "cyan night neon",
+    "rain reflections and glass towers"
+  ],
+  "animation_hook": "She finishes the connection, unplugs in one motion, and rises as the cables snap gently back into place.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000093,
+  "krea_seed_base": 2000093
+}

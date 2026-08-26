@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e014_b03_closeup",
+    "category": "closeup",
+    "premise": "2B's face is lit by the sudden, harsh flash of a cracking fluorescent light tube overhead; her blindfold tightens as she flinches slightly, one eye visible through a tear in the fabric narrowing against the glare, while a single strand of short white hair sticks to her temple from static discharge."
+  },
+  {
+    "id": "e014_b03_medium",
+    "category": "medium",
+    "premise": "Waist-up shot as 2B leans forward to pry open a jammed, rusted hatch panel with one gloved hand; the effort causes her puffy feather-trimmed sleeves to bunch at the elbows and her black dress cutout to stretch taut across her torso, highlighting her controlled strain as she grimaces slightly."
+  },
+  {
+    "id": "e014_b03_fullbody",
+    "category": "fullbody",
+    "premise": "2B is mid-step over a wide, jagged crack in the floor, one thigh-high boot planted firmly on the lower ledge while her other leg lifts high to clear the gap; her body twists slightly to maintain balance, and her hairband catches the light as she focuses intensely on not losing her footing."
+  },
+  {
+    "id": "e014_b03_dynamic",
+    "category": "dynamic",
+    "premise": "2B lunges forward to catch a slipping, heavy metal briefcase before it hits the ground; her momentum carries her into a deep lunge, her black dress hem flaring out from the rapid movement, and her gloves gripping the handle tightly as her weight shifts precariously onto her toes."
+  },
+  {
+    "id": "e014_b03_cinematic",
+    "category": "cinematic",
+    "premise": "A wide low-angle shot shows 2B standing on a suspended, swaying platform bridge; she reaches out to steady herself against the railing as the structure groans and tilts, her silhouette framed against a distant, hazy city skyline, emphasizing her small but determined presence amidst the instability."
+  }
+]

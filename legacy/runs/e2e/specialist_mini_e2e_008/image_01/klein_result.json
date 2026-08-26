@@ -1,0 +1,13 @@
+{
+  "id": "2b_mini_01",
+  "klein_prompt": "2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, clothing_cutout, dimly_lit_command_center, rigid_posture, holding_glowing_data_tablet_at_chest_height, shielding_face_from_overhead_light, maintenance_drone_descending_behind, red_scanning_beam_locking_onto_midriff, tension_in_shoulders, slight_head_tilt_away, contrast_between_white_hair_and_dark_tactical_gear, mechanical_object_drone, shadow_implied_cutout, refine drone to be a small utilitarian maintenance unit with neutral industrial design, remove glowing orange eyes and menacing posture, replace with functional sensor lights, clean lines, non-threatening scale",
+  "preserve": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "clothing_cutout"
+  ],
+  "correct": [
+    "The drone is depicted as a large, imposing mechanical entity with glowing orange eyes and a menacing posture, which deviates from the premise's requirement to portray it as a non-monster, functional maintenance drone. The visual tone suggests threat rather than utility."
+  ]
+}

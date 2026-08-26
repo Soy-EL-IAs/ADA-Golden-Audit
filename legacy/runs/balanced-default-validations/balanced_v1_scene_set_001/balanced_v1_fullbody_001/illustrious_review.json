@@ -1,0 +1,16 @@
+{
+  "id": "2b_balanced_v1_fullbody_001",
+  "stage": "illustrious",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "defects": [],
+  "drift": [
+    "Character is facing the camera, not looking toward the ajar door as specified."
+  ],
+  "summary": "All preserved elements are visibly correct. No visible defects. Narrative drift: character orientation contradicts premise."
+}

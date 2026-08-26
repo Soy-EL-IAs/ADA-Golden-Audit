@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"Faye Valentine stands in a dimly lit office, her expression one of sharp irritation as she forcefully slams a hand over the mouth of a subordinate who is mid-sentence. The subordinate's eyes are wide with shock, and a crumpled document flutters to the floor between them, indicating the sudden interruption of a formal briefing.\",\n  \"identity_elements\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"large_breasts\"\n  ],\n  \"canonical_outfit\": [\n    \"hairband\",\n    \"shorts\",\n    \"lipstick\",\n    \"thighhighs\",\n    \"shirt\",\n    \"bare_shoulders\",\n    \"crop_top\",\n    \"boots\"\n  ],\n  \"scene_requirements\": [\n    \"hand covering subordinate's mouth\",\n    \"crumpled document falling to floor\",\n    \"subordinate wearing formal suit\",\n    \"dim office lighting\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the hand-over-mouth gesture is clear but not overly aggressive to maintain 'restrained' tone.\",\n    \"The subordinate's identity should be generic enough to avoid copyright conflicts unless specified, focusing on the reaction rather than specific character traits.\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 663,
+    "total_output_tokens": 298,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.759671687264486,
+    "time_to_first_token_seconds": 0.30129
+  }
+}

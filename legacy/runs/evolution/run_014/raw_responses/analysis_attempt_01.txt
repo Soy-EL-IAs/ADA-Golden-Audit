@@ -1,0 +1,225 @@
+{
+  "per_premise": [
+    {
+      "id": "e014_b01_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Strong causal link (screech -> eye widen). 'Jagged machinery' is slightly generic industrial but specific enough. Good use of glove detail."
+    },
+    {
+      "id": "e014_b01_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Clothing as causal agent (hem catching wire) is excellent. 'Mid-stride' risks being locomotion filler if the snare isn't the primary focus, but the untangling action saves it."
+    },
+    {
+      "id": "e014_b01_fullbody",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Catching a book is a nice organic hook. However, 'crumbling ledge' + 'balance' borders on the Locomotion Filler Ban unless the crumbling is active. The action (catching) is good, but the balance aspect dilutes it."
+    },
+    {
+      "id": "e014_b01_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Steam burst is a classic industrial hazard. High energy. Blindfold displacement adds character detail. Good dynamic flow."
+    },
+    {
+      "id": "e014_b01_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Catching a petal is delicate and fits the 'quiet curiosity' register. However, it risks being a static pose if the motion isn't clearly implied in the frame description. The environment (ruined plaza) is strong but must not dominate."
+    },
+    {
+      "id": "e014_b02_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Inspecting a data-chip is specific and fits the android theme. 'Hovering' implies tech interaction. Good lighting description (blue light reflection)."
+    },
+    {
+      "id": "e014_b02_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Similar to e014_b01_medium (clothing snag). Yanking a cable is active. The repetition of 'hem/clothing catching on object' starts here."
+    },
+    {
+      "id": "e014_b02_fullbody",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 5,
+      "animation_potential": 4,
+      "notes": "Stretching to reach a switch is a clear action. However, it leans heavily into 'Body Appeal' (elegant arc) which might overshadow the micro-story if not careful. The cause (switch) is passive; she is just reaching for it."
+    },
+    {
+      "id": "e014_b02_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Dodging debris is high energy. 'Swats away secondary fragment' adds complexity. Good dynamic potential."
+    },
+    {
+      "id": "e014_b02_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Holding a broken mechanical bird is a strong narrative hook. 'Rain splashes around her boots but does not touch her' is a nice detail implying control or magic/tech. Good isolation focus."
+    },
+    {
+      "id": "e014_b03_closeup",
+      "identity": 9,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Fluorescent light crack is a specific industrial/electrical hazard. Flinching reaction is clear. Good use of blindfold tear detail."
+    },
+    {
+      "id": "e014_b03_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Prying open a hatch is physical effort. 'Grimaces slightly' breaks the composure guardrail nicely (brief crack). Good tension in clothing."
+    },
+    {
+      "id": "e014_b03_fullbody",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 5,
+      "animation_potential": 4,
+      "notes": "Mid-step over a crack. This is a strong candidate for the Locomotion Filler Ban. 'Focusing intensely on not losing footing' is weak compared to an active dodge or catch."
+    },
+    {
+      "id": "e014_b03_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Catching a slipping briefcase is a specific prop interaction. Good momentum description. 'Precariously onto her toes' adds tension."
+    },
+    {
+      "id": "e014_b03_cinematic",
+      "identity": 8,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Swaying platform bridge. 'Reaching out to steady herself' is active but borderline static if the sway isn't violent. The environment (hazy city) risks dominating."
+    },
+    {
+      "id": "e014_b04_closeup",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Raindrop on nose. Very delicate. 'Resists the urge to blink' is a subtle action. Might be too static for high-impact viral potential, but fits the character's restraint."
+    },
+    {
+      "id": "e014_b04_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Shaking a leaf out of sleeve. Organic interaction. 'Tactile irritation' is a good personality note. Distinct from industrial hazards."
+    },
+    {
+      "id": "e014_b04_fullbody",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 5,
+      "animation_potential": 6,
+      "notes": "Mid-jump over a barrier. Clear locomotion. 'Showcasing length of stockings' is visual appeal focused. Needs to ensure the jump has consequence (escaping? crossing?) otherwise it's filler."
+    },
+    {
+      "id": "e014_b04_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "Ducking under a swinging chain. Industrial hazard (chain). 'Smacks the air' is a good active detail. High energy."
+    },
+    {
+      "id": "e014_b04_cinematic",
+      "identity": 8,
+      "visual_appeal": 9,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Catching a mechanical butterfly. Very similar to e014_b01_cinematic (catching petal) and e014_b02_cinematic (holding bird). Repetition of 'delicate creature interaction' in cinematic shots."
+    }
+  ],
+  "set_scores": {
+    "identity": 8.5,
+    "visual_appeal": 8.2,
+    "diversity": 6.5,
+    "repetition_control": 6.0,
+    "micro_story": 7.0,
+    "animation_potential": 7.5
+  },
+  "strengths": [
+    "Strong adherence to character identity facts (blindfold, hair, dress details) across all premises.",
+    "Good use of 'clothing as causal agent' in several medium shots (hem catching wire/cable).",
+    "Dynamic shots have high energy and clear directional flow.",
+    "Closeups effectively use lighting or specific objects to create a visible cause for the reaction."
+  ],
+  "failures": [
+    "Repetition of 'Industrial Hazard' as primary causal agent exceeds the max 2/batch limit (e014_b01_closeup, e014_b01_dynamic, e014_b03_closeup, e014_b04_dynamic all use machinery/steam/light/chains).",
+    "Cinematic shots suffer from 'Delicate Creature/Object Interaction' repetition (petal, bird, butterfly) which feels like a conceptual family rather than distinct stories.",
+    "Several Fullbody shots lean into Locomotion Filler (e014_b03_fullbody stepping over crack, e014_b04_fullbody jumping barrier) without strong narrative consequence beyond 'moving'.",
+    "Emotional register skews heavily towards 'Focused/Composed' or 'Startled', lacking distinct registers like playful mischief or frustrated effort."
+  ],
+  "desired_patterns": [
+    "Specific, non-industrial causal agents (e.g., social interaction with off-screen entity, specific food/tool usage).",
+    "Clear narrative consequences for locomotion (escaping a specific threat, reaching a specific goal).",
+    "Distinct emotional cracks that break the 'composed' guardrail more visibly than just a grimace or widened eye."
+  ],
+  "undesired_patterns": [
+    "Generic industrial hazards (steam, gears, sparks) dominating the batch.",
+    "Static 'catching delicate object' poses in cinematic shots without implied future motion.",
+    "Locomotion as a default pose without a clear 'why'.",
+    "Atmospheric dominance where the environment is more interesting than the character's action."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Industrial/Mechanical Hazard (Steam, Light, Chain, Machinery)",
+      "proposal_ids": [
+        "e014_b01_closeup",
+        "e014_b01_dynamic",
+        "e014_b03_closeup",
+        "e014_b04_dynamic"
+      ]
+    },
+    {
+      "pattern": "Delicate Creature/Object Interaction (Petal, Bird, Butterfly)",
+      "proposal_ids": [
+        "e014_b01_cinematic",
+        "e014_b02_cinematic",
+        "e014_b04_cinematic"
+      ]
+    },
+    {
+      "pattern": "Clothing Snag/Catch (Hem on Wire, Cable)",
+      "proposal_ids": [
+        "e014_b01_medium",
+        "e014_b02_medium"
+      ]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Reduce Industrial Hazard premises to max 2. Replace others with Organic (plants/animals) or Personal Prop interactions.",
+    "Differentiate Cinematic shots: Avoid 'catching delicate thing'. Use scale, lighting, or interaction with the environment's structure instead.",
+    "Strengthen Locomotion premises by adding a clear narrative consequence (e.g., jumping over barrier to escape a specific pursuer or reach a specific door).",
+    "Introduce more distinct emotional registers: Try 'playful' (interacting with a toy/prop), 'frustrated' (struggling

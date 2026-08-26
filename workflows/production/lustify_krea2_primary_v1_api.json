@@ -1,0 +1,12 @@
+{
+  "1": {"class_type": "UNETLoader", "inputs": {"unet_name": "lustifyNSFWCheckpoint_v10Krea2.safetensors", "weight_dtype": "default"}},
+  "3": {"class_type": "CLIPLoader", "inputs": {"clip_name": "qwen3vl_4b_fp8_scaled.safetensors", "type": "krea2", "device": "default"}},
+  "8": {"class_type": "CLIPTextEncode", "inputs": {"text": "__ADA_PROMPT__", "clip": ["3", 0]}},
+  "11": {"class_type": "EmptyLatentImage", "inputs": {"width": 1152, "height": 1536, "batch_size": 1}},
+  "16": {"class_type": "VAELoader", "inputs": {"vae_name": "qwen_image_vae.safetensors"}},
+  "21": {"class_type": "ModelSamplingAuraFlow", "inputs": {"shift": 4.0, "model": ["1", 0]}},
+  "29": {"class_type": "ConditioningZeroOut", "inputs": {"conditioning": ["8", 0]}},
+  "6": {"class_type": "KSampler", "inputs": {"seed": 20260824, "steps": 8, "cfg": 1.0, "sampler_name": "euler", "scheduler": "simple", "denoise": 1.0, "model": ["21", 0], "positive": ["8", 0], "negative": ["29", 0], "latent_image": ["11", 0]}},
+  "18": {"class_type": "VAEDecode", "inputs": {"samples": ["6", 0], "vae": ["16", 0]}},
+  "14": {"class_type": "SaveImage", "inputs": {"filename_prefix": "ADA/production/lustify", "images": ["18", 0]}}
+}

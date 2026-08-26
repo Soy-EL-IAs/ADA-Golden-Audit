@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "run": 16,
+  "character": "2B",
+  "version": "NieR:Automata",
+  "count": 20,
+  "distribution": {
+    "closeup": 4,
+    "medium": 4,
+    "fullbody": 4,
+    "dynamic": 4,
+    "cinematic": 4
+  },
+  "candidate_guide": "candidate_guide.md",
+  "lm_studio_only": true,
+  "rendering_executed": false,
+  "proposals": [
+    {
+      "id": "e016_b01_1",
+      "category": "closeup",
+      "premise": "2B's gloved hand firmly grips a jagged shard of glass protruding from her puffy sleeve, her expression remaining stoic despite the visible strain on the fabric as she pulls free."
+    },
+    {
+      "id": "e016_b01_2",
+      "category": "medium",
+      "premise": "A sudden gust of wind from a broken vent whips up her black dress hem, revealing thigh-high stockings, while she tilts her head to keep her blindfold secure against the force."
+    },
+    {
+      "id": "e016_b01_3",
+      "category": "fullbody",
+      "premise": "2B balances on one leg atop a narrow rusted beam, arms out for stability as she looks down at a crumbling floor far below, her dress skirt flaring slightly with the tension."
+    },
+    {
+      "id": "e016_b01_4",
+      "category": "dynamic",
+      "premise": "Mid-dodge from a falling debris chunk, 2B twists her torso sharply to avoid impact, her hairband flying loose and short white hair scattering across her blindfold."
+    },
+    {
+      "id": "e016_b01_5",
+      "category": "cinematic",
+      "premise": "Framed by the dark arch of a collapsed structure, 2B presses her back against the concrete wall to shield her blindfold from intense light streaming through a nearby shattered window."
+    },
+    {
+      "id": "e016_b02_1",
+      "category": "closeup",
+      "premise": "A close-up on 2B's face as she holds her breath, lips pressed tight in restrained composure, while a thick drip of viscous industrial oil hangs from a rusted pipe directly above her blindfold, threatening to break."
+    },
+    {
+      "id": "e016_b02_2",
+      "category": "medium",
+      "premise": "2B's torso twists sharply as she reaches behind her back to adjust a slipped strap on her shoulder armor, the movement causing her puffy feather-trimmed sleeves to bunch up and her black dress fabric to pull taut across her waist."
+    },
+    {
+      "id": "e016_b02_3",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B crouching low on a slick, oil-stained metal floor, her thigh-high boots gripping for traction as she carefully places one hand flat against the ground to steady herself after a sudden slip."
+    },
+    {
+      "id": "e016_b02_4",
+      "category": "dynamic",
+      "premise": "2B lunges forward with her left leg extended, using it to kick away a rolling heavy gear just inches from her foot, her short white hair whipping back violently as the momentum of the dodge carries her off-balance."
+    },
+    {
+      "id": "e016_b02_5",
+      "category": "cinematic",
+      "premise": "Framed by a massive, rotating industrial turbine blade in the foreground, 2B stands poised on a narrow maintenance catwalk, her back straight and arms at her sides as she waits for the heavy metal to swing past without flinching."
+    },
+    {
+      "id": "e016_b03_1",
+      "category": "closeup",
+      "premise": "2B's gloved fingers are shown tightly pinching a frayed thread hanging from her black blindfold, pulling it taut with a subtle micro-expression of annoyance as she tries to maintain her composed expression."
+    },
+    {
+      "id": "e016_b03_2",
+      "category": "medium",
+      "premise": "Waist-up view of 2B leaning forward slightly, using both hands to pry open a jammed rusted hatch cover, her puffy feather-trimmed sleeves compressing against the metal frame as she exerts force."
+    },
+    {
+      "id": "e016_b03_3",
+      "category": "fullbody",
+      "premise": "2B stands with legs apart in a wide, stable stance on a cracked stone slab, her arms crossed over her chest to brace herself against the tremors of the shaking ground beneath her boots."
+    },
+    {
+      "id": "e016_b03_4",
+      "category": "dynamic",
+      "premise": "2B snaps her head sharply to the left, tracking a high-speed projectile whizzing past her ear, causing her short white hair to whip violently while her body remains anchored in a defensive crouch."
+    },
+    {
+      "id": "e016_b03_5",
+      "category": "cinematic",
+      "premise": "Framed by the massive, slowly closing jaws of an industrial press machine, 2B stands perfectly still in the center, her posture rigid and arms at her sides as she waits for the precise moment to step aside."
+    },
+    {
+      "id": "e016_b04_1",
+      "category": "closeup",
+      "premise": "2B's gloved hand presses firmly against a vertical glass pane to steady herself as the surface cracks from an external impact, her short white hair falling forward to obscure part of her blindfold while she holds her breath in restrained composure."
+    },
+    {
+      "id": "e016_b04_2",
+      "category": "medium",
+      "premise": "Waist-up view of 2B leaning sharply back to avoid a swinging chain, the motion pulling her black dress fabric taut across her torso and causing her puffy feather-trimmed sleeves to flare outward as she maintains an unblinking stare."
+    },
+    {
+      "id": "e016_b04_3",
+      "category": "fullbody",
+      "premise": "Full-body view of 2B balancing on the edge of a crumbling concrete pillar, one leg extended forward to test stability while her arms are held slightly out, her thigh-high boots gripping the rough surface as dust settles around her feet."
+    },
+    {
+      "id": "e016_b04_4",
+      "category": "dynamic",
+      "premise": "2B twists mid-air to evade a horizontal laser beam, her body contorting so that the light passes just millimeters from her nose, causing her short white hair to blur with motion and her black dress hem to ripple violently behind her."
+    },
+    {
+      "id": "e016_b04_5",
+      "category": "cinematic",
+      "premise": "Framed by a towering, slowly descending mechanical piston in the background, 2B stands with her back to the viewer on a grated platform, arms crossed over her chest as she watches the massive metal component lower toward the gap beside her."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "verdict": "REVIEW",
+  "identity": 9,
+  "anatomy": 8,
+  "visual_appeal": 7,
+  "viral_hook": 6,
+  "animation_potential": 8,
+  "single_subject": true,
+  "identity_issues": [
+    "Klein render is more realistic than the anime source"
+  ],
+  "visual_issues": [
+    "Floating camera object in both halves",
+    "Composition drift between source and final"
+  ],
+  "reason": "The character identity and outfit are preserved well, but the floating camera object and significant style shift from anime to realistic render warrant a review."
+}

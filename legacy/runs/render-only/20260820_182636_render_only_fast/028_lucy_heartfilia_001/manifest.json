@@ -1,0 +1,24 @@
+{
+  "run_id": "028_lucy_heartfilia_001",
+  "batch_id": "20260820_182636_render_only_fast",
+  "sequence": 28,
+  "premise_id": "lucy_heartfilia_001",
+  "mode": "render-only-fast",
+  "review_status": "unreviewed_render_only",
+  "status": "generating_krea",
+  "created_at": "2026-08-20T18:51:49.566777-03:00",
+  "illustrious_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 1000027,
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\028_lucy_heartfilia_001\\illustrious\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_182636_render_only_fast\\028_lucy_heartfilia_001\\illustrious",
+        "type": "output"
+      }
+    }
+  ],
+  "krea_candidates": [],
+  "illustrious_prompt_id": "6093f2de-9d1a-4db6-9e8d-1ef93f941895"
+}

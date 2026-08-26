@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e011_b02_closeup",
+    "category": "closeup",
+    "premise": "Extreme close-up on 2B's jawline and neck, skin tightening as she holds her breath while a high-pressure steam jet from a ruptured pipe hisses directly at the edge of her blindfold."
+  },
+  {
+    "id": "e011_b02_medium",
+    "category": "medium",
+    "premise": "Waist-up shot of 2B gripping a vibrating metal railing, her puffy sleeves distorting as she strains to keep the door from slamming shut on her fingers amidst a sudden power surge."
+  },
+  {
+    "id": "e011_b02_fullbody",
+    "category": "fullbody",
+    "premise": "Full body view of 2B leaning back against a tilting cargo crate, shifting her weight to the balls of her feet as the floor beneath her slides toward a drainage grate."
+  },
+  {
+    "id": "e011_b02_dynamic",
+    "category": "dynamic",
+    "premise": "2B mid-air in a controlled descent, knees bent and dress hem flaring upward from gravity as she lands precisely on a narrow ledge to avoid the impact of a falling debris field."
+  },
+  {
+    "id": "e011_b02_cinematic",
+    "category": "cinematic",
+    "premise": "Low-angle cinematic shot looking up at 2B from below, her silhouette framed against a massive, cracking skylight as she stands firm on the floor, arms crossed in defiance of the impending collapse above."
+  }
+]

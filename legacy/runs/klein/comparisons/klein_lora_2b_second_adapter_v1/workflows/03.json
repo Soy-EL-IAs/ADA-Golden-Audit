@@ -1,0 +1,455 @@
+{
+  "1": {
+    "class_type": "CheckpointLoaderSimple",
+    "inputs": {
+      "ckpt_name": "waiIllustriousSDXL_v160.safetensors"
+    },
+    "_meta": {
+      "title": "CheckpointLoaderSimple"
+    }
+  },
+  "3": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "1",
+        1
+      ],
+      "text": "worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad hands, extra fingers, missing fingers, extra limbs, duplicate, multiple girls, two people, collage, split screen, comic panels, text, watermark, logo, camera, handheld camera, photography equipment, filming equipment, visible lens, cropped head, young-looking, gigantic hips, extreme low angle, fisheye, explicit nudity, identity drift, gore, multiple women"
+    },
+    "_meta": {
+      "title": "CLIPTextEncode"
+    }
+  },
+  "6": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "5",
+        0
+      ],
+      "vae": [
+        "1",
+        2
+      ]
+    },
+    "_meta": {
+      "title": "VAEDecode"
+    }
+  },
+  "13": {
+    "class_type": "ImageScale",
+    "inputs": {
+      "image": [
+        "8",
+        0
+      ],
+      "upscale_method": "lanczos",
+      "width": 768,
+      "height": 1152,
+      "crop": "center"
+    },
+    "_meta": {
+      "title": "ImageScale"
+    }
+  },
+  "37": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "flux2-vae.safetensors"
+    },
+    "_meta": {
+      "title": "VAELoader"
+    }
+  },
+  "38": {
+    "class_type": "RandomNoise",
+    "inputs": {
+      "noise_seed": 3117982090250971775
+    },
+    "_meta": {
+      "title": "RandomNoise"
+    }
+  },
+  "40": {
+    "class_type": "VAEEncode",
+    "inputs": {
+      "pixels": [
+        "100",
+        0
+      ],
+      "vae": [
+        "37",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "VAEEncode"
+    }
+  },
+  "41": {
+    "class_type": "KSamplerSelect",
+    "inputs": {
+      "sampler_name": "euler"
+    },
+    "_meta": {
+      "title": "KSamplerSelect"
+    }
+  },
+  "47": {
+    "class_type": "FluxGuidance",
+    "inputs": {
+      "conditioning": [
+        "39",
+        0
+      ],
+      "guidance": 4
+    },
+    "_meta": {
+      "title": "FluxGuidance"
+    }
+  },
+  "48": {
+    "class_type": "easy cleanGpuUsed",
+    "inputs": {
+      "anything": [
+        "39",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "Clean VRAM Used"
+    }
+  },
+  "49": {
+    "class_type": "ConditioningZeroOut",
+    "inputs": {
+      "conditioning": [
+        "39",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "ConditioningZeroOut"
+    }
+  },
+  "51": {
+    "class_type": "ReferenceLatent",
+    "inputs": {
+      "conditioning": [
+        "47",
+        0
+      ],
+      "latent": [
+        "40",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "ReferenceLatent"
+    }
+  },
+  "52": {
+    "class_type": "ModelPatchTorchSettings",
+    "inputs": {
+      "model": [
+        "50",
+        0
+      ],
+      "enable_fp16_accumulation": true
+    },
+    "_meta": {
+      "title": "ModelPatchTorchSettings"
+    }
+  },
+  "53": {
+    "class_type": "CFGGuider",
+    "inputs": {
+      "model": [
+        "52",
+        0
+      ],
+      "positive": [
+        "51",
+        0
+      ],
+      "negative": [
+        "49",
+        0
+      ],
+      "cfg": 1
+    },
+    "_meta": {
+      "title": "CFGGuider"
+    }
+  },
+  "54": {
+    "class_type": "SamplerCustomAdvanced",
+    "inputs": {
+      "noise": [
+        "38",
+        0
+      ],
+      "guider": [
+        "53",
+        0
+      ],
+      "sampler": [
+        "41",
+        0
+      ],
+      "sigmas": [
+        "43",
+        0
+      ],
+      "latent_image": [
+        "40",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "SamplerCustomAdvanced"
+    }
+  },
+  "50": {
+    "class_type": "PathchSageAttentionKJ",
+    "inputs": {
+      "model": [
+        "1000",
+        0
+      ],
+      "sage_attention": "auto",
+      "allow_compile": false
+    },
+    "_meta": {
+      "title": "PathchSageAttentionKJ"
+    }
+  },
+  "46": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen_3_8b_fp8mixed.safetensors",
+      "type": "flux2",
+      "device": "default"
+    },
+    "_meta": {
+      "title": "CLIPLoader"
+    }
+  },
+  "45": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "flux-2-klein-9b-fp8.safetensors",
+      "weight_dtype": "default"
+    },
+    "_meta": {
+      "title": "UNETLoader"
+    }
+  },
+  "7": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "6",
+        0
+      ],
+      "filename_prefix": "LunaChained/chel_001/illustrious"
+    },
+    "_meta": {
+      "title": "SaveImage"
+    }
+  },
+  "55": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "54",
+        0
+      ],
+      "vae": [
+        "37",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "VAEDecode"
+    }
+  },
+  "21": {
+    "class_type": "easy imageConcat",
+    "inputs": {
+      "image1": [
+        "13",
+        0
+      ],
+      "image2": [
+        "55",
+        0
+      ],
+      "direction": "right",
+      "match_image_size": true
+    },
+    "_meta": {
+      "title": "easy imageConcat"
+    }
+  },
+  "4": {
+    "class_type": "EmptyLatentImage",
+    "inputs": {
+      "width": 768,
+      "height": 1376,
+      "batch_size": 1
+    },
+    "_meta": {
+      "title": "EmptyLatentImage"
+    }
+  },
+  "20": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "55",
+        0
+      ],
+      "filename_prefix": "KleinLoRAComparison/klein_lora_2b_second_adapter_v1/03_anime2real-semi_0.70"
+    },
+    "_meta": {
+      "title": "SaveImage"
+    }
+  },
+  "5": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "1",
+        0
+      ],
+      "positive": [
+        "2",
+        0
+      ],
+      "negative": [
+        "3",
+        0
+      ],
+      "latent_image": [
+        "4",
+        0
+      ],
+      "seed": 1000000,
+      "steps": 14,
+      "cfg": 4.5,
+      "sampler_name": "euler_ancestral",
+      "scheduler": "normal",
+      "denoise": 1
+    },
+    "_meta": {
+      "title": "KSampler"
+    }
+  },
+  "2": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "1",
+        1
+      ],
+      "text": "masterpiece, best quality, newest, very aesthetic, dutch angle,\n1girl, solo, Chel, The Road to El Dorado,\nlong black hair, turquoise two-piece outfit, El Dorado con artist,\nChel, with her iconic turquoise outfit and long dark hair, tiptoes through an El Dorado treasure chamber carrying an oversized golden idol against her chest; as she glances back with a sly smile, the smooth floor starts tilting and a stream of gold coins slides between her legs toward the camera while she tries to keep her balance.,\niconic turquoise outfit, oversized golden idol, stream of gold coins,\nEl Dorado treasure chamber, smooth floor,\ncinematic scene, funny visual storytelling,\n(voluptuous athletic figure:0.95), (fuller bust:0.9), (defined waist:0.9), (wider hips:0.9), (thick toned thighs:0.9), anatomically coherent proportions, visible neckline and cleavage only where the garment design permits, confident sensual pose,\n(sensual:0.9)"
+    },
+    "_meta": {
+      "title": "CLIPTextEncode"
+    }
+  },
+  "22": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "21",
+        0
+      ],
+      "filename_prefix": "LunaChained/chel_001/compare"
+    },
+    "_meta": {
+      "title": "SaveImage"
+    }
+  },
+  "42": {
+    "class_type": "Power Lora Loader (rgthree)",
+    "inputs": {
+      "model": [
+        "45",
+        0
+      ],
+      "lora_1": {
+        "on": true,
+        "lora": "flux/klein_snofs_v1_3.safetensors",
+        "strength": 0.6
+      }
+    },
+    "_meta": {
+      "title": "Power Lora Loader (rgthree)"
+    }
+  },
+  "43": {
+    "class_type": "Flux2Scheduler",
+    "inputs": {
+      "steps": 8,
+      "width": 1024,
+      "height": 1024
+    },
+    "_meta": {
+      "title": "Flux2Scheduler"
+    }
+  },
+  "39": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": [
+        "46",
+        0
+      ],
+      "text": "2b_(nier:automata), short white hair, black dress with juliet sleeves and feather trim, thigh boots, black gloves, blindfold clearly covering eyes, standing in dimly lit command center, large ornate iron gate fully closed directly behind her, close-up detail of the heavy iron locking mechanism visibly engaged and clamped shut on the gate frame, hand resting lightly on sheathed sword hilt, slow turn toward the barrier, dramatic lighting highlighting white hair and dress against shadows, tension in posture"
+    },
+    "_meta": {
+      "title": "CLIP Text Encode (Positive Prompt)"
+    }
+  },
+  "8": {
+    "class_type": "FL_UnloadAllModels",
+    "inputs": {
+      "value": [
+        "6",
+        0
+      ]
+    },
+    "_meta": {
+      "title": "FL_UnloadAllModels"
+    }
+  },
+  "1000": {
+    "class_type": "Power Lora Loader (rgthree)",
+    "inputs": {
+      "model": [
+        "42",
+        0
+      ],
+      "lora_1": {
+        "on": true,
+        "lora": "flux/anime2real-semi.safetensors",
+        "strength": 0.7
+      }
+    },
+    "_meta": {
+      "title": "Power Lora Loader (rgthree)"
+    }
+  },
+  "100": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "klein_compare_klein_lora_2b_second_adapter_v1_source.png"
+    },
+    "_meta": {
+      "title": "Fixed Illustrious source"
+    }
+  }
+}

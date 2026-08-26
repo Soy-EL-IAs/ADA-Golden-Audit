@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-csql20jee1rgscvfxzpgfg",
+  "object": "chat.completion",
+  "created": 1787432734,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_180015_03\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"preserved_ok\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"hairband\",\n    \"shorts\",\n    \"thighhighs\",\n    \"boots\",\n    \"shirt\",\n    \"bare_shoulders\",\n    \"crop_top\"\n  ],\n  \"defects\": [\n    \"The crop top is yellow, not matching the PremiseSpec's implied color context (no explicit color requirement, but mismatched with 'green eyes' and 'purple hair' aesthetic).\",\n    \"The character is holding a paper, but it is not fluttering in the air as specified — it is held flat and static, violating the 'fluttering paper' cause requirement.\",\n    \"The paper is not clearly identifiable as having been thrown or knocked loose — it lacks motion cues or implied trajectory.\",\n    \"The character’s posture is not interrupted by the paper — she is holding it, not reacting to it as if startled by its movement.\",\n    \"The facial expression shows surprise, but the eyes are wide and the mouth is open — this is acceptable per risk notes, but the paper’s lack of motion negates the cause-effect relationship.\"\n  ],\n  \"drift\": [\n    \"The paper is not in the air near her face — it is held in her hand, breaking the visual cause-effect narrative.\",\n    \"The character’s pose is not interrupted — she is standing upright and holding the paper, not reacting to an off-frame event.\",\n    \"The paper’s presence is not visually linked to the off-frame door — it is held in front of her, not suggesting it was thrown from or near the door.\"\n  ],\n  \"summary\": \"The image fails to visually establish the paper as the cause of interruption. The paper is static and held, not fluttering, and the character’s posture does not reflect an interrupted state. This breaks the core narrative causality required by the PremiseSpec.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1637,
+    "completion_tokens": 459,
+    "total_tokens": 2096,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

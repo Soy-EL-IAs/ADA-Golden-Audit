@@ -1,0 +1,283 @@
+{
+  "run_dir": "D:\\IA\\Ada\\full_pipeline_runs\\specialist_full_ghislaine_001_02",
+  "video": false,
+  "model_events": [
+    {
+      "agent": "premise",
+      "role": "premise_agent",
+      "activate_seconds": 14.941,
+      "unload": null
+    },
+    {
+      "agent": "illustrious",
+      "role": "illustrious_agent",
+      "activate_seconds": 0.0,
+      "unload": null
+    },
+    {
+      "agent": "klein",
+      "role": "klein_agent",
+      "activate_seconds": 15.411,
+      "unload": null
+    }
+  ],
+  "comfy_events": [
+    {
+      "stage": "illustrious_render",
+      "seconds": 26.25,
+      "path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\specialist_full_ghislaine_001_02\\ghislaine_dedoldia_specialist_full_ghislaine_001_02\\illustrious_00001_.png"
+    },
+    {
+      "stage": "visual_review",
+      "seconds": 12.058
+    },
+    {
+      "stage": "klein_render",
+      "seconds": 30.182,
+      "path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\specialist_full_ghislaine_001_02\\ghislaine_dedoldia_specialist_full_ghislaine_001_02\\klein_00001_.png"
+    },
+    {
+      "stage": "final_review",
+      "seconds": 12.316
+    }
+  ],
+  "workflow_bindings": {
+    "ADA_KLEIN_SEED": "38",
+    "ADA_KLEIN_SOURCE": "40",
+    "Clean VRAM Used": "48",
+    "ADA_ILLUSTRIOUS_OUTPUT": "7",
+    "ADA_KLEIN_OUTPUT": "20",
+    "ADA_ILLUSTRIOUS_SEED": "5",
+    "ADA_ILLUSTRIOUS_PROMPT": "2",
+    "ADA_KLEIN_PROMPT": "39"
+  },
+  "comfy_model_events": [
+    {
+      "block": "before_illustrious_render",
+      "seconds": 1.842,
+      "release": {
+        "unloaded": [
+          {
+            "instance_id": "qwen3.8-27b-uncensored"
+          },
+          {
+            "instance_id": "qwen/qwen3-vl-8b"
+          }
+        ],
+        "vram": {
+          "released": true,
+          "api": "v1"
+        },
+        "comfy": {
+          "idle": true
+        }
+      },
+      "loaded_instances_before_render": [
+        {
+          "instance_id": "qwen3.8-27b-uncensored",
+          "model": "qwen3.8-27b-uncensored",
+          "raw": {
+            "id": "qwen3.8-27b-uncensored",
+            "config": {
+              "context_length": 8192,
+              "eval_batch_size": 2048,
+              "physical_batch_size": 512,
+              "parallel": 1,
+              "flash_attention": true,
+              "context_checkpoints": 32,
+              "reasoning_budget_message": "",
+              "speculative_draft_mtp": true,
+              "speculative_draft_simple": false,
+              "speculative_draft_model": "",
+              "speculative_draft_max_tokens": 1,
+              "speculative_draft_min_tokens": 0,
+              "speculative_draft_min_continue_probability": 0.75,
+              "offload_kv_cache_to_gpu": true
+            }
+          }
+        },
+        {
+          "instance_id": "qwen/qwen3-vl-8b",
+          "model": "qwen/qwen3-vl-8b",
+          "raw": {
+            "id": "qwen/qwen3-vl-8b",
+            "config": {
+              "context_length": 8192,
+              "eval_batch_size": 2048,
+              "physical_batch_size": 512,
+              "parallel": 4,
+              "flash_attention": true,
+              "context_checkpoints": 32,
+              "reasoning_budget_message": "",
+              "speculative_draft_mtp": false,
+              "speculative_draft_simple": false,
+              "speculative_draft_model": "",
+              "speculative_draft_max_tokens": 16,
+              "speculative_draft_min_tokens": 0,
+              "speculative_draft_min_continue_probability": 0.75,
+              "offload_kv_cache_to_gpu": true
+            }
+          }
+        }
+      ],
+      "loaded_instances_after_unload": []
+    },
+    {
+      "block": "before_klein_render",
+      "seconds": 1.404,
+      "release": {
+        "unloaded": [
+          {
+            "instance_id": "qwen3.8-27b-uncensored"
+          },
+          {
+            "instance_id": "qwen/qwen3-vl-8b"
+          }
+        ],
+        "vram": {
+          "released": true,
+          "api": "v1"
+        },
+        "comfy": {
+          "idle": true
+        }
+      },
+      "loaded_instances_before_render": [
+        {
+          "instance_id": "qwen3.8-27b-uncensored",
+          "model": "qwen3.8-27b-uncensored",
+          "raw": {
+            "id": "qwen3.8-27b-uncensored",
+            "config": {
+              "context_length": 8192,
+              "eval_batch_size": 2048,
+              "physical_batch_size": 512,
+              "parallel": 1,
+              "flash_attention": true,
+              "context_checkpoints": 32,
+              "reasoning_budget_message": "",
+              "speculative_draft_mtp": true,
+              "speculative_draft_simple": false,
+              "speculative_draft_model": "",
+              "speculative_draft_max_tokens": 1,
+              "speculative_draft_min_tokens": 0,
+              "speculative_draft_min_continue_probability": 0.75,
+              "offload_kv_cache_to_gpu": true
+            }
+          }
+        },
+        {
+          "instance_id": "qwen/qwen3-vl-8b",
+          "model": "qwen/qwen3-vl-8b",
+          "raw": {
+            "id": "qwen/qwen3-vl-8b",
+            "config": {
+              "context_length": 8192,
+              "eval_batch_size": 2048,
+              "physical_batch_size": 512,
+              "parallel": 4,
+              "flash_attention": true,
+              "context_checkpoints": 32,
+              "reasoning_budget_message": "",
+              "speculative_draft_mtp": false,
+              "speculative_draft_simple": false,
+              "speculative_draft_model": "",
+              "speculative_draft_max_tokens": 16,
+              "speculative_draft_min_tokens": 0,
+              "speculative_draft_min_continue_probability": 0.75,
+              "offload_kv_cache_to_gpu": true
+            }
+          }
+        }
+      ],
+      "loaded_instances_after_unload": []
+    }
+  ],
+  "klein_preset": {
+    "source": "D:\\IA\\Ada\\config\\klein_production_presets.json",
+    "name": "klein_balanced_v1",
+    "steps": 8,
+    "loras": [
+      {
+        "lora": "flux/klein_snofs_v1_3.safetensors",
+        "strength": 0.6
+      },
+      {
+        "lora": "flux/anime2real-semi.safetensors",
+        "strength": 0.8
+      }
+    ],
+    "sampler": "euler",
+    "scheduler": "Flux2Scheduler node 43",
+    "guidance": 4,
+    "cfg": 1,
+    "model": "flux-2-klein-9b-fp8.safetensors",
+    "text_encoder": "qwen_3_8b_fp8mixed.safetensors",
+    "vae": "flux2-vae.safetensors"
+  },
+  "state": {
+    "schema_version": 1,
+    "run_id": "specialist_full_ghislaine_001_02",
+    "pipeline": "specialist_image_v1",
+    "character": "Ghislaine Dedoldia",
+    "version": null,
+    "review_policy": "strict",
+    "stage": "COMPLETE",
+    "created_at": "2026-08-22T18:58:20.826498+00:00",
+    "updated_at": "2026-08-22T19:01:37.499587+00:00",
+    "seeds": {
+      "ghislaine_dedoldia_specialist_full_ghislaine_001_02": {
+        "illustrious": 2089138750158493625,
+        "klein": 1322198222698434872
+      }
+    },
+    "artifacts": {
+      "premise_spec": "premise_spec.json",
+      "illustrious_result": "illustrious_result.json",
+      "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\specialist_full_ghislaine_001_02\\ghislaine_dedoldia_specialist_full_ghislaine_001_02\\illustrious_00001_.png",
+      "illustrious_review": "illustrious_review.json",
+      "klein_result": "klein_result.json",
+      "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\specialist_full_ghislaine_001_02\\ghislaine_dedoldia_specialist_full_ghislaine_001_02\\klein_00001_.png",
+      "final_review": "final_review.json"
+    },
+    "history": [
+      {
+        "stage": "CREATED",
+        "at": "2026-08-22T18:58:20.826498+00:00"
+      },
+      {
+        "stage": "PREMISES_READY",
+        "at": "2026-08-22T18:59:16.696547+00:00"
+      },
+      {
+        "stage": "ILLUSTRIOUS_PROMPTS_READY",
+        "at": "2026-08-22T18:59:42.915958+00:00"
+      },
+      {
+        "stage": "ILLUSTRIOUS_RENDERED",
+        "at": "2026-08-22T19:00:11.037660+00:00"
+      },
+      {
+        "stage": "ILLUSTRIOUS_REVIEWED",
+        "at": "2026-08-22T19:00:23.104364+00:00"
+      },
+      {
+        "stage": "KLEIN_PROMPTS_READY",
+        "at": "2026-08-22T19:00:53.552164+00:00"
+      },
+      {
+        "stage": "KLEIN_RENDERED",
+        "at": "2026-08-22T19:01:25.164814+00:00"
+      },
+      {
+        "stage": "FINAL_REVIEWED",
+        "at": "2026-08-22T19:01:37.490585+00:00"
+      },
+      {
+        "stage": "COMPLETE",
+        "at": "2026-08-22T19:01:37.499587+00:00"
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "run_id": "ada_2B_20260822_201238_01",
+  "pipeline": "specialist_image_v1",
+  "character": "2B",
+  "version": null,
+  "review_policy": "strict",
+  "stage": "COMPLETE",
+  "created_at": "2026-08-22T23:12:38.747657+00:00",
+  "updated_at": "2026-08-22T23:14:55.702188+00:00",
+  "seeds": {
+    "2b_ada_2B_20260822_201238_01": {
+      "illustrious": 6784509346646851409,
+      "klein": 5021605476914351627
+    }
+  },
+  "artifacts": {
+    "premise_spec": "premise_spec.json",
+    "illustrious_result": "illustrious_result.json",
+    "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\ada_2B_20260822_201238_01\\2b_ada_2B_20260822_201238_01\\illustrious_00001_.png",
+    "illustrious_review": "illustrious_review.json",
+    "klein_result": "klein_result.json",
+    "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\ada_2B_20260822_201238_01\\2b_ada_2B_20260822_201238_01\\klein_00001_.png",
+    "final_review": "final_review.json"
+  },
+  "history": [
+    {
+      "stage": "CREATED",
+      "at": "2026-08-22T23:12:38.747657+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "at": "2026-08-22T23:13:46.493904+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T23:14:02.652504+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T23:14:14.525473+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T23:14:20.180712+00:00"
+    },
+    {
+      "stage": "KLEIN_PROMPTS_READY",
+      "at": "2026-08-22T23:14:20.194712+00:00"
+    },
+    {
+      "stage": "KLEIN_RENDERED",
+      "at": "2026-08-22T23:14:40.511145+00:00"
+    },
+    {
+      "stage": "FINAL_REVIEWED",
+      "at": "2026-08-22T23:14:55.693189+00:00"
+    },
+    {
+      "stage": "COMPLETE",
+      "at": "2026-08-22T23:14:55.702188+00:00"
+    }
+  ],
+  "error": null
+}

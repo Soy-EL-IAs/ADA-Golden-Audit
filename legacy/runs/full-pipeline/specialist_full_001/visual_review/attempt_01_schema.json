@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-gi51qzlyhux3emfuo8nb9",
+  "object": "chat.completion",
+  "created": 1787417403,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"2b_specialist_full_001\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"PASS\",\n  \"preserved_ok\": [\n    \"blindfold\",\n    \"white_hair\",\n    \"black_dress\",\n    \"thigh_boots\"\n  ],\n  \"defects\": [],\n  \"drift\": [\n    \"The gate is fully closed and locked as required, but the locking mechanism is not visibly engaged or shown with a mechanical hiss/clank. The visual consequence of the gate closing is implied but not explicitly rendered as described in the premise.\"\n  ],\n  \"summary\": \"All preserved elements are visibly correct. No visible defects. Narrative drift: the gate's locking mechanism and its audible consequence are not visually depicted, which slightly weakens the causal link in the premise.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1426,
+    "completion_tokens": 177,
+    "total_tokens": 1603,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

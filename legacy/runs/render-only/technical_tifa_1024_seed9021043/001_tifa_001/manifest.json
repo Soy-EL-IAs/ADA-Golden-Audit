@@ -1,0 +1,41 @@
+{
+  "run_id": "001_tifa_001",
+  "batch_id": "technical_tifa_1024_seed9021043",
+  "sequence": 1,
+  "premise_id": "tifa_001",
+  "mode": "render-only-fast",
+  "review_status": "unreviewed_render_only",
+  "status": "unreviewed_render_only",
+  "created_at": "2026-08-20T13:57:29.192790-03:00",
+  "illustrious_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 9021043,
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\technical_tifa_1024_seed9021043\\001_tifa_001\\illustrious\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\technical_tifa_1024_seed9021043\\001_tifa_001\\illustrious",
+        "type": "output"
+      }
+    }
+  ],
+  "krea_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 710131,
+      "source_image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\technical_tifa_1024_seed9021043\\001_tifa_001\\illustrious\\candidate_01.png",
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\technical_tifa_1024_seed9021043\\001_tifa_001\\krea\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\technical_tifa_1024_seed9021043\\001_tifa_001\\krea",
+        "type": "output"
+      }
+    }
+  ],
+  "illustrious_style_note": "Tifa operating the beer tap with one hand while beer and foam splash directly onto her white cropped tank top; naturally wet fabric with a subtle semi-transparent effect, adult, non-explicit, no nudity; preserve identity, costume, and all original premise elements",
+  "framing_profile": "medium_close_up",
+  "illustrious_seed_override": 9021043,
+  "illustrious_prompt_id": "909ac1ce-b0c0-498d-be9a-b0e7650472af",
+  "krea_prompt_id": "faef6818-442c-4e1a-b520-3af39e78d2ea",
+  "completed_at": "2026-08-20T13:58:27.425744-03:00"
+}

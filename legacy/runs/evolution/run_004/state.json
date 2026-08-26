@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "run": 4,
+  "status": "failed",
+  "started_at": "2026-08-22T03:13:28.769180+00:00",
+  "ended_at": "2026-08-22T03:13:31.015638+00:00",
+  "model": "qwen3.8-27b-uncensored",
+  "lm_studio_url": "http://127.0.0.1:1234",
+  "character": "2B",
+  "version": "NieR:Automata",
+  "openai_used": false,
+  "work_used": false,
+  "comfyui_used": false,
+  "worker_used": false,
+  "error": "error.json"
+}

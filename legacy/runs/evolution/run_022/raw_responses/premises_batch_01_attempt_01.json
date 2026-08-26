@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e022_b01_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Close-up on 2B's gloved hand gripping a rusted control valve as it resists turning, her knuckles whitening with strain while a single bead of sweat traces down her temple, revealing the tightness in her jaw behind her black blindfold.\"\n  },\n  {\n    \"id\": \"e022_b01_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot showing 2B bracing her shoulder against a heavy sliding steel door to keep it from closing, her puffy sleeves bunching as she pushes with one arm while catching a falling data chip in her other hand.\"\n  },\n  {\n    \"id\": \"e022_b01_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B crouching low under a sparking ventilation duct, dragging the hem of her black dress across the metal grate as she reaches forward to grab a loose cable for leverage.\"\n  },\n  {\n    \"id\": \"e022_b01_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Dynamic shot of 2B mid-dodge, her body twisted sharply to the left as a projectile grazes her shoulder, causing her short white hair to whip forward and her thigh-high boots to slide against the concrete floor.\"\n  },\n  {\n    \"id\": \"e022_b01_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Wide cinematic angle of 2B pulling on a massive rusted lever to release hydraulic pressure, her entire body weight thrown back against the resistance as dust plumes erupt from the mechanism around her boots.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3252,
+    "total_output_tokens": 414,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.639011131155339,
+    "time_to_first_token_seconds": 3.939664
+  }
+}

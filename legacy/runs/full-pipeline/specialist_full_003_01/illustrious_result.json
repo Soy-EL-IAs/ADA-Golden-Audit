@@ -1,0 +1,9 @@
+{
+  "id": "2b_specialist_full_003_01",
+  "illustrious_prompt": "1girl, 2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, thigh_boots, black_gloves, standing in dimly lit command center, static posture, alert expression, hands gripping edge of table, knuckles white, large ornate iron gate sliding down from above, mechanical bars, long jagged shadows across figure, red emergency light flickering on wall behind her, distinct red glow, automated lockdown protocol, gate partially obscuring midsection and legs, visual barrier, tension, environment as antagonist",
+  "resolved_risks": [
+    "Ensure the iron gate is clearly mechanical and not a person to avoid ambiguity about the source of obstruction.",
+    "Keep the red emergency light distinct from any other lighting sources to clarify the cause of the lockdown.",
+    "Maintain 2B's posture as static and alert, avoiding any pose that suggests she is already moving or reacting physically beyond gripping the table."
+  ]
+}

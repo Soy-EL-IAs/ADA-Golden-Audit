@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "run": 33,
+  "status": "completed",
+  "started_at": "2026-08-22T09:47:16.659545+00:00",
+  "ended_at": "2026-08-22T10:04:50.941197+00:00",
+  "model": "qwen3.8-27b-uncensored",
+  "lm_studio_url": "http://127.0.0.1:1234",
+  "character": "2B",
+  "version": "NieR:Automata",
+  "openai_used": false,
+  "work_used": false,
+  "comfyui_used": false,
+  "worker_used": false,
+  "input_manifest_sha256": "04851f4e997638803c48889380cb6863f4a80450087eae7c8853c4cedb7c1d23",
+  "set_scores": {
+    "identity": 9.0,
+    "visual_appeal": 8.0,
+    "diversity": 5.0,
+    "repetition_control": 4.0,
+    "micro_story": 7.0,
+    "animation_potential": 7.0
+  },
+  "files": {
+    "candidate_guide": "candidate_guide.md",
+    "premises": "premises.json",
+    "analysis": "analysis.json",
+    "report": "cycle_report.md"
+  }
+}

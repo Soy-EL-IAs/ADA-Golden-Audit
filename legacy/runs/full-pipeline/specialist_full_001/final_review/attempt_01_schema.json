@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-0t9j3k2dc0f21r9sdwrnoa",
+  "object": "chat.completion",
+  "created": 1787417469,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"2b_specialist_full_001\",\n  \"stage\": \"klein\",\n  \"verdict\": \"PASS\",\n  \"preserved_ok\": [\n    \"blindfold\",\n    \"white_hair\",\n    \"black_dress\",\n    \"thigh_boots\"\n  ],\n  \"defects\": [],\n  \"drift\": [\n    \"The sword is partially drawn and held in a combat-ready stance, violating the requirement to keep it sheathed or hand on hilt to maintain anticipation.\"\n  ],\n  \"summary\": \"All preserved elements are visibly correct. The only visible drift is the sword being drawn, which contradicts the narrative intent of maintaining anticipation rather than active combat.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1424,
+    "completion_tokens": 151,
+    "total_tokens": 1575,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

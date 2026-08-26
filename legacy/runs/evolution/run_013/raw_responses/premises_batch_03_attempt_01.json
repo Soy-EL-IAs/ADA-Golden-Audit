@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "```json\n[\n  {\n    \"id\": \"e013_b03_01\",\n    \"category\": \"closeup\",\n    \"premise\": \"2B's visible eye snaps wide in sudden, sharp shock as a loose strand of her short white hair blows across the black blindfold, momentarily blocking her vision; her brow furrows with intense focus as she tilts her head slightly to calculate the precise angle needed to clear it without using her hands.\"\n  },\n  {\n    \"id\": \"e013_b03_02\",\n    \"category\": \"medium\",\n    \"premise\": \"A sudden, violent hiss of escaping steam from a ruptured pipe directly above causes 2B to flinch, pulling her torso back sharply; the force of her recoil twists her upper body, causing the fabric of her black dress to ripple and the puffy feather-trimmed sleeves to billow outward as she shields her face with one gloved hand.\"\n  },\n  {\n    \"id\": \"e013_b03_03\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B is caught mid-fall, suspended in a precarious crouch above a chasm; her right leg extends downward to test the stability of a crumbling ledge while her left arm reaches out desperately for a protruding root system, her body twisted in a tight coil that emphasizes the tension in her thighs and the strain on her gloves.\"\n  },\n  {\n    \"id\": \"e013_b03_04\",\n    \"category\": \"dynamic\",\n    \"premise\": \"In a blur of rapid motion, 2B executes a low slide across a slick, wet floor to evade a falling debris chunk; her left leg extends forward with kinetic force while her right hand scrapes against the ground for friction, sending up a spray of water droplets and dust that highlights the speed and urgency of her escape.\"\n  },\n  {\n    \"id\": \"e013_b03_05\",\n    \"category\": \"cinematic\",\n    \"premise\": \"From an extreme low angle, 2B stands at the center of a vast, circular glass floor that is beginning to crack beneath her weight; the spiderweb fractures radiate outward from her boots as she looks up with calm, confident determination, her silhouette framed against the towering, spiraling architecture of the building above.\"\n  }\n]\n```"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3972,
+    "total_output_tokens": 533,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.729289368506144,
+    "time_to_first_token_seconds": 4.6312619999999995
+  }
+}

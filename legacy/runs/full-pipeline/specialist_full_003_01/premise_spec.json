@@ -1,0 +1,16 @@
+{
+  "id": "2b_specialist_full_003_01",
+  "category": "strategic_censorship",
+  "premise": "2B stands in a dimly lit command center, her white hair and black dress sharply defined against the shadows. A sudden mechanical whir interrupts the silence as a large, ornate iron gate begins to slide down from above, its heavy bars casting long, jagged shadows across her figure. The cause is visible: a red emergency light flickers on the wall behind her, signaling an automated lockdown protocol. As the gate descends, it partially obscures her midsection and legs, creating a visual barrier that emphasizes her stillness and the tension of being trapped. Her gloved hands grip the edge of the table in front of her, knuckles white, while her blindfolded eyes remain fixed forward, unaware of the immediate physical constraint closing around her. The consequence is a momentary suspension of action, where the environment becomes the primary antagonist, forcing 2B to wait for the mechanism to fully engage or find an alternative exit.",
+  "preserved_elements": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "risk_notes": [
+    "Ensure the iron gate is clearly mechanical and not a person to avoid ambiguity about the source of obstruction.",
+    "Keep the red emergency light distinct from any other lighting sources to clarify the cause of the lockdown.",
+    "Maintain 2B's posture as static and alert, avoiding any pose that suggests she is already moving or reacting physically beyond gripping the table."
+  ]
+}

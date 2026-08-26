@@ -1,0 +1,16 @@
+{
+  "id": "2b_mini_01",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "clothing_cutout"
+  ],
+  "defects": [],
+  "drift": [
+    "The drone's red scanning beam is depicted as a solid red line across the scene, which may imply a more aggressive or threatening presence than intended. The PremiseSpec requires the drone to remain a mechanical object without monster-like qualities. The beam's presentation, while functional, slightly undermines the non-threatening mechanical nature by emphasizing the beam's physicality and intensity."
+  ],
+  "summary": "All preserved elements are visibly correct. No actual visible defects. Minor narrative drift in drone presentation."
+}

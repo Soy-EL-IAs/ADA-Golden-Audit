@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[{\"id\":\"b01_1\",\"category\":\"closeup\",\"premise\":\"A tight frontal close-up captures 2B's face as she tilts her head slightly, the black blindfold pulled taut by a sudden gust of wind that lifts several strands of her short white hair. Her expression is one of composed stoicism with a subtle tightening around the jaw, suggesting she is listening to a distant mechanical hum rather than seeing it. The focus isolates her pale skin and the stark contrast of the black fabric against the bright background, emphasizing her calm yet alert personality.\"},{\"id\":\"b01_2\",\"category\":\"medium\",\"premise\":\"A medium shot frames 2B from the waist up as she stands in a dimly lit laboratory corridor, holding a data pod with both gloved hands. Her body is angled slightly away, but she twists her torso to look back over her shoulder, creating a dynamic line through her silhouette. The fabric of her black dress and feather-trimmed sleeves ripples gently from the air circulation above, adding implied motion to the static pose while highlighting her elegant yet combat-ready posture.\"},{\"id\":\"b01_3\",\"category\":\"fullbody\",\"premise\":\"A full-body view shows 2B walking forward through a sunlit overgrown plaza, stepping carefully over broken concrete. Her weight is shifted onto one leg, showcasing the fit of her thigh-highs and boots against her athletic silhouette. One arm hangs relaxed at her side while the other holds her sword hilt loosely, suggesting she has just finished combat but maintains her regal composure. The composition emphasizes her long legs and the contrast between her pristine outfit and the decayed environment.\"},{\"id\":\"b01_4\",\"category\":\"dynamic\",\"premise\":\"A dynamic low-angle shot captures 2B mid-leap as she descends from a crumbling pillar, her black dress and hair whipping upward due to the rapid movement. Her legs are bent in preparation for impact, with one boot leading the landing and the other trailing behind. The motion blur on her puffy sleeves contrasts with the sharp focus of her face, which remains calm despite the high-speed action, conveying a sense of controlled power and agility.\"},{\"id\":\"b01_5\",\"category\":\"cinematic\",\"premise\":\"A cinematic wide shot places 2B in the center of a vast, abandoned cathedral hall, bathed in a single beam of light breaking through a shattered stained-glass window. She stands with her back to the viewer, hands clasped behind her back, facing a group of distant, shadowy mechanical enemies. The scale of the ruins dwarfs her small figure, but her upright posture conveys quiet determination. Dust motes float in the light beam, adding atmosphere and depth to the dramatic standoff.\"}]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4034,
+    "total_output_tokens": 568,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 8.835844507306154,
+    "time_to_first_token_seconds": 5.054384
+  }
+}

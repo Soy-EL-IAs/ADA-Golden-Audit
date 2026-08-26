@@ -1,0 +1,16 @@
+{
+  "id": "2b_mini_01",
+  "stage": "illustrious",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "clothing_cutout"
+  ],
+  "defects": [],
+  "drift": [
+    "The drone is depicted as a large, imposing mechanical entity with glowing orange eyes and a menacing posture, which deviates from the premise's requirement to portray it as a non-monster, functional maintenance drone. The visual tone suggests threat rather than utility."
+  ],
+  "summary": "The image correctly preserves the blindfold, white hair, black dress, and clothing cutout as specified. However, the drone's portrayal as a threatening mechanical figure introduces narrative drift from the premise's intent to depict a non-monster, utilitarian maintenance drone."
+}

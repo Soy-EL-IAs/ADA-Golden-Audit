@@ -1,0 +1,930 @@
+{
+  "schema_version": 2,
+  "character": "Mai Shiranui",
+  "version": null,
+  "created_at": "2026-08-25T22:41:22.580913+00:00",
+  "status": "downloaded",
+  "usable": true,
+  "provider": "searxng",
+  "source_query": "\"Shiranui Mai\" \"fatal fury\"",
+  "searches": [
+    "\"Shiranui Mai\" \"fatal fury\"",
+    "\"Shiranui Mai\" \"fatal fury\" character",
+    "\"Shiranui Mai\" \"fatal fury\" official artwork",
+    "\"shiranui_mai\"",
+    "\"Mai Shiranui\" \"fatal fury\" character",
+    "\"shiranui mai\" \"fatal fury\" character"
+  ],
+  "refs": [
+    {
+      "file": "refs/ref_01.jpg",
+      "source_url": "https://cdn.donmai.us/original/5b/3b/__shiranui_mai_fatal_fury_and_1_more_drawn_by_strbrb789__5b3bd8dcfadf2f8759c54020c66f1993.jpg",
+      "page_url": "https://danbooru.donmai.us/posts/8031163",
+      "domain": "danbooru.donmai.us",
+      "final_score": 53,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://danbooru.donmai.us/posts/8031163",
+        "image_url": "https://cdn.donmai.us/original/5b/3b/__shiranui_mai_fatal_fury_and_1_more_drawn_by_strbrb789__5b3bd8dcfadf2f8759c54020c66f1993.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.98,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.98,
+        "evidence": [
+          "brown_hair",
+          "high_ponytail",
+          "parted_bangs",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "7d2f973f88d37ba8c982b088c387abb081ed5906e6550922606f3a8acdb6aba8",
+      "downloaded_at": "2026-08-25T22:41:27.491908+00:00"
+    },
+    {
+      "file": "refs/ref_02.jpg",
+      "source_url": "https://cdn.donmai.us/original/7d/dc/7ddc3d09c1c08404823bedbd291bf434.jpg",
+      "page_url": "https://danbooru.donmai.us/posts/8044136",
+      "domain": "danbooru.donmai.us",
+      "final_score": 53,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://danbooru.donmai.us/posts/8044136",
+        "image_url": "https://cdn.donmai.us/original/7d/dc/7ddc3d09c1c08404823bedbd291bf434.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 1.0,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 1.0,
+        "evidence": [
+          "The character is explicitly labeled 'MAI SHIRANUI' at the top of the image.",
+          "The character has a high ponytail with parted bangs, matching the known trait 'high_ponytail' and 'parted_bangs'.",
+          "The character has brown hair, matching the known trait 'brown_hair'.",
+          "The character has long hair, matching the known trait 'long_hair'."
+        ]
+      },
+      "sha256": "7f4119fcecddb2152c83e98969c2919e9dda5a58de74f4ae8b416cb2f37d4e47",
+      "downloaded_at": "2026-08-25T22:41:30.260847+00:00"
+    },
+    {
+      "file": "refs/ref_03.jpg",
+      "source_url": "https://cdn.essential-japan.com/wp-content/uploads/2025/09/1-4_freeing_bstyle_Mai-Shiranui-3.jpg",
+      "page_url": "https://essential-japan.com/news/huge-new-figure-of-fatal-furys-mai-shiranui-recreates-her-classic-look/",
+      "domain": "essential-japan.com",
+      "final_score": 45,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://essential-japan.com/news/huge-new-figure-of-fatal-furys-mai-shiranui-recreates-her-classic-look/",
+        "image_url": "https://cdn.essential-japan.com/wp-content/uploads/2025/09/1-4_freeing_bstyle_Mai-Shiranui-3.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.99,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.99,
+        "evidence": [
+          "brown_hair",
+          "high_ponytail",
+          "parted_bangs",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "449b1ce85358cac2f355f973e404a1307de035c69beb2c73f853510425efd4b9",
+      "downloaded_at": "2026-08-25T22:41:31.441168+00:00"
+    },
+    {
+      "file": "refs/ref_04.jpg",
+      "source_url": "https://gagadget.es/media/post_big/Fatal-Fury-City-of-the-Wolves_Mai-Shiranui-1536x864.jpg",
+      "page_url": "https://gagadget.es/491229-snk-ha-publicado-un-nuevo-trailer-de-fatal-fury-city-of-the-wolves-con-mai-shiranui-como-protagonista/",
+      "domain": "gagadget.es",
+      "final_score": 45,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://gagadget.es/491229-snk-ha-publicado-un-nuevo-trailer-de-fatal-fury-city-of-the-wolves-con-mai-shiranui-como-protagonista/",
+        "image_url": "https://gagadget.es/media/post_big/Fatal-Fury-City-of-the-Wolves_Mai-Shiranui-1536x864.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.99,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.99,
+        "evidence": [
+          "brown_hair",
+          "high_ponytail",
+          "parted_bangs",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "96e1531af41f053fe0b7975e38764154a132bfc5b6c4b48b76c0b74feba0192a",
+      "downloaded_at": "2026-08-25T22:41:34.447127+00:00"
+    },
+    {
+      "file": "refs/ref_05.jpg",
+      "source_url": "https://www.fightersgeneration.com/news2024/news/mai-shiranui-ff-cotw-render.jpg",
+      "page_url": "https://www.fightersgeneration.com/news1/ff-aug24-4.htm",
+      "domain": "fightersgeneration.com",
+      "final_score": 45,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://www.fightersgeneration.com/news1/ff-aug24-4.htm",
+        "image_url": "https://www.fightersgeneration.com/news2024/news/mai-shiranui-ff-cotw-render.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.98,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.98,
+        "evidence": [
+          "brown_hair",
+          "high_ponytail",
+          "parted_bangs",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "e15ae7a8a0c6d34781199d21681e2cf51480b6f5af258fae3d039b5c5aafc1e3",
+      "downloaded_at": "2026-08-25T22:41:37.621064+00:00"
+    }
+  ],
+  "character_id": "shiranui_mai",
+  "canonical_name": "Shiranui Mai",
+  "franchise": [
+    "fatal_fury",
+    "the_king_of_fighters",
+    "street_fighter"
+  ],
+  "identity_resolution": {
+    "canonical_tag": "shiranui_mai",
+    "source": "danbooru_taxonomy",
+    "aliases": [
+      "Mai Shiranui",
+      "Shiranui Mai",
+      "shiranui mai"
+    ]
+  },
+  "canonical_references": [
+    {
+      "file": "refs/ref_01.jpg",
+      "source_url": "https://cdn.donmai.us/original/5b/3b/__shiranui_mai_fatal_fury_and_1_more_drawn_by_strbrb789__5b3bd8dcfadf2f8759c54020c66f1993.jpg",
+      "page_url": "https://danbooru.donmai.us/posts/8031163",
+      "domain": "danbooru.donmai.us",
+      "final_score": 53,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://danbooru.donmai.us/posts/8031163",
+        "image_url": "https://cdn.donmai.us/original/5b/3b/__shiranui_mai_fatal_fury_and_1_more_drawn_by_strbrb789__5b3bd8dcfadf2f8759c54020c66f1993.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.98,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.98,
+        "evidence": [
+          "brown_hair",
+          "high_ponytail",
+          "parted_bangs",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "7d2f973f88d37ba8c982b088c387abb081ed5906e6550922606f3a8acdb6aba8",
+      "downloaded_at": "2026-08-25T22:41:27.491908+00:00"
+    },
+    {
+      "file": "refs/ref_02.jpg",
+      "source_url": "https://cdn.donmai.us/original/7d/dc/7ddc3d09c1c08404823bedbd291bf434.jpg",
+      "page_url": "https://danbooru.donmai.us/posts/8044136",
+      "domain": "danbooru.donmai.us",
+      "final_score": 53,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://danbooru.donmai.us/posts/8044136",
+        "image_url": "https://cdn.donmai.us/original/7d/dc/7ddc3d09c1c08404823bedbd291bf434.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 1.0,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 1.0,
+        "evidence": [
+          "The character is explicitly labeled 'MAI SHIRANUI' at the top of the image.",
+          "The character has a high ponytail with parted bangs, matching the known trait 'high_ponytail' and 'parted_bangs'.",
+          "The character has brown hair, matching the known trait 'brown_hair'.",
+          "The character has long hair, matching the known trait 'long_hair'."
+        ]
+      },
+      "sha256": "7f4119fcecddb2152c83e98969c2919e9dda5a58de74f4ae8b416cb2f37d4e47",
+      "downloaded_at": "2026-08-25T22:41:30.260847+00:00"
+    },
+    {
+      "file": "refs/ref_03.jpg",
+      "source_url": "https://cdn.essential-japan.com/wp-content/uploads/2025/09/1-4_freeing_bstyle_Mai-Shiranui-3.jpg",
+      "page_url": "https://essential-japan.com/news/huge-new-figure-of-fatal-furys-mai-shiranui-recreates-her-classic-look/",
+      "domain": "essential-japan.com",
+      "final_score": 45,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://essential-japan.com/news/huge-new-figure-of-fatal-furys-mai-shiranui-recreates-her-classic-look/",
+        "image_url": "https://cdn.essential-japan.com/wp-content/uploads/2025/09/1-4_freeing_bstyle_Mai-Shiranui-3.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.99,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.99,
+        "evidence": [
+          "brown_hair",
+          "high_ponytail",
+          "parted_bangs",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "449b1ce85358cac2f355f973e404a1307de035c69beb2c73f853510425efd4b9",
+      "downloaded_at": "2026-08-25T22:41:31.441168+00:00"
+    },
+    {
+      "file": "refs/ref_04.jpg",
+      "source_url": "https://gagadget.es/media/post_big/Fatal-Fury-City-of-the-Wolves_Mai-Shiranui-1536x864.jpg",
+      "page_url": "https://gagadget.es/491229-snk-ha-publicado-un-nuevo-trailer-de-fatal-fury-city-of-the-wolves-con-mai-shiranui-como-protagonista/",
+      "domain": "gagadget.es",
+      "final_score": 45,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://gagadget.es/491229-snk-ha-publicado-un-nuevo-trailer-de-fatal-fury-city-of-the-wolves-con-mai-shiranui-como-protagonista/",
+        "image_url": "https://gagadget.es/media/post_big/Fatal-Fury-City-of-the-Wolves_Mai-Shiranui-1536x864.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.99,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.99,
+        "evidence": [
+          "brown_hair",
+          "high_ponytail",
+          "parted_bangs",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "96e1531af41f053fe0b7975e38764154a132bfc5b6c4b48b76c0b74feba0192a",
+      "downloaded_at": "2026-08-25T22:41:34.447127+00:00"
+    },
+    {
+      "file": "refs/ref_05.jpg",
+      "source_url": "https://www.fightersgeneration.com/news2024/news/mai-shiranui-ff-cotw-render.jpg",
+      "page_url": "https://www.fightersgeneration.com/news1/ff-aug24-4.htm",
+      "domain": "fightersgeneration.com",
+      "final_score": 45,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://www.fightersgeneration.com/news1/ff-aug24-4.htm",
+        "image_url": "https://www.fightersgeneration.com/news2024/news/mai-shiranui-ff-cotw-render.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.98,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.98,
+        "evidence": [
+          "brown_hair",
+          "high_ponytail",
+          "parted_bangs",
+          "brown_eyes"
+        ]
+      },
+      "sha256": "e15ae7a8a0c6d34781199d21681e2cf51480b6f5af258fae3d039b5c5aafc1e3",
+      "downloaded_at": "2026-08-25T22:41:37.621064+00:00"
+    }
+  ],
+  "generated_identity_references": [],
+  "reference_status": "READY",
+  "reference_count": 5,
+  "reference_confidence": 0.99,
+  "discovery": {
+    "queries_used": [
+      "\"Shiranui Mai\" \"fatal fury\"",
+      "\"Shiranui Mai\" \"fatal fury\" character",
+      "\"Shiranui Mai\" \"fatal fury\" official artwork",
+      "\"shiranui_mai\"",
+      "\"Mai Shiranui\" \"fatal fury\" character",
+      "\"shiranui mai\" \"fatal fury\" character"
+    ],
+    "raw_candidate_count": 154,
+    "page_fetch_errors": 6,
+    "rejected": [
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d3170e6-6b28-4d11-80f1-244bfb1dfaae/di0grvi-e557b47b-3b17-4772-b963-e2539046f7db.jpg/v1/fill/w_1280,h_720,q_75,strp/fatal_fury_cotw___mai_shiranui_wallpaper_by_cr1one_di0grvi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOGQzMTcwZTYtNmIyOC00ZDExLTgwZjEtMjQ0YmZiMWRmYWFlXC9kaTBncnZpLWU1NTdiNDdiLTNiMTctNDc3Mi1iOTYzLWUyNTM5MDQ2ZjdkYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nc3JD42WlYjY3-w9uCfSeRFCzc1ht8RoFtFviq5MIRI",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Shiranui.Mai.full.4385478.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1298/1363854932_40898c5e0a_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/18518644/pexels-photo-18518644.jpeg?cs=srgb&dl=pexels-fernando-ortiz-p-522599658-18518644.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://catwithmonocle.com/wp-content/uploads/2025/06/featured-fatalfury-cotw-mai-01.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3910/14400773513_08278b2c8a_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/9809775/pexels-photo-9809775.jpeg?cs=srgb&dl=pexels-mash-babkova-116752476-9809775.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.snk-corp.co.jp/us/games/fatalfury-cotw/trailers/img/trailer15.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.ytimg.com/vi/SIYeVnBhdp0/maxresdefault.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Fatal.Fury.full.3631099.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2935/14194157217_c4407cb571_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/12791406/pexels-photo-12791406.jpeg?cs=srgb&dl=pexels-superferfilm-12791406.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://wallpapercave.com/wp/wp15316634.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Mai_Shiranui.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en-25.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/40px-Symbol_support_vote.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Mai_Shiranui.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/8/83/KoF-Mai-Comparison.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Maggie_Q_at_TIFF_2009_-a.jpg/330px-Maggie_Q_at_TIFF_2009_-a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/a/ac/KingofFighters-Mai-SvC.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Giorgiacosplay_Mai_Shiranui.jpg/330px-Giorgiacosplay_Mai_Shiranui.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/footer/wikimedia-button.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/footer/wikimedia.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/w/resources/assets/poweredby_mediawiki.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/w/resources/assets/mediawiki_compact.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d3170e6-6b28-4d11-80f1-244bfb1dfaae/di0grvi-e557b47b-3b17-4772-b963-e2539046f7db.jpg/v1/fill/w_1192,h_670,q_70,strp/fatal_fury_cotw___mai_shiranui_wallpaper_by_cr1one_di0grvi-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOGQzMTcwZTYtNmIyOC00ZDExLTgwZjEtMjQ0YmZiMWRmYWFlXC9kaTBncnZpLWU1NTdiNDdiLTNiMTctNDc3Mi1iOTYzLWUyNTM5MDQ2ZjdkYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nc3JD42WlYjY3-w9uCfSeRFCzc1ht8RoFtFviq5MIRI",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.arcadequartermaster.com/rbffs/art_mai.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.xboxdynasty.de/wp-content/uploads/2022/08/fatal-fury-city-of-the-wolves-23.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://wallpapercave.com/wp/wp15316634.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1972/43292123770_9d61974240_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13201801/pexels-photo-13201801.jpeg?cs=srgb&dl=pexels-227888035-13201801.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1941/43292131800_b798fd4eb0_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7299491/pexels-photo-7299491.jpeg?cs=srgb&dl=pexels-cottonbro-7299491.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.writeups.org/wp-content/uploads/Mai-Shiranui-Fatal-Fury-King-Fighters-portrait-featured.jpg",
+        "reason": "reference_utility_below_gate"
+      },
+      {
+        "image_url": "https://i.ytimg.com/vi/SIYeVnBhdp0/maxresdefault.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.essential-japan.com/wp-content/uploads/2025/09/1-4_freeing_bstyle_Mai-Shiranui-3.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.writeups.org/wp-content/uploads/Mai-Shiranui-Fatal-Fury-King-of-Fighters-b-big.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1915/43292140560_b63d2af17c_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/11623072/pexels-photo-11623072.jpeg?cs=srgb&dl=pexels-lucretius-mooka-2554524-11623072.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Mai_Shiranui.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en-25.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/40px-Symbol_support_vote.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Mai_Shiranui.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/8/83/KoF-Mai-Comparison.gif?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Maggie_Q_at_TIFF_2009_-a.jpg/330px-Maggie_Q_at_TIFF_2009_-a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/a/ac/KingofFighters-Mai-SvC.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Giorgiacosplay_Mai_Shiranui.jpg/330px-Giorgiacosplay_Mai_Shiranui.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/footer/wikimedia-button.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/static/images/footer/wikimedia.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/w/resources/assets/poweredby_mediawiki.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://en.wikipedia.org/w/resources/assets/mediawiki_compact.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Shiranui.Mai.full.4267922.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "http://www.game-art-hq.com/wp-content/uploads/2011/11/NeoGeo-Battle-Coliseum-Game-Character-Official-Artwork-Mai-Shiranui-2.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://wallpapercave.com/wp/wp15316634.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/mail-badge.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.arcadequartermaster.com/rbffs/art_mai.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7299452/pexels-photo-7299452.jpeg?cs=srgb&dl=pexels-cottonbro-7299452.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/The.King.of.Fighters.1024.4082628.webp",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Shiranui.Mai.full.4267923.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://catwithmonocle.com/wp-content/uploads/2025/06/fatalfury-cotw-mai-01-1920x1080-1.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/11264895/pexels-photo-11264895.jpeg?cs=srgb&dl=pexels-daria-nekipelova-112078039-11264895.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Fatal.Fury.full.3631099.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/30599599/pexels-photo-30599599.jpeg?cs=srgb&dl=pexels-lua-jpg-2149316381-30599599.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.xboxdynasty.de/wp-content/uploads/2022/08/fatal-fury-city-of-the-wolves-23.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Shiranui.Mai.full.4385478.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.writeups.org/wp-content/uploads/Mai-Shiranui-Fatal-Fury-King-of-Fighters-rev-b.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/9809775/pexels-photo-9809775.jpeg?cs=srgb&dl=pexels-mash-babkova-116752476-9809775.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://log-wp-media.s3.amazonaws.com/wp-content/uploads/2025/01/SF6_-_Mai_Artwork-e1736890028832.png",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/0b/35/e7/0b35e70b049419abb8e8f9478738ac24.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/736x/5d/c2/72/5dc27201a9163ad5454e2a5e27f08f8a.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.fightersgeneration.com/news2024/news/mai-shiranui-ff-cotw-render.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Shiranui.Mai.full.3833951.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Shiranui.Mai.full.3608062.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cosplay_of_Shiranui_Mai_%28Chongqing_IDO%2C_Feb_2023%29.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/16935196/pexels-photo-16935196.jpeg?cs=srgb&dl=pexels-yi-ren-57040649-16935196.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1164/1114904825_1022671dfe_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/1200x/da/08/16/da08166c1dd3cbd3e8adb8c757ec7690.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cosplayer_of_Mai_Shiranui_at_SDCC_20150710.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/31770119/pexels-photo-31770119.jpeg?cs=srgb&dl=pexels-tizzy-31770119.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1349/1114985243_65bc6dc1bc_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.hdqwalls.com/download/mai-shiranui-the-king-of-fighters-ep-2560x1600.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Shiranui.Mai.full.3833949.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://data.ipic.ai/images/bPsSPa1eD6KwIGl_1706555367.png",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Falcoon_E3_2005.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://wallpapercave.com/wp/wp8435285.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Shiranui.Mai.full.4385478.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/28190493/pexels-photo-28190493.jpeg?cs=srgb&dl=pexels-yk-ng-1280907003-28190493.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1226/1115744586_1bbb354131_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.figures.com/wordpress/wp-content/uploads/sites/1/nggallery/storm-reveals-next-king-of-fighters98-figure-mai-shiranui/307693605_5634404066598580_2722702550972890430_n.jpg",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://storage.googleapis.com/cdn.vcgamers.com/news/wp-content/uploads/2024/08/Mai-Shiranui.jpg",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/TGS_2006_344.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.writeups.org/wp-content/uploads/Mai-Shiranui-Fatal-Fury-King-of-Fighters-rev-b.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://catwithmonocle.com/wp-content/uploads/2025/06/fatalfury-cotw-mai-01-3840x2160-1.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d3170e6-6b28-4d11-80f1-244bfb1dfaae/di0grvi-e557b47b-3b17-4772-b963-e2539046f7db.jpg/v1/fill/w_1280,h_720,q_75,strp/fatal_fury_cotw___mai_shiranui_wallpaper_by_cr1one_di0grvi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOGQzMTcwZTYtNmIyOC00ZDExLTgwZjEtMjQ0YmZiMWRmYWFlXC9kaTBncnZpLWU1NTdiNDdiLTNiMTctNDc3Mi1iOTYzLWUyNTM5MDQ2ZjdkYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nc3JD42WlYjY3-w9uCfSeRFCzc1ht8RoFtFviq5MIRI",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.writeups.org/wp-content/uploads/Mai-Shiranui-Fatal-Fury-King-of-Fighters-b.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1697398289867-ad4e8de16b66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3820/9324925970_5e553c3a07_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://live.staticflickr.com/4608/38711152035_e563bee237_b.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13201801/pexels-photo-13201801.jpeg?cs=srgb&dl=pexels-227888035-13201801.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d3170e6-6b28-4d11-80f1-244bfb1dfaae/di6xz18-81d1a164-34fb-4aee-848d-2a64e9d7d3ff.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkMzE3MGU2LTZiMjgtNGQxMS04MGYxLTI0NGJmYjFkZmFhZVwvZGk2eHoxOC04MWQxYTE2NC0zNGZiLTRhZWUtODQ4ZC0yYTY0ZTlkN2QzZmYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z5QKXUa77ZH6y44gdgxsm2KxavzLukvuSPN8IEw0dUI",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.writeups.org/wp-content/uploads/Mai-Shiranui-Fatal-Fury-King-Fighters-portrait-featured.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/667e7d56-2ba2-4cea-9c74-60cff074933f/djnhtf3-122c9da8-ff87-4b19-add3-a5d305db95b4.jpg/v1/fill/w_1191,h_671,q_70,strp/fatal_fury_cotw_mai_shiranui_concept_art_by_tenjuro002_djnhtf3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIxIiwicGF0aCI6IlwvZlwvNjY3ZTdkNTYtMmJhMi00Y2VhLTljNzQtNjBjZmYwNzQ5MzNmXC9kam5odGYzLTEyMmM5ZGE4LWZmODctNGIxOS1hZGQzLWE1ZDMwNWRiOTViNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OfNZHwTGpyrAjk3uKjlsdtRfyvJDkgSP8IrlmIrWBys",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1653443115468-d758f097f82a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/3826/9322140763_97a892d344_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/12791406/pexels-photo-12791406.jpeg?cs=srgb&dl=pexels-superferfilm-12791406.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/0b/35/e7/0b35e70b049419abb8e8f9478738ac24.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.sensatez.net/images/maishiranui-evo_lead.jpg",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.donmai.us/original/7d/dc/7ddc3d09c1c08404823bedbd291bf434.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d3170e6-6b28-4d11-80f1-244bfb1dfaae/di0grvi-e557b47b-3b17-4772-b963-e2539046f7db.jpg/v1/fill/w_1192,h_670,q_70,strp/fatal_fury_cotw___mai_shiranui_wallpaper_by_cr1one_di0grvi-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOGQzMTcwZTYtNmIyOC00ZDExLTgwZjEtMjQ0YmZiMWRmYWFlXC9kaTBncnZpLWU1NTdiNDdiLTNiMTctNDc3Mi1iOTYzLWUyNTM5MDQ2ZjdkYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nc3JD42WlYjY3-w9uCfSeRFCzc1ht8RoFtFviq5MIRI",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.arcadequartermaster.com/rbffs/art_mai.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.xboxdynasty.de/wp-content/uploads/2022/08/fatal-fury-city-of-the-wolves-23.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://wallpapercave.com/wp/wp15316634.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1941/43292131800_b798fd4eb0_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13201801/pexels-photo-13201801.jpeg?cs=srgb&dl=pexels-227888035-13201801.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1954/45105873981_0f5debc370_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/7299491/pexels-photo-7299491.jpeg?cs=srgb&dl=pexels-cottonbro-7299491.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.writeups.org/wp-content/uploads/Mai-Shiranui-Fatal-Fury-King-Fighters-portrait-featured.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.donmai.us/original/5b/3b/__shiranui_mai_fatal_fury_and_1_more_drawn_by_strbrb789__5b3bd8dcfadf2f8759c54020c66f1993.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://i.ytimg.com/vi/SIYeVnBhdp0/maxresdefault.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.essential-japan.com/wp-content/uploads/2025/09/1-4_freeing_bstyle_Mai-Shiranui-3.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.writeups.org/wp-content/uploads/Mai-Shiranui-Fatal-Fury-King-of-Fighters-b-big.jpg",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "//live.staticflickr.com/1915/43292140560_b63d2af17c_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/11623072/pexels-photo-11623072.jpeg?cs=srgb&dl=pexels-lucretius-mooka-2554524-11623072.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://gamingbolt.com/wp-content/uploads/2024/12/Street-Fighter-6-Mai-Shiranui-1024x576.jpg",
+        "reason": "duplicate_url"
+      }
+    ]
+  },
+  "errors": [],
+  "duplicate_hashes": []
+}

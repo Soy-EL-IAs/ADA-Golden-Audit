@@ -1,0 +1,33 @@
+{
+  "id": "tsunade_001",
+  "character": "Tsunade",
+  "franchise": "Naruto",
+  "identity": [
+    "blonde hair",
+    "green haori",
+    "diamond seal on forehead"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Tsunade slams a stack of paperwork onto her desk in the Hokage office; the force cracks the tabletop and launches an ink brush into the air, while she leans back with a frustrated scowl and sake cup in hand, completely unsurprised by the destruction.",
+  "must_include": [
+    "stack of paperwork",
+    "ink brush",
+    "sake cup"
+  ],
+  "environment": [
+    "Hokage office",
+    "desk"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000018,
+  "krea_seed_base": 2000018
+}

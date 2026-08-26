@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e014_b01_closeup",
+    "category": "closeup",
+    "premise": "2B's hand tightens on a jagged piece of broken machinery protruding from the floor, her knuckles white as she pulls it free; a subtle crack in her blindfold reveals one eye widening at the sudden metallic screech, with a smudge of oil visible on her glove."
+  },
+  {
+    "id": "e014_b01_medium",
+    "category": "medium",
+    "premise": "Mid-stride in a narrow corridor, 2B's black dress hem catches on a low-hanging wire, causing the fabric to lift and tauten around her waist; she leans slightly forward with focused determination, one hand reaching down to untangle the snare while her posture remains rigidly composed."
+  },
+  {
+    "id": "e014_b01_fullbody",
+    "category": "fullbody",
+    "premise": "2B is crouched low on a crumbling stone ledge, her weight shifted entirely onto one thigh-high boot to maintain balance; she reaches out with one gloved hand to catch a falling book from the adjacent shelf, her other arm extended for counterbalance, showcasing the tension in her puffy sleeves."
+  },
+  {
+    "id": "e014_b01_dynamic",
+    "category": "dynamic",
+    "premise": "In a blur of motion, 2B twists her torso sharply to dodge a burst of steam from a ruptured pipe; her short white hair whips back against the force, and her blindfold is momentarily displaced by the pressure wave, revealing a flash of surprise as she lands in a stable combat stance."
+  },
+  {
+    "id": "e014_b01_cinematic",
+    "category": "cinematic",
+    "premise": "Standing at the edge of a vast, sun-drenched ruined plaza, 2B tilts her head back to catch a single falling petal in her palm; the wide shot emphasizes her small silhouette against the massive archways, but her focused gaze and delicate hand gesture anchor the scene with quiet curiosity."
+  }
+]

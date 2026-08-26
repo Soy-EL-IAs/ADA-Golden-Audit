@@ -1,0 +1,34 @@
+{
+  "id": "elektra_076",
+  "character": "Elektra",
+  "franchise": "Marvel",
+  "identity": [
+    "long black hair",
+    "red fitted assassin outfit",
+    "twin sai"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "On a rain-slick temple stairway, she crouches to pick up one sai and a stream of rainwater carries the other slowly down one step at a time, with confident sensual body language throughout.",
+  "must_include": [
+    "sliding sai",
+    "rainwater stream"
+  ],
+  "environment": [
+    "temple stairs",
+    "cool rainy light",
+    "wet stone and red lanterns"
+  ],
+  "animation_hook": "She hooks the sliding sai with her toe, flips it upward, and catches it while rising.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000075,
+  "krea_seed_base": 2000075
+}

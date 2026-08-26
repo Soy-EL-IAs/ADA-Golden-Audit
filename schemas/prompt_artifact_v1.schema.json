@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Prompt Artifact v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "prompt_id", "stage_render_plan_id", "stage", "attempt", "compiler_version", "positive_prompt", "negative_prompt"],
+  "properties": {
+    "schema_version": {"type": "string", "enum": ["prompt_artifact_v1"]},
+    "prompt_id": {"type": "string", "minLength": 1},
+    "stage_render_plan_id": {"type": "string", "minLength": 1},
+    "stage": {"type": "string", "enum": ["illustrious", "klein", "lustify", "miaomiao"]},
+    "attempt": {"type": "integer", "minimum": 1},
+    "compiler_version": {"type": "string", "minLength": 1},
+    "positive_prompt": {"type": "string", "minLength": 1},
+    "negative_prompt": {"type": "string"}
+  }
+}

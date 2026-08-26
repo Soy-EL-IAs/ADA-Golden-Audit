@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "run_id": "specialist_full_ghislaine_001_02",
+  "pipeline": "specialist_image_v1",
+  "character": "Ghislaine Dedoldia",
+  "version": null,
+  "review_policy": "strict",
+  "stage": "COMPLETE",
+  "created_at": "2026-08-22T18:58:20.826498+00:00",
+  "updated_at": "2026-08-22T19:01:37.499587+00:00",
+  "seeds": {
+    "ghislaine_dedoldia_specialist_full_ghislaine_001_02": {
+      "illustrious": 2089138750158493625,
+      "klein": 1322198222698434872
+    }
+  },
+  "artifacts": {
+    "premise_spec": "premise_spec.json",
+    "illustrious_result": "illustrious_result.json",
+    "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\specialist_full_ghislaine_001_02\\ghislaine_dedoldia_specialist_full_ghislaine_001_02\\illustrious_00001_.png",
+    "illustrious_review": "illustrious_review.json",
+    "klein_result": "klein_result.json",
+    "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\specialist_full_ghislaine_001_02\\ghislaine_dedoldia_specialist_full_ghislaine_001_02\\klein_00001_.png",
+    "final_review": "final_review.json"
+  },
+  "history": [
+    {
+      "stage": "CREATED",
+      "at": "2026-08-22T18:58:20.826498+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "at": "2026-08-22T18:59:16.696547+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T18:59:42.915958+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T19:00:11.037660+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T19:00:23.104364+00:00"
+    },
+    {
+      "stage": "KLEIN_PROMPTS_READY",
+      "at": "2026-08-22T19:00:53.552164+00:00"
+    },
+    {
+      "stage": "KLEIN_RENDERED",
+      "at": "2026-08-22T19:01:25.164814+00:00"
+    },
+    {
+      "stage": "FINAL_REVIEWED",
+      "at": "2026-08-22T19:01:37.490585+00:00"
+    },
+    {
+      "stage": "COMPLETE",
+      "at": "2026-08-22T19:01:37.499587+00:00"
+    }
+  ],
+  "error": null
+}

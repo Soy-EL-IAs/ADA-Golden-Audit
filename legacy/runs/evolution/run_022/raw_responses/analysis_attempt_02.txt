@@ -1,0 +1,215 @@
+{
+  "per_premise": [
+    {
+      "id": "e022_b01_closeup",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 8,
+      "animation_potential": 6,
+      "notes": "Strong causal link (resisting valve). Good identity markers. Slight risk of 'strain' becoming generic if not visually distinct."
+    },
+    {
+      "id": "e022_b01_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 9,
+      "animation_potential": 7,
+      "notes": "Excellent dual-action (bracing + catching). Clear cause and consequence. Strong personality expression through multitasking under pressure."
+    },
+    {
+      "id": "e022_b01_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 7,
+      "notes": "Good use of environment (vent duct). Clothing interaction is logical. Avoids static pose."
+    },
+    {
+      "id": "e022_b01_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 9,
+      "notes": "High energy. Clear cause (projectile). Motion is well-described with specific physical consequences (hair, boots)."
+    },
+    {
+      "id": "e022_b01_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Active interaction (pulling lever). However, 'dust plumes' is a common filler element. The action is strong but visually standard for the genre."
+    },
+    {
+      "id": "e022_b02_closeup",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Steam burst is a valid cause. However, 'tilting head back' and 'holding breath' are somewhat passive reactions compared to active physical manipulation."
+    },
+    {
+      "id": "e022_b02_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 6,
+      "notes": "Good defensive action. Shielding face is a clear reaction to light. Sparks on sleeves add visual texture."
+    },
+    {
+      "id": "e022_b02_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Stepping over rebar is a minor obstacle. The 'snagging' adds consequence, but it borders on the 'Locomotion Filler' anti-pattern if not clearly part of an escape sequence."
+    },
+    {
+      "id": "e022_b02_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 8,
+      "animation_potential": 8,
+      "notes": "Catching a falling gear is a strong active verb. The physical strain (arms pulled down) creates good visual tension."
+    },
+    {
+      "id": "e022_b02_cinematic",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Pushing a closing hatch is active. However, it shares the 'heavy metal door' conceptual family with b01_medium and b04_medium."
+    },
+    {
+      "id": "e022_b03_closeup",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Very similar to b02_closeup (steam/coolant jet causing head tilt). Repetition of the 'fluid blast' hook."
+    },
+    {
+      "id": "e022_b03_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Prying panels is a strong action. However, it overlaps conceptually with b04_medium (prying open jammed panel). Repetition of 'prying' verb."
+    },
+    {
+      "id": "e022_b03_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 7,
+      "notes": "Sliding on a ledge is dynamic. Good use of weight shift and clothing flare."
+    },
+    {
+      "id": "e022_b03_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 8,
+      "notes": "Spinning to evade is high energy. Clear cause (chain). Good motion description."
+    },
+    {
+      "id": "e022_b03_cinematic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Hanging from a ladder is distinct. Good silhouette. However, 'dust rains down' is filler."
+    },
+    {
+      "id": "e022_b04_closeup",
+      "identity": 8,
+      "visual_appeal": 7,
+      "micro_story": 6,
+      "animation_potential": 5,
+      "notes": "Gripping a cable is static. Lacks the 'resistance' or 'change' seen in b01_closeup (valve turning). Feels like a pose rather than an event."
+    },
+    {
+      "id": "e022_b04_medium",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Direct repetition of the 'prying open jammed panel' concept from b03_medium. The verb 'pry' is used again."
+    },
+    {
+      "id": "e022_b04_fullbody",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Crawling is a good variation. However, 'scanning for an exit' is vague. The physical action (crawling) is the main hook."
+    },
+    {
+      "id": "e022_b04_dynamic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 6,
+      "animation_potential": 7,
+      "notes": "Leaping over a crack is a clear action. However, 'minimizing air resistance' is a bit technical/unnatural for the character's style."
+    },
+    {
+      "id": "e022_b04_cinematic",
+      "identity": 9,
+      "visual_appeal": 8,
+      "micro_story": 7,
+      "animation_potential": 6,
+      "notes": "Hanging by one hand is a strong silhouette. Distinct from other cinematic shots."
+    }
+  ],
+  "set_scores": {
+    "identity": 9,
+    "visual_appeal": 8,
+    "diversity": 6,
+    "repetition_control": 5,
+    "micro_story": 7,
+    "animation_potential": 7
+  },
+  "strengths": [
+    "Strong adherence to character identity facts (blindfold, gloves, dress details) across all premises.",
+    "Most premises have clear causal triggers (valve resistance, projectile, steam burst).",
+    "Good variety in camera angles and shot types as required by the dataset structure."
+  ],
+  "failures": [
+    "Significant repetition of 'prying/opening jammed metal' concepts in b03_medium and b04_medium.",
+    "Repetition of 'fluid blast causing head tilt' in b02_closeup and b03_closeup.",
+    "Several premises rely on 'dust/sparks' as the primary visual hook rather than the character's action (b01_cinematic, b03_cinematic).",
+    "Some actions are passive reactions (holding breath, tilting head) rather than active physical manipulation."
+  ],
+  "desired_patterns": [
+    "Active verbs like 'bracing', 'catching', 'pulling', 'prying' that show the character exerting force.",
+    "Clear secondary consequences of actions (clothing snagging, hair whipping, boots sliding).",
+    "Distinct environmental interactions that are not just 'standing in ruins'."
+  ],
+  "undesired_patterns": [
+    "Repeated use of 'prying open jammed panels'.",
+    "Repeated use of 'fluid/steam blasts causing head tilt'.",
+    "Atmospheric filler (dust, sparks) replacing specific physical interactions.",
+    "Passive poses like 'gripping a cable' without visible resistance or change."
+  ],
+  "repetition_clusters": [
+    {
+      "pattern": "Prying/Open Jammed Metal",
+      "proposal_ids": ["e022_b03_medium", "e022_b04_medium"]
+    },
+    {
+      "pattern": "Fluid Blast/Head Tilt",
+      "proposal_ids": ["e022_b02_closeup", "e022_b03_closeup"]
+    },
+    {
+      "pattern": "Heavy Door/Hatch Interaction",
+      "proposal_ids": ["e022_b01_medium", "e022_b02_cinematic"]
+    }
+  ],
+  "recommendations_for_next_cycle": [
+    "Replace one of the 'prying' premises with a different upper-body dynamic, such as 'striking', 'shielding', or 'reaching'.",
+    "Differentiate the closeup fluid blasts by changing the reaction (e.g., one is active dodging, the other is bracing against pressure).",
+    "Reduce reliance on dust/sparks; focus more on the character's physical strain and clothing interaction.",
+    "Ensure 'gripping' actions have a visible counter-force or movement to avoid static poses."
+  ],
+  "verdict": "The set is strong in identity preservation and visual appeal but suffers from moderate repetition in specific action verbs (prying, fluid blasts) and reliance on atmospheric filler. The causal chains are generally clear, but some reactions are passive. With minor adjustments to break the repetition clusters, this would be a high-quality batch."
+}

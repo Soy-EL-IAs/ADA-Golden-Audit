@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Final Renderer Decision v2",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "decision_id", "concept_id", "attempt", "selected_renderer", "selected_image", "reason", "source", "automatic"],
+  "properties": {
+    "schema_version": {"const": "final_renderer_decision_v2"}, "decision_id": {"type": "string", "minLength": 1}, "concept_id": {"type": "string", "minLength": 1}, "attempt": {"type": "integer", "minimum": 1},
+    "selected_renderer": {"type": "string", "minLength": 1}, "selected_image": {"type": "string", "minLength": 1}, "reason": {"type": "string", "minLength": 1}, "source": {"type": "string", "minLength": 1}, "automatic": {"type": "boolean"}
+  }
+}

@@ -1,0 +1,1637 @@
+{
+  "batch_id": "production100_reusable_v1",
+  "status": "failed",
+  "workflow": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\workflows\\illustrious_to_klein_batch_base_ui.json",
+  "dataset": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\prompts\\klein_batch_100.jsonl",
+  "count": 100,
+  "output_root": "LunaKleinBatch/production100_reusable_v1",
+  "records": [
+    {
+      "index": 1,
+      "id": "chel_001",
+      "status": "complete",
+      "prompt_id": "dc9d0192-335d-4517-ad10-8ec0f0ed9235",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\chel_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\chel_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\chel_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "id": "nico_robin_001",
+      "status": "complete",
+      "prompt_id": "142f5de8-1242-4518-8d93-29bfbf8eaa48",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\nico_robin_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\nico_robin_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\nico_robin_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "id": "nami_001",
+      "status": "complete",
+      "prompt_id": "b0023c56-b25e-4568-838e-3bce04029a17",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\nami_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\nami_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\nami_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "id": "boa_hancock_001",
+      "status": "complete",
+      "prompt_id": "dce08771-e894-4992-ac50-7fdd522ba879",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\boa_hancock_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\boa_hancock_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\boa_hancock_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "id": "yoruichi_001",
+      "status": "complete",
+      "prompt_id": "99b7417a-50be-41fa-9fb1-3645c30b632a",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\yoruichi_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\yoruichi_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\yoruichi_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "id": "tsunade_001",
+      "status": "complete",
+      "prompt_id": "cfac7ab7-c39b-49a7-97f9-63fd457835eb",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\tsunade_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\tsunade_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\tsunade_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "id": "rangiku_001",
+      "status": "complete",
+      "prompt_id": "35a6eee3-ba1d-4e93-a872-610078ebaf04",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\rangiku_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\rangiku_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\rangiku_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "id": "orihime_001",
+      "status": "complete",
+      "prompt_id": "34b29a85-914b-4a55-8258-af95f55e4e1e",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\orihime_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\orihime_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\orihime_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "id": "rukia_001",
+      "status": "complete",
+      "prompt_id": "acae6e58-d910-4575-b167-2bc9e4b98721",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\rukia_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\rukia_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\rukia_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "id": "lisa_yadomaru_001",
+      "status": "complete",
+      "prompt_id": "ff41ac3d-a138-405d-8f34-0733a62519ed",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lisa_yadomaru_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lisa_yadomaru_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lisa_yadomaru_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "id": "makoto_nanaya_001",
+      "status": "complete",
+      "prompt_id": "ac6f6a4d-0201-4edb-b3cc-3a862acd02fe",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\makoto_nanaya_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\makoto_nanaya_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\makoto_nanaya_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "id": "ghislaine_001",
+      "status": "complete",
+      "prompt_id": "f0e4d604-3899-495a-be26-77886df2e41b",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\ghislaine_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\ghislaine_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\ghislaine_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "id": "mirko_001",
+      "status": "complete",
+      "prompt_id": "9141ee59-c0cd-41e7-a785-3b05cc48ec15",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\mirko_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\mirko_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\mirko_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "id": "midnight_001",
+      "status": "complete",
+      "prompt_id": "17b63576-3d60-49b1-ad9a-3b40fd3b990f",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\midnight_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\midnight_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\midnight_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "id": "mt_lady_001",
+      "status": "complete",
+      "prompt_id": "ba4887f4-9379-426e-a0b6-e9c2815476d7",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\mt_lady_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\mt_lady_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\mt_lady_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "id": "yor_forger_001",
+      "status": "complete",
+      "prompt_id": "0e76906f-58a1-4dac-a93e-542f5362b451",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\yor_forger_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\yor_forger_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\yor_forger_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "id": "fubuki_001",
+      "status": "complete",
+      "prompt_id": "03e3e17a-4c19-4117-b555-665606477d30",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\fubuki_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\fubuki_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\fubuki_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "id": "esdeath_001",
+      "status": "complete",
+      "prompt_id": "7848c263-e48a-46a8-9f16-447960b8cba1",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\esdeath_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\esdeath_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\esdeath_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "id": "leone_001",
+      "status": "complete",
+      "prompt_id": "375661e5-096c-4a18-a5ae-add074bf2e04",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\leone_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\leone_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\leone_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "id": "najenda_001",
+      "status": "complete",
+      "prompt_id": "1574e7b1-6079-4c74-9a06-7da59c5b65fa",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\najenda_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\najenda_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\najenda_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "id": "olivier_armstrong_001",
+      "status": "complete",
+      "prompt_id": "563b7400-8459-412d-aa9b-a832fc2853ea",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\olivier_armstrong_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\olivier_armstrong_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\olivier_armstrong_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "id": "lust_001",
+      "status": "complete",
+      "prompt_id": "924ce630-c8f7-4542-b6b3-3ace6ecce102",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lust_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lust_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lust_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "id": "riza_hawkeye_001",
+      "status": "complete",
+      "prompt_id": "417667b1-d548-4037-8c8e-f220cc344273",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\riza_hawkeye_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\riza_hawkeye_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\riza_hawkeye_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "id": "android18_001",
+      "status": "complete",
+      "prompt_id": "3e201220-bc9b-4885-b14b-abf5cf8453fa",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\android18_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\android18_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\android18_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "id": "bulma_001",
+      "status": "complete",
+      "prompt_id": "58e45842-54c0-4899-b21b-eb9e3865242c",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\bulma_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\bulma_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\bulma_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "id": "bayonetta_001",
+      "status": "complete",
+      "prompt_id": "383b7775-c79a-4d23-910e-320e42341c33",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\bayonetta_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\bayonetta_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\bayonetta_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "id": "jeanne_001",
+      "status": "complete",
+      "prompt_id": "faa61595-0d34-4edb-8886-1b4b5d641cbb",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\jeanne_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\jeanne_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\jeanne_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "id": "lara_croft_001",
+      "status": "complete",
+      "prompt_id": "9b66a08c-6f3e-4771-8eb1-951c17c6c393",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lara_croft_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lara_croft_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lara_croft_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "id": "ada_wong_001",
+      "status": "complete",
+      "prompt_id": "9276f759-8ec3-471f-b81a-80e629552194",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\ada_wong_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\ada_wong_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\ada_wong_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "id": "jill_valentine_001",
+      "status": "complete",
+      "prompt_id": "3f8e2f23-7f01-41f0-9686-7d30a79a9f01",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\jill_valentine_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\jill_valentine_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\jill_valentine_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "id": "claire_redfield_001",
+      "status": "complete",
+      "prompt_id": "947f8b2d-54c2-4eb5-9f34-cb07c79d6e6f",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\claire_redfield_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\claire_redfield_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\claire_redfield_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "id": "sheva_alomar_001",
+      "status": "complete",
+      "prompt_id": "299395f7-e109-4f29-89f6-9d1ff1918e33",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\sheva_alomar_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\sheva_alomar_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\sheva_alomar_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "id": "lady_dimitrescu_001",
+      "status": "complete",
+      "prompt_id": "ae63cb2a-4dfc-49e5-b7b5-3c71a9d8c92a",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lady_dimitrescu_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lady_dimitrescu_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lady_dimitrescu_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "id": "excella_001",
+      "status": "complete",
+      "prompt_id": "ed461b6f-a6c6-4612-bf7d-47b41ef7e957",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\excella_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\excella_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\excella_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "id": "2b_001",
+      "status": "complete",
+      "prompt_id": "459d21aa-6715-40c0-831d-3d20dc7211b2",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\2b_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\2b_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\2b_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "id": "a2_001",
+      "status": "complete",
+      "prompt_id": "fd0c7156-de3c-4ded-8cb8-d615aa56f8db",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\a2_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\a2_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\a2_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "id": "kaine_001",
+      "status": "complete",
+      "prompt_id": "a439d3d5-9c4f-4e8e-bfcf-bd1405fa8d14",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\kaine_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\kaine_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\kaine_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "id": "tifa_001",
+      "status": "complete",
+      "prompt_id": "fc56896f-3c24-4ff4-a003-a873122fc65c",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\tifa_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\tifa_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\tifa_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "id": "aerith_001",
+      "status": "complete",
+      "prompt_id": "d8a88ad3-4907-4748-b0b6-ba319d0933f0",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\aerith_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\aerith_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\aerith_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "id": "scarlet_ff7_001",
+      "status": "complete",
+      "prompt_id": "c9afcde9-5a7c-4cd6-afd2-69918d94b345",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\scarlet_ff7_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\scarlet_ff7_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\scarlet_ff7_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "id": "lulu_001",
+      "status": "complete",
+      "prompt_id": "e1e6b539-55b4-4233-8cd1-f9026fd788a0",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lulu_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lulu_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lulu_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "id": "fran_001",
+      "status": "complete",
+      "prompt_id": "6c966e5e-6ddc-4032-a5bb-36eb8eabcf43",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\fran_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\fran_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\fran_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "id": "lightning_001",
+      "status": "complete",
+      "prompt_id": "81cf33f3-9e75-460e-86d7-5758bf129fe0",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lightning_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lightning_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\lightning_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "id": "fang_001",
+      "status": "complete",
+      "prompt_id": "978b47c0-9bb1-4c4c-bd44-c4cd02068b16",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\fang_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\fang_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\fang_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "id": "yuna_001",
+      "status": "complete",
+      "prompt_id": "841cfb1a-cc86-4478-bd6a-d4802d22eee7",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\yuna_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\yuna_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\yuna_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "id": "rikku_001",
+      "status": "complete",
+      "prompt_id": "4d346444-e538-4a76-bbe2-edbd0b274a53",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\rikku_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\rikku_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\rikku_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "id": "faye_valentine_001",
+      "status": "complete",
+      "prompt_id": "a4a381db-5190-475e-85f1-02367d1a9979",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\faye_valentine_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\faye_valentine_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\faye_valentine_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "id": "motoko_001",
+      "status": "complete",
+      "prompt_id": "b548fe94-7972-4c9a-b7ea-e4cfa7cd3c96",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\motoko_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\motoko_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\motoko_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "id": "revy_001",
+      "status": "complete",
+      "prompt_id": "4ca9f694-ed6a-4554-b04c-56630370bd76",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\revy_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\revy_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\revy_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "id": "balalaika_001",
+      "status": "complete",
+      "prompt_id": "620a4026-a591-490e-9745-21e1c1b4ca56",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\balalaika_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\balalaika_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\balalaika_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "id": "roberta_001",
+      "status": "complete",
+      "prompt_id": "70ed8a19-8f8d-4216-84c8-6b2789a3ffa6",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\roberta_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\roberta_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\roberta_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "id": "chun_li_001",
+      "status": "complete",
+      "prompt_id": "c68b9c64-4ecd-4b14-9e9d-bb466e3a6622",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\chun_li_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\chun_li_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\chun_li_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "id": "cammy_001",
+      "status": "complete",
+      "prompt_id": "725e375f-c5a9-4ce8-8ba5-2365322d93a4",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\cammy_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\cammy_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\cammy_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "id": "juri_001",
+      "status": "complete",
+      "prompt_id": "94e8abb1-b6fe-45ca-b296-f704c2dbf51b",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\juri_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\juri_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\juri_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "id": "poison_001",
+      "status": "complete",
+      "prompt_id": "844174a0-eb06-4fdd-86d4-7d9e45d04cbb",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\poison_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\poison_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\poison_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "id": "laura_matsuda_001",
+      "status": "complete",
+      "prompt_id": "c87f6c42-fcf4-4879-8d21-fd07f75f2836",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\laura_matsuda_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\laura_matsuda_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\laura_matsuda_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "id": "c_viper_001",
+      "status": "complete",
+      "prompt_id": "2997edf6-b220-4df4-849f-39fc03db23a1",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\c_viper_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\c_viper_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\c_viper_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "id": "manon_001",
+      "status": "complete",
+      "prompt_id": "027d34a2-c094-4df1-9cc6-ac4bbcc5e6d8",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\manon_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\manon_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\manon_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "id": "marisa_001",
+      "status": "complete",
+      "prompt_id": "8dd13c2e-0369-402f-9e8a-3a16c817a7c3",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\marisa_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\marisa_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\marisa_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "id": "mai_shiranui_001",
+      "status": "complete",
+      "prompt_id": "cce2f0da-8e96-4ff9-9016-22df688e7ab2",
+      "illustrious": [
+        {
+          "filename": "illustrious_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\mai_shiranui_001",
+          "type": "output"
+        }
+      ],
+      "klein": [
+        {
+          "filename": "klein_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\mai_shiranui_001",
+          "type": "output"
+        }
+      ],
+      "compare": [
+        {
+          "filename": "compare_00001_.png",
+          "subfolder": "LunaKleinBatch\\production100_reusable_v1\\mai_shiranui_001",
+          "type": "output"
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "id": "blue_mary_001",
+      "status": "failed",
+      "prompt_id": "6c433340-1b7c-4761-a463-853c5ac44a99",
+      "error": "{\n  \"status_str\": \"error\",\n  \"completed\": false,\n  \"messages\": [\n    [\n      \"execution_start\",\n      {\n        \"prompt_id\": \"6c433340-1b7c-4761-a463-853c5ac44a99\",\n        \"timestamp\": 1787270097555\n      }\n    ],\n    [\n      \"execution_cached\",\n      {\n        \"nodes\": [\n          \"1\",\n          \"3\",\n          \"37\",\n          \"41\",\n          \"52\",\n          \"50\",\n          \"46\",\n          \"45\",\n          \"4\",\n          \"42\",\n          \"43\"\n        ],\n        \"prompt_id\": \"6c433340-1b7c-4761-a463-853c5ac44a99\",\n        \"timestamp\": 1787270097558\n      }\n    ],\n    [\n      \"execution_interrupted\",\n      {\n        \"prompt_id\": \"6c433340-1b7c-4761-a463-853c5ac44a99\",\n        \"node_id\": \"54\",\n        \"node_type\": \"SamplerCustomAdvanced\",\n        \"executed\": [\n          \"53\",\n          \"49\",\n          \"7\",\n          \"39\",\n          \"48\",\n          \"47\",\n          \"51\",\n          \"40\",\n          \"5\",\n          \"2\",\n          \"38\",\n          \"6\"\n        ],\n        \"timestamp\": 1787270105776\n      }\n    ]\n  ]\n}"
+    }
+  ]
+}

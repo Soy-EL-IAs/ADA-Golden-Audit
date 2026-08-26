@@ -1,0 +1,34 @@
+{
+  "id": "evelyn_parker_030",
+  "character": "Evelyn Parker",
+  "franchise": "Cyberpunk 2077",
+  "identity": [
+    "blue-black bob",
+    "elegant fitted blue dress",
+    "subtle cybernetic details"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a luxurious penthouse dressing room, she tests a rotating mirror platform and it spins a little too fast, making a feathered robe on a nearby hook wrap around her shoulders like an accidental cape, with confident sensual body language throughout.",
+  "must_include": [
+    "rotating mirror platform",
+    "feathered robe"
+  ],
+  "environment": [
+    "penthouse dressing room",
+    "soft vanity lighting",
+    "mirrors and polished floor"
+  ],
+  "animation_hook": "She steadies the platform with one heel and peels the robe away in a smooth turn.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000029,
+  "krea_seed_base": 2000029
+}

@@ -1,0 +1,44 @@
+{
+  "id": "chunli_001",
+  "character": "Chun-Li",
+  "franchise": "Street Fighter",
+  "identity": [
+    "brown hair in twin buns",
+    "white hair ribbons",
+    "blue qipao",
+    "spiked bracelets",
+    "white combat boots"
+  ],
+  "sexual_direction": [
+    "powerful curvy legs",
+    "athletic voluptuous figure",
+    "fitted qipao",
+    "high side slits",
+    "frustrated fighting stance"
+  ],
+  "premise": "Chun-Li's coin is swallowed by a vending machine; she pulls one leg back to kick it while the machine begins shaking and dozens of cans rattle behind the glass.",
+  "must_include": [
+    "vending machine",
+    "coin slot",
+    "raised kicking leg",
+    "rattling drink cans",
+    "angry Chun-Li"
+  ],
+  "environment": [
+    "neon city street",
+    "night",
+    "wet pavement",
+    "convenience store lights"
+  ],
+  "animation_hook": "The cans shake harder, Chun-Li kicks once and the machine launches drinks everywhere.",
+  "avoid": [
+    "missing vending machine",
+    "already broken machine",
+    "generic martial artist",
+    "extreme close-up",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic fighting-game cinematic with neon reflections and dramatic night lighting",
+  "seed_base": 630061,
+  "krea_seed_base": 630161
+}

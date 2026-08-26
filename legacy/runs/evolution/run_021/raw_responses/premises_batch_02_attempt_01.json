@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e021_b02_1\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme close-up of 2B's black blindfold as a sudden, high-velocity spray of hydraulic fluid from an off-screen ruptured valve strikes the fabric; her gloved fingers reach up with precise, controlled speed to wipe the dark liquid away before it can seep through and obscure her vision, highlighting the tension in her knuckles.\"\n  },\n  {\n    \"id\": \"e021_b02_2\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B leaning back sharply to avoid a jagged shard of glass slicing through the air; her torso twists in counter-rotation, causing her puffy feather-trimmed sleeve to compress and stretch against her arm, while her hairband holds her short white hair firmly in place despite the abrupt change in vector.\"\n  },\n  {\n    \"id\": \"e021_b02_3\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B mid-leap across a widening gap between two crumbling concrete pillars; her legs are extended in a tight tuck to minimize drag, and the black dress hem lifts slightly against her thigh-high stockings due to the upward air displacement from the jump, emphasizing her athletic silhouette.\"\n  },\n  {\n    \"id\": \"e021_b02_4\",\n    \"category\": \"dynamic\",\n    \"premise\": \"High-energy action shot of 2B deflecting a heavy metal crate that is slamming down onto her shoulder; she braces with both arms, driving her feet into the dirt ground to absorb the impact, causing dust and small stones to erupt from beneath her boots as the crate bounces off her forearms.\"\n  },\n  {\n    \"id\": \"e021_b02_5\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Wide low-angle shot of a massive, rusted gear grinding into its housing above 2B; she stands directly beneath the mechanism, looking up with composed focus as sparks and grease drip down around her, while her dress hem remains still despite the turbulent air currents created by the turning machinery.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3585,
+    "total_output_tokens": 508,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.780475306456177,
+    "time_to_first_token_seconds": 4.129382
+  }
+}

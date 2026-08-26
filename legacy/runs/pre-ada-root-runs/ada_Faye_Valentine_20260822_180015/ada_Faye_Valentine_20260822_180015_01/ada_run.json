@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "run_id": "ada_Faye_Valentine_20260822_180015_01",
+  "pipeline": "specialist_image_v1",
+  "character": "Faye Valentine",
+  "version": null,
+  "review_policy": "strict",
+  "stage": "COMPLETE",
+  "created_at": "2026-08-22T21:00:15.742310+00:00",
+  "updated_at": "2026-08-22T21:09:39.600130+00:00",
+  "seeds": {
+    "faye_valentine_ada_Faye_Valentine_20260822_180015_01": {
+      "illustrious": 2479112454591949897,
+      "klein": 5077178947165203990
+    }
+  },
+  "artifacts": {
+    "premise_spec": "premise_spec.json",
+    "illustrious_result": "illustrious_result.json",
+    "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\ada_Faye_Valentine_20260822_180015_01\\faye_valentine_ada_Faye_Valentine_20260822_180015_01\\illustrious_00001_.png",
+    "illustrious_review": "illustrious_review.json",
+    "klein_result": "klein_result.json",
+    "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\ada_Faye_Valentine_20260822_180015_01\\faye_valentine_ada_Faye_Valentine_20260822_180015_01\\klein_00001_.png",
+    "final_review": "final_review.json"
+  },
+  "history": [
+    {
+      "stage": "CREATED",
+      "at": "2026-08-22T21:00:15.742310+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "at": "2026-08-22T21:01:01.494684+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T21:02:17.527408+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T21:03:07.043777+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T21:03:47.866933+00:00"
+    },
+    {
+      "stage": "KLEIN_PROMPTS_READY",
+      "at": "2026-08-22T21:04:01.790862+00:00"
+    },
+    {
+      "stage": "KLEIN_RENDERED",
+      "at": "2026-08-22T21:09:32.349757+00:00"
+    },
+    {
+      "stage": "FINAL_REVIEWED",
+      "at": "2026-08-22T21:09:39.592063+00:00"
+    },
+    {
+      "stage": "COMPLETE",
+      "at": "2026-08-22T21:09:39.600130+00:00"
+    }
+  ],
+  "error": null
+}

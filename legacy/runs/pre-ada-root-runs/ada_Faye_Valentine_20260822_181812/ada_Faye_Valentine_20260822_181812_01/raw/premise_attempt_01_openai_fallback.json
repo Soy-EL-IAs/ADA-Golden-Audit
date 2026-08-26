@@ -1,0 +1,33 @@
+{
+  "id": "chatcmpl-3d1nqqnqzr52v223srg9xw",
+  "object": "chat.completion",
+  "created": 1787433549,
+  "model": "qwen3.8-27b-uncensored",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "",
+        "reasoning_content": "We need answer user's request. Need produce JSON only matching schema object: use category, premise, identity_elements, canonical_outfit, scene_requirements, risk_notes. Do not wrap in premise_spec. Character Faye Valentine from Cowboy Bebop. User task: Create one restrained strategic-censorship scene with a clear interruption, visible cause and consequence, and a strong animation hook.\n\nNeed think carefully. Need only JSON. Identity elements from characteristics: purple_hair, short_hair, green_eyes, large_breasts. Canonical outfit from clothing: hairband, shorts, lipstick, thighhighs, shirt, bare_shoulders, crop_top, boots. Scene requirements mutable state for premise. Strategic-censorship scene? Maybe adult fictional character but restrained. Need clear interruption, visible cause and consequence, strong animation hook. Frame-centric one frozen visual moment. Could be: Faye in a dimly lit diner or office, mid-laugh interrupted by a flickering neon sign / power surge causing a holographic ad to glitch over her face? Strategic censorship maybe she is being interviewed on a news broadcast, camera cuts to static as she opens mouth; visible cause: a hand pulling a cable from wall socket behind her; consequence: her expression shifts from confident smirk to wary squint. Strong animation hook: flickering light and static burst. But frame-centric: frozen moment of power surge causing neon sign to buzz and hairband? Need clear interruption, visible cause and consequence in-frame. Maybe she is about to take a sip from a glass; a small robot or cat knocks it? Cause visible: a stray cat's paw on table edge; consequence: glass tilts toward her crop top; animation hook: suspended droplets. But strategic-censorship? \"strategic-censorship\" maybe means adult content censored by framing, not explicit. Need restrained sensual tension non-graphic. Could be she is in a bar, leaning over counter, interrupted by a sudden rainstorm through window causing her to flinch; visible cause: lightning flash outside; consequence: her hair lifts and eyes widen. Strong animation hook: rain streaks and neon reflection.\n\nNeed one premise. Category maybe \"interruption\" or \"strategic_censorship\". Need JSON fields exactly? Use category, premise, identity_elements, canonical_outfit, scene_requirements, risk_notes. Could include arrays strings. Premise should be concise but detailed enough. Frame-centric: no temporal sequences. But can say frozen moment of... visible cause and consequence in-frame.\n\nNeed ensure identity vs outfit: identity elements only physical traits. canonical_outfit all clothing items from profile? The contract says map profile's clothing here default/iconic clothing items associated with character. So include all listed clothing? Probably yes: hairband, shorts, lipstick, thighhighs, shirt, bare_shoulders, crop_top, boots. But note \"shirt\" and \"crop_top\" maybe redundant; still list as given. Could canonical_outfit be [\"hairband\",\"shorts\",\"lipstick\",\"thighhighs\",\"shirt\",\"bare_shoulders\",\"crop_top\",\"boots\"]. Scene_requirements mutable state: e.g., \"wet hair from sudden rain\", \"one shoulder strap slipping\"? But if premise overrides outfit, list here. Need not override too much. Strategic censorship scene maybe she is in a private elevator or office with a translucent curtain? Clear interruption: a door chime / alarm. Visible cause: a small maintenance drone hovering near ceiling releasing steam; consequence: her crop top and hair are lifted by the gust, eyes narrowed. Strong animation hook: steam plume and flickering red emergency light.\n\nNeed \"restrained strategic-censorship\" maybe means adult character but censored via framing (e.g., she is behind a frosted glass partition). Clear interruption: a hand knocks on glass; visible cause: reflection of a security guard's flashlight outside; consequence: her confident pose breaks into wary smile. Strong animation hook: condensation droplets sliding down glass. But frame-centric and visible cause/consequence? Could be: Faye stands behind a frosted office window, one hand pressed to glass as a red EXIT sign flickers above the door; a maintenance worker's flashlight beam cuts through the corridor outside, causing her to tilt her head and narrow her eyes. Strong animation hook: condensation droplets on glass and flickering neon. But \"interruption\" maybe she is about to speak? Need clear interruption in frozen moment: mouth half-open, hand raised as if to answer, but a sudden alarm light turns red. Visible cause: smoke detector blinking / cable sparking. Consequence: her expression changes from relaxed to alert.\n\nMaybe best: In a dimly lit diner booth, Faye is leaning forward with a playful smirk, one hand near a coffee cup; a small power surge makes the neon \"OPEN\" sign outside flicker and a loose ceiling fan",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "length"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 703,
+    "completion_tokens": 1000,
+    "total_tokens": 1703,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1000
+    }
+  },
+  "stats": {
+    "total_draft_tokens_count": 333,
+    "accepted_draft_tokens_count": 305,
+    "rejected_draft_tokens_count": 28
+  },
+  "system_fingerprint": "qwen3.8-27b-uncensored"
+}

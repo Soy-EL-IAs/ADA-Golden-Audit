@@ -1,0 +1,34 @@
+{
+  "id": "tsunade_082",
+  "character": "Tsunade",
+  "franchise": "Naruto",
+  "identity": [
+    "long blonde twin tails",
+    "green haori over fitted gray wrap top",
+    "violet diamond mark on forehead"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a quiet hot-spring inn hallway, she reaches for a sliding door and accidentally grips too firmly, making the lightweight handle come off in her hand while the door keeps gliding open, with confident sensual body language throughout.",
+  "must_include": [
+    "detached door handle",
+    "sliding paper door"
+  ],
+  "environment": [
+    "hot-spring inn",
+    "warm lantern light",
+    "wood floor and steam haze"
+  ],
+  "animation_hook": "She stares at the handle, gently presses it back into place, and closes the door with exaggerated care.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000081,
+  "krea_seed_base": 2000081
+}

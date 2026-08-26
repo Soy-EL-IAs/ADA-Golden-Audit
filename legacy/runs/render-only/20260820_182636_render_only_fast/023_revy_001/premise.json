@@ -1,0 +1,34 @@
+{
+  "id": "revy_001",
+  "character": "Revy",
+  "franchise": "Black Lagoon",
+  "identity": [
+    "long dark hair",
+    "cropped tank top and shorts",
+    "dual pistols"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Revy leans against a speedboat at a dock in a cropped top and shorts, reloading a pistol with one hand while kicking a fuel crate into place with her boot; the crate slides too far and knocks loose a coiled rope that wraps around her ankle as she curses at it.",
+  "must_include": [
+    "cropped top and shorts",
+    "pistol",
+    "fuel crate",
+    "coiled rope"
+  ],
+  "environment": [
+    "dock",
+    "speedboat"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000022,
+  "krea_seed_base": 2000022
+}

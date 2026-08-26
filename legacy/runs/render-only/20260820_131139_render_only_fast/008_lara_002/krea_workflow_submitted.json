@@ -1,0 +1,147 @@
+{
+  "1": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "Krea2_Anything2RealCharacters-V2.5_fp8.safetensors",
+      "weight_dtype": "default"
+    }
+  },
+  "2": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_4b_fp8_scaled.safetensors",
+      "type": "krea2",
+      "device": "default"
+    }
+  },
+  "3": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_vae.safetensors"
+    }
+  },
+  "4": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "LunaRenderOnly/inputs/20260820_131139_render_only_fast/008_lara_002/008_lara_002_candidate_01.png"
+    }
+  },
+  "5": {
+    "class_type": "ImageScale",
+    "inputs": {
+      "image": [
+        "4",
+        0
+      ],
+      "upscale_method": "lanczos",
+      "width": 1024,
+      "height": 1536,
+      "crop": "center"
+    }
+  },
+  "6": {
+    "class_type": "Easy_QwenEdit2509",
+    "inputs": {
+      "clip": [
+        "2",
+        0
+      ],
+      "vae": [
+        "3",
+        0
+      ],
+      "image1": [
+        "5",
+        0
+      ],
+      "latent_image": [
+        "5",
+        0
+      ],
+      "auto_resize": "crop",
+      "vl_size": 384,
+      "prompt": "realistic high-end underwater adventure-game cinematic with volumetric sunbeams and suspended particles. Preserve Lara Croft identity: long brown braided ponytail, green eyes, teal fitted tank top, short brown shorts, fingerless gloves, thigh holsters. Preserve exactly the depicted action and situation: Lara swims toward a glowing treasure idol in a submerged temple while an enormous indistinct shadow approaches behind her without her noticing.. Preserve these required details: glowing treasure idol, underwater temple, large shadow behind Lara, bubbles, Lara reaching forward. Preserve the environment: submerged ancient ruins, blue-green water, sunbeams, floating debris. Keep the source composition. Do not add or remove characters, props, objects, locations, or events.",
+      "system_prompt": "Describe the key features of the input image (color, shape, size, texture, objects, background), then explain how the user's text instruction should alter or modify the image. Generate a new image that meets the user's requirements while maintaining consistency with the original input where appropriate."
+    }
+  },
+  "7": {
+    "class_type": "FluxKontextMultiReferenceLatentMethod",
+    "inputs": {
+      "conditioning": [
+        "6",
+        0
+      ],
+      "reference_latents_method": "index_timestep_zero"
+    }
+  },
+  "8": {
+    "class_type": "FluxKontextMultiReferenceLatentMethod",
+    "inputs": {
+      "conditioning": [
+        "6",
+        1
+      ],
+      "reference_latents_method": "index_timestep_zero"
+    }
+  },
+  "9": {
+    "class_type": "Krea2OstrisEditModelPatch",
+    "inputs": {
+      "model": [
+        "1",
+        0
+      ],
+      "kv_cache": true
+    }
+  },
+  "10": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "9",
+        0
+      ],
+      "positive": [
+        "7",
+        0
+      ],
+      "negative": [
+        "8",
+        0
+      ],
+      "latent_image": [
+        "6",
+        2
+      ],
+      "seed": 850181,
+      "steps": 8,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "beta57",
+      "denoise": 1.0
+    }
+  },
+  "11": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "10",
+        0
+      ],
+      "vae": [
+        "3",
+        0
+      ]
+    }
+  },
+  "12": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "11",
+        0
+      ],
+      "filename_prefix": "LunaRenderOnly/20260820_131139_render_only_fast/008_lara_002/krea/candidate_01"
+    }
+  }
+}

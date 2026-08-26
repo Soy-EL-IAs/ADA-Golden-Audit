@@ -1,0 +1,74 @@
+{
+  "premise_id": "lara_001",
+  "stage": "krea",
+  "candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_104249_lara_001\\krea\\candidate_01_00001_.png",
+      "hard_fail": false,
+      "hard_fail_reasons": [],
+      "scores": {
+        "identity_retention": 8.5,
+        "premise_retention": 8.0,
+        "final_visual_quality": 9.0,
+        "sex_appeal": 8.5,
+        "anatomy": 8.5,
+        "animation_potential": 7.5
+      },
+      "weighted_total": 8.425,
+      "summary": "Preserva muy bien a Lara: trenza larga, top teal, shorts, guantes y cartucheras son legibles, aunque los ojos se ven menos verdes. El templo, el cofre abierto y el pequeño T-Rex permanecen visibles; la criatura flota sobre la mano en vez de estar sostenida, reduciendo la retención de la acción. La conversión tiene luz cinematográfica, materiales realistas y anatomía limpia; el dinosaurio separado permite movimiento, pero la interacción con el guante es limitada."
+    },
+    {
+      "candidate_id": "candidate_02",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_104249_lara_001\\krea\\candidate_02_00001_.png",
+      "hard_fail": false,
+      "hard_fail_reasons": [],
+      "scores": {
+        "identity_retention": 9.0,
+        "premise_retention": 9.0,
+        "final_visual_quality": 9.2,
+        "sex_appeal": 9.0,
+        "anatomy": 8.8,
+        "animation_potential": 8.8
+      },
+      "weighted_total": 9.01,
+      "summary": "Retiene con mucha fidelidad la identidad visual de Lara: trenzas castañas, top teal, shorts marrones, guantes, cinturón y cartucheras. El cofre abierto, el templo selvático y el baby T-Rex están claros, y la criatura está apoyada directamente en su mano. Es la salida más cinematográfica y equilibrada, con buena piel, luz cálida y anatomía sólida; la pose ofrece una interacción clara para que el dinosaurio wigglee, muerda el guante o intente escapar."
+    },
+    {
+      "candidate_id": "candidate_03",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_104249_lara_001\\krea\\candidate_03_00001_.png",
+      "hard_fail": true,
+      "hard_fail_reasons": [],
+      "scores": {
+        "identity_retention": 8.5,
+        "premise_retention": 3.0,
+        "final_visual_quality": 9.0,
+        "sex_appeal": 8.5,
+        "anatomy": 8.8,
+        "animation_potential": 4.0
+      },
+      "weighted_total": 7.03,
+      "summary": "Lara, su vestuario, equipo y el templo se conservan con acabado realista. El cofre aparece, pero no hay ningún baby T-Rex y Lara no sostiene ninguna criatura; la imagen ya no comunica el descubrimiento ni la sorpresa de la premisa. La calidad visual y anatomía son buenas, pero el gancho de animación requerido queda ausente."
+    },
+    {
+      "candidate_id": "candidate_04",
+      "image_path": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaPipeline\\20260820_104249_lara_001\\krea\\candidate_04_00001_.png",
+      "hard_fail": false,
+      "hard_fail_reasons": [],
+      "scores": {
+        "identity_retention": 8.8,
+        "premise_retention": 8.5,
+        "final_visual_quality": 9.1,
+        "sex_appeal": 8.8,
+        "anatomy": 8.8,
+        "animation_potential": 8.2
+      },
+      "weighted_total": 8.755,
+      "summary": "Mantiene a Lara reconocible con trenza, top teal, shorts, guantes y equipo de exploradora. El cofre abierto, el templo y un pequeño T-Rex sostenido en la mano son legibles, aunque el dinosaurio es algo pequeño y la reacción de sorpresa es suave. La calidad visual, iluminación y anatomía son muy buenas; la mano elevada y la criatura ofrecen un buen punto de movimiento para una toma animada."
+    }
+  ],
+  "winner": "candidate_02",
+  "runner_up": "candidate_04",
+  "selection_reason": "candidate_02 gana por la mejor combinación de identidad retenida, premisa legible y acción explícita: Lara sostiene el baby T-Rex junto al cofre abierto. candidate_04 es runner-up por su acabado cinematográfico y buena retención, pero la criatura es más pequeña y la reacción menos expresiva. candidate_03 queda excluido por hard fail al perder el dinosaurio central.",
+  "reviewed_at": "2026-08-20T11:05:00-03:00"
+}

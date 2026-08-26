@@ -1,0 +1,32 @@
+{
+  "id": "hinata_hyuga_001",
+  "character": "Hinata Hyuga",
+  "franchise": "Naruto",
+  "identity": [
+    "dark blue hair",
+    "Byakugan",
+    "lavender-and-cream shinobi clothing"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Adult Hinata, wearing her recognizable lavender-and-cream shinobi outfit adapted with a fitted silhouette, practices Gentle Fist in a lantern-lit dojo; each palm strike sends ripples through hanging paper targets, and when her final strike splits a water jar, a splash drenches her sleeves and clings to the fabric as she blushes and resets her stance.",
+  "must_include": [
+    "lavender-and-cream shinobi outfit",
+    "hanging paper targets",
+    "water jar"
+  ],
+  "environment": [
+    "lantern-lit dojo"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000001,
+  "krea_seed_base": 2000001
+}

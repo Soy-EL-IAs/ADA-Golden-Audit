@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e028_b03_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Close-up on 2B's face and neck as a fragment of shattered glass from a nearby window slices through the air toward her, causing her to tilt her head sharply to avoid it; a single drop of blood beads on her cheek while she maintains unblinking composure behind the blindfold, the black hairband tightening slightly against the sudden movement.\"\n  },\n  {\n    \"id\": \"e028_b03_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot of 2B waist-up, crouching low to slide under a horizontal bar of twisted rebar that is slowly rotating; her black gloves grip the wet concrete floor for traction while the puffy feather-trimmed sleeves brush against the metal, creating sparks as she times her movement with the mechanical rhythm.\"\n  },\n  {\n    \"id\": \"e028_b03_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B suspended in a vertical shaft of light, her boots hovering just inches above a puddle to avoid the electrical charge crackling on the surface; her dress hem is lifted by the rising heat distortion, revealing the length of her thigh-high stockings as she prepares to step forward with precise balance.\"\n  },\n  {\n    \"id\": \"e028_b03_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Dynamic shot of 2B mid-leap over a spreading patch of toxic green sludge, her body twisted to keep her sword clear of the liquid; motion blur emphasizes the speed as her white hair whips back, and the black fabric of her dress flares dramatically behind her, contrasting with the organic hazard below.\"\n  },\n  {\n    \"id\": \"e028_b03_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Cinematic wide shot from a low angle, capturing 2B standing on a cracked bridge as a massive concrete slab collapses in the background; she remains stationary with one hand raised to shield her blindfold from the dust cloud engulfing her, the sheer scale of the destruction dwarfing her figure while highlighting her stillness against the chaos.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3791,
+    "total_output_tokens": 522,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.757561423148186,
+    "time_to_first_token_seconds": 4.499351
+  }
+}

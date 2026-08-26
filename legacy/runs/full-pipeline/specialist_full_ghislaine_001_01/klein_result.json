@@ -1,0 +1,14 @@
+{
+  "id": "ghislaine_dedoldia_specialist_full_ghislaine_001_01",
+  "klein_prompt": "Refine the fur trim on the open jacket to appear loose and hanging off her bare shoulders, matching the premise description of 'fur trim that hangs off her bare shoulders' rather than being integrated into the jacket's design. Preserve all other elements: identity (Ghislaine Dedoldia), pose (clutching lapels across chest), framing, composition, environment (dimly lit command tent), and preserved details (eyepatch, grey hair, cat ears, red choker, black highleg panties). Maintain the dynamic reaction to the wind.",
+  "preserve": [
+    "eyepatch",
+    "grey_hair",
+    "cat_ears",
+    "red_choker",
+    "black_highleg_panties"
+  ],
+  "correct": [
+    "The jacket is open and held closed by her hands, but the fur trim is not visibly consistent with the premise's description of 'fur trim that hangs off her bare shoulders'. The fur appears more integrated into the jacket's design rather than hanging loosely."
+  ]
+}

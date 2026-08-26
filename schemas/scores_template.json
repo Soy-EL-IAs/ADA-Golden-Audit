@@ -1,0 +1,19 @@
+{
+  "premise_id": "REPLACE",
+  "stage": "illustrious_or_krea",
+  "candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "image_path": "REPLACE",
+      "hard_fail": false,
+      "hard_fail_reasons": [],
+      "scores": {},
+      "weighted_total": null,
+      "summary": "REPLACE"
+    }
+  ],
+  "winner": null,
+  "runner_up": null,
+  "selection_reason": null,
+  "reviewed_at": null
+}

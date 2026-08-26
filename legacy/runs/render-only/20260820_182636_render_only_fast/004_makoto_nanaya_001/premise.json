@@ -1,0 +1,33 @@
+{
+  "id": "makoto_nanaya_001",
+  "character": "Makoto Nanaya",
+  "franchise": "BlazBlue",
+  "identity": [
+    "squirrel ears",
+    "large squirrel tail",
+    "tan cropped jacket and gloves"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Makoto Nanaya, with her tan jacket, gloves, ears, and powerful tail, performs a heavy deadlift in a futuristic gym; the bar flexes dramatically, nearby dumbbells rattle, and her tail accidentally hooks a towel from a rack, tugging it across the floor while she grins in proud concentration.",
+  "must_include": [
+    "tan jacket",
+    "powerful tail",
+    "heavy deadlift",
+    "towel"
+  ],
+  "environment": [
+    "futuristic gym"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000003,
+  "krea_seed_base": 2000003
+}

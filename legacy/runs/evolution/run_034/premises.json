@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "run": 34,
+  "character": "2B",
+  "version": "NieR:Automata",
+  "count": 20,
+  "distribution": {
+    "closeup": 4,
+    "medium": 4,
+    "fullbody": 4,
+    "dynamic": 4,
+    "cinematic": 4
+  },
+  "candidate_guide": "candidate_guide.md",
+  "lm_studio_only": true,
+  "rendering_executed": false,
+  "proposals": [
+    {
+      "id": "e034_b01_closeup",
+      "category": "closeup",
+      "premise": "2B's gloved hand sharply snags a tangle of frayed electrical wires pulling against her black blindfold, her jaw tightening as she squints through the fabric to assess the sparking connection point."
+    },
+    {
+      "id": "e034_b01_medium",
+      "category": "medium",
+      "premise": "2B leans back against a crumbling stone pillar for support, her puffy sleeves straining as she pulls a heavy, rusted gear from the rubble above, her body twisted to counterbalance the unexpected weight."
+    },
+    {
+      "id": "e034_b01_fullbody",
+      "category": "fullbody",
+      "premise": "2B maintains perfect balance on a narrow, slippery moss-covered ledge, leaning heavily into a sudden gust of wind that flares her dress hem and threatens to push her off the edge."
+    },
+    {
+      "id": "e034_b01_dynamic",
+      "category": "dynamic",
+      "premise": "2B executes a low, sliding vault over a jagged debris field, her boots kicking up dust and gravel as she tucks her chin to avoid an overhead swinging beam."
+    },
+    {
+      "id": "e034_b01_cinematic",
+      "category": "cinematic",
+      "premise": "2B is silhouetted against the massive, glowing iris of a colossal mechanical eye in the distance, her small figure bracing against the sheer gravitational pull emanating from the machine's activation."
+    },
+    {
+      "id": "e034_b02_closeup",
+      "category": "closeup",
+      "premise": "A close-up on 2B's face as a fine layer of abrasive red dust settles onto her black blindfold, causing her to blink rapidly and subtly twitch her jaw in irritation while a single strand of loose hair clings to the fabric."
+    },
+    {
+      "id": "e034_b02_medium",
+      "category": "medium",
+      "premise": "2B twists her torso sharply to wrench a sticky, viscous black cable free from a corroded machine housing, her puffy sleeves stretching taut as she uses the leverage of her hips to pull against the resistant suction."
+    },
+    {
+      "id": "e034_b02_fullbody",
+      "category": "fullbody",
+      "premise": "2B stands on tiptoes on a high, narrow metal beam, extending one arm upward to steady herself against a sudden jolt from the structure below, her body rigid and elongated in an effort to maintain equilibrium."
+    },
+    {
+      "id": "e034_b02_dynamic",
+      "category": "dynamic",
+      "premise": "2B executes a rapid backward pivot on one heel to evade a low-hanging swinging chain, her dress hem and hair whipping in the air as she spins away from the impact zone with precise timing."
+    },
+    {
+      "id": "e034_b02_cinematic",
+      "category": "cinematic",
+      "premise": "From a low angle, 2B is seen striding purposefully through a towering forest of ancient, moss-covered stone pillars, her small figure dwarfed by the massive structures as she scans the shadows for movement."
+    },
+    {
+      "id": "e034_b03_closeup",
+      "category": "closeup",
+      "premise": "2B's gloved fingers firmly grasp the strap of her black blindfold, pulling it taut against a sudden, blinding flash from an off-screen welder, her jaw clenched tight to suppress a flinch as sweat beads on her forehead."
+    },
+    {
+      "id": "e034_b03_medium",
+      "category": "medium",
+      "premise": "2B twists her torso sharply to wrench a heavy, rusted iron grate free from a corroded machine housing, her puffy sleeves stretching taut as she uses the leverage of her hips to pull against the resistant suction."
+    },
+    {
+      "id": "e034_b03_fullbody",
+      "category": "fullbody",
+      "premise": "2B stands on tiptoes on a high, narrow metal beam, extending one arm upward to steady herself against a sudden jolt from the structure below, her body rigid and elongated in an effort to maintain equilibrium."
+    },
+    {
+      "id": "e034_b03_dynamic",
+      "category": "dynamic",
+      "premise": "2B executes a rapid backward pivot on one heel to evade a low-hanging swinging chain, her dress hem and hair whipping in the air as she spins away from the impact zone with precise timing."
+    },
+    {
+      "id": "e034_b03_cinematic",
+      "category": "cinematic",
+      "premise": "From a low angle, 2B is seen striding purposefully through a towering forest of ancient, moss-covered stone pillars, her small figure dwarfed by the massive structures as she scans the shadows for movement."
+    },
+    {
+      "id": "e034_b04_closeup",
+      "category": "closeup",
+      "premise": "A macro shot of 2B's white hair as a sudden, violent gust from a ruptured ventilation shaft whips the strands against her black blindfold, causing her to squint and tighten her jaw in suppressed irritation while a loose strand clings stubbornly to the fabric."
+    },
+    {
+      "id": "e034_b04_medium",
+      "category": "medium",
+      "premise": "2B crouches low, using one gloved hand to press firmly against a slick, moss-covered stone wall for traction while her other arm reaches down to grasp the hem of her dress, preventing it from dragging into the murky water below as she navigates a narrow, slippery gap."
+    },
+    {
+      "id": "e034_b04_fullbody",
+      "category": "fullbody",
+      "premise": "2B maintains a rigid, elongated posture on the tip of a crumbling stone spire, her weight shifted entirely to one leg as she extends the other forward for balance, her dress hem and puffy sleeves billowing violently in an updraft that threatens to topple her off the narrow peak."
+    },
+    {
+      "id": "e034_b04_dynamic",
+      "category": "dynamic",
+      "premise": "2B executes a swift, low-slung roll across a dusty, sun-baked plaza to evade a falling chunk of masonry, her hair and dress trailing in the dust cloud as she pushes off the ground with both palms to gain momentum for the next leap."
+    },
+    {
+      "id": "e034_b04_cinematic",
+      "category": "cinematic",
+      "premise": "From a high angle, 2B is seen climbing up the vertical face of a massive, overgrown concrete ruin, her small figure dwarfed by the scale of the structure as she reaches for a higher ledge to escape the rising smoke filling the valley below."
+    }
+  ]
+}

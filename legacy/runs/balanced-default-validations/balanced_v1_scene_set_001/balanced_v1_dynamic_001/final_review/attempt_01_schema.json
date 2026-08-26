@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-1kumd6wuvn67r5mrzih779",
+  "object": "chat.completion",
+  "created": 1787421383,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"2b_balanced_v1_dynamic_001\",\n  \"stage\": \"klein\",\n  \"verdict\": \"PASS\",\n  \"preserved_ok\": [\n    \"blindfold\",\n    \"white_hair\",\n    \"black_dress\",\n    \"feather-trimmed_sleeves\"\n  ],\n  \"defects\": [],\n  \"drift\": [\n    \"The stone pillar is not collapsing from her right side; it appears to be a static ruin behind her, not actively falling or obstructing her motion.\"\n  ],\n  \"summary\": \"All preserved elements are visibly correct. No visible defects. Narrative drift: the pillar is not collapsing dynamically as described, appearing static rather than an active environmental obstruction.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1337,
+    "completion_tokens": 158,
+    "total_tokens": 1495,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

@@ -1,0 +1,25 @@
+{
+  "run_id": "025_bulma_001",
+  "batch_id": "20260820_182636_render_only_fast",
+  "sequence": 25,
+  "premise_id": "bulma_001",
+  "mode": "render-only-fast",
+  "review_status": "unreviewed_render_only",
+  "status": "render_only_error",
+  "created_at": "2026-08-20T18:49:51.185761-03:00",
+  "illustrious_candidates": [
+    {
+      "candidate_id": "candidate_01",
+      "seed": 1000024,
+      "image_path": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\025_bulma_001\\illustrious\\candidate_01.png",
+      "comfy_descriptor": {
+        "filename": "candidate_01_00001_.png",
+        "subfolder": "LunaRenderOnly\\20260820_182636_render_only_fast\\025_bulma_001\\illustrious",
+        "type": "output"
+      }
+    }
+  ],
+  "krea_candidates": [],
+  "illustrious_prompt_id": "5d1d0cf9-6566-4061-b960-8e3407473ab2",
+  "error": "ComfyUI execution failed: {\n  \"status_str\": \"error\",\n  \"completed\": false,\n  \"messages\": [\n    [\n      \"execution_start\",\n      {\n        \"prompt_id\": \"ff32bfca-66e0-4090-8251-9856c0690566\",\n        \"timestamp\": 1787262603242\n      }\n    ],\n    [\n      \"execution_cached\",\n      {\n        \"nodes\": [],\n        \"prompt_id\": \"ff32bfca-66e0-4090-8251-9856c0690566\",\n        \"timestamp\": 1787262603267\n      }\n    ],\n    [\n      \"execution_interrupted\",\n      {\n        \"prompt_id\": \"ff32bfca-66e0-4090-8251-9856c0690566\",\n        \"node_id\": \"10\",\n        \"node_type\": \"KSampler\",\n        \"executed\": [\n          \"1\",\n          \"7\",\n          \"8\",\n          \"4\",\n          \"9\",\n          \"5\",\n          \"2\",\n          \"6\",\n          \"3\"\n        ],\n        \"timestamp\": 1787262631893\n      }\n    ]\n  ]\n}"
+}

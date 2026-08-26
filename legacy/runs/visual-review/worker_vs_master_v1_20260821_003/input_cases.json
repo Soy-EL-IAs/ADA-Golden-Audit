@@ -1,0 +1,142 @@
+{
+  "config": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\config\\visual_review_comparison_v1.json",
+  "cases": [
+    {
+      "case_id": "2b_closeup_blindfold_ok",
+      "batch_id": "2b_nier_automata_pilot_10_v2_001",
+      "record_id": "2b-pilot-01",
+      "expectation": "exploratory",
+      "context": {
+        "record_id": "2b-pilot-01",
+        "character": "2B / NieR:Automata",
+        "version": "NieR:Automata",
+        "category": "closeup",
+        "premise": "Quiet moment: 2B lowers her head slightly, blindfold on, a single tear catching the light as she holds back emotion.",
+        "illustrious_prompt": "beautiful 2B from NieR:Automata, short black hair with white streaks, black blindfold over her eyes, white dress uniform with black lace trim and long white gloves, close-up framing of face and shoulders, head tilted slightly downward, one tear glistening on her cheek, soft window light from the side, muted cool tones, realistic skin texture",
+        "klein_prompt": "2B from NieR:Automata in her canonical white dress uniform with black lace trim, long white gloves and black blindfold, close-up framing of face and shoulders, head tilted slightly downward, one tear glistening on her cheek, soft window light from the side, muted cool tones, realistic skin texture",
+        "character_profile": null,
+        "expected_observations": [
+          "single 2B",
+          "blindfold should cover both eyes"
+        ]
+      },
+      "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\2b_nier_automata_pilot_10_v2_001\\2b-pilot-01\\klein_00001_.png",
+      "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\2b_nier_automata_pilot_10_v2_001\\2b-pilot-01\\illustrious_00001_.png",
+      "comparison_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\2b_nier_automata_pilot_10_v2_001\\2b-pilot-01\\compare_00001_.png"
+    },
+    {
+      "case_id": "2b_blindfold_eye_visible",
+      "batch_id": "2b_nier_automata_pilot_10_v2_001",
+      "record_id": "2b-pilot-02",
+      "expectation": "should_flag",
+      "context": {
+        "record_id": "2b-pilot-02",
+        "character": "2B / NieR:Automata",
+        "version": "NieR:Automata",
+        "category": "closeup",
+        "premise": "Blindfold removed: 2B gazes forward with her blue eyes visible after taking off the blindfold, calm and composed.",
+        "illustrious_prompt": "beautiful 2B from NieR:Automata, short black hair with white streaks, black blindfold tied loosely at the back of her head revealing her blue eyes, white dress uniform collar and lace trim visible, close-up framing of face only, direct forward gaze, faint neutral expression, soft overcast daylight, realistic skin texture",
+        "klein_prompt": "2B from NieR:Automata in her canonical white dress uniform with black lace trim, short black hair with white streaks, black blindfold tied loosely at the back revealing her blue eyes, close-up framing of face only, direct forward gaze, faint neutral expression, soft overcast daylight, realistic skin texture",
+        "character_profile": null,
+        "expected_observations": [
+          "2B's blindfold should not leave an eye visibly exposed"
+        ]
+      },
+      "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\2b_nier_automata_pilot_10_v2_001\\2b-pilot-02\\klein_00001_.png",
+      "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\2b_nier_automata_pilot_10_v2_001\\2b-pilot-02\\illustrious_00001_.png",
+      "comparison_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\2b_nier_automata_pilot_10_v2_001\\2b-pilot-02\\compare_00001_.png"
+    },
+    {
+      "case_id": "2b_duplicate_pair",
+      "batch_id": "2b_profile_pilot_6_v2_001",
+      "record_id": "3b_pilot_03",
+      "expectation": "should_not_pass",
+      "context": {
+        "record_id": "3b_pilot_03",
+        "character": "2B / NieR:Automata",
+        "version": "NieR:Automata",
+        "category": "medium",
+        "premise": "On a rain-slicked rooftop overlooking a ruined city at night, 2B leans on her sword with one hand while the other rests near her blindfold.",
+        "illustrious_prompt": "beautiful young woman 2B from NieR:Automata, short white hair, black blindfold over her eyes, black dress with puffy feather-trimmed sleeves and thigh-high boots, leaning on her sword with one hand, other hand resting near her blindfold, rain-slicked rooftop overlooking a ruined city at night, medium framing from waist up, wet reflections",
+        "klein_prompt": "2B from NieR:Automata, short white hair, black blindfold over her eyes, black dress with puffy feather-trimmed sleeves and thigh-high boots, leaning on her sword with one hand, other hand resting near her blindfold, rain-slicked rooftop overlooking a ruined city at night, medium framing from waist up, wet reflections, realistic finish",
+        "character_profile": null,
+        "expected_observations": [
+          "two 2B-like women are visible; must not be PASS"
+        ]
+      },
+      "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\2b_profile_pilot_6_v2_001\\3b_pilot_03\\klein_00001_.png",
+      "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\2b_profile_pilot_6_v2_001\\3b_pilot_03\\illustrious_00001_.png",
+      "comparison_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\2b_profile_pilot_6_v2_001\\3b_pilot_03\\compare_00001_.png"
+    },
+    {
+      "case_id": "tifa_v26_closeup",
+      "batch_id": "tifa_remake_pilot_v2_6_001",
+      "record_id": "tifa_remake_v26_closeup_01",
+      "expectation": "exploratory",
+      "context": {
+        "record_id": "tifa_remake_v26_closeup_01",
+        "character": "Tifa Lockhart / Final Fantasy VII Remake",
+        "version": "Final Fantasy VII Remake",
+        "category": null,
+        "premise": null,
+        "illustrious_prompt": "masterpiece, best quality, beautiful adult woman, solo, Tifa Lockhart from Final Fantasy VII Remake, recognizable face, burgundy eyes, long black hair, white cropped tank top, black suspenders, black leather gloves and metal arm guards, athletic build, tight close-up framing, eye-level view, neutral determined expression, softly lit Seventh Heaven interior, cinematic stylized anime illustration",
+        "klein_prompt": "preserve Tifa Lockhart's exact adult Final Fantasy VII Remake identity, recognizable face, canonical outfit and neutral determined expression, beautiful tight close-up framing at eye-level view, premium realistic cinematic 3D render, soft warm practical light, natural skin and hair detail",
+        "character_profile": null,
+        "expected_observations": [
+          "single Tifa",
+          "recognizable Remake outfit and face"
+        ]
+      },
+      "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_closeup_01\\klein_00001_.png",
+      "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_closeup_01\\illustrious_00001_.png",
+      "comparison_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_closeup_01\\compare_00001_.png"
+    },
+    {
+      "case_id": "tifa_v26_dynamic",
+      "batch_id": "tifa_remake_pilot_v2_6_001",
+      "record_id": "tifa_remake_v26_dynamic_01",
+      "expectation": "exploratory",
+      "context": {
+        "record_id": "tifa_remake_v26_dynamic_01",
+        "character": "Tifa Lockhart / Final Fantasy VII Remake",
+        "version": "Final Fantasy VII Remake",
+        "category": null,
+        "premise": null,
+        "illustrious_prompt": "masterpiece, best quality, beautiful adult woman, solo, Tifa Lockhart from Final Fantasy VII Remake, recognizable face, long black hair sweeping through the air, complete canonical Remake outfit with white cropped tank top, black suspenders, black skirt, stockings, red boots, gloves and arm guards, athletic build, dynamic full-body framing, three-quarter view, low-angle view, performing a powerful flying roundhouse kick across a narrow reactor catwalk, green Mako glow, steam and sparks, cinematic stylized anime action illustration",
+        "klein_prompt": "preserve Tifa Lockhart's exact adult Final Fantasy VII Remake identity, complete canonical outfit, beautiful dynamic full-body framing, three-quarter view and low-angle view, powerful flying roundhouse kick with flowing hair, premium realistic cinematic 3D render, green Mako glow, steam, sparks and believable athletic motion",
+        "character_profile": null,
+        "expected_observations": [
+          "single Tifa",
+          "martial-arts action and anatomy"
+        ]
+      },
+      "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_dynamic_01\\klein_00001_.png",
+      "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_dynamic_01\\illustrious_00001_.png",
+      "comparison_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\tifa_remake_pilot_v2_6_001\\tifa_remake_v26_dynamic_01\\compare_00001_.png"
+    },
+    {
+      "case_id": "tifa_camera_and_back_drift",
+      "batch_id": "tifa_remake_pilot_001",
+      "record_id": "tifa_remake_fullbody_03",
+      "expectation": "should_flag",
+      "context": {
+        "record_id": "tifa_remake_fullbody_03",
+        "character": "Tifa Lockhart / Final Fantasy VII Remake",
+        "version": "Final Fantasy VII Remake",
+        "category": null,
+        "premise": null,
+        "illustrious_prompt": "masterpiece, best quality, adult woman, solo, Tifa Lockhart from Final Fantasy VII Remake, very long black hair flowing behind her, white cropped tank top, black suspenders, black pleated mini skirt and fitted shorts, black thigh-high stockings, red combat boots, black gloves and metal arm guards, athletic build, full-body left profile walking with purposeful stride, long-lens eye-level camera, quiet train platform under cold fluorescent lights, cinematic stylized anime illustration",
+        "klein_prompt": "preserve her exact identity, complete canonical Remake outfit, full-body left profile and purposeful walking pose, premium realistic cinematic 3D render, cold station lighting, subtle motion in hair, realistic fabrics and skin",
+        "character_profile": null,
+        "expected_observations": [
+          "physical camera is an unwanted object",
+          "source-to-Klein composition drift should be considered",
+          "single Tifa"
+        ]
+      },
+      "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_03\\klein_00001_.png",
+      "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_03\\illustrious_00001_.png",
+      "comparison_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\LunaKleinBatch\\tifa_remake_pilot_001\\tifa_remake_fullbody_03\\compare_00001_.png"
+    }
+  ]
+}

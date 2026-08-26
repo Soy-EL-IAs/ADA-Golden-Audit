@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "character": "Shihouin Yoruichi",
+  "version": null,
+  "created_at": "2026-08-24T10:40:42.546874+00:00",
+  "status": "downloaded",
+  "usable": true,
+  "provider": "searxng",
+  "source_query": "\"Shihouin Yoruichi\" official character",
+  "searches": [
+    "\"Shihouin Yoruichi\" official character"
+  ],
+  "refs": [
+    {
+      "file": "refs/ref_01.jpg",
+      "source_url": "https://cdn.myanimelist.net/images/characters/14/536084.jpg",
+      "page_url": "https://myanimelist.net/character/908/Yoruichi_Shihouin",
+      "domain": "myanimelist.net",
+      "final_score": 72,
+      "recommendation": "review",
+      "sha256": "fdbdeefa027b4f7c03559b1b4623e1e34298ae24b1469cbcd6abdfa9de5eeaaf",
+      "downloaded_at": "2026-08-24T10:40:42.690778+00:00"
+    },
+    {
+      "file": "refs/ref_02.jpg",
+      "source_url": "https://cdn.myanimelist.net/r/360x360/images/characters/14/536084.jpg?s=5f5285cefcce0da478692dcd94c3c9fc",
+      "page_url": "https://myanimelist.net/character/908/Yoruichi_Shihouin",
+      "domain": "myanimelist.net",
+      "final_score": 72,
+      "recommendation": "review",
+      "sha256": "00a28d81ff80c3b7ff0e8a7f72fd36f5629d419094c0d3c4a2676f51e84b9c60",
+      "downloaded_at": "2026-08-24T10:40:43.543332+00:00"
+    }
+  ],
+  "errors": [],
+  "duplicate_hashes": []
+}

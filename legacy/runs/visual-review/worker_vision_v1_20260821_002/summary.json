@@ -1,0 +1,18 @@
+{
+  "benchmark_id": "worker_vision_v1_20260821_002",
+  "status": "complete",
+  "model": "qwen/qwen3-vl-8b",
+  "count": 15,
+  "completed": 15,
+  "errors": 0,
+  "worker_load_seconds": 2.704,
+  "total_review_seconds": 29.898,
+  "mean_seconds_per_image": 1.993,
+  "verdicts": {
+    "PASS": 6,
+    "REVIEW": 2,
+    "REJECT": 7
+  },
+  "master_was_loaded": true,
+  "master_restored": true
+}

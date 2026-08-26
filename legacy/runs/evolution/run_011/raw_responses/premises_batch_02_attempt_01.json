@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e011_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme close-up on 2B's jawline and neck, skin tightening as she holds her breath while a high-pressure steam jet from a ruptured pipe hisses directly at the edge of her blindfold.\"\n  },\n  {\n    \"id\": \"e011_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B gripping a vibrating metal railing, her puffy sleeves distorting as she strains to keep the door from slamming shut on her fingers amidst a sudden power surge.\"\n  },\n  {\n    \"id\": \"e011_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full body view of 2B leaning back against a tilting cargo crate, shifting her weight to the balls of her feet as the floor beneath her slides toward a drainage grate.\"\n  },\n  {\n    \"id\": \"e011_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B mid-air in a controlled descent, knees bent and dress hem flaring upward from gravity as she lands precisely on a narrow ledge to avoid the impact of a falling debris field.\"\n  },\n  {\n    \"id\": \"e011_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Low-angle cinematic shot looking up at 2B from below, her silhouette framed against a massive, cracking skylight as she stands firm on the floor, arms crossed in defiance of the impending collapse above.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3015,
+    "total_output_tokens": 386,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.268208259906332,
+    "time_to_first_token_seconds": 3.5692890000000004
+  }
+}

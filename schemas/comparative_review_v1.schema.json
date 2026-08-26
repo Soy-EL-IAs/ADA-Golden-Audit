@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADA Comparative Review v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "comparison_id", "concept_id", "attempt", "stages", "preferred_stage", "confidence", "comparison", "beneficial_deviations", "requirement_violations", "legacy_review_context_used"],
+  "properties": {
+    "schema_version": {"type": "string", "enum": ["comparative_review_v1"]},
+    "comparison_id": {"type": "string", "minLength": 1},
+    "concept_id": {"type": "string", "minLength": 1},
+    "attempt": {"type": "integer", "minimum": 1},
+    "stages": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["illustrious_receipt_id", "klein_receipt_id", "illustrious_observation_id", "klein_observation_id"],
+      "properties": {
+        "illustrious_receipt_id": {"type": "string", "minLength": 1},
+        "klein_receipt_id": {"type": "string", "minLength": 1},
+        "illustrious_observation_id": {"type": "string", "minLength": 1},
+        "klein_observation_id": {"type": "string", "minLength": 1}
+      }
+    },
+    "preferred_stage": {"type": "string", "enum": ["ILLUSTRIOUS", "KLEIN", "TIE", "HUMAN_REVIEW_REQUIRED"]},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "comparison": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["identity_fidelity", "anatomy_structural_quality", "face_quality", "outfit_fidelity", "composition_preservation", "scene_premise_readability", "visual_polish", "realism_gain", "unwanted_drift", "overall_preference"],
+      "properties": {
+        "identity_fidelity": {"$ref": "#/$defs/criterion"},
+        "anatomy_structural_quality": {"$ref": "#/$defs/criterion"},
+        "face_quality": {"$ref": "#/$defs/criterion"},
+        "outfit_fidelity": {"$ref": "#/$defs/criterion"},
+        "composition_preservation": {"$ref": "#/$defs/criterion"},
+        "scene_premise_readability": {"$ref": "#/$defs/criterion"},
+        "visual_polish": {"$ref": "#/$defs/criterion"},
+        "realism_gain": {"$ref": "#/$defs/criterion"},
+        "unwanted_drift": {"$ref": "#/$defs/criterion"},
+        "overall_preference": {"$ref": "#/$defs/criterion"}
+      }
+    },
+    "beneficial_deviations": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "requirement_violations": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "legacy_review_context_used": {"type": "boolean"}
+  },
+  "$defs": {
+    "criterion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["winner", "reason"],
+      "properties": {
+        "winner": {"type": "string", "enum": ["ILLUSTRIOUS", "KLEIN", "TIE", "UNKNOWN"]},
+        "reason": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "2b_specialist_full_001",
+  "klein_prompt": "2b_(nier:automata), short white hair, black dress with juliet sleeves and feather trim, thigh boots, black gloves, blindfold clearly covering eyes, standing in dimly lit command center, large ornate iron gate fully closed directly behind her, close-up detail of the heavy iron locking mechanism visibly engaged and clamped shut on the gate frame, hand resting lightly on sheathed sword hilt, slow turn toward the barrier, dramatic lighting highlighting white hair and dress against shadows, tension in posture",
+  "preserve": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "correct": [
+    "The gate is fully closed and locked as required, but the locking mechanism is not visibly engaged or shown with a mechanical hiss/clank. The visual consequence of the gate closing is implied but not explicitly rendered as described in the premise."
+  ]
+}

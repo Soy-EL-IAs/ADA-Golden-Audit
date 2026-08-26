@@ -1,0 +1,265 @@
+{
+  "dry_run": true,
+  "comfyui_executed": false,
+  "brief": {
+    "character": "2B",
+    "version": "NieR:Automata",
+    "count": 20,
+    "categories_plan": [
+      "closeup",
+      "medium",
+      "fullbody",
+      "dynamic",
+      "cinematic",
+      "closeup",
+      "medium",
+      "fullbody",
+      "dynamic",
+      "cinematic",
+      "closeup",
+      "medium",
+      "fullbody",
+      "dynamic",
+      "cinematic",
+      "closeup",
+      "medium",
+      "fullbody",
+      "dynamic",
+      "cinematic"
+    ],
+    "distribution": {
+      "closeup": 4,
+      "medium": 4,
+      "fullbody": 4,
+      "dynamic": 4,
+      "cinematic": 4
+    },
+    "character_profile_used": true,
+    "character_profile": {
+      "requested_character": "2B",
+      "requested_version": "NieR:Automata",
+      "matched_tag": "2b_(nier:automata)",
+      "character_profile_used": true,
+      "gender": "1girl",
+      "copyright": [
+        "nier_(series)",
+        "nier:automata"
+      ],
+      "characteristics": [
+        "short_hair",
+        "blindfold",
+        "white_hair"
+      ],
+      "clothing": [
+        "hairband",
+        "clothing_cutout",
+        "thighhighs",
+        "gloves",
+        "puffy_sleeves",
+        "long_sleeves",
+        "dress",
+        "black_dress",
+        "leotard",
+        "juliet_sleeves",
+        "black_gloves",
+        "boots",
+        "feather-trimmed_sleeves",
+        "thigh_boots"
+      ],
+      "relationships": {
+        "parents": [],
+        "children": [],
+        "siblings": []
+      },
+      "version_match": true,
+      "candidates": [],
+      "source": "booru-characters"
+    },
+    "category_rules": [
+      "Use each requested category exactly the prescribed number of times.",
+      "Vary situations, actions, expressions, viewpoints and visual hooks across proposals.",
+      "Describe composition with viewpoint and framing only; never use physical camera or lens language."
+    ],
+    "proposal_guidance": {
+      "phase": "proposal",
+      "guides": [
+        {
+          "name": "viral_premise",
+          "version": "v1",
+          "file": "prompt_guides/viral_premise_guide_v1.md",
+          "content": "# Viral Premise Guide v1\n\n## Goal\n\nCreate visually memorable premises for a single clearly fictional female character.\n\nThe target aesthetic is primarily **provocative and suggestive**: sexy, playful, visually bold and attention-grabbing without becoming sexually explicit.\n\nThe image should combine some or many of the following:\n\n- strong canonical character identity\n- immediate visual hook\n- attractive, voluptuous presentation\n- provocative or suggestive energy\n- readable pose and composition\n- personality or emotional contrast\n- a small visual story when useful\n- strong potential for animation\n\nThe preferred creative center is **B — provocative / suggestive**.\n\nSome premises may be softer and more mainstream attractive, while a smaller number may push toward erotic non-graphic imagery.\n\nNot every premise needs every ingredient.\n\nSome images may succeed primarily because of body, pose and composition.\n\nOthers may succeed because of situation, reaction, implication, humor or micro-story.\n\nThe dataset should contain both.\n\n---\n\n## Core Principle\n\nKeep the **CHARACTER familiar**.\n\nMake the **SITUATION, PRESENTATION OR VISUAL HOOK distinctive**.\n\nNovelty should not come from changing canonical identity.\n\nCreative novelty should come mainly from:\n\n- situation\n- action\n- environment\n- pose\n- body presentation\n- interaction\n- viewpoint\n- framing\n- timing\n- cause and effect\n- emotional reaction\n- visual contrast\n- provocative implication\n\nThe character should remain immediately recognizable.\n\n---\n\n## Creative Tone\n\nThe preferred tone often combines:\n\n**sweet, shy, playful or apparently innocent behavior with a visually provocative situation or subtle double meaning.**\n\nThis is a useful creative direction, not a mandatory personality for every premise.\n\nUseful emotional contrasts include:\n\n- shy reaction to an attractive situation\n- innocent-looking smile with ambiguous intent\n- slight embarrassment while maintaining composure\n- playful teasing disguised as innocence\n- serious behavior inside a suggestive situation\n- confident body language paired with a soft expression\n- apparently accidental exposure that may not feel entirely accidental\n- deliberate teasing presented as coincidence\n- provocative behavior followed by an innocent reaction\n\nA useful question is:\n\n> Was that really accidental, or does she know exactly what she is doing?\n\nThis ambiguity is desirable.\n\nHowever, some premises may be openly confident, provocative, elegant, dominant, playful or purely visual without relying on innocence or embarrassment.\n\nVariety matters more than forcing one behavioral pattern.\n\n---\n\n## One-Second Hook\n\nA premise should be understandable or intriguing almost immediately.\n\nAsk:\n\n> What makes someone stop scrolling on this image?\n\nStrong hooks may involve:\n\n- exceptionally attractive body presentation\n- strong cleavage or silhouette\n- rear-view composition\n- an unusual pose\n- something just happened\n- something is about to happen\n- visible cause and effect\n- physical tension\n- playful embarrassment\n- provocative coincidence\n- confident interaction with the environment\n- an unusual but understandable situation\n- strong silhouette\n- dramatic body orientation\n- foreground/background interaction\n- environmental forces affecting the character\n- strategic censorship\n- erotic implication\n- a visual joke\n- an expression that changes how the scene is interpreted\n\nAvoid making the majority of premises:\n\n> character standing beautifully somewhere\n\nA beautiful character, striking pose or body-focused composition may be enough when the visual appeal itself is exceptionally strong.\n\nHowever, situational hooks, reactions and micro-stories should also appear frequently across the dataset to maintain variety.\n\n---\n\n## Body Appeal\n\n**Body emphasis is desirable and may be one of the strongest visual hooks in the image.**\n\nProminent breasts, hips, buttocks, thighs, legs and a defined waist may intentionally contribute to the composition when coherent with the character and scene.\n\nA voluptuous yet athletic silhouette is generally desirable.\n\nUseful visual elements include:\n\n- prominent bust\n- defined waist\n- strong hips\n- prominent buttocks\n- thick or athletic thighs\n- long or emphasized legs\n- fitted clothing\n- clothing tension\n- strong body silhouette\n- torso twist\n- weight shifted onto one leg\n- leaning\n- stretching\n- sitting\n- crouching\n- bending naturally\n- over-the-shoulder presentation\n\n### Body as the Primary Hook\n\nThe body may be:\n\n- a supporting element of the premise\n- the primary visual hook\n- occasionally the entire immediate hook of the image\n\nSimple provocative compositions are valid.\n\nA strong image may be built mainly around:\n\n- cleavage-focused framing\n- rear-view composition\n- hips and thighs\n- a prominent bust\n- a strong waist-to-hip silhouette\n- long legs\n- an attractive full-body pose\n- an over-the-shoulder pose\n- a deliberately provocative low viewpoint\n- clothing that strongly emphasizes the figure\n- a strong pin-up silhouette\n- body orientation that creates immediate visual appeal\n\nThese concepts do not always require a narrative justification.\n\nA visually striking pin-up can be a successful premise on its own.\n\n### Situational Body Appeal\n\nWhenever it strengthens the concept, body emphasis can also be combined with:\n\n- an action\n- a situation\n- a reaction\n- playful double meaning\n- environmental interaction\n- cause and effect\n- personality contrast\n- a small visual story\n- strategic censorship\n- a provocative coincidence\n\nThis often creates stronger motion potential and makes the image feel like a moment taken from a larger event.\n\n### Dataset Variety\n\nThe goal is **not** to avoid simple sexy images.\n\nThe goal is to avoid producing many images that feel like minor variations of the same composition.\n\nAcross the dataset, vary:\n\n- body area emphasized\n- pose\n- framing\n- viewpoint\n- body orientation\n- expression\n- clothing\n- environment\n- intensity\n- personality\n- motion potential\n\nA rear-view image, cleavage-focused image or body-dominant pin-up may be excellent.\n\nThe problem only appears when the dataset repeatedly relies on the same hook, pose and framing with superficial changes.\n\n---\n\n## Provocative Level\n\nThe default target is:\n\n### B — Provocative / Suggestive\n\nThis should form the majority of the dataset.\n\nExamples of appropriate elements include:\n\n- deliberately sensual framing\n- fitted or reduced clothing\n- strong emphasis on body shape\n- legs, thighs, hips, bust or buttocks used compositionally\n- teasing body language\n- playful double meaning\n- clothing shifting because of movement\n- suggestive but understandable poses\n- wet clothing when contextually appropriate\n- wind affecting clothing\n- stretching or movement revealing more than expected\n- bikini, lingerie or similarly reduced clothing when coherent with the premise\n- apparently compromising situations\n- shy or innocent reactions to provocative circumstances\n- confident poses with subtle teasing\n- visually suggestive coincidences\n- body-focused pin-up compositions\n- provocative but non-graphic framing\n\n### A — Attractive / Mainstream Sexy\n\nUse periodically for variety.\n\nExamples:\n\n- canonical fitted outfit\n- flattering pose\n- confident posture\n- legs or silhouette emphasis\n- tasteful cleavage\n- wet look\n- stretching\n- sitting\n- athletic movement\n- cinematic attractiveness\n- elegant body language\n- glamorous full-body presentation\n\n### C — Erotic / Strongly Suggestive, Non-Graphic\n\nUse occasionally, not as the default.\n\nThis tier may push erotic tension significantly further while keeping the visible image non-graphic.\n\nPossible elements include:\n\n- partial nudity\n- topless imagery\n- full nudity with strategic censorship\n- strongly erotic posing\n- provocative framing\n- situations built primarily around erotic tension\n- implied off-frame sexual context\n- reactions or body language that strongly suggest what may be happening outside the visible frame\n- near-exposure\n- playful censorship\n- deliberate erotic ambiguity\n\nThe goal is not necessarily to hide the fact that the situation is erotic.\n\nThe goal is to keep the **visible image non-graphic**.\n\n#### Strategic / Convenient Censorship\n\nNudity may be used when intimate areas are naturally, conveniently or playfully hidden.\n\nUseful mechanisms include:\n\n- hair covering the breasts\n- arms or hands covering intimate areas\n- crossed legs\n- body orientation\n- bedsheets or towels\n- steam\n- water\n- foreground objects\n- furniture\n- plants or branches\n- clothing caught in just the right position\n- environmental objects\n- shadows when visually natural\n- another harmless object passing through the foreground at the exact moment\n- an object accidentally blocking exactly what would otherwise be exposed\n\nThe censorship itself may become part of the visual joke or hook.\n\nA useful pattern is:\n\n**NUDITY OR NEAR-EXPOSURE  \n→ perfectly timed obstruction  \n→ playful implication**\n\nThe image may make it obvious that the character is nude without actually displaying explicit anatomy.\n\nConvenient censorship may feel:\n\n- accidental\n- comedic\n- teasing\n- suspiciously perfect\n- visually elegant\n- intentionally frustrating to the viewer\n\nThe obstruction should preferably feel integrated into the composition rather than pasted randomly over the body.\n\n#### Implied Sexual Context\n\nStrong implication is allowed when the sexual act itself is not visibly depicted.\n\nThe scene may suggest that something erotic is happening:\n\n- outside the frame\n- behind an obstruction\n- through body language\n- through expression\n- through rhythm or reaction\n- through deliberate framing that hides the relevant interaction\n- through suggestive positioning\n- through context that allows the viewer to infer what may be happening\n\nThe viewer may strongly suspect or understand the implication.\n\nHowever, keep the visible image non-graphic.\n\nDo not visibly depict:\n\n- genital contact\n- penetration\n- oral-genital contact\n- masturbation\n- explicit genital focus\n- graphic sexual activity\n\nThe intended effect is:\n\n**the viewer understands the implication without the image explicitly showing the act.**\n\nErotic implication, anticipation and censorship can themselves be the hook.\n\n---\n\n## Suggestion Over Explicitness\n\nA central creative rule is:\n\n> **Aim for an image that feels one step more provocative than expected, not ten steps more explicit.**\n\nOften:\n\n> almost revealing something\n\nis more visually interesting than:\n\n> revealing everything\n\nUse anticipation, tension and implication whenever they strengthen the idea.\n\nDo not assume that greater nudity automatically creates a stronger image.\n\nA strategically covered nude composition, suggestive pose or ambiguous situation may create more curiosity than full exposure.\n\n---\n\n## Controlled Accidents\n\nSituations where an external event creates provocative visual tension are especially useful.\n\nPossible patterns include:\n\n- wind moves clothing\n- rain or water makes fabric cling\n- clothing catches on an object\n- a strap shifts\n- the character reaches down to adjust clothing\n- a boot or stocking needs adjustment\n- stretching exposes more than expected\n- a tight space forces an unusual posture\n- something spills\n- the character is surprised during an outfit adjustment\n- movement creates temporary wardrobe tension\n- the character notices the viewer during an awkward moment\n- an object accidentally creates strategic censorship\n- something crosses the foreground at the perfect moment\n- clothing moves in an inconvenient direction\n- the environment creates unexpected exposure or near-exposure\n\nThe useful structure is:\n\n**EVENT → PROVOCATIVE CONSEQUENCE → CHARACTER REACTION**\n\nAnother useful structure is:\n\n**NEAR-EXPOSURE → PERFECTLY TIMED CENSOR → PLAYFUL FRUSTRATION**\n\nThe provocative element should feel integrated into the situation rather than randomly attached.\n\n---\n\n## Micro-Story\n\nMicro-stories are strongly useful but are **not mandatory for every premise**.\n\nPrefer them when they improve curiosity, personality or motion potential.\n\nUseful structures:\n\n### Cause → Reaction\n\nSomething happens and the character visibly reacts.\n\n### Action → Consequence\n\nThe character performs an action that creates a visually interesting result.\n\n### Expectation → Visual Twist\n\nThe scene initially looks ordinary but contains an unexpected visual implication.\n\n### Confidence → Small Problem\n\nA composed or confident character encounters a minor awkward complication.\n\n### Serious Character → Playful Situation\n\nThe character's normal demeanor contrasts with the current circumstance.\n\n### Action in Progress → Uncertain Outcome\n\nThe image captures a moment before something resolves.\n\n### Provocation → Innocent Reaction\n\nThe character creates or enters an obviously suggestive situation and then reacts as though nothing unusual happened.\n\n### Near-Exposure → Convenient Obstruction\n\nThe viewer understands what would be visible if one perfectly placed object were not in the way.\n\nWhen a premise uses a micro-story, the image should feel like a frame extracted from a larger event.\n\nPure visual-appeal premises are also valid and do not need a forced story.\n\n---\n\n## Character Personality and Attitude\n\nPersonality should guide the character without locking her into one repeated behavior.\n\nWhen reliable canonical personality information is available, use it as a baseline or flavor — not as a hard constraint for every premise.\n\nA character may plausibly show different attitudes depending on the moment, situation and creative goal.\n\nPossible attitudes include:\n\n- serious\n- confident\n- playful\n- shy\n- sweet\n- embarrassed\n- teasing\n- elegant\n- reserved\n- mischievous\n- provocative\n- surprised\n- defiant\n- soft\n- stoic\n- flirtatious\n- innocent-looking\n- knowingly playful\n\nThe same character should not always react in the same way across the dataset.\n\nFor example, a normally serious character may occasionally:\n\n- become visibly embarrassed\n- react shyly\n- tease unexpectedly\n- show a softer side\n- play along with an awkward situation\n- deliberately act more provocative than usual\n- knowingly exploit a suggestive situation\n- pretend not to notice the implication\n\nThese variations are allowed when they remain believable for the scene.\n\nThe goal is not strict personality simulation.\n\nCanonical personality is an **influence**, not a behavioral lock.\n\nThe current premise may freely choose a different emotional attitude when that creates a stronger image.\n\nThe goal is to preserve enough character flavor to remain recognizable while allowing creative emotional variety.\n\nWhen personality information is uncertain, freely choose an attitude that fits the premise instead of inventing detailed canonical lore.\n\nAvoid only extreme personality changes that would make the character feel like a completely different person.\n\n---\n\n## Character Fidelity\n\nCanonical visual facts supplied by `character_profile` are constraints.\n\nDo not contradict important identity traits such as:\n\n- hair color\n- hairstyle\n- signature accessories\n- canonical outfit elements\n- recognizable colors\n- major character-specific visual features\n\nCreative freedom applies mainly to:\n\n- situation\n- action\n- pose\n- expression\n- environment\n- viewpoint\n- framing\n- lighting\n- degree of sensuality\n- clothing state when the premise intentionally involves reduced clothing or nudity\n- emotional attitude\n\nCanonical identity should remain recognizable even when the premise changes clothing state, environment or emotional tone.\n\n**Keep the identity familiar and place the novelty elsewhere.**\n\n---\n\n## Composition\n\nEach premise should have **one dominant visual idea**.\n\nThat dominant idea may be:\n\n- body shape\n- a pose\n- a provocative implication\n- a reaction\n- a situational hook\n- strategic censorship\n- an environmental interaction\n- an action\n- a visual joke\n\nPrefer:\n\n- clear subject\n- readable silhouette\n- understandable body pose\n- strong focal area\n- one primary action when action is present\n- strong subject/background separation\n- simple visual hierarchy\n- framing that intentionally supports the provocative hook\n\nAvoid excessive clutter purely for spectacle.\n\nThe viewer should quickly understand what matters.\n\nA simple composition with an exceptionally strong body or pose may be more effective than an elaborate scene with too many competing ideas.\n\n---\n\n## Variety\n\nAcross a dataset, vary:\n\n- framing distance\n- body orientation\n- pose\n- emotional tone\n- environment\n- action\n- lighting\n- viewpoint\n- visual hook\n- level of sensuality\n- body area emphasized\n- clothing state\n- personality or attitude\n- animation opportunity\n- pure visual appeal versus situational appeal\n- degree of narrative complexity\n\nAvoid creating twenty variations of:\n\n- cleavage close-up\n- low-angle shot\n- rear view\n- looking over shoulder\n- wet clothing\n- wardrobe accident\n- shy embarrassment\n\nThese may all be useful, but none should dominate the dataset.\n\nVariation does not mean avoiding successful formulas.\n\nSuccessful hooks may reappear when the execution, pose, framing or context changes meaningfully.\n\nThe goal is a **library of distinct attractive visual situations and compositions**, not a collection of nearly identical pin-ups.\n\n---\n\n## Viral Heuristic\n\nViral potential is a heuristic, not a guarantee.\n\nStrong candidates may combine several of the following:\n\n**recognizable character  \n+ attractive body presentation  \n+ strong composition  \n+ provocative implication  \n+ distinctive situation  \n+ visual clarity  \n+ personality or reaction  \n+ curiosity  \n+ something worth imagining before or after the frame**\n\nNot every successful image requires all of them.\n\nSome images may succeed almost entirely through:\n\n**recognizable character  \n+ exceptional body presentation  \n+ strong pose  \n+ strong framing**\n\nOthers may succeed through:\n\n**recognizable character  \n+ provocative situation  \n+ reaction  \n+ implication**\n\nOthers may succeed through:\n\n**recognizable character  \n+ erotic tension  \n+ strategic censorship  \n+ visual joke**\n\nThe image should create **attraction, curiosity or both**.\n\n---\n\n## Video / Motion Potential\n\nMotion potential is desirable because many images will later become video seeds.\n\nPrefer premises containing something that can naturally evolve after the still frame.\n\nUseful ingredients include:\n\n- hair movement\n- clothing movement\n- wind\n- rain\n- water\n- physical action\n- body repositioning\n- object interaction\n- environmental reaction\n- ongoing movement\n- expression changing in response to an event\n- clothing adjustment\n- turning\n- leaning further\n- standing up\n- stepping forward\n- reacting to something outside frame\n\nWhenever possible, the viewer should be able to imagine what happens one second later.\n\nHowever, not every strong still image needs complex motion.\n\nA powerful static pin-up may still be valuable if its pose, expression, clothing or environment provides a natural continuation for future animation.\n\n---\n\n## Weak Premises\n\nReject or rewrite premises that are:\n\n- generic without any strong visual hook\n- visually repetitive\n- relying on exposed skin without strong composition or visual appeal\n- repetitive body-focused concepts that do not differ meaningfully from existing premises\n- identity-breaking\n- confusing or overly cluttered\n- impossible to understand visually\n- practically identical to another premise\n- weak both as a still image and as a future video starting frame\n- graphically explicit sexual content\n- complicated purely for the sake of being complicated\n- dependent on text explanation to understand why the image is attractive or interesting\n\nDo not reject a premise simply because:\n\n- it is a pin-up\n- it is body-focused\n- it emphasizes breasts\n- it emphasizes buttocks\n- it uses cleavage\n- it uses a rear view\n- it uses a low viewpoint\n- it has little or no story\n\nThese can all be strong premises when their visual execution is distinctive.\n\n---\n\n## Master Creative Formula\n\nStrong premises should combine several of the following:\n\n**RECOGNIZABLE CHARACTER  \n+ ATTRACTIVE BODY PRESENTATION  \n+ PROVOCATIVE / SUGGESTIVE ENERGY  \n+ CLEAR VISUAL HOOK  \n+ DISTINCTIVE SITUATION  \n+ PERSONALITY OR REACTION  \n+ MICRO-STORY  \n+ MOTION POTENTIAL**\n\nNot every premise needs every element.\n\nSome images may succeed primarily through:\n\n**CHARACTER + BODY + POSE + COMPOSITION**\n\nwhile others may succeed through:\n\n**CHARACTER + PROVOCATIVE SITUATION + REACTION + STORY**\n\nor:\n\n**CHARACTER + EROTIC IMPLICATION + STRATEGIC CENSORSHIP + VISUAL GAG**\n\nor:\n\n**CHARACTER + STRONG SILHOUETTE + SENSUAL FRAMING**\n\nor:\n\n**CHARACTER + CONTROLLED ACCIDENT + DOUBLE MEANING + REACTION**\n\nThe dataset should contain multiple kinds of appeal rather than forcing every premise into the same formula.\n\nTwo broad families are both desirable:\n\n### Pure Visual Appeal\n\nThe pose, body, framing, silhouette or composition is itself the main reason to look.\n\n### Situational Appeal\n\nThe attraction is reinforced by a situation, implication, action, reaction, joke or micro-story.\n\nNeither family is inherently superior.\n\nUse both.\n\n---\n\n## Final Rule\n\n> **The viewer should notice the character first, the visual or provocative hook immediately after, and — when the concept contains one — understand the tiny story almost instantly.**\n\nThe objective is not maximum explicitness.\n\nThe objective is maximum **visual attraction, curiosity and memorability** while keeping the character recognizable and the visible content non-graphic."
+        }
+      ]
+    },
+    "prompt_guide_manifest": {
+      "viral_premise": {
+        "version": "v1",
+        "file": "prompt_guides/viral_premise_guide_v1.md"
+      },
+      "illustrious_prompt": {
+        "version": "v1",
+        "file": "prompt_guides/illustrious_prompt_guide_v1.md"
+      },
+      "klein_prompt": {
+        "version": "v1",
+        "file": "prompt_guides/klein_prompt_guide_v1.md"
+      },
+      "minimax_video_prompt": {
+        "version": "v1",
+        "file": "prompt_guides/minimax_video_prompt_guide_v1.md"
+      }
+    }
+  },
+  "batches": [
+    {
+      "batch": 1,
+      "categories_plan": [
+        "closeup",
+        "medium",
+        "fullbody",
+        "dynamic",
+        "cinematic"
+      ],
+      "raw_response": "D:\\IA\\Ada\\premises\\dry_run_2b_nier_automata_20_raw_batch_01_attempt_01.json",
+      "count": 5
+    },
+    {
+      "batch": 2,
+      "categories_plan": [
+        "closeup",
+        "medium",
+        "fullbody",
+        "dynamic",
+        "cinematic"
+      ],
+      "raw_response": "D:\\IA\\Ada\\premises\\dry_run_2b_nier_automata_20_raw_batch_02_attempt_01.json",
+      "count": 5
+    },
+    {
+      "batch": 3,
+      "categories_plan": [
+        "closeup",
+        "medium",
+        "fullbody",
+        "dynamic",
+        "cinematic"
+      ],
+      "raw_response": "D:\\IA\\Ada\\premises\\dry_run_2b_nier_automata_20_raw_batch_03_attempt_01.json",
+      "count": 5
+    },
+    {
+      "batch": 4,
+      "categories_plan": [
+        "closeup",
+        "medium",
+        "fullbody",
+        "dynamic",
+        "cinematic"
+      ],
+      "raw_response": "D:\\IA\\Ada\\premises\\dry_run_2b_nier_automata_20_raw_batch_04_attempt_01.json",
+      "count": 5
+    }
+  ],
+  "proposals": [
+    {
+      "id": "b01_01",
+      "category": "closeup",
+      "premise": "An extreme close-up focusing on 2B's blindfold and the delicate fabric of her hairband, with her white hair strands gently brushing against the black cloth. Her lips are slightly parted in a moment of silent breath, and the lighting highlights the texture of the fabric against her pale skin, creating an intimate atmosphere that emphasizes her stoic yet vulnerable expression without showing her eyes."
+    },
+    {
+      "id": "b01_02",
+      "category": "medium",
+      "premise": "A medium shot framing 2B from the waist up as she leans back against a rough concrete wall, one arm raised to adjust her blindfold with a focused, serious expression. Her black dress fits tightly across her torso, emphasizing her defined waist and bust, while the angle captures the tension in her shoulders and the slight tilt of her head, suggesting a momentary pause in combat."
+    },
+    {
+      "id": "b01_03",
+      "category": "fullbody",
+      "premise": "A full-body composition showing 2B standing in a relaxed, contrapposto pose with weight shifted onto one leg, accentuating the curve of her hips and the length of her thigh-high boots. Her arms are crossed loosely at her waist, and she looks down with a subtle, enigmatic smile, creating a confident and elegant silhouette against a soft, out-of-focus background that isolates her figure."
+    },
+    {
+      "id": "b01_04",
+      "category": "dynamic",
+      "premise": "A dynamic action shot capturing 2B mid-leap as she swings her sword downward, her hair and dress fluttering dramatically in the wind. The viewpoint is low and angled upward, highlighting the power of her athletic build and the movement of her limbs, while her expression remains calm and focused, contrasting with the intensity of the motion."
+    },
+    {
+      "id": "b01_05",
+      "category": "cinematic",
+      "premise": "A cinematic wide shot placing 2B in a rain-soaked urban alleyway at night, illuminated by neon signs that cast colorful reflections on her wet black dress. She stands with her back to the viewer, looking over her shoulder with half-lidded eyes (visible through the blindfold's shadow) as raindrops fall around her, creating a moody and atmospheric scene with strong depth and lighting contrast."
+    },
+    {
+      "id": "b02_01",
+      "category": "closeup",
+      "premise": "A tight crop on 2B's upper torso and neck as she tilts her head down, the black blindfold pulled slightly askew by a gust of wind to reveal one wide, unseeing eye. Her white hair is in disarray against the collar of her dress, emphasizing the tension between her stoic composure and the sudden vulnerability of exposure."
+    },
+    {
+      "id": "b02_02",
+      "category": "medium",
+      "premise": "Medium shot from a low angle showing 2B kneeling on one knee to adjust the strap of her thigh-high boot. The pose twists her torso, accentuating her waist-to-hip curve and the cutouts in her black dress, while she maintains a focused expression, unaware that the movement has shifted her clothing in a suggestive way."
+    },
+    {
+      "id": "b02_03",
+      "category": "fullbody",
+      "premise": "Full-body rear view of 2B standing on a cracked rooftop edge. She is looking out over a ruined cityscape with her back to the viewer, emphasizing the long line of her legs and the silhouette of her dress against the bright sky. The wind lifts the hem of her skirt slightly, teasingly revealing more than intended as she remains perfectly still."
+    },
+    {
+      "id": "b02_04",
+      "category": "dynamic",
+      "premise": "Action shot capturing 2B mid-leap in a graceful arc through the air after dodging debris. Her body is fully extended, showcasing athletic tension and flexibility, with her white hair trailing behind her. The composition focuses on the fluidity of her movement and the contrast between her delicate features and the chaotic destruction around her."
+    },
+    {
+      "id": "b02_05",
+      "category": "cinematic",
+      "premise": "Wide cinematic framing of 2B standing alone in a vast, fog-filled cathedral ruin. Shafts of light pierce through broken windows to illuminate dust motes around her. She stands with hands clasped behind her back, exuding an elegant, melancholic presence, while the sheer scale of the environment dwarfs her figure, creating a dramatic and atmospheric mood."
+    },
+    {
+      "id": "b03_01",
+      "category": "closeup",
+      "premise": "An extreme close-up from a slightly low angle focuses on 2B's face as she tilts her head, the white blindfold pulled taut across her eyes. Her expression is deceptively serene and innocent, yet her lips are parted slightly in a subtle, knowing smile that hints at hidden amusement or secret awareness. The framing isolates her short black hair and the delicate fabric of the blindfold against a soft, out-of-focus background, emphasizing the contrast between her stoic appearance and the playful tension in her expression."
+    },
+    {
+      "id": "b03_02",
+      "category": "medium",
+      "premise": "A medium shot from behind captures 2B adjusting the strap of her black dress, her back arched gracefully to emphasize the curve of her waist and hips. Her white hair falls softly over one shoulder as she reaches up, creating a dynamic line that draws the eye toward the cutout details of her outfit. The composition highlights the tension in her posture and the silhouette of her figure, with a hint of vulnerability mixed with deliberate elegance."
+    },
+    {
+      "id": "b03_03",
+      "category": "fullbody",
+      "premise": "A full-body frontal view shows 2B standing on one leg, the other extended forward in a poised ballet-like stance. Her dress flutters slightly as if caught by a gentle breeze, revealing the length of her legs and the fit of her thigh-high boots. The viewpoint is eye-level, capturing her confident yet restrained posture and the sharp contrast between her dark attire and the bright, minimalist environment."
+    },
+    {
+      "id": "b03_04",
+      "category": "dynamic",
+      "premise": "A dynamic action shot from a low angle shows 2B mid-leap, her body twisted in an elegant arc as she evades an unseen obstacle. Her hair streams behind her, and the fabric of her dress clings to her form, accentuating her athletic silhouette. The motion blur suggests speed and agility, while her focused expression maintains the character's usual composure despite the intense physical effort."
+    },
+    {
+      "id": "b03_05",
+      "category": "cinematic",
+      "premise": "A cinematic wide shot places 2B in a dimly lit, atmospheric corridor with dramatic lighting casting long shadows across her figure. She stands still, silhouetted against a bright light source behind her, creating a strong contrast that outlines her form. The composition is balanced and symmetrical, evoking a sense of mystery and anticipation as she appears to wait for an unseen arrival or departure."
+    },
+    {
+      "id": "b04_01",
+      "category": "closeup",
+      "premise": "Extreme close-up on 2B's face from a low angle as she tilts her head, her blindfold slightly askew to reveal one sharp blue eye and the strap of her hairband. Her expression is stoic but with a micro-tension in her jaw, suggesting she has just noticed an intruder or a sudden drop in pressure. The framing isolates her face against a blurred background of dust motes, emphasizing the contrast between her innocent white hair and the intense focus of her gaze."
+    },
+    {
+      "id": "b04_02",
+      "category": "medium",
+      "premise": "Medium shot from the waist up showing 2B sitting on the edge of a ruined concrete slab, legs crossed elegantly. She is in the middle of adjusting the glove on her left hand, pulling it up to reveal the delicate line of her wrist and the black fabric of her dress hugging her shoulders. Her head is bowed slightly in concentration, but her posture remains poised, creating a sense of quiet elegance amidst destruction. The focus is on the tension of the fabric against her arms and the graceful curve of her seated torso."
+    },
+    {
+      "id": "b04_03",
+      "category": "fullbody",
+      "premise": "Full-body frontal view of 2B standing in a shallow puddle reflecting the grey sky, water clinging to the hem of her black dress and her thigh-high boots. She stands with weight shifted onto one leg, accentuating the curve of her hips and the definition of her waist. The wet fabric clings tightly to her silhouette, highlighting her athletic yet voluptuous figure. Her hands rest loosely at her sides, fingers slightly curled, as if she just stepped into the water without breaking stride."
+    },
+    {
+      "id": "b04_04",
+      "category": "dynamic",
+      "premise": "Dynamic low-angle capture of 2B mid-leap over a crumbling pillar, her black dress flowing dramatically behind her in a wide arc. Her puffy sleeves billow out from the motion, and her white hair streams horizontally due to the speed. She is reaching forward with one arm extended for balance, showcasing the stretch of her torso and the power in her legs as they trail behind her. The composition emphasizes the kinetic energy and the fluidity of her movement against a static background of rubble."
+    },
+    {
+      "id": "b04_05",
+      "category": "cinematic",
+      "premise": "Wide cinematic shot from behind 2B, who stands at the edge of a cliff overlooking a vast, misty valley below. She holds her black sword vertically in one hand, resting it on her shoulder, while the other hand adjusts the strap of her blindfold. The wind lifts the hem of her dress and her hair, creating a silhouette that is both fragile and commanding. The lighting is backlit, casting her in shadow but outlining her form with a rim light, evoking a sense of solitary determination before a major confrontation."
+    }
+  ]
+}

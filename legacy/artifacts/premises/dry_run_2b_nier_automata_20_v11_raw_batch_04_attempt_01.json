@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"b04_01\",\n    \"category\": \"closeup\",\n    \"premise\": \"A tight close-up on 2B's face as she struggles to maintain her stoic expression while a stray wisp of white hair slips from under her blindfold, catching the light and causing her to narrow her visible eyes in subtle irritation.\"\n  },\n  {\n    \"id\": \"b04_02\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot framing 2B's upper body as she leans forward with one hand pressed against a cracked glass surface, her posture tense and focused while her other hand grips the hilt of her sword, suggesting an imminent breach.\"\n  },\n  {\n    \"id\": \"b04_03\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B standing on a precarious ledge, her weight shifted onto one leg to maintain balance as wind billows her black dress and feather-trimmed sleeves, highlighting her athletic silhouette against the void.\"\n  },\n  {\n    \"id\": \"b04_04\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Dynamic action shot capturing 2B mid-air during a high-velocity jump over a crumbling structure, her legs extended and sword drawn back, with debris suspended in the air around her to emphasize speed and impact.\"\n  },\n  {\n    \"id\": \"b04_05\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Cinematic low-angle composition showing 2B silhouetted against a massive, glowing mechanical eye in the distance, her small figure dwarfed by the scale of the machine as she turns slightly to look back toward the viewer.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4034,
+    "total_output_tokens": 404,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.644529614447276,
+    "time_to_first_token_seconds": 4.855454
+  }
+}

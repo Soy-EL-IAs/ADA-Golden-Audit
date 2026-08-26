@@ -1,0 +1,16 @@
+{
+  "id": "2b_balanced_v1_dynamic_001",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "feather-trimmed_sleeves"
+  ],
+  "defects": [],
+  "drift": [
+    "The stone pillar is not collapsing from her right side; it appears to be a static ruin behind her, not actively falling or obstructing her motion."
+  ],
+  "summary": "All preserved elements are visibly correct. No visible defects. Narrative drift: the pillar is not collapsing dynamically as described, appearing static rather than an active environmental obstruction."
+}

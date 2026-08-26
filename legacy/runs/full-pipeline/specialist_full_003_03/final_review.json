@@ -1,0 +1,16 @@
+{
+  "id": "2b_specialist_full_003_03",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "defects": [],
+  "drift": [
+    "The gate’s final bar does not align precisely with 2B’s waistline as specified; it is slightly above, altering the visual cage composition."
+  ],
+  "summary": "All preserved elements are visibly correct. No visible defects. Minor narrative drift in gate alignment."
+}

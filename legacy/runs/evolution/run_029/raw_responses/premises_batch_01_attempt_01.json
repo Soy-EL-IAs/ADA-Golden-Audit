@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e029_b01_1\",\n    \"category\": \"closeup\",\n    \"premise\": \"Extreme close-up of 2B's gloved hand gripping the edge of a crumbling stone ledge as her blindfold slips slightly, revealing the mechanical iris beneath; dust particles float in the air from the recent crack, and her expression is one of sharp focus rather than panic.\"\n  },\n  {\n    \"id\": \"e029_b01_2\",\n    \"category\": \"medium\",\n    \"premise\": \"Waist-up shot of 2B bracing against a sudden gust of wind from a broken air vent, her puffy sleeves billowing outward while she leans forward to keep her balance; her gaze is fixed on the source of the draft, and her hairband holds her short white hair in place despite the turbulence.\"\n  },\n  {\n    \"id\": \"e029_b01_3\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B mid-step across a narrow, fractured bridge over a chasm; her weight is shifted dynamically to one leg as she reaches out with her free hand to steady herself against a crumbling pillar, her thigh-high boots gripping the uneven stone surface.\"\n  },\n  {\n    \"id\": \"e029_b01_4\",\n    \"category\": \"dynamic\",\n    \"premise\": \"High-energy shot of 2B dodging a falling debris block that shatters behind her, creating a cloud of dust; she is in a low crouch with one leg extended forward, her dress hem flaring up to reveal her stockings, and her eyes are locked on the next incoming fragment.\"\n  },\n  {\n    \"id\": \"e029_b01_5\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Wide-angle low shot of 2B standing atop a collapsed skyscraper floor, silhouetted against a harsh industrial sunset; she is actively pulling down a loose cable to secure her footing as the ground beneath her shifts slightly, emphasizing her small scale against the massive ruin.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3274,
+    "total_output_tokens": 480,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.971165052528928,
+    "time_to_first_token_seconds": 3.958368
+  }
+}

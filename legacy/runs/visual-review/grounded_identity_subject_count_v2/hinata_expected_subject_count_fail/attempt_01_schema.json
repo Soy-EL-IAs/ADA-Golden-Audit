@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-uq0qljr4kxjc0e1atvtswg",
+  "object": "chat.completion",
+  "created": 1787668694,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"m1_hyuuga_hinata_03\",\n  \"stage\": \"lustify\",\n  \"identity\": {\n    \"result\": \"PASS\",\n    \"score\": 10,\n    \"confidence\": 1\n  },\n  \"subject_count\": {\n    \"expected\": 1,\n    \"actual\": 1,\n    \"result\": \"PASS\"\n  },\n  \"scores\": {\n    \"anatomy\": 10,\n    \"prompt_adherence\": 10,\n    \"composition\": 10,\n    \"visual_quality\": 10\n  },\n  \"defects\": [],\n  \"hard_constraint_failures\": [],\n  \"summary\": \"The image successfully renders Hinata Hyuga in a warm tea room setting, matching all required visual elements: black long hair, purple eyes, forehead protector, fishnet outfit, and a medium shot composition. The scene depicts her sharing tea with a friend, as required. All identity cues are preserved with high fidelity. No defects or constraint failures are present.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3441,
+    "completion_tokens": 224,
+    "total_tokens": 3665,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

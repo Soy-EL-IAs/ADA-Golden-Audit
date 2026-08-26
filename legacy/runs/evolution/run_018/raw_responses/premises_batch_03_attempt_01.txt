@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e018_b03_closeup",
+    "category": "closeup",
+    "premise": "A tight close-up on 2B's gloved fingers as they meticulously wipe a smear of black hydraulic fluid from the strap of her blindfold; her jaw is set in a line of quiet irritation, and a stray wisp of white hair clings to the damp fabric near her temple, highlighting the contrast between her pristine uniform and the gritty mechanical residue."
+  },
+  {
+    "id": "e018_b03_medium",
+    "category": "medium",
+    "premise": "A medium shot capturing 2B twisting sharply away from a sudden burst of green toxic gas venting from a broken wall panel; her puffy feather-trimmed sleeves billow outward with the abrupt movement, and she claps one hand over her mouth and nose in a practiced motion, her body angled to shield her face while her stance remains grounded and controlled."
+  },
+  {
+    "id": "e018_b03_fullbody",
+    "category": "fullbody",
+    "premise": "A full-body view of 2B lunging forward to catch a loose, swinging cable that is whipping dangerously close to her face; her thigh-high boots are planted in a wide lunge for stability, and her arms are extended with precise tension as she snaps the wire taut, her body leaning into the pull to dampen its momentum."
+  },
+  {
+    "id": "e018_b03_dynamic",
+    "category": "dynamic",
+    "premise": "A high-energy dynamic shot of 2B mid-rotation as she dodges a flying shard of glass from a shattered window; her black dress flares dramatically around her waist, and her arms are tucked close to protect her blindfold, capturing the exact moment her back passes the point of impact with motion blur emphasizing the speed of her turn."
+  },
+  {
+    "id": "e018_b03_cinematic",
+    "category": "cinematic",
+    "premise": "A wide cinematic angle showing 2B standing on a precarious ledge above a deep chasm, leaning forward to fish a small, glowing data chip out of the rubble at her feet; the vast, dark industrial canyon looms below, but her focus is entirely downward, creating a striking contrast between the immense scale of the environment and her precise, delicate action."
+  }
+]

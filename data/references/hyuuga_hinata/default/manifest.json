@@ -1,0 +1,595 @@
+{
+  "schema_version": 2,
+  "character": "hyuuga_hinata",
+  "version": null,
+  "created_at": "2026-08-25T14:18:11.243005+00:00",
+  "status": "downloaded",
+  "usable": true,
+  "provider": "searxng",
+  "source_query": "\"Hyuuga Hinata\" \"naruto (series)\"",
+  "searches": [
+    "\"Hyuuga Hinata\" \"naruto (series)\"",
+    "\"Hyuuga Hinata\" \"naruto (series)\" character",
+    "\"Hyuuga Hinata\" \"naruto (series)\" official artwork",
+    "\"hyuuga_hinata\"",
+    "\"hyuuga_hinata\" \"naruto (series)\" character",
+    "\"hyuuga hinata\" \"naruto (series)\" character"
+  ],
+  "refs": [
+    {
+      "file": "refs/ref_02.jpg",
+      "source_url": "https://media1.nin-nin-game.com/343826/naruto-gals-dx-naruto-shippuuden-hyuuga-hinata-ver4-limited-edition-megahouse-.jpg",
+      "page_url": "https://www.nin-nin-game.com/en/naruto/116059-naruto-gals-dx-naruto-shippuuden-hyuuga-hinata-ver4-limited-edition-megahouse-.html",
+      "domain": "nin-nin-game.com",
+      "final_score": 43,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://www.nin-nin-game.com/en/naruto/116059-naruto-gals-dx-naruto-shippuuden-hyuuga-hinata-ver4-limited-edition-megahouse-.html",
+        "image_url": "https://media1.nin-nin-game.com/343826/naruto-gals-dx-naruto-shippuuden-hyuuga-hinata-ver4-limited-edition-megahouse-.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.99,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.99,
+        "evidence": [
+          "The character has black hair with blunt bangs, matching Hyuuga Hinata's known traits.",
+          "The character has purple eyes, consistent with Hinata's byakugan activation.",
+          "The character is depicted using a chakra-based technique with crystalline spikes, a signature move of Hinata.",
+          "The text on the image explicitly names the character as '日向ヒナタ' (Hyuuga Hinata)."
+        ]
+      },
+      "sha256": "29d0b24786a0b1d64507c50cc7d8ee723496dabf23cabd41422b52b3ffb7dbf0",
+      "downloaded_at": "2026-08-25T14:18:16.984631+00:00"
+    }
+  ],
+  "character_id": "hyuuga_hinata",
+  "canonical_name": "Hyuuga Hinata",
+  "franchise": [
+    "naruto_(series)",
+    "naruto_shippuuden"
+  ],
+  "identity_resolution": {
+    "canonical_tag": "hyuuga_hinata",
+    "source": "danbooru_taxonomy",
+    "aliases": [
+      "hyuuga_hinata",
+      "Hyuuga Hinata",
+      "hyuuga hinata"
+    ]
+  },
+  "canonical_references": [
+    {
+      "file": "refs/ref_02.jpg",
+      "source_url": "https://media1.nin-nin-game.com/343826/naruto-gals-dx-naruto-shippuuden-hyuuga-hinata-ver4-limited-edition-megahouse-.jpg",
+      "page_url": "https://www.nin-nin-game.com/en/naruto/116059-naruto-gals-dx-naruto-shippuuden-hyuuga-hinata-ver4-limited-edition-megahouse-.html",
+      "domain": "nin-nin-game.com",
+      "final_score": 43,
+      "recommendation": "reject",
+      "provenance": {
+        "source_page": "https://www.nin-nin-game.com/en/naruto/116059-naruto-gals-dx-naruto-shippuuden-hyuuga-hinata-ver4-limited-edition-megahouse-.html",
+        "image_url": "https://media1.nin-nin-game.com/343826/naruto-gals-dx-naruto-shippuuden-hyuuga-hinata-ver4-limited-edition-megahouse-.jpg",
+        "source_tier": "unknown",
+        "trust_origin": "source_page",
+        "discovered_via": "image_search"
+      },
+      "identity_confidence": 0.99,
+      "reference_utility": 0.9,
+      "identity_validation": {
+        "status": "visual_identity_validation",
+        "identity_match": true,
+        "confidence": 0.99,
+        "evidence": [
+          "The character has black hair with blunt bangs, matching Hyuuga Hinata's known traits.",
+          "The character has purple eyes, consistent with Hinata's byakugan activation.",
+          "The character is depicted using a chakra-based technique with crystalline spikes, a signature move of Hinata.",
+          "The text on the image explicitly names the character as '日向ヒナタ' (Hyuuga Hinata)."
+        ]
+      },
+      "sha256": "29d0b24786a0b1d64507c50cc7d8ee723496dabf23cabd41422b52b3ffb7dbf0",
+      "downloaded_at": "2026-08-25T14:18:16.984631+00:00"
+    }
+  ],
+  "generated_identity_references": [],
+  "reference_status": "READY_WITH_LIMITED_REFERENCES",
+  "reference_count": 1,
+  "reference_confidence": 0.99,
+  "discovery": {
+    "queries_used": [
+      "\"Hyuuga Hinata\" \"naruto (series)\"",
+      "\"Hyuuga Hinata\" \"naruto (series)\" character",
+      "\"Hyuuga Hinata\" \"naruto (series)\" official artwork",
+      "\"hyuuga_hinata\"",
+      "\"hyuuga_hinata\" \"naruto (series)\" character",
+      "\"hyuuga hinata\" \"naruto (series)\" character"
+    ],
+    "raw_candidate_count": 120,
+    "page_fetch_errors": 0,
+    "rejected": [
+      {
+        "image_url": "https://vignette.wikia.nocookie.net/narutofanon/images/0/0f/HinataDP_(3).png/revision/latest?cb=20160829220037",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132532/pexels-photo-13132532.jpeg?cs=srgb&dl=pexels-colibri-tirado-242490114-13132532.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bfea75cb-bd16-44ae-ac15-6c4ced9bcb41/dk08zfo-5684a83c-b396-40d0-a70f-b9746e24a518.png/v1/fill/w_676,h_1183,q_70,strp/hyuuga_hinata__naruto__series___by_kurohokusoku_dk08zfo-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0NCIsInBhdGgiOiJcL2ZcL2JmZWE3NWNiLWJkMTYtNDRhZS1hYzE1LTZjNGNlZDliY2I0MVwvZGswOHpmby01Njg0YTgzYy1iMzk2LTQwZDAtYTcwZi1iOTc0NmUyNGE1MTgucG5nIiwid2lkdGgiOiI8PTc2OCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xiYj3HzDa20zpdL58a29wnCaoLMDLk0ELqBc1VyEvzE",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132394/pexels-photo-13132394.jpeg?cs=srgb&dl=pexels-227888035-13132394.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901262/pexels-photo-29901262.jpeg?cs=srgb&dl=pexels-spencphoto-29901262.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "http://images2.wikia.nocookie.net/__cb20120522201259/phoenixrising/images/3/31/566431.jpg",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901261/pexels-photo-29901261.jpeg?cs=srgb&dl=pexels-spencphoto-29901261.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://wallpapers-clan.com/wp-content/uploads/2024/05/naruto-hinata-hyuga-dawn-desktop-wallpaper-preview.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/16013451/pexels-photo-16013451.jpeg?cs=srgb&dl=pexels-brokenadmiral_-493491871-16013451.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://wallpapers-clan.com/wp-content/uploads/2024/04/naruto-hinata-hyuga-epic-anime-desktop-wallpaper-preview.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13644318/pexels-photo-13644318.jpeg?cs=srgb&dl=pexels-evoking-ephemerality-222334091-13644318.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.4403539.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13203637/pexels-photo-13203637.jpeg?cs=srgb&dl=pexels-unpoquitodefoto-13203637.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://staticg.sportskeeda.com/editor/2022/07/621bf-16584698260368.png?w=1600",
+        "reason": "identity_relevance_below_gate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/12695402/pexels-photo-12695402.jpeg?cs=srgb&dl=pexels-joshua-roberts-212557837-12695402.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://wallpapercat.com/w/full/b/9/2/2144467-1920x1080-desktop-full-hd-hinata-naruto-wallpaper.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13183381/pexels-photo-13183381.jpeg?cs=srgb&dl=pexels-ricardo-cl-222332561-13183381.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/65767/pexels-photo-65767.jpeg?cs=srgb&dl=pexels-donaldtong94-65767.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1739170099068-cb3963903f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://vignette.wikia.nocookie.net/narutofanon/images/0/0f/HinataDP_(3).png/revision/latest?cb=20160829220037",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132532/pexels-photo-13132532.jpeg?cs=srgb&dl=pexels-colibri-tirado-242490114-13132532.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1677143016687-8dbb7e71db08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/71e62c98-cba5-4db8-bac1-dd24566366ff/dfvx5n1-9acbb214-ddef-44bf-970a-21420c9704d7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxZTYyYzk4LWNiYTUtNGRiOC1iYWMxLWRkMjQ1NjYzNjZmZlwvZGZ2eDVuMS05YWNiYjIxNC1kZGVmLTQ0YmYtOTcwYS0yMTQyMGM5NzA0ZDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ImK4ZZOUjgFpBVJmN7WhI7yI9NHmzCTT29AkIDjiZx0",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132394/pexels-photo-13132394.jpeg?cs=srgb&dl=pexels-227888035-13132394.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1713766056256-9cb07ceda9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.642395.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901261/pexels-photo-29901261.jpeg?cs=srgb&dl=pexels-spencphoto-29901261.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/dot.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1594007759138-855170ec8dc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.anime-colors.com/wp-content/uploads/hinata-hyuga.png",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901262/pexels-photo-29901262.jpeg?cs=srgb&dl=pexels-spencphoto-29901262.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/space.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1682095729691-076203b285cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.4143981.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13644318/pexels-photo-13644318.jpeg?cs=srgb&dl=pexels-evoking-ephemerality-222334091-13644318.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/mail-badge.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1668366141082-536f187da68b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/98/ef/78/98ef7882646f2e82e8a4454c1a8cb5d2.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132532/pexels-photo-13132532.jpeg?cs=srgb&dl=pexels-colibri-tirado-242490114-13132532.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1667419674923-9eef9f86c628?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/dd/cb/b7/ddcbb7b962933551ca832729b7717550.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901262/pexels-photo-29901262.jpeg?cs=srgb&dl=pexels-spencphoto-29901262.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1661636752910-1d20db5fbf55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/ec/8e/99/ec8e99ac786d954c5071a8fe2db0172f.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901261/pexels-photo-29901261.jpeg?cs=srgb&dl=pexels-spencphoto-29901261.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1643425959020-b48e240d01b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.1024.3827252.webp",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132394/pexels-photo-13132394.jpeg?cs=srgb&dl=pexels-227888035-13132394.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1682308249776-9356bf43b705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://i.pinimg.com/originals/e2/d7/1b/e2d71b4269c01332c1205dbf8de62dbd.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/16013451/pexels-photo-16013451.jpeg?cs=srgb&dl=pexels-brokenadmiral_-493491871-16013451.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1628851541628-0c5d8f842c01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://s1.zerochan.net/Hinata.Hyuuga.600.3906232.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13644318/pexels-photo-13644318.jpeg?cs=srgb&dl=pexels-evoking-ephemerality-222334091-13644318.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1763732397864-5b860bb298b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1752069431797-c7ffaa4104d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://s1.zerochan.net/Hyuuga.Hinata.600.3957135.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/34949104/pexels-photo-34949104.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-34949104.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/194/515468191_9c241beca0_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1548661944-adc0ce6bcc3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.4144046.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13203637/pexels-photo-13203637.jpeg?cs=srgb&dl=pexels-unpoquitodefoto-13203637.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2201/2035395599_2ffdaa6c71_c.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1696416751507-4d3e391aa2eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a5b044a-ad5c-4c6d-bde2-279793b554f9/width=1200/0a5b044a-ad5c-4c6d-bde2-279793b554f9.jpeg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901262/pexels-photo-29901262.jpeg?cs=srgb&dl=pexels-spencphoto-29901262.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2107/2118637056_e26d99c4a2_n.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1715741249085-2c393fd9dc91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.4403539.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901261/pexels-photo-29901261.jpeg?cs=srgb&dl=pexels-spencphoto-29901261.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2221/2121566544_959e532495.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1725846788463-0694e44b680b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.3848457.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/33752874/pexels-photo-33752874.jpeg?cs=srgb&dl=pexels-tbd-tuyen-859104985-33752874.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "//live.staticflickr.com/2080/2299008823_83e55d03a8_z.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1739170099068-cb3963903f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://vignette.wikia.nocookie.net/narutofanon/images/0/0f/HinataDP_(3).png/revision/latest?cb=20160829220037",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132394/pexels-photo-13132394.jpeg?cs=srgb&dl=pexels-227888035-13132394.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1658633385412-a9d6d921571f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/71e62c98-cba5-4db8-bac1-dd24566366ff/dfvx5n1-9acbb214-ddef-44bf-970a-21420c9704d7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxZTYyYzk4LWNiYTUtNGRiOC1iYWMxLWRkMjQ1NjYzNjZmZlwvZGZ2eDVuMS05YWNiYjIxNC1kZGVmLTQ0YmYtOTcwYS0yMTQyMGM5NzA0ZDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ImK4ZZOUjgFpBVJmN7WhI7yI9NHmzCTT29AkIDjiZx0",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13644318/pexels-photo-13644318.jpeg?cs=srgb&dl=pexels-evoking-ephemerality-222334091-13644318.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1785613593106-e810780dc799?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.642395.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/16013451/pexels-photo-16013451.jpeg?cs=srgb&dl=pexels-brokenadmiral_-493491871-16013451.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/dot.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1734314019786-62752d78cf38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.anime-colors.com/wp-content/uploads/hinata-hyuga.png",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132532/pexels-photo-13132532.jpeg?cs=srgb&dl=pexels-colibri-tirado-242490114-13132532.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/space.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1601869610377-0ccf555ed20c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.4143981.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901261/pexels-photo-29901261.jpeg?cs=srgb&dl=pexels-spencphoto-29901261.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-lower.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1739170099068-cb3963903f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://vignette.wikia.nocookie.net/narutofanon/images/0/0f/HinataDP_(3).png/revision/latest?cb=20160829220037",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132532/pexels-photo-13132532.jpeg?cs=srgb&dl=pexels-colibri-tirado-242490114-13132532.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-sensitive.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1677143016687-8dbb7e71db08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/71e62c98-cba5-4db8-bac1-dd24566366ff/dfvx5n1-9acbb214-ddef-44bf-970a-21420c9704d7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxZTYyYzk4LWNiYTUtNGRiOC1iYWMxLWRkMjQ1NjYzNjZmZlwvZGZ2eDVuMS05YWNiYjIxNC1kZGVmLTQ0YmYtOTcwYS0yMTQyMGM5NzA0ZDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ImK4ZZOUjgFpBVJmN7WhI7yI9NHmzCTT29AkIDjiZx0",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13132394/pexels-photo-13132394.jpeg?cs=srgb&dl=pexels-227888035-13132394.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/case-upper.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1713766056256-9cb07ceda9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.642395.jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901261/pexels-photo-29901261.jpeg?cs=srgb&dl=pexels-spencphoto-29901261.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/dot.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.unsplash.com/photo-1594007759138-855170ec8dc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://www.anime-colors.com/wp-content/uploads/hinata-hyuga.png",
+        "reason": "duplicate_url"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/29901262/pexels-photo-29901262.jpeg?cs=srgb&dl=pexels-spencphoto-29901262.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://cdn.jsdelivr.net/npm/lucide-static/icons/space.svg",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://plus.unsplash.com/premium_photo-1682095729691-076203b285cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://static.zerochan.net/Hyuuga.Hinata.full.4143981.png",
+        "reason": "invalid_or_irrelevant_candidate"
+      },
+      {
+        "image_url": "https://images.pexels.com/photos/13644318/pexels-photo-13644318.jpeg?cs=srgb&dl=pexels-evoking-ephemerality-222334091-13644318.jpg&fm=jpg",
+        "reason": "invalid_or_irrelevant_candidate"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "source_url": "https://www.anime-colors.com/wp-content/uploads/hinata-hyuga.png",
+      "page_url": "https://www.anime-colors.com/naruto-series/hinata-hyuga",
+      "error": "Unterminated string starting at: line 8 column 5 (char 124)"
+    }
+  ],
+  "duplicate_hashes": []
+}

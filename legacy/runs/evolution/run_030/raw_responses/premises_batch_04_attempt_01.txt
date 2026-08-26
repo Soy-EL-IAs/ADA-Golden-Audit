@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e030_b04_closeup",
+    "category": "closeup",
+    "premise": "A close-up of 2B's face as a heavy, magnetic clamp descends rapidly from above; her head tilts back sharply to avoid the impact, causing her short white hair to puff outward against the force while her visible eye squints in sharp, controlled focus, and a thin strand of hair is visibly pulled upward by the static charge."
+  },
+  {
+    "id": "e030_b04_medium",
+    "category": "medium",
+    "premise": "2B is waist-up, leaning backward with one arm extended to catch a heavy, swinging pipe that has just broken free; her torso arches against the sudden weight, tightening the fabric of her black dress across her shoulders as her gloved hand grips the metal firmly, her expression locked in intense concentration rather than surprise."
+  },
+  {
+    "id": "e030_b04_fullbody",
+    "category": "fullbody",
+    "premise": "2B is captured mid-crouch on a narrow ledge, extending one leg far forward to test the stability of a cracked stone before committing her weight; her body is low and centered, emphasizing the length of her thigh-high stockings and boots as she prepares to leap across a widening chasm where the floor has just given way."
+  },
+  {
+    "id": "e030_b04_dynamic",
+    "category": "dynamic",
+    "premise": "2B is in mid-air, having just leaped over a burst of pressurized steam; her puffy sleeves are flared outward from the impact and her hair is whipping backward as she tucks her knees to protect herself, with motion blur trailing behind her to indicate rapid displacement away from the scalding cloud."
+  },
+  {
+    "id": "e030_b04_cinematic",
+    "category": "cinematic",
+    "premise": "A low-angle shot looks up at 2B standing on a fractured metal grating, her figure silhouetted against a vast, dark industrial shaft; she remains perfectly still and composed while a massive gear turns slowly behind her, emphasizing her stability and focus against the chaotic scale of the moving machinery."
+  }
+]

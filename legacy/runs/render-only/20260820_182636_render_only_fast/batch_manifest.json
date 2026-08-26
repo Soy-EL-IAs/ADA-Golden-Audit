@@ -1,0 +1,173 @@
+{
+  "batch_id": "20260820_182636_render_only_fast",
+  "mode": "render-only-fast",
+  "premises_source": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\premises\\sol_100.jsonl",
+  "expected_count": 100,
+  "started_at": "2026-08-20T18:26:36.849907-03:00",
+  "runs": [
+    {
+      "sequence": 1,
+      "premise_id": "chel_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\001_chel_001"
+    },
+    {
+      "sequence": 2,
+      "premise_id": "hinata_hyuga_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\002_hinata_hyuga_001"
+    },
+    {
+      "sequence": 3,
+      "premise_id": "violet_parr_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\003_violet_parr_001"
+    },
+    {
+      "sequence": 4,
+      "premise_id": "makoto_nanaya_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\004_makoto_nanaya_001"
+    },
+    {
+      "sequence": 5,
+      "premise_id": "nico_robin_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\005_nico_robin_001"
+    },
+    {
+      "sequence": 6,
+      "premise_id": "akali_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\006_akali_001"
+    },
+    {
+      "sequence": 7,
+      "premise_id": "orihime_inoue_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\007_orihime_inoue_001"
+    },
+    {
+      "sequence": 8,
+      "premise_id": "sara_bellum_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\008_sara_bellum_001"
+    },
+    {
+      "sequence": 9,
+      "premise_id": "yoruichi_shihouin_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\009_yoruichi_shihouin_001"
+    },
+    {
+      "sequence": 10,
+      "premise_id": "himiko_toga_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\010_himiko_toga_001"
+    },
+    {
+      "sequence": 11,
+      "premise_id": "ghislaine_dedoldia_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\011_ghislaine_dedoldia_001"
+    },
+    {
+      "sequence": 12,
+      "premise_id": "kim_possible_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\012_kim_possible_001"
+    },
+    {
+      "sequence": 13,
+      "premise_id": "lara_croft_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\013_lara_croft_001"
+    },
+    {
+      "sequence": 14,
+      "premise_id": "tifa_lockhart_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\014_tifa_lockhart_001"
+    },
+    {
+      "sequence": 15,
+      "premise_id": "faye_valentine_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\015_faye_valentine_001"
+    },
+    {
+      "sequence": 16,
+      "premise_id": "bayonetta_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\016_bayonetta_001"
+    },
+    {
+      "sequence": 17,
+      "premise_id": "nami_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\017_nami_001"
+    },
+    {
+      "sequence": 18,
+      "premise_id": "boa_hancock_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\018_boa_hancock_001"
+    },
+    {
+      "sequence": 19,
+      "premise_id": "tsunade_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\019_tsunade_001"
+    },
+    {
+      "sequence": 20,
+      "premise_id": "esdeath_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\020_esdeath_001"
+    },
+    {
+      "sequence": 21,
+      "premise_id": "mirko_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\021_mirko_001"
+    },
+    {
+      "sequence": 22,
+      "premise_id": "yor_forger_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\022_yor_forger_001"
+    },
+    {
+      "sequence": 23,
+      "premise_id": "revy_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\023_revy_001"
+    },
+    {
+      "sequence": 24,
+      "premise_id": "android_18_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\024_android_18_001"
+    },
+    {
+      "sequence": 25,
+      "premise_id": "bulma_001",
+      "error": "ComfyUI execution failed: {\n  \"status_str\": \"error\",\n  \"completed\": false,\n  \"messages\": [\n    [\n      \"execution_start\",\n      {\n        \"prompt_id\": \"ff32bfca-66e0-4090-8251-9856c0690566\",\n        \"timestamp\": 1787262603242\n      }\n    ],\n    [\n      \"execution_cached\",\n      {\n        \"nodes\": [],\n        \"prompt_id\": \"ff32bfca-66e0-4090-8251-9856c0690566\",\n        \"timestamp\": 1787262603267\n      }\n    ],\n    [\n      \"execution_interrupted\",\n      {\n        \"prompt_id\": \"ff32bfca-66e0-4090-8251-9856c0690566\",\n        \"node_id\": \"10\",\n        \"node_type\": \"KSampler\",\n        \"executed\": [\n          \"1\",\n          \"7\",\n          \"8\",\n          \"4\",\n          \"9\",\n          \"5\",\n          \"2\",\n          \"6\",\n          \"3\"\n        ],\n        \"timestamp\": 1787262631893\n      }\n    ]\n  ]\n}",
+      "recorded_at": "2026-08-20T18:50:33.287934-03:00",
+      "status": "render_only_error",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\025_bulma_001"
+    },
+    {
+      "sequence": 26,
+      "premise_id": "rangiku_matsumoto_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\026_rangiku_matsumoto_001"
+    },
+    {
+      "sequence": 27,
+      "premise_id": "erza_scarlet_001",
+      "status": "unreviewed_render_only",
+      "run_dir": "C:\\Users\\ELIAS\\Documents\\Codex\\2026-08-20\\referenced-chatgpt-conversation-this-is-an\\outputs\\luna_pipeline\\render_only_runs\\20260820_182636_render_only_fast\\027_erza_scarlet_001"
+    }
+  ]
+}

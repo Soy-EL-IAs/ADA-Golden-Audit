@@ -1,0 +1,34 @@
+{
+  "id": "the_boss_mgs_032",
+  "character": "The Boss",
+  "franchise": "Metal Gear Solid 3",
+  "identity": [
+    "short silver-blonde hair",
+    "white fitted combat suit",
+    "combat knife"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a rain-soaked jungle clearing, she tests her footing on a fallen log and a cluster of broad leaves dumps stored rainwater over one shoulder after she brushes past, with confident sensual body language throughout.",
+  "must_include": [
+    "water-filled leaves",
+    "fallen log"
+  ],
+  "environment": [
+    "jungle clearing",
+    "soft overcast light",
+    "rain mist and wet foliage"
+  ],
+  "animation_hook": "She rolls her shoulder, steps off the log, and uses the next leaf as a deliberate splash shield.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000031,
+  "krea_seed_base": 2000031
+}

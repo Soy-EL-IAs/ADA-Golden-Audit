@@ -1,0 +1,20 @@
+{
+  "id": "faye_valentine_ada_Faye_Valentine_20260822_185027_01",
+  "stage": "klein",
+  "verdict": "RETRY_ILLUSTRIOUS",
+  "defects": [
+    "Immutable identity failure: hair is purple and short, eyes are green — correct.",
+    "Scene requirement failure: character is NOT holding a crumpled newspaper clipping over midriff. Instead, she holds a folded newspaper in one hand, and the paper is not torn or obscuring her midriff.",
+    "Scene requirement failure: no visible torn edges on the paper, and no skin is revealed beneath it as required.",
+    "Scene requirement failure: expression is a confident smirk, not an irritated expression with narrowed eyes.",
+    "Scene requirement failure: hand on hip with fingers digging into shorts fabric — the hand is on hip, but fingers are not digging into fabric; the other hand holds the newspaper.",
+    "Canonical outfit drift: hairband is present (yellow), shorts are present, lipstick is not visible, thighhighs are present, shirt is not present (red jacket is draped, not worn as shirt), bare shoulders are present, crop_top is present, boots are present — but the outfit is not canonical as specified (e.g., no shirt, no crop_top as defined)."
+  ],
+  "drift": [
+    "The newspaper is not torn or strategically obscuring the midriff as required.",
+    "The expression is not irritated — it is a confident smirk.",
+    "The hand on hip does not show fingers digging into shorts fabric — the hand is holding the newspaper.",
+    "The red jacket is draped over the torso, not worn as a shirt, which is not part of the canonical outfit specification."
+  ],
+  "summary": "Major structural failure: critical scene requirements are missing or misrepresented. The character is not holding a crumpled newspaper clipping over her midriff with torn edges, her expression is not irritated, and her hand is not digging into shorts fabric. The outfit is not canonical as specified. RETRY_ILLUSTRIOUS."
+}

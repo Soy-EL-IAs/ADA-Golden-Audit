@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e016_b02_1",
+    "category": "closeup",
+    "premise": "A close-up on 2B's face as she holds her breath, lips pressed tight in restrained composure, while a thick drip of viscous industrial oil hangs from a rusted pipe directly above her blindfold, threatening to break."
+  },
+  {
+    "id": "e016_b02_2",
+    "category": "medium",
+    "premise": "2B's torso twists sharply as she reaches behind her back to adjust a slipped strap on her shoulder armor, the movement causing her puffy feather-trimmed sleeves to bunch up and her black dress fabric to pull taut across her waist."
+  },
+  {
+    "id": "e016_b02_3",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B crouching low on a slick, oil-stained metal floor, her thigh-high boots gripping for traction as she carefully places one hand flat against the ground to steady herself after a sudden slip."
+  },
+  {
+    "id": "e016_b02_4",
+    "category": "dynamic",
+    "premise": "2B lunges forward with her left leg extended, using it to kick away a rolling heavy gear just inches from her foot, her short white hair whipping back violently as the momentum of the dodge carries her off-balance."
+  },
+  {
+    "id": "e016_b02_5",
+    "category": "cinematic",
+    "premise": "Framed by a massive, rotating industrial turbine blade in the foreground, 2B stands poised on a narrow maintenance catwalk, her back straight and arms at her sides as she waits for the heavy metal to swing past without flinching."
+  }
+]

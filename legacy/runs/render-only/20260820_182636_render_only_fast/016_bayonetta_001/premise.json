@@ -1,0 +1,33 @@
+{
+  "id": "bayonetta_001",
+  "character": "Bayonetta",
+  "franchise": "Bayonetta",
+  "identity": [
+    "black hair",
+    "black bodysuit with ornate details",
+    "glasses and gun-heels"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Bayonetta strikes a dramatic pose in a cathedral hall as she summons a weapon from her hair; the polished floor is slick from rain blown in through stained glass windows, and her heel skids just enough to send her into an elegant spin that shatters a fallen candlestick.",
+  "must_include": [
+    "weapon from her hair",
+    "fallen candlestick"
+  ],
+  "environment": [
+    "cathedral hall",
+    "polished floor",
+    "rain blown in through stained glass windows"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000015,
+  "krea_seed_base": 2000015
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e011_b01_closeup",
+    "category": "closeup",
+    "premise": "2B's face framed tightly, a single bead of sweat tracing her jaw as she grits her teeth to maintain composure while a heavy mechanical arm hovers inches from her blindfold."
+  },
+  {
+    "id": "e011_b01_medium",
+    "category": "medium",
+    "premise": "Waist-up shot of 2B bracing against a sudden gust of wind escaping a fractured ventilation shaft, her puffy sleeves billowing violently as she tilts her head to track the source."
+  },
+  {
+    "id": "e011_b01_fullbody",
+    "category": "fullbody",
+    "premise": "Full silhouette of 2B balancing precariously on a narrow, rusted maintenance beam, shifting her weight to keep from slipping as the metal groans under her boots."
+  },
+  {
+    "id": "e011_b01_dynamic",
+    "category": "dynamic",
+    "premise": "2B mid-dodge in a low crouch, her black dress flaring from the rapid movement as she evades a sparking cable snapping sideways from an overloaded power junction."
+  },
+  {
+    "id": "e011_b01_cinematic",
+    "category": "cinematic",
+    "premise": "Low-angle cinematic shot looking up at 2B standing on a cracked platform, dwarfed by the looming shadow of a massive industrial crane swinging toward her."
+  }
+]

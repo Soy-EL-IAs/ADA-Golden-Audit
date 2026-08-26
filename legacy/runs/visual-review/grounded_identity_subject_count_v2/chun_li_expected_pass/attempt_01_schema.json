@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-d3p1d7jd6r67e0zwydqzky",
+  "object": "chat.completion",
+  "created": 1787668686,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"m1_chun_li_01\",\n  \"stage\": \"lustify\",\n  \"identity\": {\n    \"result\": \"PASS\",\n    \"score\": 10,\n    \"confidence\": 1.0\n  },\n  \"subject_count\": {\n    \"expected\": 1,\n    \"actual\": 1,\n    \"result\": \"PASS\"\n  },\n  \"scores\": {\n    \"anatomy\": 10,\n    \"prompt_adherence\": 10,\n    \"composition\": 10,\n    \"visual_quality\": 10\n  },\n  \"defects\": [],\n  \"hard_constraint_failures\": [],\n  \"summary\": \"The rendered image accurately depicts Chun-Li performing a controlled spinning kick in a martial arts training hall. All required identity features (hair bun, brown hair, hair ribbon) and outfit elements (blue dress, spikes, pantyhose, boots) are present and visually consistent with the canonical references. The low-angle composition and dynamic blur from rapid rotation are well-executed. No defects or constraint failures are visible.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3410,
+    "completion_tokens": 234,
+    "total_tokens": 3644,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "status": "finalized",
+  "character": "2B",
+  "version": "NieR:Automata",
+  "count": 10,
+  "dataset_id": "2b_nier_automata_pilot_10_v2",
+  "dataset": "prompts/2b_nier_automata_pilot_10_v2.jsonl",
+  "preset_plan": "config/klein_presets_2b_nier_automata_pilot_10_v2.json",
+  "refs_cache_used": false,
+  "refs_manifest": null,
+  "distribution": {
+    "closeup": 2,
+    "medium": 2,
+    "fullbody": 2,
+    "dynamic": 2,
+    "cinematic": 2
+  },
+  "created_at": "2026-08-21T16:31:24.293462+00:00",
+  "finalized_at": "2026-08-21T16:37:01.763779+00:00",
+  "total_staged": 10,
+  "final_dataset": "prompts/2b_nier_automata_pilot_10_v2.jsonl",
+  "final_preset_plan": "config/klein_presets_2b_nier_automata_pilot_10_v2.json"
+}

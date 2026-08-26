@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e031_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Close-up on 2B's face and gloved hand as she firmly grips a vibrating metal grate to steady herself, her black blindfold tight against her forehead while short white hair is sharply displaced by the sudden upward surge of pressurized steam escaping from below.\"\n  },\n  {\n    \"id\": \"e031_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B twists her upper body sharply to the left, bracing against a rusted wall as a heavy industrial chain swings violently through the air just inches from her hair; her puffy feather-trimmed sleeves stretch with the motion and her expression remains stoically controlled despite the near miss.\"\n  },\n  {\n    \"id\": \"e031_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body shot of 2B crouching low on a tilted, sliding metal platform, her thigh-high boots digging into the surface for friction as she lowers her center of gravity to counterbalance the incline; one arm extends forward to grasp a fixed railing while her dress hem flares slightly from the air displacement.\"\n  },\n  {\n    \"id\": \"e031_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B performs a rapid, low-profile spin to evade a sweeping mechanical arm, her body angled sharply with motion blur trailing from her black gloves and the hem of her dress; debris kicks up around her feet as she initiates the turn, eyes focused on the next gap in the machinery.\"\n  },\n  {\n    \"id\": \"e031_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"2B is silhouetted against a massive, fractured window letting in harsh shafts of light; she actively pushes off a crumbling ledge with one leg to propel herself upward, her short white hair catching the backlight and creating a halo effect as she launches into the open space.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3575,
+    "total_output_tokens": 480,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.803974433195474,
+    "time_to_first_token_seconds": 4.129053
+  }
+}

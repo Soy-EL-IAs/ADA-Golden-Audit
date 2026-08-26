@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e025_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A tight close-up of 2B's face as a sudden, high-pitched screech from an off-screen predator causes her to flinch; her black blindfold shifts slightly down her nose, revealing the whites of her eyes widening in controlled shock while a single strand of white hair falls across her cheek.\"\n  },\n  {\n    \"id\": \"e025_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"A medium shot of 2B's torso twisting sharply to the right as she yanks a heavy, rusted lever from a wall panel; the effort pulls her puffy feather-trimmed sleeves taut and strains the fabric of her black dress cutout across her waist, while her gloved hand grips the handle with visible tension.\"\n  },\n  {\n    \"id\": \"e025_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"A full-body view of 2B diving forward to catch a small, glowing data chip that has popped out of a broken terminal; her body is stretched horizontally in mid-air, one leg extended back and the other bent, with her thigh-high stockings contrasting against the dusty floor as she reaches for the object.\"\n  },\n  {\n    \"id\": \"e025_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"A dynamic freeze-frame of 2B sliding across a polished metal surface to avoid a closing blast door; her body is low and parallel to the ground, one hand trailing along the floor for friction while her white hair and dress hem blur with the speed of her movement.\"\n  },\n  {\n    \"id\": \"e025_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"A wide cinematic shot of 2B standing in a large, open atrium as a massive, broken chandelier crashes down around her; she is frozen in the center, arms outstretched to brace for impact, with debris raining down and dust clouds billowing outward from the point of collision.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4604,
+    "total_output_tokens": 498,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.867479551481445,
+    "time_to_first_token_seconds": 5.257033000000001
+  }
+}

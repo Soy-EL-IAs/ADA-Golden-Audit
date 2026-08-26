@@ -1,0 +1,34 @@
+{
+  "id": "chun_li_002",
+  "character": "Chun-Li",
+  "franchise": "Street Fighter",
+  "identity": [
+    "ox-horn hair buns with white ribbons",
+    "blue qipao battle outfit with spiked bracelets",
+    "powerful athletic legs"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "At a neon rooftop bar after hours, she leans into a high kick pose for a photo timer and accidentally taps a cocktail shaker, sending it spinning perfectly into an empty glass, with confident sensual body language throughout.",
+  "must_include": [
+    "high kick pose",
+    "spinning cocktail shaker"
+  ],
+  "environment": [
+    "rooftop bar",
+    "magenta and cyan neon",
+    "city skyline and empty stools"
+  ],
+  "animation_hook": "The shaker lands, she lowers her leg with a confident smile, and the drink foams dramatically over the rim.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000001,
+  "krea_seed_base": 2000001
+}

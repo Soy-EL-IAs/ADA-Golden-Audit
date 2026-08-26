@@ -1,0 +1,17 @@
+{
+  "id": "ghislaine_dedoldia_specialist_full_ghislaine_001_02",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "eyepatch",
+    "grey_hair",
+    "cat_ears",
+    "red_choker",
+    "bare_shoulders"
+  ],
+  "defects": [],
+  "drift": [
+    "The lightning flash is visible and does not obscure the character's face or choker, but it is more prominent than intended, potentially overpowering the scene's mood. The gauntlet removal is depicted as fully undressing, violating the modesty guideline by showing the character's full torso and lack of any remaining fabric on the upper body. The tail is bristled, but the reaction to the shock is not visually emphasized enough to convey the suspended tension between vulnerability and readiness."
+  ],
+  "summary": "The image preserves all required elements visibly. However, it contains narrative/compositional drift: the gauntlet removal is fully undressing, violating the modesty guideline, and the lightning flash is too prominent, potentially overpowering the scene's mood. The tail's reaction to the shock is not visually emphasized enough to convey the suspended tension between vulnerability and readiness."
+}

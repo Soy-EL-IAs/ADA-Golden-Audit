@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "ada://schemas/illustrious_result_v1",
+  "title": "IllustriousResult v1",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "illustrious_prompt": {"type": "string", "minLength": 1},
+    "resolved_risks": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1}
+    }
+  },
+  "required": ["id", "illustrious_prompt", "resolved_risks"]
+}

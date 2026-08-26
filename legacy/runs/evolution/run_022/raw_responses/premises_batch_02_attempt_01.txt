@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e022_b02_closeup",
+    "category": "closeup",
+    "premise": "Close-up on 2B's face as a sudden burst of steam from a ruptured pipe blasts upward, forcing her to tilt her head back sharply; the force ripples through her short white hair and presses against her black blindfold, revealing a single crack in her composure as she holds her breath."
+  },
+  {
+    "id": "e022_b02_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B shielding her face with one gloved hand against a blinding flash of light from a malfunctioning console, while her other hand grips the edge of the metal panel to steady herself as sparks shower down onto her puffy feather-trimmed sleeves."
+  },
+  {
+    "id": "e022_b02_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B stepping over a low, jagged rebar trap on the floor, her black dress hem snagging briefly on a sharp edge before she yanks free with a controlled motion, her thigh-high stockings stretching as she maintains balance without breaking stride."
+  },
+  {
+    "id": "e022_b02_dynamic",
+    "category": "dynamic",
+    "premise": "Dynamic shot of 2B lunging forward to catch a falling mechanical gear with both hands, her body stretched low and taut as the weight pulls her arms down, causing her hairband to slip slightly and her boots to slide backward on the slick concrete."
+  },
+  {
+    "id": "e022_b02_cinematic",
+    "category": "cinematic",
+    "premise": "Wide cinematic angle of 2B pushing open a massive, rusted steel hatch that is slowly beginning to close on her, her body braced against the heavy door as hydraulic hisses erupt from the sides and dust swirls around her boots."
+  }
+]

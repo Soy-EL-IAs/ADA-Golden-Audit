@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "run_id": "ada_Faye_Valentine_20260822_185027_02",
+  "pipeline": "specialist_image_v1",
+  "character": "Faye Valentine",
+  "version": null,
+  "review_policy": "strict",
+  "stage": "COMPLETE",
+  "created_at": "2026-08-22T21:50:27.604403+00:00",
+  "updated_at": "2026-08-22T21:58:38.979081+00:00",
+  "seeds": {
+    "faye_valentine_ada_Faye_Valentine_20260822_185027_02": {
+      "illustrious": 9142641965241611302,
+      "klein": 4603752820340611004
+    }
+  },
+  "artifacts": {
+    "premise_spec": "premise_spec.json",
+    "illustrious_result": "illustrious_result.json",
+    "illustrious_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\ada_Faye_Valentine_20260822_185027_02\\faye_valentine_ada_Faye_Valentine_20260822_185027_02\\illustrious_00003_.png",
+    "illustrious_review": "illustrious_review.json",
+    "klein_result": "klein_result.json",
+    "klein_image": "D:\\IA\\ComfyUI_windows_portable_nvidia\\ComfyUI_windows_portable\\ComfyUI\\output\\AdaFullPipeline\\ada_Faye_Valentine_20260822_185027_02\\faye_valentine_ada_Faye_Valentine_20260822_185027_02\\klein_00001_.png",
+    "final_review": "final_review.json"
+  },
+  "history": [
+    {
+      "stage": "CREATED",
+      "at": "2026-08-22T21:50:27.604403+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "at": "2026-08-22T21:51:58.089158+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T21:53:05.935085+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T21:54:03.787318+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T21:54:43.197919+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "event": "retry",
+      "reason": "Illustrious review requested a structural retry",
+      "attempt": 1,
+      "at": "2026-08-22T21:54:43.205433+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T21:55:26.114617+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T21:55:47.721937+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T21:56:01.121600+00:00"
+    },
+    {
+      "stage": "PREMISES_READY",
+      "event": "retry",
+      "reason": "Illustrious review requested a structural retry",
+      "attempt": 2,
+      "at": "2026-08-22T21:56:01.128606+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_PROMPTS_READY",
+      "at": "2026-08-22T21:56:34.486901+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_RENDERED",
+      "at": "2026-08-22T21:56:58.435874+00:00"
+    },
+    {
+      "stage": "ILLUSTRIOUS_REVIEWED",
+      "at": "2026-08-22T21:57:16.567150+00:00"
+    },
+    {
+      "stage": "KLEIN_PROMPTS_READY",
+      "at": "2026-08-22T21:57:16.582662+00:00"
+    },
+    {
+      "stage": "KLEIN_RENDERED",
+      "at": "2026-08-22T21:57:59.014757+00:00"
+    },
+    {
+      "stage": "FINAL_REVIEWED",
+      "at": "2026-08-22T21:58:33.874480+00:00"
+    },
+    {
+      "stage": "COMPLETE",
+      "at": "2026-08-22T21:58:38.979081+00:00"
+    }
+  ],
+  "error": null,
+  "retries_PREMISES_READY": 2
+}

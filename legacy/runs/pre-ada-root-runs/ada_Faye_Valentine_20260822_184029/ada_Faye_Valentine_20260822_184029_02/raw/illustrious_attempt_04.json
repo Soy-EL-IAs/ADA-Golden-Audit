@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"1girl, faye_valentine, cowboy_bebop, purple_hair, short_hair, green_eyes, large_breasts, hairband, crop_top, bare_shoulders, shorts, thighhighs, boots, lipstick, dimly_lit_office_background, desk, holding_torn_paper, torn_paper_blocking_view, hand_grabbing_crop_top_hem, external_hand_from_right, distinct_skin_tone_difference, aggressive_grip, fabric_stretching, irritated_expression, narrowed_eye, smudged_lipstick, clutching_desk_edge, static_face_dynamic_fabric\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 1371,
+    "total_output_tokens": 132,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.207501492847095,
+    "time_to_first_token_seconds": 1.964873
+  }
+}

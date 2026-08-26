@@ -1,0 +1,361 @@
+{
+  "comparison_id": "worker_vs_master_v1_20260821_001",
+  "status": "complete",
+  "cases": 6,
+  "master_was_loaded": true,
+  "master_restored": true,
+  "worker": {
+    "model": "qwen/qwen3-vl-8b",
+    "worker_or_master": "worker",
+    "load_seconds": 2.632,
+    "mean_seconds_per_image": 2.37,
+    "total_review_seconds": 14.222,
+    "rows": [
+      {
+        "case_id": "2b_closeup_blindfold_ok",
+        "review": {
+          "verdict": "REJECT",
+          "identity": 8,
+          "anatomy": 7,
+          "visual_appeal": 9,
+          "viral_hook": 9,
+          "animation_potential": 8,
+          "single_subject": true,
+          "identity_issues": [
+            "blindfold covers only one eye (not both)"
+          ],
+          "visual_issues": [
+            "hair color mismatch (left: black/white streaks; right: mostly silver)",
+            "outfit details inconsistent (gold shoulder epaulet on left, lace trim on right)",
+            "tear placement inconsistent (left: single tear; right: tear flowing down cheek)"
+          ],
+          "reason": "Critical occlusion contradiction: blindfold fails to cover both eyes as required. Hair and outfit details are inconsistent between halves, violating canonical accuracy.",
+          "elapsed_seconds": 2.413
+        },
+        "status": "complete"
+      },
+      {
+        "case_id": "2b_blindfold_eye_visible",
+        "review": {
+          "verdict": "REJECT",
+          "identity": 10,
+          "anatomy": 9,
+          "visual_appeal": 8,
+          "viral_hook": 7,
+          "animation_potential": 8,
+          "single_subject": true,
+          "identity_issues": [],
+          "visual_issues": [
+            "Blindfold contradicts premise: left image shows eye exposed, right image shows eye covered; premise requires blindfold removal to reveal eyes"
+          ],
+          "reason": "The premise explicitly states 'Blindfold removed: 2B gazes forward with her blue eyes visible', but the right image (Klein result) shows her blindfold still covering her eye. This is a critical contradiction to the stated premise and violates the core visual requirement.",
+          "elapsed_seconds": 2.339
+        },
+        "status": "complete"
+      },
+      {
+        "case_id": "2b_duplicate_pair",
+        "review": {
+          "verdict": "REJECT",
+          "identity": 5,
+          "anatomy": 5,
+          "visual_appeal": 7,
+          "viral_hook": 6,
+          "animation_potential": 6,
+          "single_subject": false,
+          "identity_issues": [
+            "two 2B-like women are visible; must not be PASS"
+          ],
+          "visual_issues": [
+            "duplicate subjects",
+            "serious Klein-vs-source drift",
+            "broken anatomy/hands/limbs"
+          ],
+          "reason": "The image contains two identical 2B characters, violating the expected single-subject requirement. This is a critical duplication issue. Additionally, there are serious anatomical inconsistencies and significant visual drift between the source and Klein versions, including hand positioning and limb proportions. The presence of two subjects invalidates the PASS verdict.",
+          "elapsed_seconds": 2.389
+        },
+        "status": "complete"
+      },
+      {
+        "case_id": "tifa_v26_closeup",
+        "review": {
+          "verdict": "REVIEW",
+          "identity": 9,
+          "anatomy": 8,
+          "visual_appeal": 9,
+          "viral_hook": 9,
+          "animation_potential": 9,
+          "single_subject": true,
+          "identity_issues": [],
+          "visual_issues": [
+            "Klein rendering shows brown eyes instead of burgundy",
+            "Klein rendering has less defined facial structure and softer features compared to source",
+            "Klein rendering lacks the sharp anime-style line work and stylization of the source"
+          ],
+          "reason": "The Klein rendering deviates from the source in eye color and stylistic fidelity, but otherwise preserves Tifa's identity and outfit. The differences are visually noticeable but not critical, making it suitable for review rather than rejection.",
+          "elapsed_seconds": 2.33
+        },
+        "status": "complete"
+      },
+      {
+        "case_id": "tifa_v26_dynamic",
+        "review": {
+          "verdict": "REJECT",
+          "identity": 9,
+          "anatomy": 7,
+          "visual_appeal": 8,
+          "viral_hook": 8,
+          "animation_potential": 7,
+          "single_subject": true,
+          "identity_issues": [],
+          "visual_issues": [
+            "Klein result shows incorrect boot color (brownish) vs source's red boots",
+            "Klein result has inconsistent Mako glow (green sparks vs yellow sparks)",
+            "Klein result has broken anatomy: left hand appears to be gripping air, not a weapon or part of the kick",
+            "Klein result has occlusion contradiction: right boot is visible but left foot is obscured by the kick motion, yet the left boot is not visible in a way that matches the pose"
+          ],
+          "reason": "Critical visual drift in boots and Mako glow, plus broken hand anatomy and occlusion inconsistencies prevent approval.",
+          "elapsed_seconds": 2.652
+        },
+        "status": "complete"
+      },
+      {
+        "case_id": "tifa_camera_and_back_drift",
+        "review": {
+          "verdict": "PASS",
+          "identity": 10,
+          "anatomy": 10,
+          "visual_appeal": 9,
+          "viral_hook": 9,
+          "animation_potential": 9,
+          "single_subject": true,
+          "identity_issues": [],
+          "visual_issues": [],
+          "reason": "Subject is correctly identified as Tifa Lockhart with canonical Remake outfit. Anatomy is accurate and consistent across both halves. No duplicate subjects or occlusion contradictions. Visuals are clean, cinematic, and suitable for reference. Minor drift in composition is noted but not critical.",
+          "elapsed_seconds": 2.099
+        },
+        "status": "complete"
+      }
+    ]
+  },
+  "master": {
+    "model": "qwen3.8-27b-uncensored",
+    "worker_or_master": "master",
+    "load_seconds": 5.131,
+    "mean_seconds_per_image": null,
+    "total_review_seconds": 0,
+    "rows": [
+      {
+        "case_id": "2b_closeup_blindfold_ok",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "case_id": "2b_blindfold_eye_visible",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "case_id": "2b_duplicate_pair",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "case_id": "tifa_v26_closeup",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "case_id": "tifa_v26_dynamic",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      },
+      {
+        "case_id": "tifa_camera_and_back_drift",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      }
+    ]
+  },
+  "comparisons": [
+    {
+      "case_id": "2b_closeup_blindfold_ok",
+      "expectation": "exploratory",
+      "worker": {
+        "case_id": "2b_closeup_blindfold_ok",
+        "review": {
+          "verdict": "REJECT",
+          "identity": 8,
+          "anatomy": 7,
+          "visual_appeal": 9,
+          "viral_hook": 9,
+          "animation_potential": 8,
+          "single_subject": true,
+          "identity_issues": [
+            "blindfold covers only one eye (not both)"
+          ],
+          "visual_issues": [
+            "hair color mismatch (left: black/white streaks; right: mostly silver)",
+            "outfit details inconsistent (gold shoulder epaulet on left, lace trim on right)",
+            "tear placement inconsistent (left: single tear; right: tear flowing down cheek)"
+          ],
+          "reason": "Critical occlusion contradiction: blindfold fails to cover both eyes as required. Hair and outfit details are inconsistent between halves, violating canonical accuracy.",
+          "elapsed_seconds": 2.413
+        },
+        "status": "complete"
+      },
+      "master": {
+        "case_id": "2b_closeup_blindfold_ok",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      }
+    },
+    {
+      "case_id": "2b_blindfold_eye_visible",
+      "expectation": "should_flag",
+      "worker": {
+        "case_id": "2b_blindfold_eye_visible",
+        "review": {
+          "verdict": "REJECT",
+          "identity": 10,
+          "anatomy": 9,
+          "visual_appeal": 8,
+          "viral_hook": 7,
+          "animation_potential": 8,
+          "single_subject": true,
+          "identity_issues": [],
+          "visual_issues": [
+            "Blindfold contradicts premise: left image shows eye exposed, right image shows eye covered; premise requires blindfold removal to reveal eyes"
+          ],
+          "reason": "The premise explicitly states 'Blindfold removed: 2B gazes forward with her blue eyes visible', but the right image (Klein result) shows her blindfold still covering her eye. This is a critical contradiction to the stated premise and violates the core visual requirement.",
+          "elapsed_seconds": 2.339
+        },
+        "status": "complete"
+      },
+      "master": {
+        "case_id": "2b_blindfold_eye_visible",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      }
+    },
+    {
+      "case_id": "2b_duplicate_pair",
+      "expectation": "should_not_pass",
+      "worker": {
+        "case_id": "2b_duplicate_pair",
+        "review": {
+          "verdict": "REJECT",
+          "identity": 5,
+          "anatomy": 5,
+          "visual_appeal": 7,
+          "viral_hook": 6,
+          "animation_potential": 6,
+          "single_subject": false,
+          "identity_issues": [
+            "two 2B-like women are visible; must not be PASS"
+          ],
+          "visual_issues": [
+            "duplicate subjects",
+            "serious Klein-vs-source drift",
+            "broken anatomy/hands/limbs"
+          ],
+          "reason": "The image contains two identical 2B characters, violating the expected single-subject requirement. This is a critical duplication issue. Additionally, there are serious anatomical inconsistencies and significant visual drift between the source and Klein versions, including hand positioning and limb proportions. The presence of two subjects invalidates the PASS verdict.",
+          "elapsed_seconds": 2.389
+        },
+        "status": "complete"
+      },
+      "master": {
+        "case_id": "2b_duplicate_pair",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      }
+    },
+    {
+      "case_id": "tifa_v26_closeup",
+      "expectation": "exploratory",
+      "worker": {
+        "case_id": "tifa_v26_closeup",
+        "review": {
+          "verdict": "REVIEW",
+          "identity": 9,
+          "anatomy": 8,
+          "visual_appeal": 9,
+          "viral_hook": 9,
+          "animation_potential": 9,
+          "single_subject": true,
+          "identity_issues": [],
+          "visual_issues": [
+            "Klein rendering shows brown eyes instead of burgundy",
+            "Klein rendering has less defined facial structure and softer features compared to source",
+            "Klein rendering lacks the sharp anime-style line work and stylization of the source"
+          ],
+          "reason": "The Klein rendering deviates from the source in eye color and stylistic fidelity, but otherwise preserves Tifa's identity and outfit. The differences are visually noticeable but not critical, making it suitable for review rather than rejection.",
+          "elapsed_seconds": 2.33
+        },
+        "status": "complete"
+      },
+      "master": {
+        "case_id": "tifa_v26_closeup",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      }
+    },
+    {
+      "case_id": "tifa_v26_dynamic",
+      "expectation": "exploratory",
+      "worker": {
+        "case_id": "tifa_v26_dynamic",
+        "review": {
+          "verdict": "REJECT",
+          "identity": 9,
+          "anatomy": 7,
+          "visual_appeal": 8,
+          "viral_hook": 8,
+          "animation_potential": 7,
+          "single_subject": true,
+          "identity_issues": [],
+          "visual_issues": [
+            "Klein result shows incorrect boot color (brownish) vs source's red boots",
+            "Klein result has inconsistent Mako glow (green sparks vs yellow sparks)",
+            "Klein result has broken anatomy: left hand appears to be gripping air, not a weapon or part of the kick",
+            "Klein result has occlusion contradiction: right boot is visible but left foot is obscured by the kick motion, yet the left boot is not visible in a way that matches the pose"
+          ],
+          "reason": "Critical visual drift in boots and Mako glow, plus broken hand anatomy and occlusion inconsistencies prevent approval.",
+          "elapsed_seconds": 2.652
+        },
+        "status": "complete"
+      },
+      "master": {
+        "case_id": "tifa_v26_dynamic",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      }
+    },
+    {
+      "case_id": "tifa_camera_and_back_drift",
+      "expectation": "should_flag",
+      "worker": {
+        "case_id": "tifa_camera_and_back_drift",
+        "review": {
+          "verdict": "PASS",
+          "identity": 10,
+          "anatomy": 10,
+          "visual_appeal": 9,
+          "viral_hook": 9,
+          "animation_potential": 9,
+          "single_subject": true,
+          "identity_issues": [],
+          "visual_issues": [],
+          "reason": "Subject is correctly identified as Tifa Lockhart with canonical Remake outfit. Anatomy is accurate and consistent across both halves. No duplicate subjects or occlusion contradictions. Visuals are clean, cinematic, and suitable for reference. Minor drift in composition is noted but not critical.",
+          "elapsed_seconds": 2.099
+        },
+        "status": "complete"
+      },
+      "master": {
+        "case_id": "tifa_camera_and_back_drift",
+        "status": "error",
+        "error": "Expecting value: line 1 column 1 (char 0)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-qjhwh3v68i99orqpqenj",
+  "object": "chat.completion",
+  "created": 1787431081,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"faye_valentine_ada_Faye_Valentine_20260822_172552_03\",\n  \"stage\": \"illustrious\",\n  \"verdict\": \"RETRY_ILLUSTRIOUS\",\n  \"preserved_ok\": [\n    \"purple_hair\",\n    \"green_eyes\"\n  ],\n  \"defects\": [\n    \"The character is wearing a yellow top with black straps and a red bow, not a crop top. The shirt draped over her chest is red, not matching the premise's description of a loose shirt from the desk. The top is not a crop top, and the shirt drape is not clearly visible as a deliberate action to cover herself.\",\n    \"The character is wearing thighhighs, but they are pink and appear to be part of a uniform or costume, not matching the premise's description of thighhighs as part of her attire. The boots are light green, not matching the premise's description of thighhighs.\"\n  ],\n  \"drift\": [\n    \"The character is standing in a doorway, not leaning forward to sign a document. The document is visible on the desk, but the character is not interacting with it.\",\n    \"The character's pose and expression suggest surprise or alarm, but the premise specifies a knock at the door causing her to freeze. The knock is not visually implied or shown.\",\n    \"The character's outfit and accessories (yellow top, red bow, pink thighhighs, light green boots) do not match the premise's description of her attire. The premise specifies a crop top and thighhighs, not a uniform or costume.\"\n  ],\n  \"summary\": \"The image contains major structural failures: the character's outfit does not match the premise, the action of signing a document is absent, the knock at the door is not implied, and the shirt drape is not clearly visible as a deliberate action. These issues cannot be repaired.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1490,
+    "completion_tokens": 411,
+    "total_tokens": 1901,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

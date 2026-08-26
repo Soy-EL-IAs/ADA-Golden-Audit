@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e012_b03_closeup",
+    "category": "closeup",
+    "premise": "A tight close-up on 2B's face as a sudden, localized jet of cold mist from an off-screen pipe hits the right side of her black blindfold; she tilts her head sharply to the left to shield her ear, her short white hair whipping across her cheek in response to the force, while her jaw sets with focused determination rather than surprise."
+  },
+  {
+    "id": "e012_b03_medium",
+    "category": "medium",
+    "premise": "Waist-up shot of 2B crouching slightly as a low-hanging, rusted pipe swings into her path; she ducks under it with precise timing, one gloved hand bracing against the metal to steady herself while her puffy feather-trimmed sleeve brushes the surface, maintaining a composed expression despite the tight clearance."
+  },
+  {
+    "id": "e012_b03_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B stepping over a shallow puddle that reflects her distorted silhouette; her left boot lifts high to avoid the water, while her right leg remains grounded on the uneven stone surface, her black dress hem lifting slightly with the motion to reveal the thigh-high stockings as she navigates the wet patch."
+  },
+  {
+    "id": "e012_b03_dynamic",
+    "category": "dynamic",
+    "premise": "Mid-action dynamic shot of 2B twisting her torso sideways to dodge a falling chunk of debris; her body is angled sharply, hair trailing behind with motion blur, and her gloved hands are extended forward for balance as she clears the obstacle, capturing the peak moment of evasion."
+  },
+  {
+    "id": "e012_b03_cinematic",
+    "category": "cinematic",
+    "premise": "Wide cinematic angle showing 2B climbing up a steep, moss-covered wall in a dense forest ruin; she grips the rough stone with both hands to pull herself upward, her silhouette backlit by dappled sunlight filtering through the canopy above, emphasizing the verticality of her ascent against the lush, overgrown environment."
+  }
+]

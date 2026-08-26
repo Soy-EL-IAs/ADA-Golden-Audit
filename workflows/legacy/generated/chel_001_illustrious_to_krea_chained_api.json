@@ -1,0 +1,290 @@
+{
+  "1": {
+    "class_type": "CheckpointLoaderSimple",
+    "inputs": {
+      "ckpt_name": "waiIllustriousSDXL_v160.safetensors"
+    }
+  },
+  "2": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "text": "masterpiece, best quality, newest, very aesthetic,\n1girl, solo, Chel, The Road to El Dorado, mature woman,\nlong black hair, turquoise two-piece outfit, El Dorado con artist,\nChel, with her iconic turquoise outfit and long dark hair, tiptoes through an El Dorado treasure chamber carrying an oversized golden idol against her chest; as she glances back with a sly smile, the smooth floor starts tilting and a stream of gold coins slides between her legs toward the camera while she tries to keep her balance.,\niconic turquoise outfit, oversized golden idol, stream of gold coins,\nEl Dorado treasure chamber, smooth floor,\ncinematic scene, funny visual storytelling, three-quarter view, full body, strong depth, dynamic composition,\n(adult voluptuous athletic figure:0.95), (fuller bust:0.9), (defined waist:0.9), (wider hips:0.9), (thick toned thighs:0.9), anatomically coherent proportions, visible neckline and cleavage only where the garment design permits, confident sensual pose,\n(adult:0.9), (sensual:0.9)",
+      "clip": [
+        "1",
+        1
+      ]
+    }
+  },
+  "3": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "text": "worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad hands, extra fingers, missing fingers, extra limbs, duplicate, multiple girls, two people, collage, split screen, comic panels, text, watermark, logo, cropped head, young-looking, gigantic hips, extreme low angle, fisheye, explicit nudity, identity drift, gore, multiple women",
+      "clip": [
+        "1",
+        1
+      ]
+    }
+  },
+  "4": {
+    "class_type": "EmptyLatentImage",
+    "inputs": {
+      "width": 512,
+      "height": 768,
+      "batch_size": 1
+    }
+  },
+  "5": {
+    "class_type": "KSampler",
+    "inputs": {
+      "seed": 1000000,
+      "steps": 7,
+      "cfg": 4.5,
+      "sampler_name": "euler_ancestral",
+      "scheduler": "normal",
+      "denoise": 1.0,
+      "model": [
+        "1",
+        0
+      ],
+      "positive": [
+        "2",
+        0
+      ],
+      "negative": [
+        "3",
+        0
+      ],
+      "latent_image": [
+        "4",
+        0
+      ]
+    }
+  },
+  "6": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "5",
+        0
+      ],
+      "vae": [
+        "1",
+        2
+      ]
+    }
+  },
+  "7": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "6",
+        0
+      ],
+      "filename_prefix": "LunaChained/chel_001/illustrious"
+    }
+  },
+  "8": {
+    "class_type": "FL_UnloadAllModels",
+    "inputs": {
+      "value": [
+        "6",
+        0
+      ]
+    }
+  },
+  "10": {
+    "class_type": "UNETLoader",
+    "inputs": {
+      "unet_name": "Krea2_Anything2RealCharacters-V2.5_fp8.safetensors",
+      "weight_dtype": "default"
+    }
+  },
+  "11": {
+    "class_type": "CLIPLoader",
+    "inputs": {
+      "clip_name": "qwen3vl_4b_fp8_scaled.safetensors",
+      "type": "krea2",
+      "device": "default"
+    }
+  },
+  "12": {
+    "class_type": "VAELoader",
+    "inputs": {
+      "vae_name": "qwen_image_vae.safetensors"
+    }
+  },
+  "13": {
+    "class_type": "ImageScale",
+    "inputs": {
+      "image": [
+        "8",
+        0
+      ],
+      "upscale_method": "lanczos",
+      "width": 768,
+      "height": 1152,
+      "crop": "center"
+    }
+  },
+  "14": {
+    "class_type": "Easy_QwenEdit2509",
+    "inputs": {
+      "clip": [
+        "11",
+        0
+      ],
+      "vae": [
+        "12",
+        0
+      ],
+      "image1": [
+        "13",
+        0
+      ],
+      "latent_image": [
+        "13",
+        0
+      ],
+      "auto_resize": "crop",
+      "vl_size": 384,
+      "prompt": "Preserve the Illustrious source image as the composition reference. Character: Chel (The Road to El Dorado). Identity: long black hair, turquoise two-piece outfit, El Dorado con artist. Premise: Chel, with her iconic turquoise outfit and long dark hair, tiptoes through an El Dorado treasure chamber carrying an oversized golden idol against her chest; as she glances back with a sly smile, the smooth floor starts tilting and a stream of gold coins slides between her legs toward the camera while she tries to keep her balance.. Required elements: iconic turquoise outfit, oversized golden idol, stream of gold coins. Environment: El Dorado treasure chamber, smooth floor. Avoid: identity drift, gore, multiple women. Final-render direction: high-end realistic 3D game cinematic with lighting appropriate to the scene. Preserve identity, clothing, pose, action, props, environment and framing. Do not add or remove characters, props, locations or events.",
+      "system_prompt": "Preserve the input reference exactly where appropriate. Apply only the requested information; do not add characters, props, locations, or events absent from the supplied record."
+    }
+  },
+  "15": {
+    "class_type": "FluxKontextMultiReferenceLatentMethod",
+    "inputs": {
+      "conditioning": [
+        "14",
+        0
+      ],
+      "reference_latents_method": "index_timestep_zero"
+    }
+  },
+  "16": {
+    "class_type": "FluxKontextMultiReferenceLatentMethod",
+    "inputs": {
+      "conditioning": [
+        "14",
+        1
+      ],
+      "reference_latents_method": "index_timestep_zero"
+    }
+  },
+  "17": {
+    "class_type": "Krea2OstrisEditModelPatch",
+    "inputs": {
+      "model": [
+        "10",
+        0
+      ],
+      "kv_cache": true
+    }
+  },
+  "18": {
+    "class_type": "KSampler",
+    "inputs": {
+      "model": [
+        "17",
+        0
+      ],
+      "positive": [
+        "15",
+        0
+      ],
+      "negative": [
+        "16",
+        0
+      ],
+      "latent_image": [
+        "14",
+        2
+      ],
+      "seed": 2000000,
+      "steps": 8,
+      "cfg": 1.0,
+      "sampler_name": "euler",
+      "scheduler": "beta57",
+      "denoise": 1.0
+    }
+  },
+  "19": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": [
+        "18",
+        0
+      ],
+      "vae": [
+        "12",
+        0
+      ]
+    }
+  },
+  "20": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "19",
+        0
+      ],
+      "filename_prefix": "LunaChained/chel_001/krea"
+    }
+  },
+  "21": {
+    "class_type": "easy imageConcat",
+    "inputs": {
+      "image1": [
+        "13",
+        0
+      ],
+      "image2": [
+        "19",
+        0
+      ],
+      "direction": "right",
+      "match_image_size": true
+    }
+  },
+  "22": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "images": [
+        "21",
+        0
+      ],
+      "filename_prefix": "LunaChained/chel_001/compare"
+    }
+  },
+  "_meta": {
+    "title": "Illustrious FAST → Krea chained single-queue template",
+    "zones": {
+      "INPUT_JSON": "Orchestrator replaces nodes 2, 3, 5.seed, 14.prompt, 18.seed and output prefixes from one JSONL record.",
+      "ILLUSTRIOUS_FAST": "Nodes 1-7. Tunable: node 4 width/height; node 5 steps/cfg/sampler.",
+      "VRAM_HANDOFF": "Node 8 releases cached models after the decoded Illustrious image is available.",
+      "KREA": "Nodes 10-20. Tunable: node 13 size; node 14 vl_size; node 18 steps/cfg/sampler.",
+      "OUTPUTS_COMPARE": "Nodes 7, 20 and 22 save base, final and horizontal comparison.",
+      "METRICS": "Read node execution durations from ComfyUI /history for the submitted prompt; no custom timing node is required."
+    },
+    "jsonl_fields_used": [
+      "id",
+      "character",
+      "franchise",
+      "identity",
+      "sexual_direction",
+      "premise",
+      "must_include",
+      "environment",
+      "animation_hook",
+      "avoid",
+      "krea_direction",
+      "seed_base",
+      "krea_seed_base"
+    ],
+    "record": {
+      "id": "chel_001",
+      "illustrious_seed": 1000000,
+      "krea_seed": 2000000
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "experiment": "M2 — Fast Creative Expansion",
+  "status": "COMPLETE_TEXT_ONLY",
+  "started_at": "2026-08-26T01:48:49.785928+00:00",
+  "completed_at": "2026-08-26T01:49:07.119369+00:00",
+  "creative_expansion_model": "qwen3.5-9b-uncensored-hauhaucs-aggressive",
+  "strong_evaluation_model": "qwen3.8-27b-uncensored",
+  "strong_model_loaded": false,
+  "creative_calls": 1,
+  "creative_retries": 0,
+  "creative_fallbacks": 0,
+  "selection_performed": false,
+  "rendering_performed": false,
+  "comfyui_executed": false,
+  "artifacts": {
+    "character_profile": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\character_profile.json",
+    "concept_proposals_raw": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\concept_proposals_raw.json",
+    "guide_context": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\guide_context.json",
+    "m2_config_snapshot": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\m2_config_snapshot.json",
+    "model_request": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\model_request.json",
+    "preflight": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\preflight.json",
+    "proposal_records": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\proposal_records.json",
+    "raw_model_response": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\raw_model_response.json",
+    "report": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\report.json",
+    "telemetry": "D:\\IA\\Ada\\experimental_runs\\m2_fast_creative_expansion\\m2_mission_20260825_224843_bafaa3_r01_224849603280\\telemetry.json"
+  }
+}

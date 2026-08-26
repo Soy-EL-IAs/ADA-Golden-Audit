@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e015_b03_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A thin wisp of steam from a ruptured pipe curls against 2B's black blindfold, causing her gloved fingers to tighten on the strap as she leans forward to verify if the heat is damaging the fabric beneath.\"\n  },\n  {\n    \"id\": \"e015_b03_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B turns her torso sharply to pull a puffy sleeve free from a tangle of loose electrical wiring, the sudden tension stretching the dress cutout across her waist as she maintains a focused gaze on the connection point.\"\n  },\n  {\n    \"id\": \"e015_b03_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B balances precariously on a narrow, rusted girder, extending one leg forward to test its stability before committing her weight, her thigh-high boots gripping the metal as a gust of wind from below threatens to push her off balance.\"\n  },\n  {\n    \"id\": \"e015_b03_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B ducks low under a swinging steel beam, using her momentum to slide along the ground, the friction of her boots against the concrete kicking up dust while she watches the hazard clear above her head.\"\n  },\n  {\n    \"id\": \"e015_b03_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"From a low angle, 2B climbs the jagged edge of a collapsed concrete slab, her silhouette framed against a distant, flickering emergency light that signals the exit path through the darkened industrial corridor.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3883,
+    "total_output_tokens": 412,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.021145590121915,
+    "time_to_first_token_seconds": 4.5663339999999994
+  }
+}

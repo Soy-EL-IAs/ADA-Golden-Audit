@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-dcxorpf9blfbwwjbuf9t5f",
+  "object": "chat.completion",
+  "created": 1787421557,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"2b_balanced_v1_cinematic_001\",\n  \"stage\": \"klein\",\n  \"verdict\": \"PASS\",\n  \"preserved_ok\": [\n    \"blindfold\",\n    \"white_hair\",\n    \"black_dress\",\n    \"thigh_boots\"\n  ],\n  \"defects\": [],\n  \"drift\": [\n    \"The steam jet appears as a diffuse white plume rather than a distinct, high-pressure jet with visible velocity and directionality, reducing the causal clarity of the interruption source.\"\n  ],\n  \"summary\": \"All preserved elements are visibly correct. No visible defects. Minor narrative drift: steam jet lacks distinct high-pressure characteristics, slightly weakening the causal impact.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1374,
+    "completion_tokens": 157,
+    "total_tokens": 1531,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

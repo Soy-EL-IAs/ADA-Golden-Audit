@@ -1,0 +1,16 @@
+{
+  "id": "2b_balanced_v1_cinematic_001",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "defects": [],
+  "drift": [
+    "The steam jet appears as a diffuse white plume rather than a distinct, high-pressure jet with visible velocity and directionality, reducing the causal clarity of the interruption source."
+  ],
+  "summary": "All preserved elements are visibly correct. No visible defects. Minor narrative drift: steam jet lacks distinct high-pressure characteristics, slightly weakening the causal impact."
+}

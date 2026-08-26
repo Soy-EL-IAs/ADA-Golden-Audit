@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e015_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A jagged shard of glass embeds in the fabric of 2B's black blindfold, causing her gloved hand to freeze mid-motion as she carefully extracts it without disturbing the hairband beneath.\"\n  },\n  {\n    \"id\": \"e015_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B twists her torso sharply to release a puffy sleeve that has snagged on a protruding rebar, the pull stretching the fabric taut across her arm while she maintains a stoic expression.\"\n  },\n  {\n    \"id\": \"e015_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Balancing on one leg atop a crumbling stone pillar, 2B reaches out with her free hand to steady herself as the structure tilts under the weight of a falling debris chunk nearby.\"\n  },\n  {\n    \"id\": \"e015_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B pivots on her heel to deflect a swinging chain with her forearm, the impact driving her into a low crouch and sending sparks scattering from the metal link.\"\n  },\n  {\n    \"id\": \"e015_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"From a high vantage point, 2B extends her arm to grab the dangling cable of a suspended elevator car that is slipping below, her silhouette stretching taut against the vast industrial background.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3503,
+    "total_output_tokens": 384,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.233788772467696,
+    "time_to_first_token_seconds": 4.095467999999999
+  }
+}

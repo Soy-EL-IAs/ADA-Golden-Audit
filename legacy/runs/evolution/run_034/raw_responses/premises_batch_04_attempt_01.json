@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e034_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A macro shot of 2B's white hair as a sudden, violent gust from a ruptured ventilation shaft whips the strands against her black blindfold, causing her to squint and tighten her jaw in suppressed irritation while a loose strand clings stubbornly to the fabric.\"\n  },\n  {\n    \"id\": \"e034_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B crouches low, using one gloved hand to press firmly against a slick, moss-covered stone wall for traction while her other arm reaches down to grasp the hem of her dress, preventing it from dragging into the murky water below as she navigates a narrow, slippery gap.\"\n  },\n  {\n    \"id\": \"e034_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B maintains a rigid, elongated posture on the tip of a crumbling stone spire, her weight shifted entirely to one leg as she extends the other forward for balance, her dress hem and puffy sleeves billowing violently in an updraft that threatens to topple her off the narrow peak.\"\n  },\n  {\n    \"id\": \"e034_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B executes a swift, low-slung roll across a dusty, sun-baked plaza to evade a falling chunk of masonry, her hair and dress trailing in the dust cloud as she pushes off the ground with both palms to gain momentum for the next leap.\"\n  },\n  {\n    \"id\": \"e034_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"From a high angle, 2B is seen climbing up the vertical face of a massive, overgrown concrete ruin, her small figure dwarfed by the scale of the structure as she reaches for a higher ledge to escape the rising smoke filling the valley below.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4395,
+    "total_output_tokens": 470,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.572771290810813,
+    "time_to_first_token_seconds": 5.141284
+  }
+}

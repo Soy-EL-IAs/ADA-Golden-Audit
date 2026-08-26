@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"Faye Valentine stands in a dimly lit office, her expression one of sharp irritation as she holds up a torn piece of paper with both hands. The paper is strategically placed directly over her midriff, acting as an impromptu shield against the harsh overhead light that casts deep shadows on her bare shoulders and upper chest. Her green eyes are narrowed in defiance, looking slightly off-camera at an unseen authority figure, while her purple hair falls loosely around her face. The tension is palpable in her rigid posture and the way her fingers grip the edge of the paper, suggesting a momentary pause in a heated argument where modesty has become a tactical weapon rather than a virtue.\",\n  \"identity_elements\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"large_breasts\"\n  ],\n  \"canonical_outfit\": [\n    \"hairband\",\n    \"shorts\",\n    \"lipstick\",\n    \"thighhighs\",\n    \"shirt\",\n    \"bare_shoulders\",\n    \"crop_top\",\n    \"boots\"\n  ],\n  \"scene_requirements\": [\n    \"holding_torn_paper_over_midriff\",\n    \"irritated_expression\",\n    \"dimly_lit_office_environment\",\n    \"harsh_overhead_lighting\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the paper clearly obscures the central torso area to maintain strategic censorship without appearing like a full costume change.\",\n    \"Keep the 'bare_shoulders' and 'crop_top' visible above the paper to establish the cause of the interruption.\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 663,
+    "total_output_tokens": 369,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.01439687125675,
+    "time_to_first_token_seconds": 0.30835
+  }
+}

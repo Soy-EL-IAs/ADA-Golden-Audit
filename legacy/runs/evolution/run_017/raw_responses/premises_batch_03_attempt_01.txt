@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e017_b03_closeup",
+    "category": "closeup",
+    "premise": "Close-up of 2B's face as a jagged shard of glass from a shattered window frame clips the side of her black blindfold, causing it to twist slightly askew; she does not blink, but her jaw clenches tightly and a faint flush appears on her neck as she suppresses the urge to adjust it, maintaining absolute composure despite the intrusion."
+  },
+  {
+    "id": "e017_b03_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B bracing against a sudden surge of electrical arcing from a damaged console; she leans her torso back to keep her distance while her black-gloved hands push firmly against the humming metal casing for stability, the static charge causing the fabric of her puffy sleeves to ripple and lift slightly away from her arms."
+  },
+  {
+    "id": "e017_b03_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B navigating a narrow, rusted ladder that is bending under the weight of a heavy crate she is hauling up; her thigh-high boots grip the rungs with precision as she shifts her center of gravity aggressively to keep the load from swinging into her face, her arms straining visibly against the strain while her blindfold remains perfectly aligned."
+  },
+  {
+    "id": "e017_b03_dynamic",
+    "category": "dynamic",
+    "premise": "2B executes a sharp low slide underneath a falling steel beam, using the momentum to propel herself forward; her short white hair fans out behind her from the rapid movement, and her hands drag along the dusty ground for friction as she prepares to pop up into a defensive stance before the beam crashes down where she just was."
+  },
+  {
+    "id": "e017_b03_cinematic",
+    "category": "cinematic",
+    "premise": "Cinematic high-angle shot looking down as 2B stands on a crumbling balcony edge, balancing on the toes of her boots against the shifting stone; she reaches out with one hand to catch a dangling cable that is whipping dangerously close to her head, her body twisted in tension as she tries to pull it clear before the ledge gives way beneath her."
+  }
+]

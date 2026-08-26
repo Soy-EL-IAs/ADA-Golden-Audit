@@ -1,0 +1,34 @@
+{
+  "id": "rangiku_matsumoto_001",
+  "character": "Rangiku Matsumoto",
+  "franchise": "Bleach",
+  "identity": [
+    "long orange-blonde hair",
+    "Soul Reaper uniform",
+    "lieutenant badge"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Rangiku Matsumoto naps at her paperwork desk in the Soul Society office until a breeze from an open window scatters her completed forms; she bolts upright and lunges after them, one foot caught in her own sandal as papers spiral around her.",
+  "must_include": [
+    "paperwork desk",
+    "completed forms",
+    "papers",
+    "sandal"
+  ],
+  "environment": [
+    "Soul Society office",
+    "open window"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000025,
+  "krea_seed_base": 2000025
+}

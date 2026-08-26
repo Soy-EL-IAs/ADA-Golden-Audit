@@ -1,0 +1,9 @@
+{
+  "id": "2b_mini_01",
+  "illustrious_prompt": "2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, leotard, thigh_boots, gloves, puffy_sleeves, standing in dimly lit command center, rigid posture, holding glowing data tablet at chest height obscuring lower half of dress, sudden burst of static from nearby terminal, flinching body language, dropping tablet shattering on floor, revealing full silhouette of leotard and thigh-highs, intact blindfold, no facial expression visible, dynamic moment",
+  "resolved_risks": [
+    "Ensure the blindfold remains intact to maintain identity despite the sudden movement.",
+    "The tablet must be clearly visible as the object providing censorship before it drops.",
+    "Avoid showing facial expressions since the character is blindfolded; focus on body language and posture."
+  ]
+}

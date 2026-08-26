@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e023_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"Close-up on 2B's upper chest and neck as she actively braces her left arm against a vibrating, loose structural beam to stop it from swinging into her face; the vibration causes her black blindfold strap to snap taut against her cheekbone while her hairband digs slightly into her short white hair under the physical stress.\"\n  },\n  {\n    \"id\": \"e023_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"Medium shot of 2B waist-up, leaning forward to pull a frayed electrical cable free from a jammed socket; her black gloves grip the insulated wire firmly as sparks pop nearby, and the sudden jerk causes the cutout in her black dress to stretch tight across her ribs, revealing the strain in her posture.\"\n  },\n  {\n    \"id\": \"e023_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Full-body view of 2B crouching low on a slick, oil-stained metal floor to slide under a descending hydraulic press; her body is compressed flat against the ground with knees tucked and boots splayed for traction, highlighting the length of her legs in thigh-high stockings as she evades the crushing weight above.\"\n  },\n  {\n    \"id\": \"e023_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"Dynamic high-angle shot capturing 2B mid-air as she leaps over a burst of steam venting from a broken pipe; her legs are extended forward in a split jump, and the upward force of the blast pushes the hem of her black dress and puffy sleeves backward, creating a sense of rapid vertical velocity.\"\n  },\n  {\n    \"id\": \"e023_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Cinematic wide shot from below looking up at 2B standing on a precarious, broken girder high above a chasm; she is actively reaching out to grab a dangling, rusted chain to swing across the gap, her silhouette framed against the bright sky as her boots grip the narrow edge for purchase.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3411,
+    "total_output_tokens": 512,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.019450257812979,
+    "time_to_first_token_seconds": 4.043209
+  }
+}

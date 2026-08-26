@@ -1,0 +1,28 @@
+{
+  "id": "orihime_inoue_ada_Orihime_Inoue_20260822_195138_01",
+  "stage": "illustrious",
+  "verdict": "RETRY_ILLUSTRIOUS",
+  "defects": [
+    "Immutable identity: hair color and style match, eyes match, build matches — OK.",
+    "Scene requirements: sheet is torn and held across midsection — OK.",
+    "Scene requirements: sheet slipping down left side — visible, but not clearly due to wind/motion blur — minor drift.",
+    "Scene requirements: visible undergarment strap — visible, but not clearly defined as 'strap' — minor drift.",
+    "Scene requirements: dimly lit corridor background — background is too bright and lacks corridor context — major drift.",
+    "Scene requirements: startled expression with wide eyes — expression is calm, not startled — major drift.",
+    "Canonical outfit: white dress with red accents — dress is white with red ribbon — OK.",
+    "Canonical outfit: red ribbon in hair — red ribbon visible — OK.",
+    "Actual visible defects: sheet is not torn in a way that suggests 'strategic censorship' — it appears as a simple garment, not a barrier failing — major drift.",
+    "Actual visible defects: undergarment strap is visible but not clearly defined as 'strap' — minor drift.",
+    "Actual visible defects: background lacks corridor context — major drift.",
+    "Actual visible defects: expression is calm, not startled — major drift.",
+    "Narrative/compositional drift: the 'tension between composure and unraveling barrier' is not visually evident — major drift."
+  ],
+  "drift": [
+    "The 'strategic censorship' is not clearly conveyed — the sheet appears as a simple garment, not a failing barrier.",
+    "The 'startled expression' is not present — the expression is calm.",
+    "The 'dimly lit corridor background' is not present — the background is too bright and lacks corridor context.",
+    "The 'interruption must be visually evident' — no wind effect or motion blur on the fabric.",
+    "The 'tension between composure and unraveling barrier' is not visually evident — the pose and expression do not convey tension."
+  ],
+  "summary": "The image fails to meet the PremiseSpec due to major drift in scene requirements and narrative/compositional elements. The expression is not startled, the background lacks corridor context, and the 'strategic censorship' is not clearly conveyed. The sheet is not shown as a failing barrier, and there is no visual evidence of wind or motion blur. These are major structural failures that require a retry."
+}

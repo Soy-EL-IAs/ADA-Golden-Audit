@@ -1,0 +1,33 @@
+{
+  "id": "yoruichi_shihouin_001",
+  "character": "Yoruichi Shihouin",
+  "franchise": "Bleach",
+  "identity": [
+    "purple hair",
+    "golden eyes",
+    "black-and-orange combat attire"
+  ],
+  "sexual_direction": [
+    "adult",
+    "sensual"
+  ],
+  "premise": "Yoruichi, in her sleek black-and-orange battle outfit, sprints across rain-slick rooftops at night carrying a stolen scroll tucked under one arm; lightning flashes behind her just as she leaps a gap, and the wet fabric and water spray emphasize the speed and athletic curve of her motion.",
+  "must_include": [
+    "sleek black-and-orange battle outfit",
+    "stolen scroll",
+    "water spray"
+  ],
+  "environment": [
+    "rain-slick rooftops at night",
+    "lightning"
+  ],
+  "animation_hook": "",
+  "avoid": [
+    "identity drift",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000008,
+  "krea_seed_base": 2000008
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fubuki_091",
+  "character": "Fubuki",
+  "franchise": "One-Punch Man",
+  "identity": [
+    "short dark green bob",
+    "dark green fitted long-sleeve dress",
+    "pearls and psychic aura"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a high-rise lounge, she lifts a cocktail with telekinesis and accidentally raises the entire coaster stack beneath it, creating a wobbling tower in midair, with confident sensual body language throughout.",
+  "must_include": [
+    "floating coaster tower",
+    "telekinetic cocktail"
+  ],
+  "environment": [
+    "high-rise lounge",
+    "cool city night light",
+    "glass windows and sleek seating"
+  ],
+  "animation_hook": "She separates the drink from the stack, lowers the coasters one by one, and catches the glass in her hand.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000090,
+  "krea_seed_base": 2000090
+}

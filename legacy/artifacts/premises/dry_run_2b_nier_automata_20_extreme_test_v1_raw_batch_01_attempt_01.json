@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[{\"id\":\"b01_01\",\"category\":\"closeup\",\"premise\":\"Extreme close-up on 2B's face as she tilts her head, a knowing half-smile playing on her lips while a single drop of water slides down her temple; the blindfold is slightly askew from being wiped away, revealing one piercing blue eye that holds direct, teasing contact with the viewer.\"},{\"id\":\"b01_02\",\"category\":\"medium\",\"premise\":\"Medium shot framing 2B's torso and hands as she pulls a loose black glove tighter over her wrist; the fabric of her dress stretches taut across her midriff, emphasizing her athletic silhouette, while she glances sidelong with playful defiance at an unseen observer.\"},{\"id\":\"b01_03\",\"category\":\"fullbody\",\"premise\":\"Full-body view of 2B stepping out from behind a sheer white curtain in a bright, modern dressing room; the fabric clings to her thighs and waist as she pauses mid-step, one hand catching the hem for strategic coverage while the other reaches up to adjust her hairband.\"},{\"id\":\"b01_04\",\"category\":\"dynamic\",\"premise\":\"Dynamic action shot of 2B spinning rapidly on her heel, causing her black dress and feather-trimmed sleeves to flare outward in a perfect circle; her expression is confident and sharp as she catches the momentum, legs crossed tightly at the ankles for balance.\"},{\"id\":\"b01_05\",\"category\":\"cinematic\",\"premise\":\"Dramatic low-angle composition where 2B leans forward over a glossy black table, her white hair cascading down to frame her face; steam from an unseen source mists the foreground, partially obscuring her form but highlighting the curve of her back and the tension in her posture.\"}]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 1562,
+    "total_output_tokens": 375,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.343303077890832,
+    "time_to_first_token_seconds": 0.29172899999999996
+  }
+}

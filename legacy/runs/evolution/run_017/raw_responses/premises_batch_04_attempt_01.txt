@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e017_b04_closeup",
+    "category": "closeup",
+    "premise": "Close-up on 2B's hands as she catches a falling, heavy iron gear that clips her black glove, causing the fabric to tear slightly; her fingers grip the spinning metal with white-knuckled intensity to stop its rotation before it drops, her knuckles visible and tense."
+  },
+  {
+    "id": "e017_b04_medium",
+    "category": "medium",
+    "premise": "Medium shot of 2B leaning forward aggressively into a strong updraft from a ruptured ventilation shaft, her puffy feather-trimmed sleeves ballooning outward as she anchors her upper body against the force; her black dress hem lifts slightly, revealing the top of her thigh-high stockings, while her jaw is set in focused determination to maintain stability."
+  },
+  {
+    "id": "e017_b04_fullbody",
+    "category": "fullbody",
+    "premise": "Full-body view of 2B mid-lunge, stepping over a broken metal beam that is sparking and shifting under her weight; she drives her front thigh-high boot into the gap for leverage while extending her rear leg for balance, one hand reaching down to steady herself on the unstable debris as sparks fly near her boots."
+  },
+  {
+    "id": "e017_b04_dynamic",
+    "category": "dynamic",
+    "premise": "2B executes a rapid sidestep to avoid a slamming blast door that cracks against the floor inches from her feet; the shockwave sends dust and small shards of concrete flying toward her face, forcing her to tilt her head sharply away while her short white hair whips around her blindfold in the sudden gust."
+  },
+  {
+    "id": "e017_b04_cinematic",
+    "category": "cinematic",
+    "premise": "Cinematic wide shot as 2B stands on a precarious, rotating gear mechanism that is tilting sideways; she shifts her weight entirely onto one thigh-high boot to counterbalance the slope while extending her free arm to grip a passing chain for stability, her body twisting in a dynamic arc against the industrial backdrop."
+  }
+]

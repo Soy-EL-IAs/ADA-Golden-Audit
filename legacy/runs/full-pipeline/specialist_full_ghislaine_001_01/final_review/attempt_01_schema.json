@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-ub8yxu5yjj9a0sctndrotq",
+  "object": "chat.completion",
+  "created": 1787425098,
+  "model": "qwen/qwen3-vl-8b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"id\": \"ghislaine_dedoldia_specialist_full_ghislaine_001_01\",\n  \"stage\": \"klein\",\n  \"verdict\": \"PASS\",\n  \"preserved_ok\": [\n    \"eyepatch\",\n    \"grey_hair\",\n    \"cat_ears\",\n    \"red_choker\",\n    \"black_highleg_panties\"\n  ],\n  \"defects\": [],\n  \"drift\": [\n    \"The jacket is open and held closed by her hands, but the fur trim is not visibly consistent with the premise's description of 'fur trim that hangs off her bare shoulders'. The fur appears more integrated into the jacket's design rather than hanging loosely.\"\n  ],\n  \"summary\": \"All preserved elements are visibly correct. No visible defects. Minor narrative drift in fur trim presentation.\"\n}",
+        "reasoning_content": "",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1422,
+    "completion_tokens": 180,
+    "total_tokens": 1602,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen/qwen3-vl-8b"
+}

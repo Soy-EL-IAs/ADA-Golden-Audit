@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e026_b04_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A jagged shard of broken glass strikes the air just inches from 2B's nose, causing her to flinch slightly; her short white hair whips forward across her face due to the sudden proximity of the debris, momentarily obscuring one side of her black blindfold as she holds her breath and keeps her eyes fixed on the falling fragment with intense, unblinking focus.\"\n  },\n  {\n    \"id\": \"e026_b04_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B braces herself against a vibrating metal wall as a heavy hydraulic press slams into the floor beside her; the shockwave sends a ripple through her puffy feather-trimmed sleeves, causing them to flare outward while she grips the rusted railing with both black gloves, her waist twisted sharply to absorb the impact and keep her balance on the unstable surface.\"\n  },\n  {\n    \"id\": \"e026_b04_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"Standing on a tilted platform of broken concrete, 2B shifts her weight onto one thigh-high boot to counterbalance the slope; the movement stretches her black dress taut across her hips as she reaches out with one gloved hand to steady herself against a protruding pipe, her other leg extended for balance while debris continues to crumble from the edge below.\"\n  },\n  {\n    \"id\": \"e026_b04_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"A burst of steam erupts from a ruptured pipe directly in front of 2B, forcing her to duck low and slide forward on one knee; the sudden pressure sends her short white hair flying upward while her black gloves scrape against the wet metal floor, creating sparks as she maneuvers around the scalding mist with rapid, controlled motion.\"\n  },\n  {\n    \"id\": \"e026_b04_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"Inside a vast, dimly lit industrial chamber, a single overhead light flickers on, casting long shadows across the floor; 2B stands at the center of the frame, her silhouette framed by towering machinery as she slowly raises one hand to catch a falling gear that has detached from a nearby mechanism, the contrast between her stillness and the chaotic decay around her emphasizing her controlled presence in the industrial void.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 4288,
+    "total_output_tokens": 563,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.937125529882216,
+    "time_to_first_token_seconds": 5.04751
+  }
+}

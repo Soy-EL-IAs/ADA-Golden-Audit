@@ -1,0 +1,34 @@
+{
+  "id": "jill_valentine_005",
+  "character": "Jill Valentine",
+  "franchise": "Resident Evil",
+  "identity": [
+    "short brown hair",
+    "blue tactical top with shoulder holster",
+    "utility belt and gloves"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a quiet subway station, she crouches to inspect a dropped keycard and a gust from an arriving empty train lifts a loose map sheet that sticks across her face like a paper mask, with confident sensual body language throughout.",
+  "must_include": [
+    "loose map sheet",
+    "arriving empty train"
+  ],
+  "environment": [
+    "subway platform",
+    "cool fluorescent lighting",
+    "tiled walls and drifting paper"
+  ],
+  "animation_hook": "She peels the map away, steps back from the wind, and pins it under her boot as the train slows.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000004,
+  "krea_seed_base": 2000004
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "character": "Ghislaine Dedoldia",
+  "version": null,
+  "created_at": "2026-08-22T18:53:22.379743+00:00",
+  "status": "downloaded",
+  "usable": true,
+  "provider": "searxng",
+  "source_query": "\"Ghislaine Dedoldia\" official character",
+  "searches": [
+    "\"Ghislaine Dedoldia\" official character"
+  ],
+  "refs": [
+    {
+      "file": "refs/ref_01.jpg",
+      "source_url": "https://cdn.myanimelist.net/images/characters/14/591401.jpg",
+      "page_url": "https://myanimelist.net/character/111741/Ghislaine_Dedoldia",
+      "domain": "myanimelist.net",
+      "final_score": 80,
+      "recommendation": "review",
+      "sha256": "4a167dbeec92ce019ff76f102b031785a79b3a26e70be8ed7bef99a772554e26",
+      "downloaded_at": "2026-08-22T18:53:22.528300+00:00"
+    },
+    {
+      "file": "refs/ref_02.jpg",
+      "source_url": "https://cdn.myanimelist.net/r/360x360/images/characters/14/591401.jpg?s=32879e619563d75208055ab5636cb92d",
+      "page_url": "https://myanimelist.net/character/111741/Ghislaine_Dedoldia",
+      "domain": "myanimelist.net",
+      "final_score": 80,
+      "recommendation": "review",
+      "sha256": "6bb947c18cb17343998185861e9ffafaa5f012cbee043ffb8abf81e330528345",
+      "downloaded_at": "2026-08-22T18:53:23.306181+00:00"
+    }
+  ],
+  "errors": [],
+  "duplicate_hashes": []
+}

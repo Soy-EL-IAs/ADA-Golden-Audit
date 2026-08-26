@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "```json\n[\n  {\n    \"id\": \"e030_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"A close-up of 2B's face as a stray, glowing ember from a nearby furnace drifts toward her; she tilts her head slightly to the side rather than flinching, letting the heat wash over her skin while her visible eye remains steady and unblinking, with faint wisps of smoke curling around the edge of her black blindfold.\"\n  },\n  {\n    \"id\": \"e030_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B is waist-up, actively pulling a heavy, rusted lever with both gloved hands to counterbalance the tilt of a sinking cargo crate; her torso twists against the resistance, emphasizing the tension in her puffy sleeves and the cutout detail of her dress as she holds her breath in controlled effort.\"\n  },\n  {\n    \"id\": \"e030_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B is captured mid-slide on one knee across a slick, oily metal floor to avoid a falling hydraulic piston; her body is angled low with one leg extended forward and the other bent behind her, showcasing the length of her thigh-high stockings as she uses her momentum to pivot away from the impact zone.\"\n  },\n  {\n    \"id\": \"e030_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B is spinning rapidly in a low crouch, using a large, broken gear as a shield against a volley of sparks; her hair and dress hem are whipped into a circular blur by the rotation, while her arm extends outward to grip the metal edge, capturing the raw kinetic energy of the defensive maneuver.\"\n  },\n  {\n    \"id\": \"e030_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"A high-angle shot looking down through a circular industrial vent at 2B, who is standing on a narrow maintenance beam below; she looks up directly into the camera lens with composed intensity, her figure small but centered against the vast, dark machinery surrounding her, highlighting her isolation and focus.\"\n  }\n]\n```"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3692,
+    "total_output_tokens": 513,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.988043747008575,
+    "time_to_first_token_seconds": 4.447393
+  }
+}

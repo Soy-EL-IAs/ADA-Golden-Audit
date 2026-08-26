@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e027_b04_closeup",
+    "category": "closeup",
+    "premise": "A tight close-up on 2B's face as a high-pitched mechanical whine causes her pupils to contract sharply behind the gaps of her black blindfold; a single, sharp droplet of condensation from a dripping pipe above lands directly on her hairband, leaving a distinct wet mark that contrasts with the dry fabric, while her jaw remains rigidly set in silent calculation."
+  },
+  {
+    "id": "e027_b04_medium",
+    "category": "medium",
+    "premise": "A waist-up shot of 2B leaning heavily against a vibrating, rusted support pillar to steady her grip on a loose cable; her black-gloved hand twists the wire with intense focus as sparks fly from the contact point near her shoulder, illuminating the tension in her puffy feather-trimmed sleeves and the slight strain in her expression."
+  },
+  {
+    "id": "e027_b04_fullbody",
+    "category": "fullbody",
+    "premise": "2B is captured in a deep, low crouch on a patch of loose gravel, shielding her upper body with one arm as a heavy metal crate crashes onto the ground just behind her; her thigh-high boots dig into the shifting terrain to prevent sliding back, and her hair whips upward from the shockwave dust cloud rising around her static stance."
+  },
+  {
+    "id": "e027_b04_dynamic",
+    "category": "dynamic",
+    "premise": "A high-kinetic frame showing 2B mid-air after vaulting over a low barrier, her body stretched horizontally with legs extended forward and arms trailing back for momentum; motion blur streaks behind her as she twists to prepare for a landing on the unstable surface ahead, her dress flaring dramatically in the rush of air."
+  },
+  {
+    "id": "e027_b04_cinematic",
+    "category": "cinematic",
+    "premise": "A wide shot from a low angle showing 2B actively pulling herself up onto a precarious ledge using her upper body strength, with one leg still dangling in the void below; she is bracing against a sudden gust of wind that pushes her backward, causing her hair and dress to snap violently as she fights to maintain her grip on the crumbling edge."
+  }
+]

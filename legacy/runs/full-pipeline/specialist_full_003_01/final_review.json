@@ -1,0 +1,16 @@
+{
+  "id": "2b_specialist_full_003_01",
+  "stage": "klein",
+  "verdict": "PASS",
+  "preserved_ok": [
+    "blindfold",
+    "white_hair",
+    "black_dress",
+    "thigh_boots"
+  ],
+  "defects": [],
+  "drift": [
+    "The iron gate is visually ambiguous as it appears to be a decorative metal frame rather than a functional, descending mechanical barrier. The bars do not convincingly suggest motion or obstruction, and the visual barrier effect is weak. This drift undermines the narrative of a descending gate and the tension of being trapped."
+  ],
+  "summary": "The image preserves all required elements correctly. No visible defects are present. However, there is narrative/compositional drift: the gate fails to convincingly convey its mechanical descent or the physical obstruction it implies, weakening the intended tension."
+}

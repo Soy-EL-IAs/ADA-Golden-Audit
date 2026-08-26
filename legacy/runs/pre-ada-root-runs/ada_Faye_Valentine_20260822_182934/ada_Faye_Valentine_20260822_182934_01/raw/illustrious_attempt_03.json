@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"prompt\": \"Faye Valentine from Cowboy Bebop, short purple hair, green eyes, wearing a yellow crop top with bare shoulders, yellow shorts, purple thighhighs, white boots, red lipstick. She stands in a dimly lit office with low-key lighting and deep shadows. Her expression is one of sharp irritation. She holds up a crumpled newspaper clipping directly in front of her lower torso to cover it, creating a defensive posture. The newspaper has a visible slight tear from her grip. The headline on the paper reads 'SCANDAL: BEBOP PILOT SPOTTED IN PUBLIC' and is clearly legible. Focus on her facial expression and hand gesture for tension rather than exposed skin.\"\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 1330,
+    "total_output_tokens": 151,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.93875685371078,
+    "time_to_first_token_seconds": 1.944105
+  }
+}

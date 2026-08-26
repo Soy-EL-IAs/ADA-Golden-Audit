@@ -1,0 +1,34 @@
+{
+  "id": "morrigan_da_019",
+  "character": "Morrigan",
+  "franchise": "Dragon Age",
+  "identity": [
+    "long black hair",
+    "purple-black fitted mage outfit with feathered shoulder details",
+    "golden amulet"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "In a moonlit swamp hut, she reaches for a potion and a curious raven feather charm brushes her nose, making her sneeze and send a ring of candle flames flickering outward, with confident sensual body language throughout.",
+  "must_include": [
+    "feather charm",
+    "flickering candle ring"
+  ],
+  "environment": [
+    "swamp hut",
+    "moonlight and candles",
+    "herbs, jars, and mist"
+  ],
+  "animation_hook": "She steadies the flames with a small hand gesture and glares at the swaying feather as it settles.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000018,
+  "krea_seed_base": 2000018
+}

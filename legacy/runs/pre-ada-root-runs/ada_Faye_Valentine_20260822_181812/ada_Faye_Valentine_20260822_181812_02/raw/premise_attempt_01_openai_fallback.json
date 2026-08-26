@@ -1,0 +1,33 @@
+{
+  "id": "chatcmpl-gymqvgvthuslj6m3lri3i",
+  "object": "chat.completion",
+  "created": 1787433700,
+  "model": "qwen3.8-27b-uncensored",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "",
+        "reasoning_content": "We need answer user's request. Need produce JSON only matching schema object: use category, premise, identity_elements, canonical_outfit, scene_requirements, risk_notes. Do not wrap in premise_spec. Need one restrained strategic-censorship scene with clear interruption, visible cause and consequence, strong animation hook. Character Faye Valentine from Cowboy Bebop. Profile characteristics: purple_hair, short_hair, green_eyes, large_breasts. Clothing: hairband, shorts, lipstick, thighhighs, shirt, bare_shoulders, crop_top, boots. Need separate identity vs outfit. Identity elements only immutable physical traits: purple hair, short hair, green eyes, large breasts? Body type maybe large breasts is physical but can be sensual; okay. Canonical outfit map clothing exactly? Could include all profile clothing items. But scene_requirements mutable state for this premise if overrides canonical outfit. Need strategic-censorship scene: likely a hand or object censoring? \"restrained strategic-censorship\" maybe adult fictional character, censorship via a magazine, arm, bandage? Clear interruption, visible cause and consequence, strong animation hook. Frame-centric one frozen moment. Need not temporal sequence but causal context in-frame by reaction.\n\nNeed think of scene: Faye in a diner or office, mid-laugh interrupted by a spilled coffee cup tipping toward her chest; she raises forearm across torso to block it, causing crop top hem to lift slightly? Strategic censorship: her own arm covers key area while cause (coffee) and consequence (stain on shirt/shorts?) visible. Strong animation hook: suspended droplets, hairband slipping, lipstick smudge? Need restrained non-graphic.\n\nMaybe \"strategic-censorship\" means using an object to censor a potentially revealing moment. Clear interruption: she is leaning over a counter, crop top bare shoulders, when a waiter's tray slips; she catches it with one hand and twists torso, her other forearm crosses low across midriff, hiding the most suggestive line while coffee droplets hang in air. Consequence: shirt twisted, hairband askew, lipstick smudged? Strong animation hook: frozen splash arc around her arm.\n\nNeed JSON only. Ensure category maybe \"strategic_censorship\" or \"interruption\". Schema object likely keys exactly: category, premise, identity_elements, canonical_outfit, scene_requirements, risk_notes. Need arrays for elements/outfit/requirements? Yes. Premise string. Risk notes array? Probably array of strings. Could be object with those fields.\n\nNeed not include prompts/seeds/video instructions. Keep one premise.\n\nPotential issue: \"large_breasts\" in identity_elements may be too sensual but profile says characteristics. Use \"full bust\"? But map profile's characteristics here; maybe use exact tags? It says map profile's characteristics here. Could list [\"purple_hair\",\"short_hair\",\"green_eyes\",\"large_breasts\"]. Good.\n\nCanonical_outfit: [\"hairband\",\"shorts\",\"lipstick\",\"thighhighs\",\"shirt\",\"bare_shoulders\",\"crop_top\",\"boots\"] but lipstick is makeup not clothing? Profile says clothing includes lipstick; map here. Bare shoulders is state/outfit? okay.\n\nScene_requirements: mutable state chosen for premise, if overrides canonical outfit list that. Need include scene-specific changes: \"forearm raised across midriff\", \"shirt twisted and hem lifted slightly\", \"hairband slipping off one side\", \"coffee droplets suspended in air\", \"one boot braced against counter edge\"? But scene_requirements should be mutable state maybe clothing/state not environment? It says Mutable state chosen for THIS premise. If premise explicitly overrides canonical outfit, list that here. Could include \"crop_top hem lifted by raised forearm\" and \"shirt twisted from sudden twist\". Also \"lipstick smudged at corner of mouth\" as consequence. Need visible cause and consequence: cause coffee cup tipping; consequence shirt damp/stained? But frame-centric can show suspended droplets and wet spot on crop top/shorts? Maybe too much.\n\nNeed strong animation hook: frozen splash, hairband about to fall, lipstick smudge, eye widening. Premise should describe one frozen visual moment with clear interruption, visible cause/consequence. Example:\n\"Faye Valentine is caught mid-laugh at a diner counter when a tipped coffee cup sends an arc of brown droplets toward her chest; she twists and raises one forearm across her midriff to block the splash, her crop top hem lifting slightly while the other hand steadies the counter, hairband slipping off one side and lipstick smudged from the sudden intake of breath.\"\nThis has cause (tipped coffee cup), consequence (droplets suspended, shirt damp? maybe not visible). Need strategic censorship: forearm across midriff censors. Clear interruption: mid-laugh interrupted by splash. Strong animation hook: suspended droplets around arm,",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "length"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 703,
+    "completion_tokens": 1000,
+    "total_tokens": 1703,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1000
+    }
+  },
+  "stats": {
+    "total_draft_tokens_count": 356,
+    "accepted_draft_tokens_count": 322,
+    "rejected_draft_tokens_count": 34
+  },
+  "system_fingerprint": "qwen3.8-27b-uncensored"
+}

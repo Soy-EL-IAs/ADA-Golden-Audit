@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen/qwen3-vl-8b",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"identity\": 10,\n  \"anatomy\": 10,\n  \"prompt_adherence\": 10,\n  \"composition\": 10,\n  \"visual_quality\": 10\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3421,
+    "total_output_tokens": 47,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 106.99106966029198,
+    "time_to_first_token_seconds": 1.449087
+  }
+}

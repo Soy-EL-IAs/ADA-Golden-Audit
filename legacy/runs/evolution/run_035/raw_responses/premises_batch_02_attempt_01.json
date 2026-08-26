@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "[\n  {\n    \"id\": \"e035_b02_closeup\",\n    \"category\": \"closeup\",\n    \"premise\": \"2B's black glove is stained with a smear of thick, viscous green oil from a ruptured coolant line she has just wiped against her thigh, causing the fabric of her dress to darken slightly as she frowns in focused concentration at the grime on her knuckles.\"\n  },\n  {\n    \"id\": \"e035_b02_medium\",\n    \"category\": \"medium\",\n    \"premise\": \"2B twists her torso sharply to the left, pulling her right arm back as a loose cable snaps taut and whips past her ear, causing the puffy feather-trimmed sleeve on that side to stretch tight against her bicep while her hairband resists the pull of her short white hair.\"\n  },\n  {\n    \"id\": \"e035_b02_fullbody\",\n    \"category\": \"fullbody\",\n    \"premise\": \"2B crouches low to slide under a low-hanging, sparking electrical conduit, her thighs compressed against the tight fit of her stockings and the hem of her dress riding up slightly as she maintains a steady gaze forward to gauge the clearance for her next step.\"\n  },\n  {\n    \"id\": \"e035_b02_dynamic\",\n    \"category\": \"dynamic\",\n    \"premise\": \"2B vaults over a jagged shard of broken glass, her body airborne and legs tucked tightly to avoid the debris below, with her black dress hem flaring upward from the upward momentum of the jump and her boots pointing toward the landing zone ahead.\"\n  },\n  {\n    \"id\": \"e035_b02_cinematic\",\n    \"category\": \"cinematic\",\n    \"premise\": \"2B hangs by one hand from a massive, rusted crane hook swinging violently in a crosswind, her body dangling parallel to the ground as she waits for the momentum to reverse before pulling herself up onto the steel beam above.\"\n  }\n]"
+    }
+  ],
+  "stats": {
+    "input_tokens": 3411,
+    "total_output_tokens": 461,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 10.067006739325999,
+    "time_to_first_token_seconds": 4.015748
+  }
+}

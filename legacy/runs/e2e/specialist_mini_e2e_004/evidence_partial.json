@@ -1,0 +1,54 @@
+{
+  "results": [],
+  "model_events": [
+    {
+      "event": "load",
+      "agent": "premise",
+      "seconds": 6.302,
+      "role": "premise_agent"
+    },
+    {
+      "event": "load",
+      "agent": "illustrious",
+      "seconds": 0.0,
+      "role": "illustrious_agent"
+    }
+  ],
+  "comfy_events": [],
+  "failed_image": 1,
+  "error": {
+    "type": "ValueError",
+    "message": "LM Studio returned no valid illustrious_output_v1 JSON after native and OpenAI fallback: illustrious_output_v1 is missing required fields: illustrious_prompt; Expecting value: line 1 column 1 (char 0)"
+  },
+  "last_state": {
+    "schema_version": 1,
+    "run_id": "mini_01",
+    "pipeline": "specialist_image_v1",
+    "character": "2B",
+    "version": "NieR:Automata",
+    "review_policy": "strict",
+    "stage": "PREMISES_READY",
+    "created_at": "2026-08-22T16:29:23.997731+00:00",
+    "updated_at": "2026-08-22T16:29:50.247589+00:00",
+    "seeds": {
+      "2b_mini_01": {
+        "illustrious": 1179110270712782956,
+        "klein": 1565031597524680750
+      }
+    },
+    "artifacts": {
+      "premise_spec": "premise_spec.json"
+    },
+    "history": [
+      {
+        "stage": "CREATED",
+        "at": "2026-08-22T16:29:23.997731+00:00"
+      },
+      {
+        "stage": "PREMISES_READY",
+        "at": "2026-08-22T16:29:50.247589+00:00"
+      }
+    ],
+    "error": null
+  }
+}

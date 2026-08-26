@@ -1,0 +1,16 @@
+{
+  "model_instance_id": "qwen3.8-27b-uncensored",
+  "output": [
+    {
+      "type": "message",
+      "content": "{\n  \"category\": \"strategic_censorship\",\n  \"premise\": \"Faye Valentine stands in a dimly lit office, her expression one of sharp indignation as she holds up a torn piece of paper. A large, bright red 'CENSORED' stamp is visible on the document, which she has just ripped from a bureaucratic's hand. Her other hand rests on her hip, accentuating her posture, while her gaze locks onto an unseen authority figure off-frame. The scene captures the exact moment of interruption where the official record is physically disrupted by her personal frustration.\",\n  \"identity_elements\": [\n    \"purple_hair\",\n    \"short_hair\",\n    \"green_eyes\",\n    \"large_breasts\"\n  ],\n  \"canonical_outfit\": [\n    \"hairband\",\n    \"shorts\",\n    \"lipstick\",\n    \"thighhighs\",\n    \"shirt\",\n    \"bare_shoulders\",\n    \"crop_top\",\n    \"boots\"\n  ],\n  \"scene_requirements\": [\n    \"holding_torn_paper\",\n    \"red_censored_stamp_visible_on_document\",\n    \"indignant_expression\",\n    \"hand_on_hip_pose\",\n    \"dim_office_lighting\"\n  ],\n  \"risk_notes\": [\n    \"Ensure the 'CENSORED' stamp is legible to establish the cause of interruption.\",\n    \"Keep the torn paper clearly in hand to show the consequence of the action.\",\n    \"Maintain focus on facial expression and body language rather than background details.\"\n  ]\n}"
+    }
+  ],
+  "stats": {
+    "input_tokens": 663,
+    "total_output_tokens": 343,
+    "reasoning_output_tokens": 0,
+    "tokens_per_second": 9.805734393473305,
+    "time_to_first_token_seconds": 0.320357
+  }
+}

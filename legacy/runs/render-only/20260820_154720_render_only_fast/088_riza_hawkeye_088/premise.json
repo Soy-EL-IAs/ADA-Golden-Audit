@@ -1,0 +1,34 @@
+{
+  "id": "riza_hawkeye_088",
+  "character": "Riza Hawkeye",
+  "franchise": "Fullmetal Alchemist",
+  "identity": [
+    "blonde hair pinned up",
+    "blue fitted military uniform",
+    "holstered sidearm and black boots"
+  ],
+  "sexual_direction": [
+    "voluptuous athletic figure",
+    "fitted clothing",
+    "sensual"
+  ],
+  "premise": "Inside an empty shooting range, she reaches for ear protection and a spring-loaded target resets unexpectedly, sending a harmless paper silhouette flapping toward her lane, with confident sensual body language throughout.",
+  "must_include": [
+    "spring-loaded paper target",
+    "ear protection"
+  ],
+  "environment": [
+    "indoor range",
+    "flat overhead lighting",
+    "lane dividers and target rails"
+  ],
+  "animation_hook": "She catches the paper target against the divider, clips it back on, and calmly resumes her stance.",
+  "avoid": [
+    "identity drift or missing signature outfit",
+    "gore",
+    "multiple women"
+  ],
+  "krea_direction": "high-end realistic 3D game cinematic with lighting appropriate to the scene",
+  "seed_base": 1000087,
+  "krea_seed_base": 2000087
+}
