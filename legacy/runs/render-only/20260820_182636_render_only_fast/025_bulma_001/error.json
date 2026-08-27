@@ -1,6 +1,0 @@
-{
-  "sequence": 25,
-  "premise_id": "bulma_001",
-  "error": "ComfyUI execution failed: {\n  \"status_str\": \"error\",\n  \"completed\": false,\n  \"messages\": [\n    [\n      \"execution_start\",\n      {\n        \"prompt_id\": \"ff32bfca-66e0-4090-8251-9856c0690566\",\n        \"timestamp\": 1787262603242\n      }\n    ],\n    [\n      \"execution_cached\",\n      {\n        \"nodes\": [],\n        \"prompt_id\": \"ff32bfca-66e0-4090-8251-9856c0690566\",\n        \"timestamp\": 1787262603267\n      }\n    ],\n    [\n      \"execution_interrupted\",\n      {\n        \"prompt_id\": \"ff32bfca-66e0-4090-8251-9856c0690566\",\n        \"node_id\": \"10\",\n        \"node_type\": \"KSampler\",\n        \"executed\": [\n          \"1\",\n          \"7\",\n          \"8\",\n          \"4\",\n          \"9\",\n          \"5\",\n          \"2\",\n          \"6\",\n          \"3\"\n        ],\n        \"timestamp\": 1787262631893\n      }\n    ]\n  ]\n}",
-  "recorded_at": "2026-08-20T18:50:33.287934-03:00"
-}

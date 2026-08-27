@@ -1,9 +1,0 @@
-{
-  "id": "2b_balanced_v1_cinematic_001",
-  "illustrious_prompt": "2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, thigh_boots, hairband, clothing_cutout, gloves, puffy_sleeves, long_sleeves, leotard, juliet_sleeves, black_gloves, feather-trimmed_sleeves, 1girl, profile view, dimly lit industrial corridor, heavy foreground occlusion from rusted pipes, shifting amber emergency lighting, reaching for control panel, sudden hydraulic hiss, high-pressure steam jet erupting from ruptured valve directly behind left shoulder, sharp defensive turn, light catching on blindfold, tension in posture, opaque black fabric blindfold covering eyes completely, distinct white scalding steam plume separate from smoke or fog, visible industrial machinery and pipes in background",
-  "resolved_risks": [
-    "Ensure the blindfold remains opaque to maintain identity mystery and prevent eye visibility ambiguity.",
-    "Keep the steam jet distinct from smoke or fog to clearly indicate the causal interruption source.",
-    "Maintain the industrial setting with visible machinery to avoid generic background confusion."
-  ]
-}

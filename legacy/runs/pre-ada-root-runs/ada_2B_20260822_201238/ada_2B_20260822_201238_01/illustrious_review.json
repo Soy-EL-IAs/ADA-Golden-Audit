@@ -1,8 +1,0 @@
-{
-  "id": "2b_ada_2B_20260822_201238_01",
-  "stage": "illustrious",
-  "verdict": "PASS",
-  "defects": [],
-  "drift": [],
-  "summary": "The image successfully captures 2B's frozen moment with all critical identity elements and scene requirements visibly correct. The blindfold is askew, revealing one shocked eye. The dress is torn to expose the midriff, and she holds a data tablet (though the tablet is not clearly visible in the frame). The sterile white background is present. Minor rendering artifacts are present but do not constitute structural failures. No RETRY_ILLUSTRIOUS conditions are met."
-}

@@ -1,7 +1,0 @@
-{
-  "run": 24,
-  "failed_at": "2026-08-22T07:43:57.405986+00:00",
-  "exception_type": "RuntimeError",
-  "message": "analysis failed after 3 attempts: attempt 1: ValueError: Response contains invalid JSON: Expecting ',' delimiter: line 198 column 26 (char 7578) | attempt 2: ValueError: per_premise must contain exactly 20 rows | attempt 3: ValueError: Response contains invalid JSON: Unterminated string starting at: line 209 column 9 (char 7675)",
-  "traceback": "Traceback (most recent call last):\n  File \"D:\\IA\\Ada\\scripts\\ada_evolution_runner.py\", line 910, in run_one_cycle\n    analysis = client.generate_json(\n               ^^^^^^^^^^^^^^^^^^^^^\n  File \"D:\\IA\\Ada\\scripts\\ada_evolution_runner.py\", line 337, in generate_json\n    return self.generate_text(\n           ^^^^^^^^^^^^^^^^^^^\n  File \"D:\\IA\\Ada\\scripts\\ada_evolution_runner.py\", line 322, in generate_text\n    raise RuntimeError(f\"{artifact_name} failed after {self.retries + 1} attempts: {' | '.join(errors)}\")\nRuntimeError: analysis failed after 3 attempts: attempt 1: ValueError: Response contains invalid JSON: Expecting ',' delimiter: line 198 column 26 (char 7578) | attempt 2: ValueError: per_premise must contain exactly 20 rows | attempt 3: ValueError: Response contains invalid JSON: Unterminated string starting at: line 209 column 9 (char 7675)\n"
-}

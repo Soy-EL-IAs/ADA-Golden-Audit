@@ -1,9 +1,0 @@
-{
-  "id": "2b_mini_01",
-  "illustrious_prompt": "2b_(nier:automata), short_hair, white_hair, blindfold, black_dress, leotard, thigh_boots, gloves, puffy_sleeves, long_sleeves, juliet_sleeves, feather-trimmed_sleeves, clothing_cutout, dimly_lit_command_center, rigid_posture, holding_glowing_data_tablet_at_chest_height, obscuring_lower_half_of_dress, sudden_burst_of_static_from_nearby_terminal, flinching, dropping_tablet, shattered_tablet_on_floor, revealing_full_silhouette_of_leotard_and_thighhighs, strategic_censorship, visible_shards, glowing_screen_light",
-  "resolved_risks": [
-    "Ensure the blindfold remains intact to maintain identity despite the flinch.",
-    "The dropped tablet must be clearly visible on the floor to establish the cause of the interruption.",
-    "Keep the reveal focused on the clothing silhouette rather than skin exposure to maintain restraint."
-  ]
-}

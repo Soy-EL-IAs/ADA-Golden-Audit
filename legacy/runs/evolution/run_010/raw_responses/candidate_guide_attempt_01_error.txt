@@ -1,1 +1,0 @@
-attempt 1: ValueError: Candidate guide is missing required concepts: ['closeup', 'fullbody']
